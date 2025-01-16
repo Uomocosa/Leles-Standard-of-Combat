@@ -1,0 +1,1 @@
+- Everything can be used as a weapon, but if it was not meant to be, it will be considered as an ***improvised weapon*** and its damage will be `1`.

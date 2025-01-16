@@ -1,0 +1,2 @@
+- All the cards that describe your character, all spells he has learned, armor, weapon, gears, etc.
+- A deck is divided in: [[Active Deck]], [[State Deck]], [[Inventory]] and [[Discard Pile]].

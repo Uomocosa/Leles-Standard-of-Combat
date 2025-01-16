@@ -1,0 +1,15 @@
+---
+aliases:
+  - Lasting
+---
+- ***Image***:<br>![[Pasted image 20250102220759.png|100]]
+- ***Info***: Rune - Lasting 
+- ***Cost***: 15 
+- ***Description***:<br>Make a spell’s output permanent, with **GM** approval.
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: artifact 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Lasting.png]]

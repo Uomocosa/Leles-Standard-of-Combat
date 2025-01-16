@@ -1,0 +1,15 @@
+---
+aliases:
+  - Purify
+---
+- ***Image***:<br>![[SoC • Spell - Purify (Image).png|222]]
+- ***Info***: [[Basic Spells|Basic Spell]] - Action 
+- ***Cost***: 3 
+- ***Description***:<br>Free a target of **1** of its afflictions. 
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: white 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Purify.png]]

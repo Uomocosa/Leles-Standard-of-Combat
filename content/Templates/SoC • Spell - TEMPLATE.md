@@ -1,0 +1,11 @@
+---
+aliases:
+  - Set Name Here
+---
+- ***Image***:<br>![[SoC • Spell - Magic Armor (Image).png|222]]
+- ***Info***: Spell - Action 
+- ***Cost***: 6 
+- ***Description***:<br>Effect of the Spell. 
+- ***Effects***: [[SoC • Basic Spell - Mage's Armor|Mage's Armor]], [[SoC • Rune - Powerful|Powerful-2]]
+- ***Limitations***: [[SoC • Spell Limitiation - Maddening|Maddening]]
+- ***Color***: red 

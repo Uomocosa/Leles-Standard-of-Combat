@@ -1,0 +1,1 @@
+<br>_Maddening_ — When you cast this spell roll an [[Arcane]] [[Skill Check]] with [[Skills|DC]] **15**, if you fail take the [[SoC • Flaw - Crazy|Crazy]] flaw untill your next [[Rest & Recovery|rest]].<br>

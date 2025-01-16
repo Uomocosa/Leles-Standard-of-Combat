@@ -1,0 +1,17 @@
+---
+aliases:
+  - Telepathy
+  - Telepathy-2
+  - Telepathy-3
+---
+- ***Image***:<br>![[Pasted image 20250102220606.png|100]]
+- ***Info***: Rune - Telepathy 
+- ***Cost***: 3 
+- ***Description***:<br>Choose [[Arcane]], [[Faith]] or [[Nature]] when you add this Effect. You try to read the mind of target creature, roll the choosen [[Skill Check]] against a [[Skills|DC]] that is equal to **15 + the [[Will]] [[Skills|Modifier]] of that creature**, otherwise you can use this effect to send a message to a willing creature, or excange a few word telepathically, if used like this, it does not require a [[Skill Check]].<br>If you stack this effect you can reduce the [[Skills|DC (Difficulty Class)]] by **5**. 
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: blue 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Telepathy.png]]

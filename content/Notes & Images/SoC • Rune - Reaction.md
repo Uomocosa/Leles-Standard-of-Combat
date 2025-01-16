@@ -1,0 +1,17 @@
+---
+aliases:
+  - Reaction
+  - Reaction-2
+  - Reaction-3
+---
+- ***Image***:<br>![[Pasted image 20250102220744.png|100]]
+- ***Info***: Rune - Reaction 
+- ***Cost***: 3 
+- ***Description***:<br>You become really fast at casting the spell during specific situations, define a **Trigger**, you can prepare this spell and then cast it when the trigger is met, even during another creature turn.<br>If you stack this effect **you'll no longer need the spell prepared, but the first time the trigger is met, the spell is automatically cast**, and again to: **remove the trigger, and you can choose to cast the spell whenever you want**. 
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: red 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Reaction.png]]

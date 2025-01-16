@@ -1,0 +1,15 @@
+---
+aliases:
+  - Painful
+---
+- ***Image***:<br>![[Pasted image 20250112233123.png|100]]
+- ***Info***: Limitation - Painful
+- ***Cost***:  
+- ***Description***:<br>Sustain **2** damages with each cast.
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: blue 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Painful.png]]

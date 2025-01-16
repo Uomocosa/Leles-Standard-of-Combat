@@ -1,0 +1,15 @@
+---
+aliases:
+  - Chained
+---
+- ***Image***:<br>![[Pasted image 20250113133542.png|100]]
+- ***Info***: Effect - Chained
+- ***Cost***: 3
+- ***Description***:<br>You cannot lose or be robbed of this **gear**. 
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: artifact 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Chained.png]]

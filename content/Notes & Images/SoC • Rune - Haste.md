@@ -1,0 +1,17 @@
+---
+aliases:
+  - Haste
+  - Haste-2
+  - Haste-3
+---
+- ***Image***:<br>![[Pasted image 20250102222008.png|100]]
+- ***Info***: Rune - Haste 
+- ***Cost***: 3 
+- ***Description***:<br>Run, swim or climb (choose on cast) twice as you normally could. 
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: red 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Haste.png]]

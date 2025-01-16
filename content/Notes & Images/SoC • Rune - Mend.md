@@ -1,0 +1,17 @@
+---
+aliases:
+  - Mend
+  - Mend-2
+  - Mend-3
+---
+- ***Image***:<br>![[Pasted image 20250102221958.png|100]]
+- ***Info***: Rune - Mend 
+- ***Cost***: 3 
+- ***Description***:<br>[[Healing and Repair|Repair]] a weapon, item, or piece of armor, it regains **1** of its [[Health|health-blocks]].
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: white 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Mend.png]]

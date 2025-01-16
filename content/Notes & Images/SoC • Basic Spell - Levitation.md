@@ -1,0 +1,15 @@
+---
+aliases:
+  - Levitation
+---
+- ***Image***:<br>![[SoC • Spell - Levitation (Image).png|222]]
+- ***Info***: [[Basic Spells|Basic Spell]] - Action 
+- ***Cost***: 3 
+- ***Description***:<br>Hover up to **3m** above ground. 
+- ***Effects***: [[SoC • Rune - Levitate|Levitate]]
+- ***Limitations***: 
+- ***Color***: blue 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Levitation.png]]

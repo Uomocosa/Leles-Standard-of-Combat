@@ -1,0 +1,17 @@
+---
+aliases:
+  - Detect
+  - Detect-2
+  - Detect-3
+---
+- ***Image***:<br>![[Pasted image 20250102221858.png|100]]
+- ***Info***: Rune - Detect  
+- ***Cost***: 3 
+- ***Description***:<br>Detect a specific object. 
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: white
+
+
+----
+- ***Card***:<br>![[SoC • Card - Detect.png]]

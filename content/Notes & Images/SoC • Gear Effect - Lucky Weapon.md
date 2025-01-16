@@ -1,0 +1,15 @@
+---
+aliases:
+  - Lucky weapon
+---
+- ***Image***:<br>![[Pasted image 20250113133427.png|100]]
+- ***Info***: Effect - Lucky Weapon
+- ***Cost***: 3
+- ***Description***:<br>Even if you roll a **19** (on the **d20**) in an [[Combat Damage|Attack Roll]] made with this weapon, it still counts as a [[The Extremes|critical success]]. 
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: artifact 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Lucky Weapon.png]]

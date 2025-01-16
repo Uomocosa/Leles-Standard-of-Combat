@@ -1,0 +1,15 @@
+---
+aliases:
+  - Druid
+---
+- ***Image***:<br>![[SoC • Core Ability - Druid (Image).png|222]]
+- ***Info***: Core Ability
+- ***Cost***: 20
+- ***Description***:<br>Master of wilderness. Gain **5 points** in the [[Nature]], [[Perception]], [[Stealth]] skills for free. When outdoors, gain **+1** on all [[Skills|Skill Modifiers]].<br>You can [[SoC • Rune - Shapechange|Shapechange]] as an [[SoC • Spell Limitiation - Exhausting|Exhausting Spell]].
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: green 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Druid.png]]

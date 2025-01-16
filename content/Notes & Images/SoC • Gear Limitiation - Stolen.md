@@ -1,0 +1,15 @@
+---
+aliases:
+  - Stolen
+---
+- ***Image***:<br>![[Pasted image 20250112233433.png|100]]
+- ***Info***: Limitation - Stolen
+- ***Cost***:  
+- ***Description***:<br>The owner of this gear, or forces of law, will hunt you down. 
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: black 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Stolen.png]]

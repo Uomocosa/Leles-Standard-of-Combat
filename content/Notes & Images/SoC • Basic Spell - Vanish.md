@@ -1,0 +1,15 @@
+---
+aliases:
+  - Vanish
+---
+- ***Image***:<br>![[SoC • Spell - Vanish (Image).png|222]]
+- ***Info***: [[Basic Spells|Basic Spell]] - Action 
+- ***Cost***: 6 
+- ***Description***:<br>Become invisible. Only a [[SoC • Rune - Detect|Detect]] spell can reveal your location, or a really high [[Skill Check|check]] in [[Perception]] ([[Skills|DC]]: **30**)
+- ***Effects***: [[SoC • Rune - Obscure|Obscure-2]]
+- ***Limitations***: 
+- ***Color***: black 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Vanish.png]]

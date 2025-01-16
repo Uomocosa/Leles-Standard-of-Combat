@@ -1,0 +1,17 @@
+---
+aliases:
+  - Animate
+  - Animate-2
+  - Animate-3
+---
+- ***Image***:<br>![[Pasted image 20250102221143.png|100]]
+- ***Info***: Rune - Animate 
+- ***Cost***: 3 
+- ***Description***:<br>Use objects as puppets, 1d6 of them per cast. 
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: black 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Animate.png]]

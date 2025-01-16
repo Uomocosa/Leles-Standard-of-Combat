@@ -1,0 +1,17 @@
+---
+aliases:
+  - Plated
+  - Plated-2
+  - Plated-3
+---
+- ***Image***:<br>![[Pasted image 20250113133524.png|100]]
+- ***Info***: Effect - Plated
+- ***Cost***: 3
+- ***Description***:<br>Add an addition [[Health|health-block]] with a value of **3**.<br>You can add this **Effect** up to **3** times on a single [[Custom Equipment|Gear]]. 
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: artifact 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Plated.png]]

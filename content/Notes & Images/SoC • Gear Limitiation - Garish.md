@@ -1,0 +1,15 @@
+---
+aliases:
+  - Garish
+---
+- ***Image***:<br>![[Pasted image 20250112233343.png|100]]
+- ***Info***: Limitation - Garish
+- ***Cost***:  
+- ***Description***:<br>The appearance with this gear is over the top, ugly, or off-putting to most. This will draw enemy ire, embarrass you, or embolden foes. 
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: green 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Garish.png]]

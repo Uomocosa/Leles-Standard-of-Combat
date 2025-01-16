@@ -1,0 +1,15 @@
+---
+aliases:
+  - Cannot be customized
+---
+- ***Image***:<br>![[Pasted image 20250112233211.png|100]]
+- ***Info***: Limitation - Cannot be customized
+- ***Cost***:  
+- ***Description***:<br>This spell is minimalistic, only available in its first-learned form, never to be changed.
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: blue 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Cannot be Customized.png]]

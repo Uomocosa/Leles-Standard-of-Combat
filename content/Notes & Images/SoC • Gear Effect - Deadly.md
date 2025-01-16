@@ -1,0 +1,15 @@
+---
+aliases:
+  - Deadly
+---
+- ***Image***:<br>![[Pasted image 20250113133418.png|100]]
+- ***Info***: Effect - Deadly
+- ***Cost***: 3
+- ***Description***:<br>Add an additional **1d4** to the [[damage dieces|damage dieces]] of the weapon. 
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: artifact 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Deadly.png]]

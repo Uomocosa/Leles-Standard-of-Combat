@@ -1,0 +1,13 @@
+---
+aliases:
+  - Bandage Kit
+---
+- ***Image***:<br>![[SoC • Item - Bandage Kit (Image).png|222]]
+- ***Info***: Item
+- ***Cost***: 3 
+- ***Description***:<br>3 counts, grants **+5** to [[Medicine|Medicine (Heal)]] [[Skill Check|checks]].
+- ***Color***: white 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Bandage Kit.png]]

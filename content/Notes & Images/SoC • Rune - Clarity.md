@@ -1,0 +1,17 @@
+---
+aliases:
+  - Clarity
+  - Clarity-2
+  - Clarity-3
+---
+- ***Image***:<br>![[Pasted image 20250102221430.png|100]]
+- ***Info***: Rune - Clarity 
+- ***Cost***: 3 
+- ***Description***:<br>Ignore [[SoC • Rune - Dominate|Dominate]], [[SoC • Rune - Illusions|Illusions]], [[SoC • Rune - Obscure|Obscure]] or [[SoC • Rune - Telepathy|Telepathy]] effects being cast upon you. 
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: white
+
+
+----
+- ***Card***:<br>![[SoC • Card - Clarity.png]]

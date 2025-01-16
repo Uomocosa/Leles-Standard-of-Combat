@@ -1,0 +1,13 @@
+---
+aliases:
+  - Wood Shield
+---
+- ***Image***:<br>![[SoC • Shield - Wood Shield (Image).png|222]]
+- ***Info***: Shield
+- ***Cost***: 3 
+- ***Description***:<br>Health — **3**<br>Bonus AC — **+1**
+- ***Color***: Artifact 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Wood Shield.png]]

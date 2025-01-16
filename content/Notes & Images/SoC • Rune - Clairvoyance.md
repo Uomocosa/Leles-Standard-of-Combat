@@ -1,0 +1,17 @@
+---
+aliases:
+  - Clairvoyance
+  - Clairvoyance-2
+  - Clairvoyance-3
+---
+- ***Image***:<br>![[Pasted image 20250102221626.png|100]]
+- ***Info***: Rune - Clairvoyance 
+- ***Cost***: 3 
+- ***Description***:<br>Affect unseen target(s) with rolled effect **× 3m** distance.
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: white 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Clairvoyance.png]]

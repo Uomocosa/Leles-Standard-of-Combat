@@ -1,0 +1,13 @@
+---
+aliases:
+  - Diving Gear
+---
+- ***Image***:<br>![[SoC • Item - Diving Gear (Image).png|222]]
+- ***Info***: Item
+- ***Cost***: 1 
+- ***Description***:<br>2 dive helms, spearguns, fins, marker buoy.
+- ***Color***: blue 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Diving Gear.png]]

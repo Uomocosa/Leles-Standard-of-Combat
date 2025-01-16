@@ -1,0 +1,17 @@
+---
+aliases:
+  - Upgrade
+  - Upgrade-2
+  - Upgrade-3
+---
+- ***Image***:<br>![[Pasted image 20250102221159.png|100]]
+- ***Info***: Rune - Upgrade 
+- ***Cost***: 3 
+- ***Description***:<br>Increase one of the dices used by this spell by **1** [[Dice Grades|grade]].<br>_[[Dice Grades]]_ —<br>***1*** ➜ ***d4*** ➜ ***d6*** ➜ ***d8*** ➜ ***d10*** ➜ ***d12***.
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: white 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Upgrade.png]]

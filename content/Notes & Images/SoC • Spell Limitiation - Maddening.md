@@ -1,0 +1,15 @@
+---
+aliases:
+  - Maddening
+---
+- ***Image***:<br>![[Pasted image 20250112233725.png|100]]
+- ***Info***: Limitation - Maddening
+- ***Cost***:  
+- ***Description***:<br>Choose [[Arcane]], [[Faith]] or [[Nature]] when this Limitation is added. Each time this spell is cast,  make a [[Skill Check]] with the choosen skill, against a [[Skills|DC]] of **15**. On failure, take the [[SoC • Flaw - Crazy|Crazy]] flaw until your next [[Rest & Recovery|rest]]. 
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: blue 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Maddening.png]]

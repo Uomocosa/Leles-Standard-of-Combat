@@ -1,0 +1,15 @@
+---
+aliases:
+  - Concealed
+---
+- ***Image***:<br>![[Pasted image 20250113133532.png|100]]
+- ***Info***: Effect - Concealed
+- ***Cost***: 3
+- ***Description***:<br>This gear incurs no unwanted attention or clumsiness, and is more easy to hide. 
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: artifact 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Concealed.png]]

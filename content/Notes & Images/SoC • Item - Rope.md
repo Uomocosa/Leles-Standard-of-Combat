@@ -1,0 +1,13 @@
+---
+aliases:
+  - Rope
+---
+- ***Image***:<br>![[SoC • Item - Rope (Image).png|222]]
+- ***Info***: Item
+- ***Cost***: 1 
+- ***Description***:<br>125cm length, breaks on crit fail usage.
+- ***Color***: artifact 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Rope.png]]

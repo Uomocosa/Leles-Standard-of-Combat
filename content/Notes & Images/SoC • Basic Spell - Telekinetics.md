@@ -1,0 +1,15 @@
+---
+aliases:
+  - Telekinetics
+---
+- ***Image***:<br>![[SoC • Spell - Telekinetics (Image).jpeg|222]]
+- ***Info***: [[Basic Spells|Basic Spell]] - Action 
+- ***Cost***: 3 
+- ***Description***:<br>Move small objects in your immediate area. 
+- ***Effects***: [[SoC • Rune - Psychokinesis|Psychokinesis]]
+- ***Limitations***: 
+- ***Color***: blue 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Telekinetics.png]]

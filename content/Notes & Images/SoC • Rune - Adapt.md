@@ -1,0 +1,17 @@
+---
+aliases:
+  - Adapt
+  - Adapt-2
+  - Adapt-3
+---
+- ***Image***:<br>![[Pasted image 20250102220940.png|100]]
+- ***Info***: Rune - Adapt 
+- ***Cost***: 3 
+- ***Description***:<br>Your body changes and allows you to easily adapt to a specific enviroment, define which when you add this effect. 
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: green 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Adapt.png]]

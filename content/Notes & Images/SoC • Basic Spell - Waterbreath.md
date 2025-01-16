@@ -1,0 +1,15 @@
+---
+aliases:
+  - Waterbreath
+---
+- ***Image***:<br>![[SoC • Spell - Waterbreath (Image).png|222]]
+- ***Info***: [[Basic Spells|Basic Spell]] - Action 
+- ***Cost***: 3 
+- ***Description***:<br>Breathe underwater with ease. 
+- ***Effects***: [[SoC • Rune - Adapt|Adapt]]
+- ***Limitations***: 
+- ***Color***: blue 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Waterbreath.png]]
