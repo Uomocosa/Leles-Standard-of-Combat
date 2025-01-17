@@ -9,6 +9,8 @@ aliases:
 - ***Effects***: [[SoC • Rune - Duration|Duration]], [[SoC • Basic Spell - Invisible Wall|Invisible Wall]]
 - ***Limitations***: [[SoC • Spell Limitiation - Maddening|Maddening]]
 - ***Color***: artifact 
+----
+- ***Card***:![[SoC • Card - Delirious Invisible Wall.png|550]]
 
 ----
-- ***Card***:<br>![[SoC • Card - Delirious Invisible Wall.png]]
+- ***Card***:<br>![[SoC • Card - Delirious Invisible Wall.png|550]]

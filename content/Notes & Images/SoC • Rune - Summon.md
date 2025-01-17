@@ -11,7 +11,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: black 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Summon.png]]
+- ***Card***:<br>![[SoC • Card - Summon.png|550]]

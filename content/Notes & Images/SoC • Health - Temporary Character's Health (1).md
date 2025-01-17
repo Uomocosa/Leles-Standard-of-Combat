@@ -8,8 +8,7 @@ aliases:
 
 
 ----
-- ***Card***:<br>![[SoC • Card - Temporary Character's Health (1).png]]
-
+- ***Card***:<br>![[SoC • Card - Temporary Characters Health (1).png]]
 
 ----
-- ***Card***:<br>![[SoC • Card - Temporary Characters Health (1).png]]
+- ***Card***:<br>![[SoC • Card - Temporary Characters Health (1).png|275]]

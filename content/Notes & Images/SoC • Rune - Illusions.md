@@ -12,7 +12,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Illusions.png]]
+- ***Card***:<br>![[SoC • Card - Illusions.png|550]]

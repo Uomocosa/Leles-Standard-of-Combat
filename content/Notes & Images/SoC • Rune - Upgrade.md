@@ -11,7 +11,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: white 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Upgrade.png]]
+- ***Card***:<br>![[SoC • Card - Upgrade.png|550]]

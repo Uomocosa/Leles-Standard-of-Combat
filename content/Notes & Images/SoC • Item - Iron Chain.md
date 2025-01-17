@@ -7,7 +7,5 @@ aliases:
 - ***Cost***: 1 
 - ***Description***:<br>40cm length, all but unbreakable.
 - ***Color***: artifact 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Iron Chain.png]]
+- ***Card***:<br>![[SoC • Card - Iron Chain.png|550]]

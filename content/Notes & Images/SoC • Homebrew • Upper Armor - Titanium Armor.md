@@ -9,7 +9,5 @@ aliases:
 - ***Effects***: [[SoC • Upper Armor - Chest Plate|Chest Plate]], [[SoC • Gear Effect - Cold Forged|Cold Forged]], [[SoC • Gear Effect - Plated|Plated-3]]
 - ***Limitations***: 
 - ***Color***: artifact 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Titanium Armor.png]]
+- ***Card***:<br>![[SoC • Card - Titanium Armor.png|550]]

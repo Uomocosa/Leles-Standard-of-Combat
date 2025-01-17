@@ -7,7 +7,5 @@ aliases:
 - ***Cost***: 3 
 - ***Description***:<br>Health — **2**, **2**, **2**<br>Damage — **1d8**<br>Uses 2 hands.<br>[[Ranged]] (**3m**). Can be thrown (**18m**), when you do so you can use [[Dexterity]] for the [[Combat Damage|Attack Roll]], or [[Force]] as usual. 
 - ***Color***: Artifact 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Spear.png]]
+- ***Card***:<br>![[SoC • Card - Spear.png|550]]

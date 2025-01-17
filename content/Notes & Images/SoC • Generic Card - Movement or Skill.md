@@ -9,8 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: multicolor 
-
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Movement or Skill.png]]
+- ***Card***:<br>![[SoC • Card - Movement or Skill.png|550]]

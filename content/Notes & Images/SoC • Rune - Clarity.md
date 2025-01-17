@@ -11,7 +11,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: white
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Clarity.png]]
+- ***Card***:<br>![[SoC • Card - Clarity.png|550]]

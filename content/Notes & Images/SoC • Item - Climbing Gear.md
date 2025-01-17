@@ -7,7 +7,5 @@ aliases:
 - ***Cost***: 1 
 - ***Description***:<br>Grants bonuses when climbing.
 - ***Color***: artifact 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Climbing Gear.png]]
+- ***Card***:<br>![[SoC • Card - Climbing Gear.png|550]]

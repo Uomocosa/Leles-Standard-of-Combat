@@ -11,7 +11,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: white 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Restore.png]]
+- ***Card***:<br>![[SoC • Card - Restore.png|550]]

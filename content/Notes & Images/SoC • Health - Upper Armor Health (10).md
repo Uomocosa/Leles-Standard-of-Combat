@@ -6,6 +6,5 @@ aliases:
 - ***Info***: Upper Armor Health
 - ***Color***: armor health 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Upper Armor Health (10).png]]
+- ***Card***:<br>![[SoC • Card - Upper Armor Health (10).png|275]]

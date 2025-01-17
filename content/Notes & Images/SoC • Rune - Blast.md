@@ -11,7 +11,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: red 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Blast.png]]
+- ***Card***:<br>![[SoC • Card - Blast.png|550]]

@@ -11,6 +11,8 @@ aliases:
 - ***Color***: artifact
 - ***Note***: Before being actually cast, this spell requires **5** [[Arcane]] [[Skill Check|Skill Checks]] made by you, your party might hate you if you take this spell. Continue at your own risk.
 - _**Prompt** [ChatGPT](https://chatgpt.com/?model=auto)_: I need a 2D minimalistic fantasy illustration, in a minimal graphic style with white and black color, and a clean white background. It represents the spell: ***Erratic Wall***. It has the following effect: _Ritual_, _Maddening_, _Unstable_<br>_Movable Force Field_ — A **50cm** wide force field with **15** [[Enemy Primer|HP]] and **no** [[Armor Class (AC)|AC]], you can move it at will as part of one of your actions, it can move at most **6m** per [[Phases of Combat|round]]. It lasts for **1 minute***. Add the words "***Erratic Wall***" under the image in a stylish font, they must be clearely visible.
+----
+- ***Card***:![[SoC • Card - Erratic Wall.png|550]]
 
 ----
-- ***Card***:<br>![[SoC • Card - Erratic Wall.png]]
+- ***Card***:<br>![[SoC • Card - Erratic Wall.png|550]]

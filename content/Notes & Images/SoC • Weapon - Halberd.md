@@ -7,7 +7,5 @@ aliases:
 - ***Cost***: 4 
 - ***Description***:<br>Health — **2**, **2**<br>Damage — **1d10**<br>If you deal **10 or more** damage with this weapon, [[slow]] the target for **2 rounds**.
 - ***Color***: Artifact 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Halberd.png]]
+- ***Card***:<br>![[SoC • Card - Halberd.png|550]]

@@ -7,7 +7,5 @@ aliases:
 - ***Cost***: 15 
 - ***Description***:<br>Holds 4 people, barely seaworthy, sneaky.
 - ***Color***: Artifact 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Small Boat.png]]
+- ***Card***:<br>![[SoC • Card - Small Boat.png|550]]

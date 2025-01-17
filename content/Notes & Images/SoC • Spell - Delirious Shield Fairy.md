@@ -9,7 +9,5 @@ aliases:
 - ***Effects***: [[SoC • Rune - Duration|Duration]], [[SoC • Rune - Summon|Summon-2]]
 - ***Limitations***: [[SoC • Spell Limitiation - Maddening|Maddening]]
 - ***Color***: blue 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Delirious Shield Fairy.png]]
+- ***Card***:<br>![[SoC • Card - Delirious Shield Fairy.png|550]]

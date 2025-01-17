@@ -11,7 +11,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: artifact 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Create.png]]
+- ***Card***:<br>![[SoC • Card - Create.png|550]]

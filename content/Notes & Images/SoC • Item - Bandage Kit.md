@@ -7,7 +7,5 @@ aliases:
 - ***Cost***: 3 
 - ***Description***:<br>3 counts, grants **+5** to [[Medicine|Medicine (Heal)]] [[Skill Check|checks]].
 - ***Color***: white 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Bandage Kit.png]]
+- ***Card***:<br>![[SoC • Card - Bandage Kit.png|550]]

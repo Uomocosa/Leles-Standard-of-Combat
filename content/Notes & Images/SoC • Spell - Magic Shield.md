@@ -9,7 +9,5 @@ aliases:
 - ***Effects***: [[SoC • Basic Spell - Mage's Armor|Mage's Armor]], [[SoC • Rune - Powerful|Powerful]], [[SoC • Rune - Reaction|Reaction]]
 - ***Limitations***: 
 - ***Color***: Blue 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Magic Shield.png]]
+- ***Card***:<br>![[SoC • Card - Magic Shield.png|550]]

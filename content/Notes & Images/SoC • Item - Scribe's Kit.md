@@ -7,7 +7,5 @@ aliases:
 - ***Cost***: 1 
 - ***Description***:<br>Parchment book, charcoal sticks.
 - ***Color***: blue 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Scribes Kit.png]]
+- ***Card***:<br>![[SoC • Card - Scribes Kit.png|550]]

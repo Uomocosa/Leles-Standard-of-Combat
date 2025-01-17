@@ -9,7 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Cost Material to Cast.png]]
+- ***Card***:<br>![[SoC • Card - Cost Material to Cast.png|550]]

@@ -9,7 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Balanced.png]]
+- ***Card***:<br>![[SoC • Card - Balanced.png|550]]

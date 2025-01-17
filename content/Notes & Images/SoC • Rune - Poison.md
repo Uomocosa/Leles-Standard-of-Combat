@@ -11,7 +11,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: green 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Poison.png]]
+- ***Card***:<br>![[SoC • Card - Poison.png|550]]

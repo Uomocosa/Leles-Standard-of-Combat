@@ -9,7 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: black
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Sought After.png]]
+- ***Card***:<br>![[SoC • Card - Sought After.png|550]]

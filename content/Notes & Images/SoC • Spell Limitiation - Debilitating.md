@@ -10,6 +10,8 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 
+----
+- ***Card***:![[SoC • Card - Debilitating.png|550]]
 
 ----
-- ***Card***:<br>![[SoC • Card - Debilitating.png]]
+- ***Card***:<br>![[SoC • Card - Debilitating.png|550]]

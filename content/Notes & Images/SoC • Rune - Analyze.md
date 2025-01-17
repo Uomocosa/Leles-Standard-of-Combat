@@ -11,7 +11,5 @@ aliases:
 - ***Effects***:
 - ***Limitations***: 
 - ***Color***: blue 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Analyze.png]]
+- ***Card***:<br>![[SoC • Card - Analyze.png|550]]

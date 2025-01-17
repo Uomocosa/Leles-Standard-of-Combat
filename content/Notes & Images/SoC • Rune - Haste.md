@@ -11,7 +11,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: red 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Haste.png]]
+- ***Card***:<br>![[SoC • Card - Haste.png|550]]

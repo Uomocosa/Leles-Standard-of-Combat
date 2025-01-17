@@ -11,7 +11,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: black 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Evade.png]]
+- ***Card***:<br>![[SoC • Card - Evade.png|550]]

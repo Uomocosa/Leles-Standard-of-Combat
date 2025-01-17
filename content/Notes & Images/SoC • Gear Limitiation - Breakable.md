@@ -9,7 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: black
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Breakable.png]]
+- ***Card***:<br>![[SoC • Card - Breakable.png|550]]

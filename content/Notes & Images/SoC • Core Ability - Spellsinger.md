@@ -9,7 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: green 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Spellsinger.png]]
+- ***Card***:<br>![[SoC • Card - Spellsinger.png|550]]

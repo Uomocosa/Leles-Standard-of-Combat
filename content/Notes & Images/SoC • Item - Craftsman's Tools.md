@@ -8,10 +8,8 @@ aliases:
 - ***Description***:<br>Hammer, spanner, and bits for simple work.
 - ***Color***: blue 
 
+----
+- ***Card***:![[SoC • Card - Craftsmans Tools.png|550]]
 
 ----
-- ***Card***:<br>![[SoC • Card - Craftsman's Tools.png]]
-
-
-----
-- ***Card***:<br>![[SoC • Card - Craftsmans Tools.png]]
+- ***Card***:<br>![[SoC • Card - Craftsmans Tools.png|550]]

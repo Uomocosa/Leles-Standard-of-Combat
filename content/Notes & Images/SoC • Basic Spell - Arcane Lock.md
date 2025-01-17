@@ -9,7 +9,5 @@ aliases:
 - ***Effects***: [[SoC • Rune - Ward|Ward]]
 - ***Limitations***: 
 - ***Color***: artifact 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Arcane Lock.png]]
+- ***Card***:<br>![[SoC • Card - Arcane Lock.png|550]]

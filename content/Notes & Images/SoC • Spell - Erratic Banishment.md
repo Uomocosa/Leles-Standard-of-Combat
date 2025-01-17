@@ -10,7 +10,5 @@ aliases:
 - ***Limitations***: [[SoC • Spell Limitiation - Maddening|Maddening]], [[SoC • Spell Limitiation - Ritual|Ritual]], [[SoC • Spell Limitiation - Unstable|Unstable]]
 - ***Color***: white 
 - ***Note***: Before being actually cast, this spell requires **5** [[Arcane]] [[Skill Check|Skill Checks]] made by you, your party might hate you if you take this spell. Continue at your own risk.
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Erratic Banishment.png]]
+- ***Card***:<br>![[SoC • Card - Erratic Banishment.png|550]]

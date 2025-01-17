@@ -1,6 +1,6 @@
 # Lele's Standard of Combat
-*Heavely inspired by [Crow and Skull](https://www.runehammer.online/crown-skull-rpg)*
-- If you have time take a look at the [[Rules|Complete Rules]] for *SoC*.<br>Or for the fastest setup, you can take a [[Fast Setup • Preconstruted Characters|Preconstruted Character]].
+*Heavily inspired by [Crow and Skull](https://www.runehammer.online/crown-skull-rpg)*
+- If you have time: take a look at the [[Rules|Complete Rules]] for *SoC*.<br>Or for the fastest setup, you can take a [[Fast Setup • Preconstruted Characters|Preconstruted Character]] for a spin.
 
 ----
 ### Fast Character Creation 

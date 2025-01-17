@@ -11,7 +11,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: black 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Drain.png]]
+- ***Card***:<br>![[SoC • Card - Drain.png|550]]

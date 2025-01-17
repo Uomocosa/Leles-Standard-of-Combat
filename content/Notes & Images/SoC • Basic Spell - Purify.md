@@ -9,7 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: white 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Purify.png]]
+- ***Card***:<br>![[SoC • Card - Purify.png|550]]

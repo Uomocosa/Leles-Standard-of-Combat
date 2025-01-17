@@ -11,7 +11,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: red 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Powerful.png]]
+- ***Card***:<br>![[SoC • Card - Powerful.png|550]]

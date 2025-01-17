@@ -9,7 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: artifact 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Lasting.png]]
+- ***Card***:<br>![[SoC • Card - Lasting.png|550]]

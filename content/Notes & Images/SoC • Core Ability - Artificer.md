@@ -9,7 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: red 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Artificer.png]]
+- ***Card***:<br>![[SoC • Card - Artificer.png|550]]

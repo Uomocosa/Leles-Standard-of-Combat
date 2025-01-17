@@ -7,7 +7,5 @@ aliases:
 - ***Cost***: 1 
 - ***Description***:<br>Camp with comfort and cozy fire.
 - ***Color***: red 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Flint & Steel.png]]
+- ***Card***:<br>![[SoC • Card - Flint & Steel.png|550]]

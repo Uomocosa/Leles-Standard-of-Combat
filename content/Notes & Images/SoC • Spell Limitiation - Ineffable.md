@@ -9,7 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Ineffable.png]]
+- ***Card***:<br>![[SoC • Card - Ineffable.png|550]]

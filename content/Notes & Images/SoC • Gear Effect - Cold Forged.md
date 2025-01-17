@@ -9,7 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: artifact 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Cold Forged.png]]
+- ***Card***:<br>![[SoC • Card - Cold Forged.png|550]]

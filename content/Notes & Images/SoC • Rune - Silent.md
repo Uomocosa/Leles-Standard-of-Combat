@@ -11,7 +11,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: green 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Silent.png]]
+- ***Card***:<br>![[SoC • Card - Silent.png|550]]

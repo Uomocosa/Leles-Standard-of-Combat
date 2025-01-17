@@ -9,7 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: red 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Greedy.png]]
+- ***Card***:<br>![[SoC • Card - Greedy.png|550]]

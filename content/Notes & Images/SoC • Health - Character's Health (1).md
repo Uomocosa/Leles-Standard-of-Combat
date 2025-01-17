@@ -6,10 +6,5 @@ aliases:
 - ***Info***: Character's Health
 - ***Color***: character health 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Character's Health (1).png]]
-
-
-----
-- ***Card***:<br>![[SoC • Card - Characters Health (1).png]]
+- ***Card***:<br>![[SoC • Card - Characters Health (1).png|275]]

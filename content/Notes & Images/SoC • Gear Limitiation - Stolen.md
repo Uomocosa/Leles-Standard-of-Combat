@@ -9,7 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: black 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Stolen.png]]
+- ***Card***:<br>![[SoC • Card - Stolen.png|550]]

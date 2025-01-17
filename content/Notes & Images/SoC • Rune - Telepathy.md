@@ -11,7 +11,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Telepathy.png]]
+- ***Card***:<br>![[SoC • Card - Telepathy.png|550]]

@@ -7,7 +7,5 @@ aliases:
 - ***Cost***: 1 
 - ***Description***:<br>Exploring or excavation times cut in half.
 - ***Color***: artifact 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Mining Kit.png]]
+- ***Card***:<br>![[SoC • Card - Mining Kit.png|550]]

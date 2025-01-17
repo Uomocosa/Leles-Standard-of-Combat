@@ -7,7 +7,5 @@ aliases:
 - ***Cost***: 200 
 - ***Description***:<br>A series of keeps and towers, stone.
 - ***Color***: Artifact 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Castle.png]]
+- ***Card***:<br>![[SoC • Card - Castle.png|550]]

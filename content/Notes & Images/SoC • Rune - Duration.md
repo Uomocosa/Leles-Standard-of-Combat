@@ -11,7 +11,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Duration.png]]
+- ***Card***:<br>![[SoC • Card - Duration.png|550]]

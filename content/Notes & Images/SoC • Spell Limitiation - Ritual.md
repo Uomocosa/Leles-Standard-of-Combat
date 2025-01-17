@@ -9,7 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Ritual.png]]
+- ***Card***:<br>![[SoC • Card - Ritual.png|550]]

@@ -7,7 +7,5 @@ aliases:
 - ***Cost***: 75
 - ***Description***:<br>A wooden Defense position with pole-fences
 - ***Color***: Artifact 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Garrison.png]]
+- ***Card***:<br>![[SoC • Card - Garrison.png|550]]

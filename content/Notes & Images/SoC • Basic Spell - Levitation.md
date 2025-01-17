@@ -9,7 +9,5 @@ aliases:
 - ***Effects***: [[SoC • Rune - Levitate|Levitate]]
 - ***Limitations***: 
 - ***Color***: blue 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Levitation.png]]
+- ***Card***:<br>![[SoC • Card - Levitation.png|550]]

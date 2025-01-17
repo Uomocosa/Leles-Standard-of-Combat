@@ -9,7 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: red 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Crazy.png]]
+- ***Card***:<br>![[SoC • Card - Crazy.png|550]]

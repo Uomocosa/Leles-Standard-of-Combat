@@ -9,7 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Unstable.png]]
+- ***Card***:<br>![[SoC • Card - Unstable.png|550]]

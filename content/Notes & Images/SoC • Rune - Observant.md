@@ -11,7 +11,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: green 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Observant.png]]
+- ***Card***:<br>![[SoC • Card - Observant.png|550]]

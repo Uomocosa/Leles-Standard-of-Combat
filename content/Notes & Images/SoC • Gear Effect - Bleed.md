@@ -9,7 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: artifact 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Bleed.png]]
+- ***Card***:<br>![[SoC • Card - Bleed.png|550]]

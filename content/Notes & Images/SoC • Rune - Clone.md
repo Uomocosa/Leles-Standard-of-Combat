@@ -11,6 +11,8 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 
+----
+- ***Card***:![[SoC • Card - Clone.png|550]]
 
 ----
-- ***Card***:<br>![[SoC • Card - Clone.png]]
+- ***Card***:<br>![[SoC • Card - Clone.png|550]]

@@ -7,7 +7,5 @@ aliases:
 - ***Cost***: 300
 - ***Description***:<br>A massive, impregnable castle on a clif.
 - ***Color***: Artifact 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Fortress.png]]
+- ***Card***:<br>![[SoC • Card - Fortress.png|550]]

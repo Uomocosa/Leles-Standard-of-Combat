@@ -11,7 +11,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: white 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Enchant.png]]
+- ***Card***:<br>![[SoC • Card - Enchant.png|550]]

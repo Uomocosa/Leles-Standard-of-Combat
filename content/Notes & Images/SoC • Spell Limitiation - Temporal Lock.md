@@ -9,7 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Temporal Lock.png]]
+- ***Card***:<br>![[SoC • Card - Temporal Lock.png|550]]

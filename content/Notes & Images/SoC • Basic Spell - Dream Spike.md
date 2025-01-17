@@ -9,7 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: black 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Dream Spike.png]]
+- ***Card***:<br>![[SoC • Card - Dream Spike.png|550]]

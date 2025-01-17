@@ -9,7 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Eldrich Bond.png]]
+- ***Card***:<br>![[SoC • Card - Eldrich Bond.png|550]]

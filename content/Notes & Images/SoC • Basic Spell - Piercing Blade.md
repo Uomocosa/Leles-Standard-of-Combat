@@ -9,7 +9,5 @@ aliases:
 - ***Effects***: [[SoC • Rune - Enchant|Enchant]]
 - ***Limitations***: 
 - ***Color***: red 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Piercing Blade.png]]
+- ***Card***:<br>![[SoC • Card - Piercing Blade.png|550]]

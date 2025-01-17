@@ -11,7 +11,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: green 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Ranged.png]]
+- ***Card***:<br>![[SoC • Card - Ranged.png|550]]

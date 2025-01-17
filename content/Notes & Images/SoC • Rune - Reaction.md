@@ -11,7 +11,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: red 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Reaction.png]]
+- ***Card***:<br>![[SoC • Card - Reaction.png|550]]

@@ -9,7 +9,5 @@ aliases:
 - ***Effects***: [[SoC • Rune - Blast|Blast]]
 - ***Limitations***: 
 - ***Color***: red 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Fireblast.png]]
+- ***Card***:<br>![[SoC • Card - Fireblast.png|550]]

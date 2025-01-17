@@ -7,7 +7,5 @@ aliases:
 - ***Cost***: 35 
 - ***Description***:<br>Crew of 3 required, 2 masts, huge hold.
 - ***Color***: Artifact 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Mast Ship.png]]
+- ***Card***:<br>![[SoC • Card - Mast Ship.png|550]]

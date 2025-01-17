@@ -11,7 +11,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: white 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Banish.png]]
+- ***Card***:<br>![[SoC • Card - Banish.png|550]]

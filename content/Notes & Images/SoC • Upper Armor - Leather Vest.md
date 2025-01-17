@@ -7,7 +7,5 @@ aliases:
 - ***Cost***: 2 
 - ***Description***:<br>Health — **3**, **2**<br>Bonus AC — **+2** ^description
 - ***Color***: Artifact 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Leather Vest.png]]
+- ***Card***:<br>![[SoC • Card - Leather Vest.png|550]]

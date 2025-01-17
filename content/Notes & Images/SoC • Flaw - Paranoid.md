@@ -9,7 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Paranoid.png]]
+- ***Card***:<br>![[SoC • Card - Paranoid.png|550]]
