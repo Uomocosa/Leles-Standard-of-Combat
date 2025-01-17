@@ -8,6 +8,5 @@ aliases:
 - ***Description***:<br>A series of keeps and towers, stone.
 - ***Color***: Artifact 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Castle.png]]
+- ***Card***:![[SoC • Card - Castle.png|550]]

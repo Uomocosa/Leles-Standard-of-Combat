@@ -8,6 +8,5 @@ aliases:
 - ***Description***:<br>Transports like a cart, at horse speed.
 - ***Color***: Artifact 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Wagon.png]]
+- ***Card***:![[SoC • Card - Wagon.png|550]]

@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: black 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Injured.png]]
+- ***Card***:![[SoC • Card - Injured.png|550]]

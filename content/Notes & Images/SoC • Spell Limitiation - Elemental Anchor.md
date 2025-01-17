@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: blue 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Elemental Anchor.png]]
+- ***Card***:![[SoC • Card - Elemental Anchor.png|550]]

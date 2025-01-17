@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: artifact 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Arcane Lock.png]]
+- ***Card***:![[SoC • Card - Arcane Lock.png|550]]

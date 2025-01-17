@@ -8,6 +8,5 @@ aliases:
 - ***Description***:<br>A pouch of 3 dozen metal balls.
 - ***Color***: artifact 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Sack of Bearings.png]]
+- ***Card***:![[SoC • Card - Sack of Bearings.png|550]]

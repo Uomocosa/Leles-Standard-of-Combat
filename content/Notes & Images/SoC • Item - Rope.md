@@ -8,6 +8,5 @@ aliases:
 - ***Description***:<br>125cm length, breaks on crit fail usage.
 - ***Color***: artifact 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Rope.png]]
+- ***Card***:![[SoC • Card - Rope.png|550]]

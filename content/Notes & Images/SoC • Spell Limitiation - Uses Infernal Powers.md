@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: blue 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Uses Infernal Powers.png]]
+- ***Card***:![[SoC • Card - Uses Infernal Powers.png|550]]

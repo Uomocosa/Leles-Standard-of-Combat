@@ -8,6 +8,5 @@ aliases:
 - ***Description***:<br>A cozy place to live, deed for life.
 - ***Color***: White
 
-
 ----
-- ***Card***:<br>![[SoC • Card - House.png]]
+- ***Card***:![[SoC • Card - House.png|550]]

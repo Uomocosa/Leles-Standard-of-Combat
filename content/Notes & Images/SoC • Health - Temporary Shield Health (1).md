@@ -6,6 +6,5 @@ aliases:
 - ***Info***: Temporary Shield Health
 - ***Color***: temporary armor health 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Temporary Shield Health (1).png]]
+- ***Card***:<br>![[SoC • Card - Temporary Shield Health (1).png|275]]

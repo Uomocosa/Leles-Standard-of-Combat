@@ -6,6 +6,5 @@ aliases:
 - ***Info***: Temporary Upper Armor Health
 - ***Color***: temporary armor health 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Temporary Upper Armor Health (1).png]]
+- ***Card***:<br>![[SoC • Card - Temporary Upper Armor Health (1).png|275]]

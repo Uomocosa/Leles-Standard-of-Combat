@@ -8,6 +8,5 @@ aliases:
 - ***Description***:<br>A massive, impregnable castle on a clif.
 - ***Color***: Artifact 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Fortress.png]]
+- ***Card***:![[SoC • Card - Fortress.png|550]]

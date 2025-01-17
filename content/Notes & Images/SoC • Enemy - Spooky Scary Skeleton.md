@@ -8,6 +8,5 @@ aliases:
 - ***Flavor***: Often found in groups, in dungeon and cursed graveyards, dancing.
 - ***Color***: black 
 - ***Rarity***: common
-
 ----
-- ***Card***:<br>![[SoC • Card - Spooky Scary Skeleton.png]]
+- ***Card***:![[SoC • Card - Spooky Scary Skeleton.png|550]]

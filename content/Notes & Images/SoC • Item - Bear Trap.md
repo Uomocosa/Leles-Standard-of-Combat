@@ -8,6 +8,5 @@ aliases:
 - ***Description***:<br>1 count, [[Skills|DC]] **15** ([[Force]]) to escape.
 - ***Color***: artifact 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Bear Trap.png]]
+- ***Card***:![[SoC • Card - Bear Trap.png|550]]

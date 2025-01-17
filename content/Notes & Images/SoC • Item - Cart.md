@@ -8,6 +8,5 @@ aliases:
 - ***Description***:<br>Can hold creatures, and crates filled with goods.
 - ***Color***: Artifact 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Cart.png]]
+- ***Card***:![[SoC • Card - Cart.png|550]]

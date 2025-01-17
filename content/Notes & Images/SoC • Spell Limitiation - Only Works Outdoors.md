@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: blue 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Only Works Outdoors.png]]
+- ***Card***:![[SoC • Card - Only Works Outdoors.png|550]]

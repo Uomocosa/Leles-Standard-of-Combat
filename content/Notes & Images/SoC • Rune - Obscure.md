@@ -12,6 +12,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: black 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Obscure.png]]
+- ***Card***:![[SoC • Card - Obscure.png|550]]

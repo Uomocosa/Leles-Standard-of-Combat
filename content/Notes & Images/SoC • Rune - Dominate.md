@@ -12,6 +12,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: black 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Dominate.png]]
+- ***Card***:![[SoC • Card - Dominate.png|550]]

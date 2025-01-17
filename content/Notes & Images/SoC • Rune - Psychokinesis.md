@@ -12,6 +12,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: red 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Psychokinesis.png]]
+- ***Card***:![[SoC • Card - Psychokinesis.png|550]]

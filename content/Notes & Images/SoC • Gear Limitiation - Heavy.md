@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: white
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Heavy.png]]
+- ***Card***:![[SoC • Card - Heavy.png|550]]

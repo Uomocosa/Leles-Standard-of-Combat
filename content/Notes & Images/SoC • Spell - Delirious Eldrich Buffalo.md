@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: [[SoC • Spell Limitiation - Maddening|Maddening]]
 - ***Color***: black 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Delirious Eldrich Buffalo.png]]
+- ***Card***:![[SoC • Card - Delirious Eldrich Buffalo.png|550]]

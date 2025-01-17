@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: blue 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Symbiotic.png]]
+- ***Card***:![[SoC • Card - Symbiotic.png|550]]

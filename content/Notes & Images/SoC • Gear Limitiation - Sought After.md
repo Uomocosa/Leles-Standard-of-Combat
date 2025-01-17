@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: black
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Sought After.png]]
+- ***Card***:![[SoC • Card - Sought After.png|550]]

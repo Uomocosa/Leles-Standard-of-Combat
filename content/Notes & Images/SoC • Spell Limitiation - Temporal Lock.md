@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: blue 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Temporal Lock.png]]
+- ***Card***:![[SoC • Card - Temporal Lock.png|550]]

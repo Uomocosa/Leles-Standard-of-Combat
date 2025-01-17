@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: black 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Go Unnoticed.png]]
+- ***Card***:![[SoC • Card - Go Unnoticed.png|550]]

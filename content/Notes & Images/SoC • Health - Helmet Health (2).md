@@ -6,6 +6,5 @@ aliases:
 - ***Info***: Helmet Health
 - ***Color***: armor health 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Helmet Health (2).png]]
+- ***Card***:<br>![[SoC • Card - Helmet Health (2).png|275]]

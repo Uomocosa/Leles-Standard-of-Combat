@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: [[SoC • Spell Limitiation - Only Works Outdoors|Only works outdoors]]
 - ***Color***: blue 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Stormcaller.png]]
+- ***Card***:![[SoC • Card - Stormcaller.png|550]]

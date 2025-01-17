@@ -8,6 +8,5 @@ aliases:
 - ***Description***:<br>Ignore penalties from normal cold or snow.
 - ***Color***: blue 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Cold Weather Fur.png]]
+- ***Card***:![[SoC • Card - Cold Weather Fur.png|550]]

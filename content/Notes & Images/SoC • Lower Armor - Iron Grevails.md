@@ -8,6 +8,5 @@ aliases:
 - ***Description***:<br>Health — **1**, **1**<br>Bonus AC — **+2**
 - ***Color***: artifact 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Iron Grevails.png]]
+- ***Card***:![[SoC • Card - Iron Grevails.png|550]]

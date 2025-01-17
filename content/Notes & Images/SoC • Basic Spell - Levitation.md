@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: blue 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Levitation.png]]
+- ***Card***:![[SoC • Card - Levitation.png|550]]

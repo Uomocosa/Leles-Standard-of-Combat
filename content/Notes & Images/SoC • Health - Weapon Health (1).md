@@ -6,6 +6,5 @@ aliases:
 - ***Info***: Weapon Health
 - ***Color***: armor health 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Weapon Health (1).png]]
+- ***Card***:<br>![[SoC • Card - Weapon Health (1).png|275]]

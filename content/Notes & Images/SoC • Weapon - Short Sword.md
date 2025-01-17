@@ -8,6 +8,5 @@ aliases:
 - ***Description***:<br>Health — **3**<br>Damage — **1d6**
 - ***Color***: Artifact 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Short Sword.png]]
+- ***Card***:![[SoC • Card - Short Sword.png|550]]

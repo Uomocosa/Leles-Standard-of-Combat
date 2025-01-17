@@ -8,6 +8,5 @@ aliases:
 - ***Description***:<br>2 dive helms, spearguns, fins, marker buoy.
 - ***Color***: blue 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Diving Gear.png]]
+- ***Card***:![[SoC • Card - Diving Gear.png|550]]

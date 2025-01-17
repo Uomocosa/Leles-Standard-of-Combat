@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: blue 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Eldrich Bond.png]]
+- ***Card***:![[SoC • Card - Eldrich Bond.png|550]]

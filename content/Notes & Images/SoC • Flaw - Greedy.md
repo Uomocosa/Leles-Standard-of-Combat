@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: red 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Greedy.png]]
+- ***Card***:![[SoC • Card - Greedy.png|550]]

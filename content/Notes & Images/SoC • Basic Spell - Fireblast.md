@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: red 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Fireblast.png]]
+- ***Card***:![[SoC • Card - Fireblast.png|550]]

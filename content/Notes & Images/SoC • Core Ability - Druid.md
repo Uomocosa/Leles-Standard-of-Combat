@@ -9,7 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: green 
-
-
 ----
-- ***Card***:<br>![[SoC • Card - Druid.png]]
+- ***Card***:![[SoC • Card - Druid.png|550]]

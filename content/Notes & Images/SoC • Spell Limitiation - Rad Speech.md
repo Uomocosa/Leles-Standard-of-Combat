@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: blue 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Rad Speech.png]]
+- ***Card***:![[SoC • Card - Rad Speech.png|550]]

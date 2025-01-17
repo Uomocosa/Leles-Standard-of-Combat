@@ -8,6 +8,5 @@ aliases:
 - ***Description***:<br>Parchment book, charcoal sticks.
 - ***Color***: blue 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Scribes Kit.png]]
+- ***Card***:![[SoC • Card - Scribes Kit.png|550]]

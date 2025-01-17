@@ -12,6 +12,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: white 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Locate.png]]
+- ***Card***:![[SoC • Card - Locate.png|550]]

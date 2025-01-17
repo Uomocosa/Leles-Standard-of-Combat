@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: red 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Courage.png]]
+- ***Card***:![[SoC • Card - Courage.png|550]]

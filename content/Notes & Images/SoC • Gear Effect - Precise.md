@@ -9,6 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: artifact 
-
 ----
-- ***Card***:<br>![[SoC • Card - Precise.png]]
+- ***Card***:![[SoC • Card - Precise.png|550]]

@@ -12,6 +12,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: blue 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Transport.png]]
+- ***Card***:![[SoC • Card - Transport.png|550]]

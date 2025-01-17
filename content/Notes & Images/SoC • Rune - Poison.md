@@ -12,6 +12,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: green 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Poison.png]]
+- ***Card***:![[SoC • Card - Poison.png|550]]

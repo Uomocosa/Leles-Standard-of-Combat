@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: artifact 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Deadly.png]]
+- ***Card***:![[SoC • Card - Deadly.png|550]]

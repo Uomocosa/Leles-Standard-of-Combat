@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: blue 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Wonky.png]]
+- ***Card***:![[SoC • Card - Wonky.png|550]]

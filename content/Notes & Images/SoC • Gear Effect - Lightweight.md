@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: artifact 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Lightweight.png]]
+- ***Card***:![[SoC • Card - Lightweight.png|550]]

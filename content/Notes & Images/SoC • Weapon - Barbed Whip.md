@@ -8,6 +8,5 @@ aliases:
 - ***Description***:<br>Health — **2**, **1**<br>Damage — **1d6**<br>Causes [[SoC • Gear Effect - Bleed|Bleeding]] (if it inflicts a [[flesh wound]], the target takes **1d4** damage for **2** rounds.)
 - ***Color***: Artifact 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Barbed Whip.png]]
+- ***Card***:![[SoC • Card - Barbed Whip.png|550]]

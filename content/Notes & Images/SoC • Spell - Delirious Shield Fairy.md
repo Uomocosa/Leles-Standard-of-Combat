@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: [[SoC • Spell Limitiation - Maddening|Maddening]]
 - ***Color***: blue 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Delirious Shield Fairy.png]]
+- ***Card***:![[SoC • Card - Delirious Shield Fairy.png|550]]

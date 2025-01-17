@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: white 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Just a Kid.png]]
+- ***Card***:![[SoC • Card - Just a Kid.png|550]]

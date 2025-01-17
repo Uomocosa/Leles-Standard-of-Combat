@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: artifact 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Titanium Armor.png]]
+- ***Card***:![[SoC • Card - Titanium Armor.png|550]]

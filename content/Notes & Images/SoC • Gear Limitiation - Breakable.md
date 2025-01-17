@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: black
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Breakable.png]]
+- ***Card***:![[SoC • Card - Breakable.png|550]]

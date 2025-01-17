@@ -12,6 +12,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: green 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Language.png]]
+- ***Card***:![[SoC • Card - Language.png|550]]

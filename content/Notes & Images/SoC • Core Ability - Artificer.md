@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: red 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Artificer.png]]
+- ***Card***:![[SoC • Card - Artificer.png|550]]

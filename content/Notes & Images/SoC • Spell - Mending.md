@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: [[SoC • Spell Limitiation - Ritual|Ritual]]
 - ***Color***: white
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Mending.png]]
+- ***Card***:![[SoC • Card - Mending.png|550]]

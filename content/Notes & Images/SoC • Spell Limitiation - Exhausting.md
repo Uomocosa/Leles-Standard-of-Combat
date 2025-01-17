@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: black 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Exhausting.png]]
+- ***Card***:![[SoC • Card - Exhausting.png|550]]

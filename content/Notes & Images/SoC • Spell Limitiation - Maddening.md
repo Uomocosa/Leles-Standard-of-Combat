@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: blue 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Maddening.png]]
+- ***Card***:![[SoC • Card - Maddening.png|550]]

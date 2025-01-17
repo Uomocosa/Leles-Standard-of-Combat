@@ -12,6 +12,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: blue 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Telepathy.png]]
+- ***Card***:![[SoC • Card - Telepathy.png|550]]

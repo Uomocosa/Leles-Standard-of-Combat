@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: green 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Vines.png]]
+- ***Card***:![[SoC • Card - Vines.png|550]]

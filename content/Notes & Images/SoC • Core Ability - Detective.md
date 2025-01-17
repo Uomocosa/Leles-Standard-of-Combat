@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: blue 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Detective.png]]
+- ***Card***:![[SoC • Card - Detective.png|550]]

@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: blue 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Mages Cloak.png]]
+- ***Card***:![[SoC • Card - Mages Cloak.png|550]]

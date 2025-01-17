@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: blue 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Telekinetics.png]]
+- ***Card***:![[SoC • Card - Telekinetics.png|550]]

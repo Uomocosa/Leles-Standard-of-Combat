@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: white 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Healing Light.png]]
+- ***Card***:![[SoC • Card - Healing Light.png|550]]

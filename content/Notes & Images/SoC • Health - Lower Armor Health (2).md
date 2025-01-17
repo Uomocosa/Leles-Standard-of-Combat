@@ -6,6 +6,5 @@ aliases:
 - ***Info***: Lower Armor Health
 - ***Color***: armor health 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Lower Armor Health (2).png]]
+- ***Card***:<br>![[SoC • Card - Lower Armor Health (2).png|275]]

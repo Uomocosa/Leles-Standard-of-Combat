@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: black 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Summon Vermin.png]]
+- ***Card***:![[SoC • Card - Summon Vermin.png|550]]

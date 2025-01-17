@@ -10,8 +10,7 @@ aliases:
 
 
 ----
-- ***Card***:<br>![[SoC • Card - Craftsman's Tools.png]]
-
+- ***Card***:<br>![[SoC • Card - Craftsmans Tools.png]]
 
 ----
-- ***Card***:<br>![[SoC • Card - Craftsmans Tools.png]]
+- ***Card***:![[SoC • Card - Craftsmans Tools.png|550]]

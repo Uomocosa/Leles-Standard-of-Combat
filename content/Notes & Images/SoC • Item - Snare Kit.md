@@ -8,6 +8,5 @@ aliases:
 - ***Description***:<br>3 counts, catch small animals.
 - ***Color***: artifact 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Snare Kit.png]]
+- ***Card***:![[SoC • Card - Snare Kit.png|550]]

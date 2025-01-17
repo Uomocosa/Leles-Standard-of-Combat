@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: blue 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Paranoid.png]]
+- ***Card***:![[SoC • Card - Paranoid.png|550]]

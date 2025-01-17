@@ -8,6 +8,5 @@ aliases:
 - ***Description***:<br>Cannot [[Sleight of Hand|pick locks]] without these tools.
 - ***Color***: black 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Lockpicks.png]]
+- ***Card***:![[SoC • Card - Lockpicks.png|550]]

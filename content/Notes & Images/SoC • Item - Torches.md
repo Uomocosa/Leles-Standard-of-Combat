@@ -8,6 +8,5 @@ aliases:
 - ***Description***:<br>3 counts/torches, each burns for 1 hour.
 - ***Color***: red 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Torches.png]]
+- ***Card***:![[SoC • Card - Torches.png|550]]

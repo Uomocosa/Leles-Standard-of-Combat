@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: artifact 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Chained.png]]
+- ***Card***:![[SoC • Card - Chained.png|550]]

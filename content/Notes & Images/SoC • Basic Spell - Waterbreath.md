@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: blue 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Waterbreath.png]]
+- ***Card***:![[SoC • Card - Waterbreath.png|550]]

@@ -8,6 +8,5 @@ aliases:
 - ***Description***:<br>Health — **3**, **3**<br>Damage — **1d8**<br>If you deal **8 or more** damage with this weapon, [[stun]] the target for **1 [[Phases of Combat|round]]**.
 - ***Color***: Artifact 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Studded Mace.png]]
+- ***Card***:![[SoC • Card - Studded Mace.png|550]]

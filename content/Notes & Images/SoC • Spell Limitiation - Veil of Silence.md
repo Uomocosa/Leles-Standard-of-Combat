@@ -9,6 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 
-
 ----
-- ***Card***:<br>![[SoC • Card - Veil of Silence.png]]
+- ***Card***:![[SoC • Card - Veil of Silence.png|550]]

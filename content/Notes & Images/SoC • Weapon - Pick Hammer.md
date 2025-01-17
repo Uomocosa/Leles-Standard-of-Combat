@@ -8,6 +8,5 @@ aliases:
 - ***Description***:<br>Health — **2**, **2**<br>Damage — **1d6**<br>If you deal **6 or more** damage with this weapon, [[slow]] the target for **1 [[Phases of Combat|round]]**.
 - ***Color***: Artifact 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Pick Hammer.png]]
+- ***Card***:![[SoC • Card - Pick Hammer.png|550]]

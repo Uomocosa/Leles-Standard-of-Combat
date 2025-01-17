@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: blue 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Sacrificial Rite.png]]
+- ***Card***:![[SoC • Card - Sacrificial Rite.png|550]]

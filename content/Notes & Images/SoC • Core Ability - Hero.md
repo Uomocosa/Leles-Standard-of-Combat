@@ -11,6 +11,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: white 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Hero.png]]
+- ***Card***:![[SoC • Card - Hero.png|550]]

@@ -8,6 +8,5 @@ aliases:
 - ***Description***:<br>An armored wagon for siege.
 - ***Color***: Red 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - War Wagon.png]]
+- ***Card***:![[SoC • Card - War Wagon.png|550]]

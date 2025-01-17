@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: red 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Sprint.png]]
+- ***Card***:![[SoC • Card - Sprint.png|550]]

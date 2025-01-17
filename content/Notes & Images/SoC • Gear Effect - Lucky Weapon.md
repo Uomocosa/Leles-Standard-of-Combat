@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: artifact 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Lucky Weapon.png]]
+- ***Card***:![[SoC • Card - Lucky Weapon.png|550]]

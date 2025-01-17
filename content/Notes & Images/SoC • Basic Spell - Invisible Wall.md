@@ -11,6 +11,5 @@ aliases:
 - ***Color***: artifact 
 - _**Prompt** [ChatGPT](https://chatgpt.com/?model=auto)_: I need a 2D minimalistic fantasy illustration, in a minimal graphic style with white and black color, and a clean white background. It represents the spell ***Invisible Wall***, with the following effect: A **50cm** wide force field with **15** [[Enemy Primer|HP]]. Add the words "***Invisible Wall***" under the image in a stylish font, they must be clearely visible.
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Invisible Wall.png]]
+- ***Card***:![[SoC • Card - Invisible Wall.png|550]]

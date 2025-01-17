@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: red 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Piercing Blade.png]]
+- ***Card***:![[SoC • Card - Piercing Blade.png|550]]

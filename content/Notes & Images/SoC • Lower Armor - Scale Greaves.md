@@ -8,6 +8,5 @@ aliases:
 - ***Description***:<br>Health — **3**, **2**, **1**<br>Bonus AC — **+3**<br>Require at least 6 points in [[Force]].<br>**Complex**, [[Homebrew Rule - Advantange • Disadvantage|Disadvantage]] on [[Forging]] [[Skill Check|checks]] made on this gear (for making, upgrading, [[Healing and Repair|Repairing]], ...)
 - ***Color***: Artifact 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Scale Greaves.png]]
+- ***Card***:![[SoC • Card - Scale Greaves.png|550]]

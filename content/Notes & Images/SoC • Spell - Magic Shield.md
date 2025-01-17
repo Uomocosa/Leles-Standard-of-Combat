@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: Blue 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Magic Shield.png]]
+- ***Card***:![[SoC • Card - Magic Shield.png|550]]

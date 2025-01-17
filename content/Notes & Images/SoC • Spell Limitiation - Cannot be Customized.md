@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: blue 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Cannot be Customized.png]]
+- ***Card***:![[SoC • Card - Cannot be Customized.png|550]]

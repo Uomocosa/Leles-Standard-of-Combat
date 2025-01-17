@@ -6,6 +6,5 @@ aliases:
 - ***Info***: Shield Health
 - ***Color***: armor health 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Shield Health (1).png]]
+- ***Card***:<br>![[SoC • Card - Shield Health (1).png|275]]

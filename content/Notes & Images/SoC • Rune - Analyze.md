@@ -12,6 +12,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: blue 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Analyze.png]]
+- ***Card***:![[SoC • Card - Analyze.png|550]]

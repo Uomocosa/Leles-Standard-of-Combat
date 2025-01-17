@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: black 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Vanish.png]]
+- ***Card***:![[SoC • Card - Vanish.png|550]]

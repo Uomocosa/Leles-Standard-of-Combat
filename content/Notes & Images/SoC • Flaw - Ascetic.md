@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: white 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Ascetic.png]]
+- ***Card***:![[SoC • Card - Ascetic.png|550]]

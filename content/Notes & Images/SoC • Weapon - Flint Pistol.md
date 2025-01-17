@@ -8,6 +8,5 @@ aliases:
 - ***Description***:<br>Health — **3**<br>Damage — **1d10**<br>**1 action** to reload.<br>[[SoC • Gear Effect - Concealed|Concealed]].<br>Ranged (**9m**). Use [[Dexterity]] to [[Combat Damage|Attack]] with it
 - ***Color***: Artifact 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Flint Pistol.png]]
+- ***Card***:![[SoC • Card - Flint Pistol.png|550]]

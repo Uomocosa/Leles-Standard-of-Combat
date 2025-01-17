@@ -14,8 +14,7 @@ aliases:
 
 
 ----
-- ***Card***:<br>![[SoC • Card - Cloak.png]]
-
+- ***Card***:<br>![[SoC • Card - Camouflage.png]]
 
 ----
-- ***Card***:<br>![[SoC • Card - Camouflage.png]]
+- ***Card***:![[SoC • Card - Camouflage.png|550]]

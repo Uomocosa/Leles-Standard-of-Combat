@@ -12,6 +12,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: green 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Adapt.png]]
+- ***Card***:![[SoC • Card - Adapt.png|550]]

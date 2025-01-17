@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: blue 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Only Works on Specific Target Type.png]]
+- ***Card***:![[SoC • Card - Only Works on Specific Target Type.png|550]]

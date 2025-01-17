@@ -9,6 +9,5 @@ aliases:
 - ***Color***: red 
 - ***Rarity***: common
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Goblin.png]]
+- ***Card***:![[SoC • Card - Goblin.png|550]]

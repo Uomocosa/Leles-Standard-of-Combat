@@ -11,6 +11,5 @@ aliases:
 - ***Color***: red 
 - ***Note***: Before being actually cast, this spell requires **5** [[Arcane]] [[Skill Check|Skill Checks]] made by you, your party might hate you if you take this spell. Continue at your own risk.
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Erratic Arcfire Hand.png]]
+- ***Card***:![[SoC • Card - Erratic Arcfire Hand.png|550]]

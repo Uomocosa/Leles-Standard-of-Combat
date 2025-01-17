@@ -8,6 +8,5 @@ aliases:
 - ***Description***:<br>3 counts, flammable liquid, glass phial.
 - ***Color***: red 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Oil Flask.png]]
+- ***Card***:![[SoC • Card - Oil Flask.png|550]]

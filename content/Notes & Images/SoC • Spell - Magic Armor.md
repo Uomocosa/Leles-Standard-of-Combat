@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***:  
 - ***Color***: Artifact 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Magic Armor.png]]
+- ***Card***:![[SoC • Card - Magic Armor.png|550]]

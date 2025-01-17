@@ -6,6 +6,5 @@ aliases:
 - ***Info***: Temporary Weapon Health
 - ***Color***: temporary armor health 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Temporary Weapon Health (1).png]]
+- ***Card***:<br>![[SoC • Card - Temporary Weapon Health (1).png|275]]

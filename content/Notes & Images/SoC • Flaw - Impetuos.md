@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: red 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Impetuos.png]]
+- ***Card***:![[SoC • Card - Impetuos.png|550]]

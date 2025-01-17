@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: blue 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Binding Oath.png]]
+- ***Card***:![[SoC • Card - Binding Oath.png|550]]

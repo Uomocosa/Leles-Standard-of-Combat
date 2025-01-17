@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: red 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Crazy.png]]
+- ***Card***:![[SoC • Card - Crazy.png|550]]

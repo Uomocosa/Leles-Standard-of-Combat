@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: [[SoC • Spell Limitiation - Maddening|Maddening]], [[SoC • Spell Limitiation - Ritual|Ritual]], [[SoC • Spell Limitiation - Unstable|Unstable]]
 - ***Color***: red 
 - ***Note***: Before being actually cast, this spell requires **6** [[Arcane]] [[Skill Check|Skill Checks]] made by you, your party might hate you if you take this spell. Continue at your own risk.
-
 ----
-- ***Card***:<br>![[SoC • Card - Erratic Fireball.png]]
+- ***Card***:![[SoC • Card - Erratic Fireball.png|550]]

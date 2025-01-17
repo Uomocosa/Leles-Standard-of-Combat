@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: blue 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Ineffable.png]]
+- ***Card***:![[SoC • Card - Ineffable.png|550]]

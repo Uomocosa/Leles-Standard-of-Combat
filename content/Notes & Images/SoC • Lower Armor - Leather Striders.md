@@ -8,6 +8,5 @@ aliases:
 - ***Description***:<br>Health — **1**<br>Bonus AC — **+1**
 - ***Color***: artifact 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Leather Striders.png]]
+- ***Card***:![[SoC • Card - Leather Striders.png|550]]

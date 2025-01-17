@@ -8,6 +8,5 @@ aliases:
 - ***Description***:<br>Health — **3**<br>Damage — **1d8**<br>Uses 2 hands.<br>Ranged (**45m**). Use [[Dexterity]] to [[Combat Damage|Attack]] with it.
 - ***Color***: Artifact 
 
-
 ----
-- ***Card***:<br>![[SoC • Card - Long Bow.png]]
+- ***Card***:![[SoC • Card - Long Bow.png|550]]
