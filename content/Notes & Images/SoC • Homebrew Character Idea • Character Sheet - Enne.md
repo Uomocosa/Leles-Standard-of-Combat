@@ -1,0 +1,76 @@
+---
+aliases:
+  - Character Sheet
+  - Enne
+---
+![[IMAGE.png]]
+
+### Character Sheet
+- ***[[Flaws]]***: _[[SoC • Flaw - Paranoid|Paranoid]], [[SoC • Flaw - Sickly|Sickly]]_.
+- ***[[Core Ability]]***: _None_.
+- ***[[Enemy Primer|AC]]***: **9**
+- ***[[Additional Health]]***: **3**. 
+- ***[[Health|Character's Health]]***:
+	- [ ] ***3***. (_**[[Health|Character's Health]]**_)
+	- [ ] ***3***. (_**[[Health|Character's Health]]**_)
+	- [ ] ***3***. (_**[[Health|Character's Health]]**_)
+	- [ ] ***2***. (_**[[Health|Character's Health]]**_)
+	- [ ] ***2***. (_**[[Health|Character's Health]]**_)
+	- [ ] ***2***. (_**[[Health|Character's Health]]**_)
+	- [ ] ***1***. (_**[[Health|Character's Health]]**_)
+	- [ ] ***1***. (_**[[Health|Character's Health]]**_)
+	- [ ] ***1***. (_**[[Health|Character's Health]]**_)
+- ***[[Equiped Gears's Health|Gear's Health]]***: 
+	- [ ] ***3***. (_[[Health|Upper Armor's Health]]_)
+	- [ ] ***2***. (_[[Health|Upper Armor's Health]]_)
+	- [ ] ***1***. (_[[Health|Helmet's Health]]_)
+	- [ ] ***1***. (_[[Health|Helmet's Health]]_)
+- ***[[Skills]]***:
+	- [[Arcane]] **9** (_[[Skills#Skill Modifiers (Bonus or Malus)|MOD.]]: **+4**_)
+	- [[Lore]] **5** (_[[Skills#Skill Modifiers (Bonus or Malus)|MOD.]]: **+2**_)
+	- [[Intimidation]] **5** (_[[Skills#Skill Modifiers (Bonus or Malus)|MOD.]]: **+2**_)
+	- [[Will]] **5** (_[[Skills#Skill Modifiers (Bonus or Malus)|MOD.]]: **+2**_)
+- ***Spells***:
+	- [ ] [[SoC • Spell - Delirious Invisible Wall|Delirious Invisible Wall]] (_[[Hero Points|Cost]]_ — **3**) 
+	- [ ] [[SoC • Spell - Delirious Shield Fairy|Delirious Shield Fairy]] (_[[Hero Points|Cost]]_ — **6**) 
+	- [ ] [[SoC • Spell - Delirious Eldrich Buffalo|Delirious Eldrich Buffalo]] (_[[Hero Points|Cost]]_ — **6**) 
+- ***Equipment***:
+	- ***[[SoC • Helmet - Iron Helm|Iron Helm]]***:
+		- _[[Equiped Gears's Health|Health]]_ — **1**, **1**.
+		- _[[Armor Class (AC)|Bonus AC]]_ — **+1**.
+		- _[[Hero Points|Cost]]_ — **1**.
+	- ***[[SoC • Upper Armor - Leather Vest|Leather Vest]]***:
+		- _[[Equiped Gears's Health|Health]]_ — **3**, **2**.
+		- _[[Armor Class (AC)|Bonus AC]]_ — **+2**.
+		- _[[Hero Points|Cost]]_ — **2**.
+- ***Inventory***:
+	- [[SoC • Item - Rations|Rations]] (_[[Hero Points|Cost]]_ — **1**):
+		- [ ] **1 count**.
+		- [ ] **1 count**.
+		- [ ] **1 count**.
+	- [[SoC • Item - Rations|Rations]] (_[[Hero Points|Cost]]_ — **1**):
+		- [ ] **1 count**.
+		- [ ] **1 count**.
+		- [ ] **1 count**.
+	- [[SoC • Item - Rations|Rations]] (_[[Hero Points|Cost]]_ — **1**):
+		- [ ] **1 count**.
+		- [ ] **1 count**.
+		- [ ] **1 count**.
+	- [[SoC • Item - Rations|Rations]] (_[[Hero Points|Cost]]_ — **1**):
+		- [ ] **1 count**.
+		- [ ] **1 count**.
+		- [ ] **1 count**.
+- ***Companions***: _None_
+- ***Lineage***: _Human_
+
+----
+### Total Cost 
+- ***Flaws***: **-10 pts** 
+- ***Core Ability***: **0 pts** 
+- ***Additional Health***: **15 pts** 
+- ***Skills***: **24 pts** 
+- ***Spells***: **15 pts** 
+- ***Equipment***: **3 pts** 
+- ***Inventory***: **3 pts** 
+- ***Companions***: **0 pts** 
+- **TOT**: **50/50 pts 

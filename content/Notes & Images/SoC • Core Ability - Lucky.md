@@ -1,0 +1,16 @@
+---
+aliases:
+  - Lucky
+---
+- ***Image***:<br>![[SoC • Core Ability - Lucky (Image).png|222]]
+- ***Info***: Core Ability
+- ***Cost***: 20
+- ***Description***:<br>You have inexplicable luck that seems to kick in at just the right moment.<br>You have **3 luck points**. Whenever you or another creater you can see, makes a [[Skill Check]], you can spend **1 luck point** to roll an additional **d20**. You can choose to spend one of your luck points after you roll the die, but before the outcome is determined. You choose which of the **d20**s is used for the roll. If more than one creature spends a luck point to influence the outcome of a roll, the points cancel each other out; no additional dice are rolled.<br>You regain all of your expended luck points after [[Rest & Recovery|a night of rest]]. 
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: artifact 
+- _**Prompt** [ChatGPT](https://chatgpt.com/?model=auto)_: I need a 2D minimalistic fantasy illustration, in a minimal graphic style with white and black color, and a clean white background. It represents the core ability: ***Lucky***. It has the following effect: '_You have inexplicable luck that seems to kick in at just the right moment._' Add the words "***Lucky***" under the image in a stylish font, they must be clearely visible.
+
+
+----
+- ***Card***:<br>![[SoC • Card - Lucky.png]]

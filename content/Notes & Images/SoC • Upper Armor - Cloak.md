@@ -1,0 +1,13 @@
+---
+aliases:
+  - Cloak
+---
+- ***Image***:<br>![[SoC • Upper Armor - Cloak (Image).png|222]]
+- ***Info***: Upper Armor
+- ***Cost***: 1 
+- ***Description***:<br>Health — **1**<br>Bonus AC — **+0**<br>[[Homebrew Rule - Advantange • Disadvantage|Advantage]] on all [[Stealth]] [[Skill Check|checks]].<br>It is [[Destroyed Gear|destroyed]] if it reaches **0** [[Health]].
+- ***Color***: Black 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Cloak.png]]

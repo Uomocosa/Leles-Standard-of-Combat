@@ -1,0 +1,68 @@
+---
+aliases:
+  - Character Sheet
+  - Arfgarf Barkington III
+---
+![[IMAGE.png]]
+
+### Character Sheet
+- ***[[Flaws]]***: _[[SoC • Flaw - Disorganized|Disorganized]], [[SoC • Flaw - Impetuos|Impetuos]], [[SoC • Flaw - Pursued|Pursued]]_.
+- ***[[Core Ability]]***: _[[SoC • Core Ability - Wizard Savant|Wizard Savant]]_.
+- ***[[Enemy Primer|AC]]***: **7**
+- ***[[Additional Health]]***: **1**. 
+- ***[[Health|Character's Health]]***:
+	- [ ] ***3***. (_**[[Health|Character's Health]]**_)
+	- [ ] ***2***. (_**[[Health|Character's Health]]**_)
+	- [ ] ***1***. (_**[[Health|Character's Health]]**_)
+	- [ ] ***1***. (_**[[Health|Character's Health]]**_)
+	- [ ] ***1***. (_**[[Health|Character's Health]]**_)
+- ***[[Equiped Gears's Health|Gear's Health]]***: 
+	- [ ] ***1***. (_[[Health|Upper Armor's Health]], destroyed if it reaches **0**_)
+	- [ ] ***1***. (_[[Health|Helmet's Health]]_)
+	- [ ] ***1***. (_[[Health|Helmet's Health]]_)
+- ***[[Skills]]***:
+	- [[Arcane]] **27** (_[[Skills#Skill Modifiers (Bonus or Malus)|MOD.]]: **+10**_)
+	- [[Stealth]] **3** (_[[Skills#Skill Modifiers (Bonus or Malus)|MOD.]]: **+1**_)
+- ***Spells***:
+	- [ ] [[SoC • Spell - Erratic Ally|Erratic Ally]] (_[[Hero Points|Cost]]_ — **1**) 
+	- [ ] [[SoC • Spell - Erratic Banishment|Erratic Banishment]] (_[[Hero Points|Cost]]_ — **1**) 
+	- [ ] [[SoC • Spell - Erratic Arcfire Hand|Erratic Arcfire Hand]] (_[[Hero Points|Cost]]_ — **1**) 
+	- [ ] [[SoC • Spell - Erratic Fireball|Erratic Fireball]] (_[[Hero Points|Cost]]_ — **1**) 
+	- [ ] [[SoC • Spell - Erratic Wall|Erratic Wall]] (_[[Hero Points|Cost]]_ — **1**) 
+- ***Equipment***:
+	- ***[[SoC • Upper Armor - Cloak|Cloak]]***:
+		- _[[Equiped Gears's Health|Health]]_ — **1**.
+		- _[[Armor Class (AC)|Bonus AC]]_ — **+0**.
+		- [[Homebrew Rule - Advantange • Disadvantage|Advantage]] on all [[Stealth]] [[Skill Check|checks]].<br>It is [[Destroyed Gear|destroyed]] if it reaches **0** [[Health]].
+		- _[[Hero Points|Cost]]_ — **1**.
+	- ***[[SoC • Helmet - Iron Helm|Iron Helm]]***:
+		- _[[Equiped Gears's Health|Health]]_ — **1**, **1**.
+		- _[[Armor Class (AC)|Bonus AC]]_ — **+1**.
+		- _[[Hero Points|Cost]]_ — **1**.
+- ***Inventory***:
+	- [[SoC • Item - Rations|Rations]] (_[[Hero Points|Cost]]_ — **1**):
+		- [ ] **1 count**.
+		- [ ] **1 count**.
+		- [ ] **1 count**.
+	- [[SoC • Item - Rations|Rations]] (_[[Hero Points|Cost]]_ — **1**):
+		- [ ] **1 count**.
+		- [ ] **1 count**.
+		- [ ] **1 count**.
+	- [[SoC • Item - Rations|Rations]] (_[[Hero Points|Cost]]_ — **1**):
+		- [ ] **1 count**.
+		- [ ] **1 count**.
+		- [ ] **1 count**.
+- ***Companions***: _None_
+- ***Lineage***: _Human_ 
+
+----
+### Total Cost 
+- ***Flaws***: **-15 pts** 
+- ***Core Ability***: **20 pts** 
+- ***Additional Health***: **5 pts** 
+- ***Skills***: **30 pts** 
+- ***Spells***: **5 pts** 
+- ***Equipment***: **2 pts** 
+- ***Inventory***: **3 pts** 
+- ***Companions***: **0 pts** 
+- **TOT**: **50/50 pts 

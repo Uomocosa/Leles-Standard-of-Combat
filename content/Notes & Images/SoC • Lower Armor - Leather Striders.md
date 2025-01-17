@@ -1,0 +1,13 @@
+---
+aliases:
+  - Leather Striders
+---
+- ***Image***:<br>![[SoC • Lower Armor - Leather Striders (Image).png|222]]
+- ***Info***: Lower Armor
+- ***Cost***: 1 
+- ***Description***:<br>Health — **1**<br>Bonus AC — **+1**
+- ***Color***: artifact 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Leather Striders.png]]

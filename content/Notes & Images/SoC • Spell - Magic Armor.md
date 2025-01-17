@@ -1,0 +1,15 @@
+---
+aliases:
+  - Magic Armor
+---
+- ***Image***:<br>![[SoC • Spell - Magic Armor (Image).png|222]]
+- ***Info***: Spell - Action 
+- ***Cost***: 12 
+- ***Description***:<br>Add +3 Defense for 1 day. 
+- ***Effects***: [[SoC • Rune - Duration|Duration-3]], [[SoC • Basic Spell - Mage's Armor|Mage's Armor]]
+- ***Limitations***:  
+- ***Color***: Artifact 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Magic Armor.png]]

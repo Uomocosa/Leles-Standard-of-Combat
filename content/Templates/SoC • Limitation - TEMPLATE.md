@@ -1,0 +1,11 @@
+---
+aliases:
+  - Same name here
+---
+- ***Image***:<br>
+- ***Info***: Limitation - Cannot be customized
+- ***Cost***:  
+- ***Description***:<br>When you have learned this spell you were also binded to a magical contract, imposing a condition or task that must be fulfilled in a certain time limit, decide with your **GM**. 
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: blue 

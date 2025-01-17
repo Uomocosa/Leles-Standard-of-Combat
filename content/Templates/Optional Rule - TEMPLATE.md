@@ -1,0 +1,1 @@
+- *(Optional Rule) — Rule Name*:<br>When a certain piece of [[Custom Equipment|Gear]] reaches 0 health, it is [[Destroyed Gear|Destroyed]]. ^optional-rule-rule-name

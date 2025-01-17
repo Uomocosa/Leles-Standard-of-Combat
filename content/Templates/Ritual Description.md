@@ -1,0 +1,1 @@
+<br>*Ritual* — Roll three [[Arcane]] [[Skill Check|Skill Checks]] with [[Skills|DC]] **15**, if one or more fails, so does the spell, however it it fails this way, it is not consumed.<br>

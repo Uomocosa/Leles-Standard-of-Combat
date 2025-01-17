@@ -1,0 +1,15 @@
+---
+aliases:
+  - Greedy
+---
+- ***Image***:<br>![[SoC • Flaw - Greedy (Image).png|222]]
+- ***Info***: Flaw
+- ***Cost***:
+- ***Description***:<br>Tempted by treasure, roll **6** or more on a **d20** to resist the urge. 
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: red 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Greedy.png]]

@@ -1,0 +1,17 @@
+---
+aliases:
+  - Ward
+  - Ward-2
+  - Ward-3
+---
+- ***Image***:<br>![[Pasted image 20250102221632.png|100]]
+- ***Info***: Rune - Ward 
+- ***Cost***: 3 
+- ***Description***:<br>Prevent passage of a specified creature or person through a portal or passage. 
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: white 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Ward.png]]

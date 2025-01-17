@@ -1,0 +1,16 @@
+---
+aliases:
+  - Mage's Armor
+---
+- ***Image***:<br>![[SoC • Basic Spell - Mage's Armor (Image).png|222]]
+- ***Info***: [[Basic Spells|Basic Spell]] - Action 
+- ***Cost***: 3 
+- ***Description***:<br>Add **+3** [[Armor Class (AC)|AC]] for **1** [[Phases of Combat|round]]. 
+- ***Effects***: [[SoC • Rune - Defense|Defense]]
+- ***Limitations***: 
+- ***Color***: blue 
+- _**Prompt** [ChatGPT](https://chatgpt.com/?model=auto)_: I need a 2D minimalistic fantasy illustration, in a minimal graphic style with white and black color, and a clean white background. It represents the spell ***Mage's Armor***, with the following effect: Add **+3** Defense for **1** [[Phases of Combat|round]]. Add the words "***Mage's Armor***" under the image in a stylish font.
+
+
+----
+- ***Card***:<br>![[SoC • Card - Mages Armor.png]]

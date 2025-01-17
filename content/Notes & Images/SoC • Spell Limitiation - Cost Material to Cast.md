@@ -1,0 +1,15 @@
+---
+aliases:
+  - Cost material to cast
+---
+- ***Image***:<br>![[Pasted image 20250112233639.png|100]]
+- ***Info***: Limitation - Cost material to cast
+- ***Cost***:  
+- ***Description***:<br>When cast, one item in your inventory is [[Destroyed Gear|destroyed]]... a powerful reagent like a crystal or crushed bone. 
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: blue 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Cost Material to Cast.png]]

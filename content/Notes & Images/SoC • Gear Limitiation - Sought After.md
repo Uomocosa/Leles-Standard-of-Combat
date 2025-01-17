@@ -1,0 +1,15 @@
+---
+aliases:
+  - Sought after
+---
+- ***Image***:<br>![[Pasted image 20250112233237.png|100]]
+- ***Info***: Limitation - Sought after
+- ***Cost***:  
+- ***Description***:<br>There are nefarious folk seeking this gear. 
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: black
+
+
+----
+- ***Card***:<br>![[SoC • Card - Sought After.png]]

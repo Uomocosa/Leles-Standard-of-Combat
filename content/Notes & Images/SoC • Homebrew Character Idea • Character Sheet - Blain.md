@@ -1,0 +1,91 @@
+---
+aliases:
+  - Character Sheet
+  - Blain
+---
+![[IMAGE.png]]
+
+### Character Sheet
+- ***[[Flaws]]***: _[[SoC • Flaw - Employed|Employed]], [[SoC • Flaw - Stubborn|Stubborn]], [[Flaw • Homebrew - Metal Heart|Metal Heart (Homebrew)]]_.
+- ***[[Core Ability]]***: _None_.
+- ***[[Enemy Primer|AC]]***: **20** (_from: [[Armor Class (AC)|6]] + [[Flaw • Homebrew - Metal Heart|1]] + [[SoC • Homebrew • Upper Armor - Titanium Armor|4]] + [[SoC • Helmet - Heavy Helm|3]] + [[SoC • Lower Armor - Scale Greaves|3]] + [[SoC • Shield - Tower Shield|3]]_)
+- ***[[Additional Health]]***: **0**. (_[[Flaw • Homebrew - Metal Heart|You cannot add any Additional Health!]]_)
+- ***[[Health|Total Health]]***: 
+	- [ ] ***5***. (_**[[Health|Upper Armor's Health]]**_)
+	- [ ] ***3***. (_**[[Health|Upper Armor's Health]]**_)
+	- [ ] ***3***. (_**[[Health|Upper Armor's Health]]**_)
+	- [ ] ***3***. (_**[[Health|Upper Armor's Health]]**_)
+	- [ ] ***3***. (_**[[Health|Upper Armor's Health]]**_)
+	- [ ] ***2***. (_**[[Health|Upper Armor's Health]]**_)
+	- [ ] ***3***. (_[[Health|Helmet's Health]]_)
+	- [ ] ***2***. (_[[Health|Helmet's Health]]_)
+	- [ ] ***3***. (_[[Health|Lower Armor's Health]]_)
+	- [ ] ***2***. (_[[Health|Lower Armor's Health]]_)
+	- [ ] ***1***. (_[[Health|Lower Armor's Health]]_)
+	- [ ] ***5***. (_[[Health|Shield's Health]]_)
+	- [ ] ***3***. (_[[Health|Shield's Health]]_)
+- ***[[Skills]]***:
+	- [[Arcane]] **3** (_[[Skills#Skill Modifiers (Bonus or Malus)|MOD.]]: **+1**_)
+	- [[Force]] **12** (_[[Skills#Skill Modifiers (Bonus or Malus)|MOD.]]: **+5**_)
+- ***Spells***:
+	- [ ] [[SoC • Spell - Magic Armor|Magic Armor]] (_[[Hero Points|Cost]]_ — **12**) 
+	- [ ] [[SoC • Spell - Mending|Mending]] (_[[Hero Points|Cost]]_ — **1**) 
+	- [ ] [[SoC • Spell - Mending|Mending]] (_[[Hero Points|Cost]]_ — **1**) 
+	- [ ] [[SoC • Spell - Mending|Mending]] (_[[Hero Points|Cost]]_ — **1**) 
+- ***Equipment***:
+	- ***[[SoC • Homebrew • Upper Armor - Titanium Armor|Titanium Armor]]***:
+		- _[[Equiped Gears's Health|Health]]_ — **5**, **3**, **3**, **3**, **3**, **2**.
+		- _[[Armor Class (AC)|Bonus AC]]_ — **+4**.
+		- Require at least 12 points in [[Force]].<br>You cannot [[Types of Movments|swim]], and have [[Homebrew Rule - Advantange • Disadvantage|Disadvantage]] on all [[Stealth]] and [[Dexterity]] checks.<br>_Cold Forged_ — This metal equipment is immune to corrosion of all kinds and is much more difficult to [[Destroyed Gear|destroy]].
+		- _[[Hero Points|Cost]]_ — **17**.
+	- ***[[SoC • Helmet - Heavy Helm|Heavy Helm]]***:
+		- _[[Equiped Gears's Health|Health]]_ — **3**, **2**.
+		- _[[Armor Class (AC)|Bonus AC]]_ — **+3**.
+		- Your vision is obstructed, [[Homebrew Rule - Advantange • Disadvantage|Disadvantage]] on all [[Dexterity]] [[Skill Check|checks]].
+		- _[[Hero Points|Cost]]_ — **3**.
+	- ***[[SoC • Lower Armor - Scale Greaves|Scale Greaves]]***:
+		- _[[Equiped Gears's Health|Health]]_ — **3**, **2**, **1**.
+		- _[[Armor Class (AC)|Bonus AC]]_ — **+3**.
+		- Require at least 6 points in [[Force]].<br>**Complex**, [[Homebrew Rule - Advantange • Disadvantage|Disadvantage]] on [[Forging]] [[Skill Check|checks]] made on this gear (for making, upgrading, [[Healing and Repair|Repairing]], ...)
+		- _[[Hero Points|Cost]]_ — **5**.
+	- ***[[SoC • Shield - Tower Shield|Tower Shield]]***:
+		- _[[Equiped Gears's Health|Health]]_ — **5**, **3**.
+		- _[[Armor Class (AC)|Bonus AC]]_ — **+3**.
+		- Require at least 12 points in [[Force]].<br>Ignore all attack that deals exactly **1** damage.<br>You cannot [[Types of Movments|swim]], and have [[Homebrew Rule - Advantange • Disadvantage|Disadvantage]] on all [[Stealth]] and [[Dexterity]] checks.
+		- _[[Hero Points|Cost]]_ — **7**.
+- ***Inventory***:
+	- [[SoC • Item - Oil Flask|Oil Flask]] (_[[Hero Points|Cost]]_ — **1**):
+		- [ ] **1 count**.
+		- [ ] **1 count**.
+		- [ ] **1 count**.
+	- [[SoC • Item - Oil Flask|Oil Flask]] (_[[Hero Points|Cost]]_ — **1**):
+		- [ ] **1 count**.
+		- [ ] **1 count**.
+		- [ ] **1 count**.
+	- [[SoC • Item - Oil Flask|Oil Flask]] (_[[Hero Points|Cost]]_ — **1**):
+		- [ ] **1 count**.
+		- [ ] **1 count**.
+		- [ ] **1 count**.
+- ***Companions***:
+- ***Lineage***: *Warforged* 
+
+----
+### Possible Future Upgrades
+- [[Custom Spells|Upgrades]] to [[SoC • Spell - Magic Armor|Magic Armor]].
+- Add new [[Custom Spells|Spell]], like:
+	- [[SoC • Basic Spell - Invisible Wall|Invisible Wall]] (_[[Hero Points|Cost]]_ — **3**). 
+	- [[SoC • Spell - Magic Shield|Magic Shield]] (_[[Hero Points|Cost]]_ — **9**). 
+- Add points to any [[Skills|Skill]] 
+- **Companions**:
+	- *Grundar* — a very skillfull blacksmith.
+	- *Edwin* — a young illusionist, the boy to protect.
+----
+### Total Cost 
+- ***Flaws***: **-15 pts** 
+- ***Core Ability***: **0 pts** 
+- ***Skills***: **15 pts** 
+- ***Spells***: **15 pts** 
+- ***Equipment***: **32 pts** 
+- ***Inventory***: **3 pts** 
+- ***Companions***: **0 pts** 
+- **TOT**: **50/50 pts 

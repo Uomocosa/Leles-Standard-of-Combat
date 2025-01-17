@@ -1,0 +1,13 @@
+---
+aliases:
+  - Small Boat
+---
+- ***Image***:<br>![[SoC • Item - Small Boat (Image).png|222]]
+- ***Info***: Large Item 
+- ***Cost***: 15 
+- ***Description***:<br>Holds 4 people, barely seaworthy, sneaky.
+- ***Color***: Artifact 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Small Boat.png]]

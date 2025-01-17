@@ -1,0 +1,15 @@
+---
+aliases:
+  - Arcane Lock
+---
+- ***Image***:<br>![[SoC • Spell - Arcane Lock (Image).png|222]]
+- ***Info***: [[Basic Spells|Basic Spell]] - Action 
+- ***Cost***: 3 
+- ***Description***:<br>A glyph used to permanently seal a door. 
+- ***Effects***: [[SoC • Rune - Ward|Ward]]
+- ***Limitations***: 
+- ***Color***: artifact 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Arcane Lock.png]]

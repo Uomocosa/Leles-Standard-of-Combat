@@ -1,0 +1,13 @@
+---
+aliases:
+  - Iron Helm
+---
+- ***Image***:<br>![[SoC • Helmet - Iron Helm (Image).png|222]]
+- ***Info***: Helmet
+- ***Cost***: 1 
+- ***Description***:<br>Health — **1**, **1**<br>Bonus AC — **+1** ^description
+- ***Color***: Artifact 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Iron Helm.png]]

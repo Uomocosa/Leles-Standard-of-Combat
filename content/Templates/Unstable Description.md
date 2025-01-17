@@ -1,0 +1,1 @@
+<br>_Unstable_ — When you cast this spell roll an [[Arcane]] [[Skill Check]] with [[Skills|DC]] **15**, roll on the [[Unstable Magic|Unstable Magic Table]].<br>

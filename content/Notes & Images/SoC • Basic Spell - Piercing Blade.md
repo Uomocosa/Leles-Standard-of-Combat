@@ -1,0 +1,15 @@
+---
+aliases:
+  - Piercing Blade
+---
+- ***Image***:<br>![[SoC • Spell - Piercing Blade (Image).png|222]]
+- ***Info***: [[Basic Spells|Basic Spell]] - Action 
+- ***Cost***: 3 
+- ***Description***:<br>Enchant a weapon. It is [[SoC • Gear Effect - Deadly|Deadly]]. 
+- ***Effects***: [[SoC • Rune - Enchant|Enchant]]
+- ***Limitations***: 
+- ***Color***: red 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Piercing Blade.png]]

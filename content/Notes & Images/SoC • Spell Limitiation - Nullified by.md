@@ -1,0 +1,15 @@
+---
+aliases:
+  - Nullified by
+---
+- ***Image***:<br>![[Pasted image 20250112233205.png|100]]
+- ***Info***: Limitation - Nullified by
+- ***Cost***:  
+- ***Description***:<br>Has no effect on a specific type of target or target property. 
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: blue 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Nullified by.png]]

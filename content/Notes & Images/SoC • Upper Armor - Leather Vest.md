@@ -1,0 +1,13 @@
+---
+aliases:
+  - Leather Vest
+---
+- ***Image***:<br>![[SoC • Lower Armor - Leather Vest (Image).png|222]]
+- ***Info***: Upper Armor
+- ***Cost***: 2 
+- ***Description***:<br>Health — **3**, **2**<br>Bonus AC — **+2** ^description
+- ***Color***: Artifact 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Leather Vest.png]]

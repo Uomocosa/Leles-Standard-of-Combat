@@ -1,0 +1,13 @@
+---
+aliases:
+  - Caltrops
+---
+- ***Image***:<br>![[SoC • Item - Caltrops (Image).png|222]]
+- ***Info***: Item 
+- ***Cost***: 1 
+- ***Description***:<br>3 uses, spiked floor-scatter, inflicts **1d4**.
+- ***Color***: artifact 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Caltrops.png]]

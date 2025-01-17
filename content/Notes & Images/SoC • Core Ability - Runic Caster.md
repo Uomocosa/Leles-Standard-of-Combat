@@ -1,0 +1,16 @@
+---
+aliases:
+  - Runic Caster
+---
+- ***Image***:<br>![[SoC • Core Ability - Runic Caster (Image).png|222]]
+- ***Info***: Core Ability
+- ***Cost***: 20
+- ***Description***:<br>You’ve discovered a unique way to channel magical power, crafting spells tailored to each situation:<br>• ***Spell Limitation*** — Choose one [[Custom Spells#Spell Limitation List|Spell Limitation]], except "[[SoC • Spell Limitiation - Cannot be Customized|Cannot be customized]]". All magic cast using your runes will have this limitation.<br>• ***Rune Inscription*** — Spend **hero points** and **24 hours** (non-consecutive, between adventures) to inscribe runes on your body, in a book, or on any surface you carry. Each rune represents a [[Custom Spells|Spell Effect]] and costs the same to inscribe. You cannot inscribe runes for the [[SoC • Rune - Lasting|Lasting]] or [[SoC • Rune - Recast|Recast]] effects.<br>• ***Casting Runes*** — At any time, expend one or more runes to create a [[Custom Spells|Custom Spell]] or modify an existing spell (e.g., a [[Basic Spells|Basic Spell]]) on the fly and cast it, this custom spell follows the same rules as any other Custom Spell.<br>• ***Rune Recovery*** — All expended runes are restored after a [night of rest](#Rest-Recovery). 
+- ***Flavor***: This ability is recommended for experienced players, as creating custom spells can slow gameplay. Consult your **GM** before selecting this core ability.
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: blue 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Runic Caster.png]]

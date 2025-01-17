@@ -1,0 +1,15 @@
+---
+aliases:
+  - Cannot be targeted
+---
+- ***Image***:<br>![[Pasted image 20250112233319.png|100]]
+- ***Info***: Limitation - Cannot be targeted
+- ***Cost***:  
+- ***Description***:<br>Spell always flies wild. Use dice for direction, or randomly select from available targets. 
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: red 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Cannot be Targeted.png]]

@@ -1,0 +1,13 @@
+---
+aliases:
+  - Iron Grevails
+---
+- ***Image***:<br>![[SoC • Lower Armor - Iron Grevails (Image).png|222]]
+- ***Info***: Lower Armor
+- ***Cost***: 2 
+- ***Description***:<br>Health — **1**, **1**<br>Bonus AC — **+2**
+- ***Color***: artifact 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Iron Grevails.png]]

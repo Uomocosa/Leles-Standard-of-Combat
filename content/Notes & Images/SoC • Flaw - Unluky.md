@@ -1,0 +1,16 @@
+---
+aliases:
+  - Unluky
+---
+- ***Image***:<br>![[SoC • Flaw - Unluky (Image).png|222]]
+- ***Info***: Flaw
+- ***Cost***: 
+- ***Description***:<br>No matter how many rabbit’s feet you carry, you have a penchant for comical mishaps.<br>You [[The Extremes|critically fail]] also if you roll a **2** on a **d20**. 
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: artifact 
+- _**Prompt** [ChatGPT](https://chatgpt.com/?model=auto)_: I need a 2D minimalistic fantasy illustration, in a minimal graphic style with white and black color, and a clean white background. It represents the core ability: ***Unluky***. It has the following effect: '_No matter how many rabbit’s feet you carry, you have a penchant for comical mishaps._' Add the words "***Unluky***" under the image in a stylish font, they must be clearely visible.
+
+
+----
+- ***Card***:<br>![[SoC • Card - Unluky.png]]

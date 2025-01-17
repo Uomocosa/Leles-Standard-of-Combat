@@ -1,0 +1,13 @@
+---
+aliases:
+  - Barbed Whip
+---
+- ***Image***:<br>![[Pasted image 20250109163045.png|222]]
+- ***Info***: Weapon
+- ***Cost***: 5 
+- ***Description***:<br>Health — **2**, **1**<br>Damage — **1d6**<br>Causes [[SoC • Gear Effect - Bleed|Bleeding]] (if it inflicts a [[flesh wound]], the target takes **1d4** damage for **2** rounds.)
+- ***Color***: Artifact 
+
+
+----
+- ***Card***:<br>![[SoC • Card - Barbed Whip.png]]
