@@ -9,6 +9,5 @@ aliases:
 - ***Effects***: [[SoC • Rune - Restore|Restore]]
 - ***Limitations***: 
 - ***Color***: white 
-
 ----
-- ***Card***:![[SoC • Card - Healing Light.png|550]]
+- ***Card***:<br>![[SoC • Card - Healing Light.png|550]]

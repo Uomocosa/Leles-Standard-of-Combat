@@ -11,6 +11,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: white 
-
 ----
-- ***Card***:![[SoC • Card - Mend.png|550]]
+- ***Card***:<br>![[SoC • Card - Mend.png|550]]

@@ -9,6 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: white
-
 ----
-- ***Card***:![[SoC • Card - Heavy.png|550]]
+- ***Card***:<br>![[SoC • Card - Heavy.png|550]]

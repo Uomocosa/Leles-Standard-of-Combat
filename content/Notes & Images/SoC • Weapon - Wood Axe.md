@@ -7,6 +7,5 @@ aliases:
 - ***Cost***: 2 
 - ***Description***:<br>Health — **2**<br>Damage — **1d6**<br>Can be thrown (**9m**), when you do so you can use [[Dexterity]] for the [[Combat Damage|Attack Roll]], or [[Force]] as usual. 
 - ***Color***: Artifact 
-
 ----
-- ***Card***:![[SoC • Card - Wood Axe.png|550]]
+- ***Card***:<br>![[SoC • Card - Wood Axe.png|550]]

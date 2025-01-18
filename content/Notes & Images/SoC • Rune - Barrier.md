@@ -11,6 +11,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: artifact 
-
 ----
-- ***Card***:![[SoC • Card - Barrier.png|550]]
+- ***Card***:<br>![[SoC • Card - Barrier.png|550]]

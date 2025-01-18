@@ -7,6 +7,5 @@ aliases:
 - ***Cost***: 3 
 - ***Description***:<br>Health — **3**, **2**<br>Bonus AC — **+3**<br>Your vision is obstructed, [[Homebrew Rule - Advantange • Disadvantage|Disadvantage]] on all [[Dexterity]] [[Skill Check|checks]].
 - ***Color***: Artifact 
-
 ----
-- ***Card***:![[SoC • Card - Heavy Helm.png|550]]
+- ***Card***:<br>![[SoC • Card - Heavy Helm.png|550]]

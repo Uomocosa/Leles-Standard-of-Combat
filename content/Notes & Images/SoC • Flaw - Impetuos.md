@@ -9,6 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: red 
-
 ----
-- ***Card***:![[SoC • Card - Impetuos.png|550]]
+- ***Card***:<br>![[SoC • Card - Impetuos.png|550]]

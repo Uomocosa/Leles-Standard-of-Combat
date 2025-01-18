@@ -9,6 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 
-
 ----
-- ***Card***:![[SoC • Card - Elemental Anchor.png|550]]
+- ***Card***:<br>![[SoC • Card - Elemental Anchor.png|550]]

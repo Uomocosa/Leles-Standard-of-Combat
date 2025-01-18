@@ -7,6 +7,5 @@ aliases:
 - ***Cost***: 3 
 - ***Description***:<br>1 Firearm never empty, ruined if wet.
 - ***Color***: artifact 
-
 ----
-- ***Card***:![[SoC • Card - Powder Kit.png|550]]
+- ***Card***:<br>![[SoC • Card - Powder Kit.png|550]]

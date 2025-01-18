@@ -9,6 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: white 
-
 ----
-- ***Card***:![[SoC • Card - Just a Kid.png|550]]
+- ***Card***:<br>![[SoC • Card - Just a Kid.png|550]]

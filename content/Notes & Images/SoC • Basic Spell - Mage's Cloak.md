@@ -9,6 +9,5 @@ aliases:
 - ***Effects***: [[SoC • Rune - Enchant|Enchant]]
 - ***Limitations***: 
 - ***Color***: blue 
-
 ----
-- ***Card***:![[SoC • Card - Mages Cloak.png|550]]
+- ***Card***:<br>![[SoC • Card - Mages Cloak.png|550]]

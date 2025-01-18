@@ -9,6 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 
-
 ----
-- ***Card***:![[SoC • Card - Only Works on Specific Target Type.png|550]]
+- ***Card***:<br>![[SoC • Card - Only Works on Specific Target Type.png|550]]

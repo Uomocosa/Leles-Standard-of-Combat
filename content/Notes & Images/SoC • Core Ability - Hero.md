@@ -10,6 +10,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: white 
-
 ----
-- ***Card***:![[SoC • Card - Hero.png|550]]
+- ***Card***:<br>![[SoC • Card - Hero.png|550]]

@@ -7,6 +7,5 @@ aliases:
 - ***Cost***: 5 
 - ***Description***:<br>Transports 2 people at 4x walking speed.
 - ***Color***: white 
-
 ----
-- ***Card***:![[SoC • Card - Horse.png|550]]
+- ***Card***:<br>![[SoC • Card - Horse.png|550]]

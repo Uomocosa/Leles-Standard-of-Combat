@@ -9,6 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 
-
 ----
-- ***Card***:![[SoC • Card - Painful.png|550]]
+- ***Card***:<br>![[SoC • Card - Painful.png|550]]

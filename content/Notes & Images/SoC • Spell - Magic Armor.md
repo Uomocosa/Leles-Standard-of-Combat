@@ -9,6 +9,5 @@ aliases:
 - ***Effects***: [[SoC • Rune - Duration|Duration-3]], [[SoC • Basic Spell - Mage's Armor|Mage's Armor]]
 - ***Limitations***:  
 - ***Color***: Artifact 
-
 ----
-- ***Card***:![[SoC • Card - Magic Armor.png|550]]
+- ***Card***:<br>![[SoC • Card - Magic Armor.png|550]]

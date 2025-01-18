@@ -9,6 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 
-
 ----
-- ***Card***:![[SoC • Card - Takes One Round to Cast.png|550]]
+- ***Card***:<br>![[SoC • Card - Takes One Round to Cast.png|550]]

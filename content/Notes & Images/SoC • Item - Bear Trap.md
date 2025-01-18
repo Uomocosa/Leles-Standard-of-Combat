@@ -7,6 +7,5 @@ aliases:
 - ***Cost***: 2 
 - ***Description***:<br>1 count, [[Skills|DC]] **15** ([[Force]]) to escape.
 - ***Color***: artifact 
-
 ----
-- ***Card***:![[SoC • Card - Bear Trap.png|550]]
+- ***Card***:<br>![[SoC • Card - Bear Trap.png|550]]

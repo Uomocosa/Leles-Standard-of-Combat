@@ -7,6 +7,5 @@ aliases:
 - ***Cost***: 1 
 - ***Description***:<br>Cannot [[Sleight of Hand|pick locks]] without these tools.
 - ***Color***: black 
-
 ----
-- ***Card***:![[SoC • Card - Lockpicks.png|550]]
+- ***Card***:<br>![[SoC • Card - Lockpicks.png|550]]

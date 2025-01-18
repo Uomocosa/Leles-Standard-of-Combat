@@ -7,6 +7,5 @@ aliases:
 - ***Cost***: 5 
 - ***Description***:<br>Health — **3**<br>Damage — **1d8**<br>Requires 6 points in [[Force]] and 6 points in [[Dexterity]].<br>If you deal **8 or more** damage with this weapon, you can [[Combat Damage|Attack]] again, a different target. 
 - ***Color***: Artifact 
-
 ----
-- ***Card***:![[SoC • Card - Scimitar.png|550]]
+- ***Card***:<br>![[SoC • Card - Scimitar.png|550]]

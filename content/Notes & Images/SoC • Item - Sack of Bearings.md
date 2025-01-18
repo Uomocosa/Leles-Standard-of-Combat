@@ -7,6 +7,5 @@ aliases:
 - ***Cost***: 1 
 - ***Description***:<br>A pouch of 3 dozen metal balls.
 - ***Color***: artifact 
-
 ----
-- ***Card***:![[SoC • Card - Sack of Bearings.png|550]]
+- ***Card***:<br>![[SoC • Card - Sack of Bearings.png|550]]

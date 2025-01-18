@@ -11,6 +11,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: white 
-
 ----
-- ***Card***:![[SoC • Card - Clairvoyance.png|550]]
+- ***Card***:<br>![[SoC • Card - Clairvoyance.png|550]]

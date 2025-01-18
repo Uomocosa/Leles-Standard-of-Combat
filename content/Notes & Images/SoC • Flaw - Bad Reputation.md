@@ -9,6 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: black 
-
 ----
-- ***Card***:![[SoC • Card - Bad Reputation.png|550]]
+- ***Card***:<br>![[SoC • Card - Bad Reputation.png|550]]

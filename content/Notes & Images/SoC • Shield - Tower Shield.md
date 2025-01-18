@@ -7,6 +7,5 @@ aliases:
 - ***Cost***: 7 
 - ***Description***:<br>Health — **5**, **3**<br>Bonus AC — **+3**<br>Require at least 12 points in [[Force]]. Ignore all attack that deals exactly **1** damage. You cannot [[Types of Movments|swim]], and have [[Homebrew Rule - Advantange • Disadvantage|Disadvantage]] on all [[Stealth]] and [[Dexterity]] checks.
 - ***Color***: White 
-
 ----
-- ***Card***:![[SoC • Card - Tower Shield.png|550]]
+- ***Card***:<br>![[SoC • Card - Tower Shield.png|550]]

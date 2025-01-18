@@ -9,3 +9,6 @@ aliases:
 - ***Rarity***: special
 ----
 - ***Card***:![[SoC • Card - Dragon.png|550]]
+
+----
+- ***Card***:<br>![[SoC • Card - Dragon.png|550]]

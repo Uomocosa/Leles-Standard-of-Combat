@@ -7,6 +7,5 @@ aliases:
 - ***Cost***: 1 
 - ***Description***:<br>125cm length, breaks on crit fail usage.
 - ***Color***: artifact 
-
 ----
-- ***Card***:![[SoC • Card - Rope.png|550]]
+- ***Card***:<br>![[SoC • Card - Rope.png|550]]

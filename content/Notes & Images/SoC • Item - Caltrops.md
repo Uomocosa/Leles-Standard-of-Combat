@@ -7,6 +7,5 @@ aliases:
 - ***Cost***: 1 
 - ***Description***:<br>3 uses, spiked floor-scatter, inflicts **1d4**.
 - ***Color***: artifact 
-
 ----
-- ***Card***:![[SoC • Card - Caltrops.png|550]]
+- ***Card***:<br>![[SoC • Card - Caltrops.png|550]]

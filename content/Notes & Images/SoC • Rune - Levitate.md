@@ -11,6 +11,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 
-
 ----
-- ***Card***:![[SoC • Card - Levitate.png|550]]
+- ***Card***:<br>![[SoC • Card - Levitate.png|550]]

@@ -12,9 +12,8 @@ aliases:
 - ***Limitations***: 
 - ***Color***: Black 
 
-
-----
-- ***Card***:<br>![[SoC • Card - Camouflage.png]]
-
 ----
 - ***Card***:![[SoC • Card - Camouflage.png|550]]
+
+----
+- ***Card***:<br>![[SoC • Card - Camouflage.png|550]]

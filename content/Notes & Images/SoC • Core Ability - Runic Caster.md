@@ -10,6 +10,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 
-
 ----
-- ***Card***:![[SoC • Card - Runic Caster.png|550]]
+- ***Card***:<br>![[SoC • Card - Runic Caster.png|550]]

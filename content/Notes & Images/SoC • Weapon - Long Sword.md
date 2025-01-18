@@ -7,6 +7,5 @@ aliases:
 - ***Cost***: 2 
 - ***Description***:<br>Health — **3**<br>Damage — **1d8**<br>If you roll max damage, roll again. 
 - ***Color***: Artifact 
-
 ----
-- ***Card***:![[SoC • Card - Long Sword.png|550]]
+- ***Card***:<br>![[SoC • Card - Long Sword.png|550]]

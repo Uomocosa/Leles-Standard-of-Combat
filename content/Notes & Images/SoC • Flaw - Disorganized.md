@@ -9,6 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: green
-
 ----
-- ***Card***:![[SoC • Card - Disorganized.png|550]]
+- ***Card***:<br>![[SoC • Card - Disorganized.png|550]]

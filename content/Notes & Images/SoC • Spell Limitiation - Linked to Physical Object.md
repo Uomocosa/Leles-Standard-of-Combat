@@ -9,6 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 
-
 ----
-- ***Card***:![[SoC • Card - Linked to Physical Object.png|550]]
+- ***Card***:<br>![[SoC • Card - Linked to Physical Object.png|550]]

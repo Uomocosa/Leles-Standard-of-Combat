@@ -9,6 +9,5 @@ aliases:
 - ***Effects***: [[SoC • Rune - Duration|Duration]], [[SoC • Rune - Summon|Summon-2]]
 - ***Limitations***: [[SoC • Spell Limitiation - Maddening|Maddening]]
 - ***Color***: black 
-
 ----
-- ***Card***:![[SoC • Card - Delirious Eldrich Buffalo.png|550]]
+- ***Card***:<br>![[SoC • Card - Delirious Eldrich Buffalo.png|550]]

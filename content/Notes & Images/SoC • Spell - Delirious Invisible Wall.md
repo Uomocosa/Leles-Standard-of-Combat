@@ -11,3 +11,6 @@ aliases:
 - ***Color***: artifact 
 ----
 - ***Card***:![[SoC • Card - Delirious Invisible Wall.png|550]]
+
+----
+- ***Card***:<br>![[SoC • Card - Delirious Invisible Wall.png|550]]

@@ -9,6 +9,5 @@ aliases:
 - ***Effects***: [[SoC • Rune - Mend|Mend]]
 - ***Limitations***: [[SoC • Spell Limitiation - Ritual|Ritual]]
 - ***Color***: white
-
 ----
-- ***Card***:![[SoC • Card - Mending.png|550]]
+- ***Card***:<br>![[SoC • Card - Mending.png|550]]

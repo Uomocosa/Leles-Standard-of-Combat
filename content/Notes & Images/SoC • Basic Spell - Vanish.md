@@ -9,6 +9,5 @@ aliases:
 - ***Effects***: [[SoC • Rune - Obscure|Obscure-2]]
 - ***Limitations***: 
 - ***Color***: black 
-
 ----
-- ***Card***:![[SoC • Card - Vanish.png|550]]
+- ***Card***:<br>![[SoC • Card - Vanish.png|550]]

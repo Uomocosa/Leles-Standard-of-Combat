@@ -11,6 +11,5 @@ aliases:
 - ***Limitations***: [[SoC • Spell Limitiation - Linked to Physical Object|Linked to physical object]]
 - ***Color***: white 
 - _**Prompt** [ChatGPT](https://chatgpt.com/?model=auto)_: I need a 2D minimalistic fantasy illustration, in a minimal graphic style with white and black color, and a clean white background. It represents the spell ***Orla's Teapot***, with the following effect: A teapot celebrated in countless street songs, it is said that wherever its owner goes, laughter and cries of joy follow.<br>_Tea Time_ — At any time, you can use this magical teapot to brew a flawless cup of tea. However, the exact flavor is decided by your **GM**. When you pour the tea, the teapot also magically produces cookies that perfectly complement the brew. The teapot has no limit to how much tea and biscuits it can create, and they can fully substitute the [[SoC • Item - Rations|Rations]] you need to survive. Add the words "***Orla's Teapot***" under the image in a stylish font, they must be clearely visible.
-
 ----
-- ***Card***:![[SoC • Card - Orlas Teapot.png|550]]
+- ***Card***:<br>![[SoC • Card - Orlas Teapot.png|550]]

@@ -9,6 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: red 
-
 ----
-- ***Card***:![[SoC • Card - Cannot be Targeted.png|550]]
+- ***Card***:<br>![[SoC • Card - Cannot be Targeted.png|550]]

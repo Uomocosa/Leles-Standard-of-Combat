@@ -7,6 +7,5 @@ aliases:
 - ***Cost***: 1 
 - ***Description***:<br>Health — **1**, **1**<br>Bonus AC — **+1** ^description
 - ***Color***: Artifact 
-
 ----
-- ***Card***:![[SoC • Card - Iron Helm.png|550]]
+- ***Card***:<br>![[SoC • Card - Iron Helm.png|550]]

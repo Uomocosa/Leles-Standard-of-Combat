@@ -9,6 +9,5 @@ aliases:
 - ***Effects***: [[SoC • Rune - Adapt|Adapt]]
 - ***Limitations***: 
 - ***Color***: blue 
-
 ----
-- ***Card***:![[SoC • Card - Waterbreath.png|550]]
+- ***Card***:<br>![[SoC • Card - Waterbreath.png|550]]

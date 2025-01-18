@@ -11,3 +11,6 @@ aliases:
 - ***Color***: blue 
 ----
 - ***Card***:![[SoC • Card - Veil of Silence.png|550]]
+
+----
+- ***Card***:<br>![[SoC • Card - Veil of Silence.png|550]]

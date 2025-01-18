@@ -10,6 +10,5 @@ aliases:
 - ***Limitations***: 
 - ***Color***: blue 
 - _**Prompt** [ChatGPT](https://chatgpt.com/?model=auto)_: I need a 2D minimalistic fantasy illustration, in a minimal graphic style with white and black color, and a clean white background. It represents the spell ***Mage's Armor***, with the following effect: Add **+3** Defense for **1** [[Phases of Combat|round]]. Add the words "***Mage's Armor***" under the image in a stylish font.
-
 ----
-- ***Card***:![[SoC • Card - Mages Armor.png|550]]
+- ***Card***:<br>![[SoC • Card - Mages Armor.png|550]]

@@ -10,3 +10,6 @@ aliases:
 - ***Rarity***: common
 ----
 - ***Card***:![[SoC • Card - Spooky Scary Skeleton.png|550]]
+
+----
+- ***Card***:<br>![[SoC • Card - Spooky Scary Skeleton.png|550]]

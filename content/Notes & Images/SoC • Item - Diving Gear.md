@@ -7,6 +7,5 @@ aliases:
 - ***Cost***: 1 
 - ***Description***:<br>2 dive helms, spearguns, fins, marker buoy.
 - ***Color***: blue 
-
 ----
-- ***Card***:![[SoC • Card - Diving Gear.png|550]]
+- ***Card***:<br>![[SoC • Card - Diving Gear.png|550]]

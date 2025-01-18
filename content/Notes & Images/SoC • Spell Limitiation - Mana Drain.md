@@ -9,6 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 
-
 ----
-- ***Card***:![[SoC • Card - Mana Drain.png|550]]
+- ***Card***:<br>![[SoC • Card - Mana Drain.png|550]]

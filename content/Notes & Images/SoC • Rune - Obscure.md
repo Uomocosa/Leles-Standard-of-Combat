@@ -11,6 +11,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: black 
-
 ----
-- ***Card***:![[SoC • Card - Obscure.png|550]]
+- ***Card***:<br>![[SoC • Card - Obscure.png|550]]

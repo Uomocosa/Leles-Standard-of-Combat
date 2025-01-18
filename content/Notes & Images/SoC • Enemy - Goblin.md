@@ -8,6 +8,5 @@ aliases:
 - ***Flavor***: Do not understimate.
 - ***Color***: red 
 - ***Rarity***: common
-
 ----
-- ***Card***:![[SoC • Card - Goblin.png|550]]
+- ***Card***:<br>![[SoC • Card - Goblin.png|550]]

@@ -9,6 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: white 
-
 ----
-- ***Card***:![[SoC • Card - Veteran Commander.png|550]]
+- ***Card***:<br>![[SoC • Card - Veteran Commander.png|550]]

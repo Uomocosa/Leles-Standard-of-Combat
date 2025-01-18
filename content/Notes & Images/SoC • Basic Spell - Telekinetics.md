@@ -9,6 +9,5 @@ aliases:
 - ***Effects***: [[SoC • Rune - Psychokinesis|Psychokinesis]]
 - ***Limitations***: 
 - ***Color***: blue 
-
 ----
-- ***Card***:![[SoC • Card - Telekinetics.png|550]]
+- ***Card***:<br>![[SoC • Card - Telekinetics.png|550]]

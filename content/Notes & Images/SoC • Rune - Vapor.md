@@ -11,6 +11,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: black 
-
 ----
-- ***Card***:![[SoC • Card - Vapor.png|550]]
+- ***Card***:<br>![[SoC • Card - Vapor.png|550]]

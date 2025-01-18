@@ -11,6 +11,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: artifact 
-
 ----
-- ***Card***:![[SoC • Card - Transmute.png|550]]
+- ***Card***:<br>![[SoC • Card - Transmute.png|550]]

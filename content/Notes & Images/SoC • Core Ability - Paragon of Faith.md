@@ -9,6 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: white 
-
 ----
-- ***Card***:![[SoC • Card - Paragon of Faith.png|550]]
+- ***Card***:<br>![[SoC • Card - Paragon of Faith.png|550]]

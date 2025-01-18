@@ -11,6 +11,5 @@ aliases:
 - ***Effects***:
 - ***Limitations***: 
 - ***Color***: blue 
-
 ----
-- ***Card***:![[SoC • Card - Dispel.png|550]]
+- ***Card***:<br>![[SoC • Card - Dispel.png|550]]

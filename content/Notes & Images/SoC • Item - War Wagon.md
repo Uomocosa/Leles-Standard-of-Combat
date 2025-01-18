@@ -7,6 +7,5 @@ aliases:
 - ***Cost***: 25 
 - ***Description***:<br>An armored wagon for siege.
 - ***Color***: Red 
-
 ----
-- ***Card***:![[SoC • Card - War Wagon.png|550]]
+- ***Card***:<br>![[SoC • Card - War Wagon.png|550]]

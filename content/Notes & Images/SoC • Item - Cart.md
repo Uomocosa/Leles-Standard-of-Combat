@@ -7,6 +7,5 @@ aliases:
 - ***Cost***: 10 
 - ***Description***:<br>Can hold creatures, and crates filled with goods.
 - ***Color***: Artifact 
-
 ----
-- ***Card***:![[SoC • Card - Cart.png|550]]
+- ***Card***:<br>![[SoC • Card - Cart.png|550]]

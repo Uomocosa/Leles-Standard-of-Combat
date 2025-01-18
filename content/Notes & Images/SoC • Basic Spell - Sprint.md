@@ -9,6 +9,5 @@ aliases:
 - ***Effects***: [[SoC • Rune - Haste|Haste]]
 - ***Limitations***: 
 - ***Color***: red 
-
 ----
-- ***Card***:![[SoC • Card - Sprint.png|550]]
+- ***Card***:<br>![[SoC • Card - Sprint.png|550]]

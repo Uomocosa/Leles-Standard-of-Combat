@@ -10,6 +10,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: artifact 
-
 ----
-- ***Card***:![[SoC • Card - Specialist.png|550]]
+- ***Card***:<br>![[SoC • Card - Specialist.png|550]]

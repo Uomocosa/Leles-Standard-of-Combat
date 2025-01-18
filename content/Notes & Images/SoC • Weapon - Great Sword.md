@@ -7,6 +7,5 @@ aliases:
 - ***Cost***: 3 
 - ***Description***:<br>Health — **3,** **1**<br>Damage — **1d10**<br>Uses 2 hands. Requires at least 6 points in [[Force]].<br>If you roll max damage, roll again. 
 - ***Color***: Artifact 
-
 ----
-- ***Card***:![[SoC • Card - Great Sword.png|550]]
+- ***Card***:<br>![[SoC • Card - Great Sword.png|550]]

@@ -7,6 +7,5 @@ aliases:
 - ***Cost***: 1 
 - ***Description***:<br>3 counts (1 per day). Also contains flasks of water.
 - ***Color***: white 
-
 ----
-- ***Card***:![[SoC • Card - Rations.png|550]]
+- ***Card***:<br>![[SoC • Card - Rations.png|550]]

@@ -9,6 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: artifact 
-
 ----
-- ***Card***:![[SoC • Card - Upgraded.png|550]]
+- ***Card***:<br>![[SoC • Card - Upgraded.png|550]]

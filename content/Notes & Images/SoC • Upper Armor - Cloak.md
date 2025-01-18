@@ -7,6 +7,5 @@ aliases:
 - ***Cost***: 1 
 - ***Description***:<br>Health — **1**<br>Bonus AC — **+0**<br>[[Homebrew Rule - Advantange • Disadvantage|Advantage]] on all [[Stealth]] [[Skill Check|checks]].<br>It is [[Destroyed Gear|destroyed]] if it reaches **0** [[Health]].
 - ***Color***: Black 
-
 ----
-- ***Card***:![[SoC • Card - Cloak.png|550]]
+- ***Card***:<br>![[SoC • Card - Cloak.png|550]]

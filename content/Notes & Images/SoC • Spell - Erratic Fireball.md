@@ -12,3 +12,6 @@ aliases:
 - ***Note***: Before being actually cast, this spell requires **6** [[Arcane]] [[Skill Check|Skill Checks]] made by you, your party might hate you if you take this spell. Continue at your own risk.
 ----
 - ***Card***:![[SoC • Card - Erratic Fireball.png|550]]
+
+----
+- ***Card***:<br>![[SoC • Card - Erratic Fireball.png|550]]

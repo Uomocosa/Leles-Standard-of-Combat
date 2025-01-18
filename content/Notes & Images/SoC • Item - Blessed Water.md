@@ -7,6 +7,5 @@ aliases:
 - ***Cost***: 3 
 - ***Description***:<br>3 uses, anathema to pure evil or the undead.
 - ***Color***: white 
-
 ----
-- ***Card***:![[SoC • Card - Blessed Water.png|550]]
+- ***Card***:<br>![[SoC • Card - Blessed Water.png|550]]

@@ -11,6 +11,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: black 
-
 ----
-- ***Card***:![[SoC • Card - Animate.png|550]]
+- ***Card***:<br>![[SoC • Card - Animate.png|550]]

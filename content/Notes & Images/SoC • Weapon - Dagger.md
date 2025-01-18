@@ -7,6 +7,5 @@ aliases:
 - ***Cost***: 1 
 - ***Description***:<br>Health — **1**<br>Damage — **1d4**<br>You may [[Combat Damage|Attack]] with it using [[Dexterity]]. Can be thrown (**9m**), when you do so you must use [[Dexterity]] for the [[Combat Damage|Attack Roll]]. ^description
 - ***Color***: Black 
-
 ----
-- ***Card***:![[SoC • Card - Dagger.png|550]]
+- ***Card***:<br>![[SoC • Card - Dagger.png|550]]

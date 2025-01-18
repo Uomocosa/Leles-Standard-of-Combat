@@ -9,6 +9,5 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: green 
-
 ----
-- ***Card***:![[SoC • Card - Garish.png|550]]
+- ***Card***:<br>![[SoC • Card - Garish.png|550]]

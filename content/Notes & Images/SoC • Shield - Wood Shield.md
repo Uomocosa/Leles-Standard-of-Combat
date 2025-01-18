@@ -7,6 +7,5 @@ aliases:
 - ***Cost***: 3 
 - ***Description***:<br>Health — **3**<br>Bonus AC — **+1**
 - ***Color***: Artifact 
-
 ----
-- ***Card***:![[SoC • Card - Wood Shield.png|550]]
+- ***Card***:<br>![[SoC • Card - Wood Shield.png|550]]
