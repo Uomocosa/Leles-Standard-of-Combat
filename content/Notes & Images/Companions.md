@@ -7,36 +7,35 @@ It’s dangerous to go alone! On the dark adventures ahead, you may have need of
 
 With a clear concept of your companion in mind, get a heap of points ready to spend, and use the rules below.
 
-You must command your companion, by shouting and using gestures, each command costs you **one action**, some example commands could be:<br>_"All of you Attack!"_.<br>_"Sunny, search the place!"_.<br>_"Stop Attacking!"_.
-When you order more than one companion at a time your **GM** might say that some or all of them did not hear or understand.
+> ***One Command to Rule them All***:<br>You must command your companion, by shouting and using gestures, each command costs you **one action**, some example commands could be:<br>_"All of you Attack!"_.<br>_"Sunny, search the place!"_.<br>_"Stop Attacking!"_. ^one-command-to-rule-them-all
 
-Do not create too many companions, so that your **GM** is not forced to kill them off.<br>***Let the other players can have their turn too!***.
-As a "forced house rule", do not create a character starting with more than **3** companion, your **GM** and **group** will decide if your companions are too much.<br>(_Just one companion could be too much_.)
-When a companion is killed you DO NOT get any [[Hero Points]] back, so add them to your party at your own risk.
+> ***Fewer are Better***:<br>Do not create too many companions, so that your **GM** is not forced to kill them off.<br>***Let the other players can have their turn too!***.
+> As a "forced house rule", do not create a character starting with more than **2** companion, your **GM** and **group** will decide if your companions are too much.<br>(_Just one companion could be too much_.)
+> When a companion is killed you **DO NOT** get any [[Hero Points]] back, so add them to your party at your own risk. ^fewer-are-better
 
-A companion has the following characteristics:
-- **10 [[#Companion Skill List|Companion Skills]]** listed underneath.<br>A companion can use a skill only if it is trained in it, so if it has at least a **+1** in it.<br>Depending on the type of companion, and [[#Upgrading your Companion|Effect]] you add, it will have one or more skills in which it is trained.
-- A [[damage dieces|Damage Die]], in case you train in it for [[SoC • Companion's Skill - Attack|Attacking]].
-- An [[Armor Class (AC)|AC]] and a [[Health]].
-- No matter how many [[Custom Spells|Limitation]] you add, a **Companion** cost can never go below **3 [[Hero Points|points]]**.
-- Each companion is a extra mouth to feed, you need to expand an additional use of [[SoC • Item - Rations|Rations]] per day (per companion). The [[SoC • Companion's Skill - Hunt|Hunt]] skill might help you alleviate this cost.
-- [[#Upgrading your Companion|Companion's Effects]] can be stacked multiple times, however differently from [[Custom Spells|Spells]] and [[Custom Equipment|Gear]], companions have no [[Total Effect Cost]] maximum.
+> ***Standard of a Companion***:<br>A companion has the following characteristics:
+> - **10 [[#Companion Skill List|Companion Skills]]** listed underneath.<br>A companion can use a skill only if it is trained in it, so if it has at least a **+1** in it.<br>Depending on the type of companion, and [[#Upgrading your Companion|Effect]] you add, it will have one or more skills in which it is trained.
+> - A [[damage dieces|Damage Die]], in case you train in it for [[SoC • Companion's Skill - Attack|Attacking]].
+> - An [[Armor Class (AC)|AC]] and a [[Health]].
+> - No matter how many [[Custom Spells|Limitation]] you add, a **Companion** cost can never go below **3 [[Hero Points|points]]**.
+> - Each companion is a extra mouth to feed, you need to expand an additional use of [[SoC • Item - Rations|Rations]] per day (per companion). The [[SoC • Companion's Skill - Hunt|Hunt]] skill might help you alleviate this cost.
+> - [[#Upgrading your Companion|Companion's Effects]] can be stacked multiple times, however differently from [[Custom Spells|Spells]] and [[Custom Equipment|Gear]], companions have no [[Total Effect Cost]] maximum.  ^standard-of-a-companion
 
-If your **GM** gives you permission you can also create a new **Character** and treat it as your companion, however by doing so you might spend much more [[Hero Points]].
+> ***Second Character***:<br>If your **GM** gives you permission you can also create a new **Character** and treat it as your companion.  ^second-character
 
-*(Optional Rule) — Slow Companions*:<br>Any action your companion takes (except for moving) must be payed using **one of your actions**.<br>No matter how many companions you have, normally only 2 of them at most can act this way, and your spends character all its turn ordering them<br>Note that each companion attack costs now **1** player action, so it is much less problematic. ^optional-rule-slow-companion
+> _(Optional Rule) — **Slow Companions**_:<br>Any action your companion takes (except for moving) must be payed using **one of your actions**.<br>No matter how many companions you have, normally only 2 of them at most can act this way, and your spends character all its turn ordering them<br>Note that each companion attack costs now **1** player action, so it is much less problematic. ^optional-rule-slow-companion
 
-*(Optional Rule) — More Than One Companion*:<br>If you try to command more than one companion using only **1 action**, roll a **d20**, for each companion add their highest skill bonus, if the total is **15** or less, that companion does not understand and continues what it was doing (probably standing still looking cute).<br>Notice that most of the companion will have a **+3** as their highest skill bonus, so it is really difficult to command more than **1** companion at a time.^optional-more-than-one-companion
+> _(Optional Rule) — **One is All You Need**_:<br>If you try to command more than one companion using only **1 action**, roll a **d20**, for each companion add their highest skill bonus, if the total is **15** or less, that companion does not understand and continues what it was doing (probably standing still looking cute).<br>Notice that most of the companion will have a **+3** as their highest skill bonus, so it is really difficult to command more than **1** companion at a time.^optional-one-is-all-you-need
 
 ----
 ### Companions
 - ***[[SoC - 3 Point Companion|3 Point Companion]]***  — _Small animals_
-- ***[[SoC - 5 Point Companion|5 Point Companion]]***  — _Medium sized beasts or simple devices_
+- ***[[SoC - 5 Point Companion|5 Point Companion]]***  — _Medium sized beasts_
 - ***[[SoC - 12 Point Companion|12 Point Companion]]***  — _Large animals or retainers_
 ----
 ### Companion Skill List
 1. ***[[SoC • Companion's Skill - Track|Track]]*** — _A skilled tracker who can maintain pursuit of a target with unwavering focus for a brief time_.
-2. ***[[SoC • Companion's Skill - Attack|Attack]]*** — _A loyal companion whose attacks are determined by their precision, striking when the moment is right_.
+2. ***[[SoC • Companion's Skill - Attack|Attack]]*** — _A loyal companion ready to pounce at any target_.
 3. ***[[SoC • Companion's Skill - Stand Watch|Stand watch]]*** — _A vigilant sentry, ever-watchful and ready to respond to any disturbance_.
 4. ***[[SoC • Companion's Skill - Protect|Protect]]*** — _A loyal companion who selflessly takes the brunt of damage to protect others_.
 5. ***[[SoC • Companion's Skill - Find|Find]]*** — _A keen seeker, able to track down people or objects with focused effort and skill_.

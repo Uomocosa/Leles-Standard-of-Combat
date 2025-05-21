@@ -1,4 +1,4 @@
-# Lele's Standard of Combat — v1
+# Lele's Standard of Combat
 *Heavily inspired by [Crow and Skull](https://www.runehammer.online/crown-skull-rpg)*
 - If you have time: take a look at the [[Rules|Complete Rules]] for *SoC*.<br>Or for the fastest setup, you can take a [[Fast Setup • Preconstruted Characters|Preconstruted Character]] for a spin.
 - [[SoC - Ideas to Implement]].
@@ -18,9 +18,9 @@
 2. ***[[Flaws|Choose Flaw(s)]]*** 
 3. ***[[Core Ability|Choose Your Core Ability]]*** 
 4. ***[[Skills|Choose Skills]]*** 
-5. ***[[Custom Equipment|Buy & Customize Equipment]]*** 
+5. ***[[Custom Equipment|Buy & Customize, or Scratch-Build Equipment]]*** 
 6. ***[[Custom Spells|Buy, Customize, or Scratch-Build Spells]]*** 
-7. ***[[Companions|Acquire & Customize a Companion]]*** 
+7. ***[[Companions|Buy & Customize, or Scratch-Build a Companion]]*** 
 8. ***[[Lineage|Choose Your Lineage]]*** (*Ask you **GM** for the Campaign's Settings and Lineages*)
 ----
 ### Making of This Project
