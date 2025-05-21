@@ -1,0 +1,1 @@
+<br>_[[SoC • Spell Limitiation - Elemental Anchor|Elemental anchor]]_ — This spell must be cast in the presence of a specific natural element (e.g., fire, water, earth, air). Without the element, the spell fizzles.<br>

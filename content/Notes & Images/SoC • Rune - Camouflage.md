@@ -7,7 +7,7 @@ aliases:
 - ***Image***:<br>![[Pasted image 20250102221506.png|100]]
 - ***Info***: Rune - Camouflage 
 - ***Cost***: 3 
-- ***Description***:<br>Reduce the chance of being spotted by others. This effect can have many variations including stillness, deception...
+- ***Description***:<br>Reduce the chance of being spotted by others for **1 minute**. This effect can have many variations including stillness, deception...
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: Black 

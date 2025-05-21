@@ -5,9 +5,9 @@ aliases:
 - ***Image***:<br>![[Pasted image 20250112233711.png|100]]
 - ***Info***: Limitation - Uses infernal powers
 - ***Cost***:  
-- ***Description***:<br>This spell was stolen by a God from his enemies, when you cast it it may become prey of ancient rivalries. When cast, roll a [[Faith]] [[Skill Check|check]] against a [[Skills|DC]] of **15** to maintain control. If failed, roll on the [[Infernal Magic|Infernal Magic table]]. 
+- ***Description***:<br>You wield a spell ripped from the grasp of a divine being, a dangerous bargain that stirs ancient conflicts. When cast, a [[Faith]] [[Skill Check|check]] (DC 15) is required to hold back the infernal tide. If failed, roll on the [[Infernal Magic|Infernal Magic table]]. 
 - ***Effects***: 
 - ***Limitations***: 
-- ***Color***: blue 
+- ***Color***: red 
 ----
 - ***Card***:<br>![[SoC • Card - Uses Infernal Powers.png|550]]

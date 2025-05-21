@@ -1,0 +1,1 @@
+<br>_[[SoC • Spell Limitiation - Debilitating|Debilitating]]_ — After this spell is cast, the user can only take one Action on their next turn.<br>

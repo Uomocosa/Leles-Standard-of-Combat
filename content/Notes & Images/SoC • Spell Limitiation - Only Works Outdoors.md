@@ -8,6 +8,6 @@ aliases:
 - ***Description***:<br>Elemental forces are required to cast. 
 - ***Effects***: 
 - ***Limitations***: 
-- ***Color***: blue 
+- ***Color***: green 
 ----
 - ***Card***:<br>![[SoC • Card - Only Works Outdoors.png|550]]

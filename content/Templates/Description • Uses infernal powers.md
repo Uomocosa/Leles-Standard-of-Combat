@@ -1,0 +1,1 @@
+<br>_[[SoC • Spell Limitiation - Uses Infernal Powers|Uses infernal powers]]_ — You wield a spell ripped from the grasp of a divine being, a dangerous bargain that stirs ancient conflicts. When cast, a [[Faith]] [[Skill Check|check]] (DC 15) is required to hold back the infernal tide. If failed, roll on the [[Infernal Magic|Infernal Magic table]].<br>

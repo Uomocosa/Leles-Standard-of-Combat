@@ -4,10 +4,10 @@ aliases:
 ---
 - ***Image***:<br>![[SoC • Basic Spell - Far-Seer (Image).png|222]]
 - ***Info***: [[Basic Spells|Basic Spell]] - Action 
-- ***Cost***: 3 
-- ***Description***:<br>See your position from high above. 
-- ***Effects***: 
-- ***Limitations***: 
+- ***Cost***: 1 
+- ***Description***:<br>_[[SoC • Spell Limitiation - Veil of Silence|Veil of silence]]_ — You lose the ability speak for **2** [[Phases of Combat|rounds]]. You cannot cast spells as long as they require verbal components.<br>See your position from high above, you can also see invisible creatures and objects within **9m**. 
+- ***Effects***: [[SoC • Rune - Clairvoyance|Clairvoyance]]
+- ***Limitations***: [[SoC • Spell Limitiation - Veil of Silence|Veil of silence]]
 - ***Color***: green 
 - _**Prompt** [ChatGPT](https://chatgpt.com/?model=auto)_: I need a 2D minimalistic fantasy illustration, in a minimal graphic style with white and black color, and a clean white background. It represents the spell ***Far-Seer***, with the following effect: See your position from high above. Add the words "***Far-Seer***" under the image in a stylish font.
 ----

@@ -8,6 +8,6 @@ aliases:
 - ***Description***:<br>Choose [[Arcane]], [[Faith]] or [[Nature]] when this Limitation is added. When casting this spell, and at the start of every turn while the spell is active the caster needs to make a [[Skill Check]] with the choosen skill, against a [[Skills|DC]] of **15**, on a failed check, the spell effect ends (or is not cast at all). 
 - ***Effects***: 
 - ***Limitations***: 
-- ***Color***: blue 
+- ***Color***: white 
 ----
 - ***Card***:<br>![[SoC • Card - Must be Sustained.png|550]]

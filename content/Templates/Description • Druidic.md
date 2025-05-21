@@ -1,0 +1,1 @@
+<br>_[[SoC • Spell Limitiation - Druidic|Druidic]]_ — Cannot be cast if the caster wears or is touching any metal.<br>

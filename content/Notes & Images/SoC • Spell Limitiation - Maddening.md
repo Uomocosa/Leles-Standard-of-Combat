@@ -8,6 +8,6 @@ aliases:
 - ***Description***:<br>Choose [[Arcane]], [[Faith]] or [[Nature]] when this Limitation is added. Each time this spell is cast,  make a [[Skill Check]] with the choosen skill, against a [[Skills|DC]] of **15**. On failure, take the [[SoC • Flaw - Crazy|Crazy]] flaw until your next [[Rest & Recovery|rest]]. 
 - ***Effects***: 
 - ***Limitations***: 
-- ***Color***: blue 
+- ***Color***: red 
 ----
 - ***Card***:<br>![[SoC • Card - Maddening.png|550]]

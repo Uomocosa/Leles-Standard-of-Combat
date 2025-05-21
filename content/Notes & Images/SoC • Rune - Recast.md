@@ -5,7 +5,7 @@ aliases:
 - ***Image***:<br>![[Pasted image 20250102222023.png|100]]
 - ***Info***: Rune - Recast 
 - ***Cost***: 6 
-- ***Description***:<br>This spell can be cast an additional time. You can select this effect only when you create a new spell, this effect cannot be added later, similar to a [[Custom Spells#Spell Limitation List|Limitation]]. A spell cannot have more than **2 Additional Cast**.
+- ***Description***:<br>This spell can be cast an additional time. A spell cannot have more than **2 Additional Cast**.
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: artifact 

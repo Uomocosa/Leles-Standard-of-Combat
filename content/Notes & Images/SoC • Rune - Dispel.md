@@ -6,8 +6,8 @@ aliases:
 ---
 - ***Image***:<br>![[Pasted image 20250102221803.png|100]]
 - ***Info***: Rune - Dispel 
-- ***Cost***: 3 
-- ***Description***:<br>Choose [[Arcane]], [[Faith]] or [[Nature]] when you add this Effect. You try to cancel a spell that is beeing cast, roll the choosen [[Skill Check]] against a [[DC]] that is equal to **10 + the cost of the target spell**. 
+- ***Cost***: 6 
+- ***Description***:<br>Choose [[Arcane]], [[Faith]] or [[Nature]] when you add this Effect. You try to cancel a spell that is beeing cast, or that is currently active, within **9m**, roll the choosen [[Skill Check]] against a [[DC]] that is equal to **10 + the cost of the target spell**.
 - ***Effects***:
 - ***Limitations***: 
 - ***Color***: blue 

@@ -8,6 +8,6 @@ aliases:
 - ***Description***:<br>Cannot be cast if the caster wears or is touching any metal. 
 - ***Effects***: 
 - ***Limitations***: 
-- ***Color***: blue 
+- ***Color***: green 
 ----
 - ***Card***:<br>![[SoC • Card - Druidic.png|550]]

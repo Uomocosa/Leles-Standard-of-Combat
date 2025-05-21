@@ -1,0 +1,1 @@
+<br>_[[SoC • Spell Limitiation - Only Works on Specific Target Type|Only works on specific target type]]_ — Can be anything. Be as specific as possible (DEFINE IT WHEN ADDING THIS LIMITATION).<br>

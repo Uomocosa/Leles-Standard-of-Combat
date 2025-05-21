@@ -33,7 +33,7 @@ You are a nomad, a hunter, a road-walker. You thrive in the ruins and wilderness
 	- [ ] ***1***. (_**[[Health|Character's Health]]**_)
 	- [ ] ***1***. (_**[[Health|Character's Health]]**_)
 	- [ ] ***1***. (_**[[Health|Character's Health]]**_)
-- **Skills**: [[Dexterity]] **9** (***+4***), [[Lore]] **3** (***+1***), [[Nature]] **3** (***+1***), [[Perception]] **5** (**+2**), [[Stealth]] **7** (***+5***).
+- **Skills**: [[Agility]] **9** (***+4***), [[Lore]] **3** (***+1***), [[Nature]] **3** (***+1***), [[Perception]] **5** (**+2**), [[Stealth]] **7** (***+5***).
 - **Equipment**: Choose **8 pts** of [[Basic Equipment List|basic equipment]] and [[Basic Armaments List|basic armror]]
 
 ---
@@ -47,7 +47,7 @@ You are a learned researcher; keeper of books; mind of science, history, and the
 	- [ ] ***1***. (_**[[Health|Character's Health]]**_)
 	- [ ] ***1***. (_**[[Health|Character's Health]]**_)
 	- [ ] ***1***. (_**[[Health|Character's Health]]**_)
-- **Skills**: [[Arcane]] **5** (***+2***), [[Insigth]] **5** (***+2***), [[Lore]] **5** (***+2***), [[Medicine]] **5** (***+2***), [[Persuasion]] **5** (***+2***), [[Will]] **5** (***+3***)
+- **Skills**: [[Arcane]] **5** (***+2***), [[Intuition]] **5** (***+2***), [[Lore]] **5** (***+2***), [[Medicine]] **5** (***+2***), [[Persuasion]] **5** (***+2***), [[Will]] **5** (***+3***)
 - **Equipment**: Choose **6 pts** of [[Basic Equipment List|basic equipment]] and [[Basic Armaments List|basic armaments]].
 - **Spells**: Choose any **2** [[Basic Spells|basic spells]].
 
@@ -97,7 +97,7 @@ You are a dubious character... a shadow-dweller. You dabble in the forbidden, th
 	- [ ] ***1***. (_**[[Health|Character's Health]]**_)
 	- [ ] ***1***. (_**[[Health|Character's Health]]**_)
 	- [ ] ***1***. (_**[[Health|Character's Health]]**_)
-- **Skills**: [[Dexterity]] **9** (***+4***), [[Lore]] **3** (***+1***), [[Nature]] **3** (***+1***), [[Stealth]] **9** (***+4***), [[Sleight of Hand]] **9** (***+4***).
+- **Skills**: [[Agility]] **9** (***+4***), [[Lore]] **3** (***+1***), [[Nature]] **3** (***+1***), [[Stealth]] **9** (***+4***), [[Sleight of Hand]] **9** (***+4***).
 - **Equipment**: Choose **9 pts** of [[Basic Equipment List|basic equipment]] and [[Basic Armaments List|basic armaments]]
 - **Spells**: Gain the [[SoC • Basic Spell - Vanish|Vanish]] spell.
 

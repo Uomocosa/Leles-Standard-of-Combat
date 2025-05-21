@@ -1,0 +1,1 @@
+<br>_[[SoC • Spell Limitiation - Painful|Painful]]_ — Sustain **2** damages with each cast.<br>

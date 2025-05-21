@@ -23,7 +23,7 @@ aliases:
 	- [ ] ***2***. (_[[Health|Upper Armor's Health]]_)
 	- [ ] ***1***. (_***[[Basic Armaments List|Weapon's Health]]***_)
 - ***[[Skills]]***:
-	- [[Dexterity]] **1** (_[[Skills#Skill Modifiers (Bonus or Malus)|MOD.]]: **-1**_)
+	- [[Agility]] **1** (_[[Skills#Skill Modifiers (Bonus or Malus)|MOD.]]: **-1**_)
 	- [[Faith]] **1** (_[[Skills#Skill Modifiers (Bonus or Malus)|MOD.]]: **-1**_)
 	- [[Sleight of Hand]] **7** (_[[Skills#Skill Modifiers (Bonus or Malus)|MOD.]]: **+3**_)
 	- [[Stealth]] **7** (_[[Skills#Skill Modifiers (Bonus or Malus)|MOD.]]: **+3**_)

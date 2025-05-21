@@ -8,6 +8,6 @@ aliases:
 - ***Description***:<br>When cast, one item in your inventory is [[Destroyed Gear|destroyed]]... a powerful reagent like a crystal or crushed bone. 
 - ***Effects***: 
 - ***Limitations***: 
-- ***Color***: blue 
+- ***Color***: artifact 
 ----
 - ***Card***:<br>![[SoC • Card - Cost Material to Cast.png|550]]

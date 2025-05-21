@@ -5,9 +5,9 @@ aliases:
 - ***Image***:<br>![[SoC • Spell - Fireblast (Image).png|222]]
 - ***Info***: [[Basic Spells|Basic Spell]] - Action 
 - ***Cost***: 3 
-- ***Description***:<br>Explosive fire from the caster's hands, touch a creature to deal **1d6** fire damage. 
+- ***Description***:<br>_[[SoC • Spell Limitiation - Rad Speech|Rad speech]]_ — This spell can only be cast with booming, shouted words, making it easier to detect and identify.<br>Explosive fire from the caster's hands, touch a creature to deal **1d6** fire damage. 
 - ***Effects***: [[SoC • Rune - Blast|Blast]]
-- ***Limitations***: 
+- ***Limitations***: [[SoC • Spell Limitiation - Rad Speech|Rad speech]]
 - ***Color***: red 
 ----
 - ***Card***:<br>![[SoC • Card - Fireblast.png|550]]

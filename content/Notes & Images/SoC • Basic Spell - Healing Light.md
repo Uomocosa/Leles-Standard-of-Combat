@@ -4,10 +4,10 @@ aliases:
 ---
 - ***Image***:<br>![[SoC • Spell - Healing Light (Image).png|222]]
 - ***Info***: [[Basic Spells|Basic Spell]] - Action 
-- ***Cost***: 3 
-- ***Description***:<br>[[Healing and Repair|Heal]] yourself, or a touched creature. It [[Healing and Repair|regains]] **1** of its [[Health|health-blocks]]. 
+- ***Cost***: 1 
+- ***Description***:<br>*Exhausting* — No magic can be used untill the end of the **following [[Phases of Combat|round]]** after cast.<br>[[Healing and Repair|Heal]] yourself, or a touched creature. It [[Healing and Repair|regains]] **1** of its [[Health|Health Cards]]. 
 - ***Effects***: [[SoC • Rune - Restore|Restore]]
-- ***Limitations***: 
+- ***Limitations***: [[SoC • Spell Limitiation - Exhausting|Exhausting]]
 - ***Color***: white 
 ----
 - ***Card***:<br>![[SoC • Card - Healing Light.png|550]]

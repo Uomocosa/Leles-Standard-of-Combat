@@ -7,7 +7,7 @@ aliases:
 - ***Image***:<br>![[Pasted image 20250102221626.png|100]]
 - ***Info***: Rune - Clairvoyance 
 - ***Cost***: 3 
-- ***Description***:<br>Affect unseen target(s) with rolled effect **× 3m** distance.
+- ***Description***:<br>Affect unseen target(s) within **9m**.
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: white 

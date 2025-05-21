@@ -2,12 +2,12 @@
 aliases:
   - Elemental anchor
 ---
-- ***Image***:<br>
-- ***Info***: Limitation - Elemental anchor
+- ***Image***:<br>![[Pasted image 20250220132335.png|100]]
+- ***Info***: Limitation - Elemental Anchor
 - ***Cost***:  
-- ***Description***:<br>This spell must be cast in the presence of a specific natural element (e.g., fire, water, earth, air). Without the element, the spell fizzles. 
+- ***Description***:<br>This spell must be cast in the presence of a specific natural element (e.g., fire, water, earth, ...). Without the element, the spell fizzles. 
 - ***Effects***: 
 - ***Limitations***: 
-- ***Color***: blue 
+- ***Color***: green 
 ----
 - ***Card***:<br>![[SoC • Card - Elemental Anchor.png|550]]

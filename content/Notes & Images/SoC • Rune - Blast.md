@@ -7,7 +7,7 @@ aliases:
 - ***Image***:<br>![[Pasted image 20250102221737.png|100]]
 - ***Info***: Rune - Blast 
 - ***Cost***: 3 
-- ***Description***:<br>Inflict magic damage of specified theme, element, or style.
+- ***Description***:<br>Inflict **1d6** magic damage of specified theme, element, or style.
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: red 

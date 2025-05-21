@@ -1,0 +1,1 @@
+<br>_[[SoC • Spell Limitiation - Takes One Round to Cast|Takes one round to cast]]_ — The effect takes place at the start of the caster’s next turn, you spend this time casting. If you are hit before the next turn, the spell is consumed.<br>

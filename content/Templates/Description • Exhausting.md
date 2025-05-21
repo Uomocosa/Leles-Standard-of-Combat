@@ -1,0 +1,1 @@
+<br>_[[SoC • Spell Limitiation - Exhausting|Exhausting]]_ — No magic can be used untill the end of the **following [[Phases of Combat|round]]** after cast.<br>

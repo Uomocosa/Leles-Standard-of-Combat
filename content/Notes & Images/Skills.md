@@ -17,7 +17,7 @@ Every time you perform an action that can fail, like trying to convince another 
 ----
 For reference, here are some skill-DC, with respect to various actions and their difficutly.<br>However remember that the GM will always have the final say, and these are just examples.
 - For a very simple but important action the DC is `5`.<br>An important action can be grossly defined as an action that has serious consequences if it fails, or an action taken during combat, or other stressful moments.<br>A very simple action can be, for example:
-	- Jumping a small gap without tripping.<br>(*DC `5` on [[Dexterity]] or [[Force]], which skill to use is decided by the player*.)
+	- Jumping a small gap without tripping.<br>(*DC `5` on [[Agility]] or [[Force]], which skill to use is decided by the player*.)
 	- Trying to handle a very valuable item like passing it between two people.<br>(*DC `5` on [[Sleight of Hand]]*.)<br>***NOTE for GMs***: I suggest asking for a skill check for very simple action only for comedic porpuses, or if you want to add a layer of diffuculty to an encounter, making too many checks can be tedious, time consuming, and extreamely frustrating to the players when a basic action fails. 
 - A diffuclt action has a DC of `15`, some examples can be:
 	- Move without making any noise.<br>(*DC `15` on [[Stealth]]*.)
@@ -31,15 +31,14 @@ You spend/add points to a skill after training in it, in between adventures, or 
 
 ----
 ### Skill List
+- ***[[Agility]]***. 
 - ***[[Arcane]]***. 
 - ***[[Deception]]***. 
-- ***[[Dexterity]]***. 
 - ***[[Faith]]***. 
 - ***[[Force]]***. 
 - ***[[Forging]]***. 
-- ***[[Insigth]]***. 
 - ***[[Intimidation]]***. 
-- ***[[Investigation]]***. 
+- ***[[Intuition]]***. 
 - ***[[Lore]]***. 
 - ***[[Medicine]]***. 
 - ***[[Nature]]***. 

@@ -5,7 +5,7 @@ aliases:
 - ***Image***:<br>![[SoC • Weapon - Musket (Image).png|222]]
 - ***Info***: Weapon
 - ***Cost***: 7 
-- ***Description***:<br>Health — **3**<br>Damage — **1d12**<br>Heard for miles. Uses 2 hands. **1 action** to reload. Ranged (**90m**). Use [[Dexterity]] to [[Combat Damage|Attack]] with it.
+- ***Description***:<br>Health — **3**<br>Damage — **1d12**<br>Heard for miles. Uses 2 hands. **1 action** to reload. Ranged (**90m**). Use [[Agility]] to [[Combat Damage|Attack]] with it.
 - ***Color***: Artifact 
 ----
 - ***Card***:<br>![[SoC • Card - Musket.png|550]]

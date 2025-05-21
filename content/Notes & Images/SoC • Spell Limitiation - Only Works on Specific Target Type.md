@@ -8,6 +8,6 @@ aliases:
 - ***Description***:<br>Can be anything. Be as specific as possible.
 - ***Effects***: 
 - ***Limitations***: 
-- ***Color***: blue 
+- ***Color***: white 
 ----
 - ***Card***:<br>![[SoC • Card - Only Works on Specific Target Type.png|550]]

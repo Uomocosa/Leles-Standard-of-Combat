@@ -7,7 +7,7 @@ aliases:
 - ***Image***:<br>![[Pasted image 20250102221525.png|100]]
 - ***Info***: Rune - Psychokinesis 
 - ***Cost***: 3 
-- ***Description***:<br>Perform the next [[Force]] [[Skill Check]] at distance of effect **× 3m**. 
+- ***Description***:<br>Perform a [[Force]] [[Skill Check]] at distance of effect **× 3m**. 
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: red 

@@ -4,7 +4,7 @@ aliases:
 ---
 - ***Image***:<br>![[SoC • Spell - Telekinetics (Image).jpeg|222]]
 - ***Info***: [[Basic Spells|Basic Spell]] - Action 
-- ***Cost***: 3 
+- ***Cost***: 1
 - ***Description***:<br>Move small objects in your immediate area. 
 - ***Effects***: [[SoC • Rune - Psychokinesis|Psychokinesis]]
 - ***Limitations***: 

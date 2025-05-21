@@ -5,7 +5,7 @@ aliases:
 - ***Image***:<br>![[SoC • Spell - Erratic Banishment (Image).png|222]]
 - ***Info***: Spell - Action 
 - ***Cost***: 1 
-- ***Description***:<br>*Ritual* — Roll three [[Arcane]] [[Skill Check|Skill Checks]] with [[Skills|DC]] **15**, if one or more fails, so does the spell, however it it fails this way, it is not consumed.<br>_Maddening_ — When you cast this spell roll an [[Arcane]] [[Skill Check]] with [[Skills|DC]] **15**, if you fail take the [[SoC • Flaw - Crazy|Crazy]] flaw untill your next [[Rest & Recovery|rest]].<br>_Unstable_ — When you cast this spell roll an [[Arcane]] [[Skill Check]] with [[Skills|DC]] **15**, roll on the [[Unstable Magic|Unstable Magic Table]]<br>_Banishment_ — All summoned creature in an **9m** area around you with **30 [[Enemy Primer|HP]]** or less are instantly cast out.
+- ***Description***:<br>*Ritual* — Roll three [[Arcane]] [[Skill Check|Skill Checks]] with [[Skills|DC]] **15**, if one or more fails, so does the spell, however it it fails this way, it is not consumed.<br>_Maddening_ — When you cast this spell roll an [[Arcane]] [[Skill Check]] with [[Skills|DC]] **15**, if you fail take the [[SoC • Flaw - Crazy|Crazy]] flaw untill your next [[Rest & Recovery|rest]].<br>_Unstable_ — When you cast this spell roll an [[Arcane]] [[Skill Check]] with [[Skills|DC]] **15**, roll on the [[Unstable Magic|Unstable Magic]]<br>_Banishment_ — All summoned creature in an **9m** area around you with **30 [[Enemy Primer|HP]]** or less are instantly cast out.
 - ***Effects***: [[SoC • Rune - Area|Area]], [[SoC • Rune - Banish|Banish-2]]
 - ***Limitations***: [[SoC • Spell Limitiation - Maddening|Maddening]], [[SoC • Spell Limitiation - Ritual|Ritual]], [[SoC • Spell Limitiation - Unstable|Unstable]]
 - ***Color***: white 

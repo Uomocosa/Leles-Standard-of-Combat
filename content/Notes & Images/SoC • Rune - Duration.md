@@ -2,12 +2,11 @@
 aliases:
   - Duration
   - Duration-2
-  - Duration-3
 ---
 - ***Image***:<br>![[Pasted image 20250102221205.png|100]]
 - ***Info***: Rune - Duration 
 - ***Cost***: 3 
-- ***Description***:<br>The spell lasts **1 minute**.<br>If you stack this effect you the spell will last **1 hour**, and again make the spell last **1 day**.<br>If the spell lasts **1 day** you cannot choose to add [[Custom Spells|Limitations]] when creating it.
+- ***Description***:<br>The spell lasts **1 hour**, or **double** its normal duration, whichever is higher.<br>You can add this effect only once more, if you do the spell lasts for **8 hours**.
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 

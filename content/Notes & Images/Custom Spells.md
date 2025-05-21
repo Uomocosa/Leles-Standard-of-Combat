@@ -7,6 +7,7 @@ aliases:
   - Limitation
   - Spell
 ---
+
 Creating and modifying spells is an art in itself, and may take some practice. Much like the wizards of old, you’ll be scheming how limitations and effects can counterbalance one another, or how a simple upgrade could make a [[Basic Spells|Basic Spell]] all it needs to be. 
 Settle in to the ancient library, and ponder the mysteries of *Custom Spells*...
 
@@ -55,7 +56,7 @@ Blasts of fire, for example, are a staple for all adventurer-mages. Use the spel
 (*3 pts Cost*)
 1. ***[[SoC • Rune - Detect|Detect]]*** — _Detect a specific object_.
 2. ***[[SoC • Rune - Duration|Duration]]*** — _The spell lasts longer_.
-3. ***[[SoC • Rune - Dispel|Dispel]]*** — _Cancel other magic_.
+3. ***[[SoC • Rune - Dispel|Dispel]]*** (**6 pts**) — _Cancel other magic_.
 4. ***[[SoC • Rune - Upgrade|Upgrade]]*** — _Your spells does what it does, better_.
 5. ***[[SoC • Rune - Dominate|Dominate]]*** — _Force another creature to do your bidding_.
 6. ***[[SoC • Rune - Drain|Drain]]*** — _Weaken another creature_.
@@ -79,7 +80,7 @@ Blasts of fire, for example, are a staple for all adventurer-mages. Use the spel
 8. ***[[SoC • Rune - Poison|Poison]]*** — _The spell changes form into a liquid goo_.
 9. ***[[SoC • Rune - Powerful|Powerful]]*** — _Increase the damage of your spell_.
 10. ***[[SoC • Rune - Psychokinesis|Psychokinesis]]*** — _Use [[Force]] at a distance_.
-11. ***[[SoC • Rune - Reaction|Reaction]]*** — _Master the spell to be able to cast at a moment notice_.
+11. ***[[SoC • Rune - Reaction|Reaction]]*** — _Master the spell to be able to cast it at a moment notice_.
 12. ***[[SoC • Rune - Recast|Recast]]*** (**6 pts**) — _Add an additional cast to the spell_.
 ----
 ### Spell Effects Group IV
@@ -107,7 +108,7 @@ Blasts of fire, for example, are a staple for all adventurer-mages. Use the spel
 6. ***[[SoC • Spell Limitiation - Exhausting|Exhausting]]*** — _No magic can be used in the **following [[Phases of Combat|round]]** after cast_.
 7. ***[[SoC • Spell Limitiation - Cost Material to Cast|Cost material to cast]]*** — _When cast, one item in your inventory is [[Destroyed Gear|destroyed]]_.
 8. ***[[SoC • Spell Limitiation - Druidic|Druidic]]*** — _Cannot be cast if the caster wears or is touching any metal_.
-9. ***[[SoC • Spell Limitiation - Debilitating|Debilitating]]*** — _After this spell is cast, you can only make a move on their next turn_.
+9. ***[[SoC • Spell Limitiation - Debilitating|Debilitating]]*** — _After this spell is cast, you can only make one action on your next turn_.
 10. ***[[SoC • Spell Limitiation - Ineffable|Ineffable]]*** — _You cannot record this spell on any item_.
 11. ***[[SoC • Spell Limitiation - Linked to Physical Object|Linked to physical object]]*** — _The spell manifests with or through an object_.
 12. ***[[SoC • Spell Limitiation - Maddening|Maddening]]*** — _There is a chance of going temporarily crazy_.

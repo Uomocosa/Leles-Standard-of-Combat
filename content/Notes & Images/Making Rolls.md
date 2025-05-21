@@ -17,7 +17,7 @@ In some cases, a difficulty penalty will reduce the skill’s value. Note that m
 ----
 ### Rolling to Hit
 After declaring the enemy you wish to attack, you need to roll a `d20` and depenting on the weapon you'll need to sum a certain skill modifier to your roll. 
-*Generarly melee weapons will ask you to roll with [[Force]], while ranged weapon will ask you to roll with [[Dexterity]], finally some [[Custom Spells|Spells]] will require an [[Arcane]] or a similar check to apply their effects*.
+*Generarly melee weapons will ask you to roll with [[Force]], while ranged weapon will ask you to roll with [[Agility]], finally some [[Custom Spells|Spells]] will require an [[Arcane]] or a similar check to apply their effects*.
 
 ==A result of `1` on the `d20` is considered a [[The Extremes|critical failure]], While a `20` is considered a [[The Extremes|critical success]]==.
 

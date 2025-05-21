@@ -1,0 +1,5 @@
+- ***Info***: Rules
+- ***Description***:<br>text
+- ***Flavor***: 
+- ***Color***: artifact 
+- ***Rarity***: common

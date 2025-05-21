@@ -1,0 +1,1 @@
+<br>_[[SoC • Spell Limitiation - Cost Material to Cast|Cost material to cast]]_ — When cast, one item in your inventory is [[Destroyed Gear|destroyed]]... a powerful reagent like a crystal or crushed bone.<br>

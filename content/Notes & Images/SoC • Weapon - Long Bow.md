@@ -5,7 +5,7 @@ aliases:
 - ***Image***:<br>![[SoC • Weapon - Long Bow (Image).png|222]]
 - ***Info***: Weapon
 - ***Cost***: 4 
-- ***Description***:<br>Health — **3**<br>Damage — **1d8**<br>Uses 2 hands.<br>Ranged (**45m**). Use [[Dexterity]] to [[Combat Damage|Attack]] with it.
+- ***Description***:<br>Health — **3**<br>Damage — **1d8**<br>Uses 2 hands.<br>Ranged (**45m**). Use [[Agility]] to [[Combat Damage|Attack]] with it.
 - ***Color***: Artifact 
 ----
 - ***Card***:<br>![[SoC • Card - Long Bow.png|550]]

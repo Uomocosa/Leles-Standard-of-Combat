@@ -13,3 +13,15 @@ Upon a successful ***heal*** (by magic, or potion), you instantly **ragain** **1
 For [[Damaged Gear|Damaged Gear and Equipment]], you can use a spell to instantly regain **1** or more [[Equiped Gears's Health|Gear's Health Cards]], specified by the spell effect.
 - If you have time to spare, you can try to use the [[Forging]] skill. 
 - ***While, [[Destroyed Gear]] cannot be repaired, and will need to replaced entirely***. 
+
+
+-----
+### Card
+- ***Info***: Rules
+- ***Description***:<br>Upon a successful ***heal*** (by magic, or potion), you instantly **ragain** **1** or more [[Health|Character's Health Cards]], specified by the spell effect.<br>• If you some have time to spare, you can try to **heal** using the [[Medicine]] skill.<br>• After a [[Rest & Recovery|a night of rest]] you regain all [[Health|Character's Health]].<br><br>For [[Damaged Gear|Damaged Gear and Equipment]], you can use a spell to instantly regain **1** or more [[Equiped Gears's Health|Gear's Health Cards]], specified by the spell effect.<br>• If you have time to spare, you can try to use the [[Forging]] skill.<br>• ***[[Destroyed Gear]] cannot be repaired, and will need to replaced entirely***. 
+- ***Flavor***: 
+- ***Color***: white 
+- ***Rarity***: common
+
+----
+- ***Card***:<br>![[SoC • Card - Healing and Repair.png|550]]

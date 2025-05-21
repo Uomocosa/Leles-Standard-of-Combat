@@ -7,7 +7,7 @@ aliases:
 - ***Image***:<br>![[Pasted image 20250102222008.png|100]]
 - ***Info***: Rune - Haste 
 - ***Cost***: 3 
-- ***Description***:<br>Run, swim or climb (choose on cast) twice as you normally could. 
+- ***Description***:<br>Double, running, swimming and climbing speed of touched creature. 
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: red 

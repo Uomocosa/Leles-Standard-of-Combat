@@ -1,0 +1,1 @@
+<br>_[[SoC • Spell Limitiation - Binding Oath|Binding Oath]]_ — You have learned this spell via a magical contract, imposing a condition or task that must be fulfilled in a certain time limit, decide with your **GM**.<br>

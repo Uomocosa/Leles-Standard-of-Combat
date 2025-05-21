@@ -5,7 +5,7 @@ aliases:
 - ***Image***:<br>![[SoC • Weapon - Scimitar (Image).png|222]]
 - ***Info***: Weapon
 - ***Cost***: 5 
-- ***Description***:<br>Health — **3**<br>Damage — **1d8**<br>Requires 6 points in [[Force]] and 6 points in [[Dexterity]].<br>If you deal **8 or more** damage with this weapon, you can [[Combat Damage|Attack]] again, a different target. 
+- ***Description***:<br>Health — **3**<br>Damage — **1d8**<br>Requires 6 points in [[Force]] and 6 points in [[Agility]].<br>If you deal **8 or more** damage with this weapon, you can [[Combat Damage|Attack]] again, a different target. 
 - ***Color***: Artifact 
 ----
 - ***Card***:<br>![[SoC • Card - Scimitar.png|550]]

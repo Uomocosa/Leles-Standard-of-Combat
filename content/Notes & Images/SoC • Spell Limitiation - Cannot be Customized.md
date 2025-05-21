@@ -8,6 +8,6 @@ aliases:
 - ***Description***:<br>This spell is minimalistic, only available in its first-learned form, never to be changed.
 - ***Effects***: 
 - ***Limitations***: 
-- ***Color***: blue 
+- ***Color***: artifact 
 ----
 - ***Card***:<br>![[SoC • Card - Cannot be Customized.png|550]]

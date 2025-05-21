@@ -4,10 +4,10 @@ aliases:
 ---
 - ***Image***:<br>![[SoC • Spell - Vines (Image).png|222]]
 - ***Info***: [[Basic Spells|Basic Spell]] - Action 
-- ***Cost***: 3 
-- ***Description***:<br>Call up vines that try to grab a touched creature.<br>Roll your [[Nature]] [[Skills|Skill]] against the [[Dexterity]] of the target. If you win the roll, the target cannot move for **1** [[Phases of Combat|round]].
-- ***Effects***:
-- ***Limitations***: 
+- ***Cost***: 1
+- ***Description***:<br>_[[SoC • Spell Limitiation - Elemental Anchor|Elemental anchor]]_ — This spell must be cast in the presence of **earth** or soil. Without the element, the spell fizzles.<br>Call up vines that try to grab a touched creature.<br>Roll your [[Nature]] [[Skills|Skill]] against the [[Agility]] of the target. If you win the roll, the target cannot move for **1** [[Phases of Combat|round]].
+- ***Effects***: [[SoC • Rune - Still|Still]]
+- ***Limitations***: [[SoC • Spell Limitiation - Elemental Anchor|Elemental anchor]] (earth)
 - ***Color***: green 
 ----
 - ***Card***:<br>![[SoC • Card - Vines.png|550]]

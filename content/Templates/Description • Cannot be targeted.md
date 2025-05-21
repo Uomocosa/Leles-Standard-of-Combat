@@ -1,0 +1,1 @@
+<br>_[[SoC • Spell Limitiation - Cannot be Targeted|Cannot be targeted]]_ — Spell always flies wild. Use dice for direction, or randomly select from available targets.<br>

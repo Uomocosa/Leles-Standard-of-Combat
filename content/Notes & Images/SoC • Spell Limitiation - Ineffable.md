@@ -8,6 +8,6 @@ aliases:
 - ***Description***:<br>This magic is primal, and can’t be recorded for others to use on scrolls, weapons, rings, or wands of any sort. 
 - ***Effects***: 
 - ***Limitations***: 
-- ***Color***: blue 
+- ***Color***: green 
 ----
 - ***Card***:<br>![[SoC • Card - Ineffable.png|550]]

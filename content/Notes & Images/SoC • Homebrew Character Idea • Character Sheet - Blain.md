@@ -36,12 +36,12 @@ aliases:
 	- ***[[SoC • Homebrew • Upper Armor - Titanium Armor|Titanium Armor]]***:
 		- _[[Equiped Gears's Health|Health]]_ — **5**, **3**, **3**, **3**, **3**, **2**.
 		- _[[Armor Class (AC)|Bonus AC]]_ — **+4**.
-		- Require at least 12 points in [[Force]].<br>You cannot [[Types of Movments|swim]], and have [[Homebrew Rule - Advantange • Disadvantage|Disadvantage]] on all [[Stealth]] and [[Dexterity]] checks.<br>_Cold Forged_ — This metal equipment is immune to corrosion of all kinds and is much more difficult to [[Destroyed Gear|destroy]].
+		- Require at least 12 points in [[Force]].<br>You cannot [[Types of Movments|swim]], and have [[Homebrew Rule - Advantange • Disadvantage|Disadvantage]] on all [[Stealth]] and [[Agility]] checks.<br>_Cold Forged_ — This metal equipment is immune to corrosion of all kinds and is much more difficult to [[Destroyed Gear|destroy]].
 		- _[[Hero Points|Cost]]_ — **17**.
 	- ***[[SoC • Helmet - Heavy Helm|Heavy Helm]]***:
 		- _[[Equiped Gears's Health|Health]]_ — **3**, **2**.
 		- _[[Armor Class (AC)|Bonus AC]]_ — **+3**.
-		- Your vision is obstructed, [[Homebrew Rule - Advantange • Disadvantage|Disadvantage]] on all [[Dexterity]] [[Skill Check|checks]].
+		- Your vision is obstructed, [[Homebrew Rule - Advantange • Disadvantage|Disadvantage]] on all [[Agility]] [[Skill Check|checks]].
 		- _[[Hero Points|Cost]]_ — **3**.
 	- ***[[SoC • Lower Armor - Scale Greaves|Scale Greaves]]***:
 		- _[[Equiped Gears's Health|Health]]_ — **3**, **2**, **1**.
@@ -51,7 +51,7 @@ aliases:
 	- ***[[SoC • Shield - Tower Shield|Tower Shield]]***:
 		- _[[Equiped Gears's Health|Health]]_ — **5**, **3**.
 		- _[[Armor Class (AC)|Bonus AC]]_ — **+3**.
-		- Require at least 12 points in [[Force]].<br>Ignore all attack that deals exactly **1** damage.<br>You cannot [[Types of Movments|swim]], and have [[Homebrew Rule - Advantange • Disadvantage|Disadvantage]] on all [[Stealth]] and [[Dexterity]] checks.
+		- Require at least 12 points in [[Force]].<br>Ignore all attack that deals exactly **1** damage.<br>You cannot [[Types of Movments|swim]], and have [[Homebrew Rule - Advantange • Disadvantage|Disadvantage]] on all [[Stealth]] and [[Agility]] checks.
 		- _[[Hero Points|Cost]]_ — **7**.
 - ***Inventory***:
 	- [[SoC • Item - Oil Flask|Oil Flask]] (_[[Hero Points|Cost]]_ — **1**):

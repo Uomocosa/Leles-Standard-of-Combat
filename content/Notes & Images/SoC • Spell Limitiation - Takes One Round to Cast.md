@@ -5,7 +5,7 @@ aliases:
 - ***Image***:<br>![[Pasted image 20250112233547.png|100]]
 - ***Info***: Limitation - Takes one round to cast
 - ***Cost***:  
-- ***Description***:<br>The effect takes place at the start of the caster’s next turn, you spend this time casting. If you are hit before the next turn, the spell is consumed. 
+- ***Description***:<br>This spell requires two Actions to cast. 
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 

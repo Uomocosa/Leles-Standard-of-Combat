@@ -8,6 +8,6 @@ aliases:
 - ***Description***:<br>The spell manifests with or through an object. If that object is [[Destroyed Gear|destroyed]] or stolen, the spell is lost. 
 - ***Effects***: 
 - ***Limitations***: 
-- ***Color***: blue 
+- ***Color***: artifact 
 ----
 - ***Card***:<br>![[SoC • Card - Linked to Physical Object.png|550]]

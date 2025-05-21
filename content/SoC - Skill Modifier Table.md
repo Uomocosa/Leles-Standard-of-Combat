@@ -1,0 +1,11 @@
+---
+aliases:
+  - Skill Modifier Table
+---
+- ***Description***:<br>Points in a **Skill** ➜ **Modifier & Health**:<br>  _0 pts_ —  **-2 Modifier**<br>  _1 pts_ —  **-1 Modifier**<br>  _2 pts_ — **+0 Modifier, gain an [[SoC • Health - Character's Health (1)|Health Card (1)]]**<br>  _3 pts_ — **+1 Modifier, gain an [[SoC • Health - Character's Health (1)|Health Card (1)]]**<br>  _5 pts_ — **+2 Modifier**<br>  _7 pts_ — **+3 Modifier, gain an [[SoC • Health - Character's Health (2)|Health Card (2)]]**<br>  _9 pts_ — **+4 Modifier**<br>_12 pts_ — **+5 Modifier, gain an [[SoC • Health - Character's Health (3)|Health Card (3)]]**<br>_15 pts_ — **+6 Modifier**<br>_18 pts_ — **+7 Modifier**<br>_21 pts_ — **+8 Modifier**<br>_24 pts_ — **+9 Modifier**<br>...
+- ***Flavor***: Example — at 7pts in a Skill you’ll have a +3 Modifier, and 2 × Health Card (1) and 1 × Health Card (2).
+- ***Info***: Rules - Table 
+- ***Rarity***: special 
+- ***Color***: multicolor, artifact
+----
+- ***Card***:<br>![[SoC • Card - Skill Modifier Table.png|550]]

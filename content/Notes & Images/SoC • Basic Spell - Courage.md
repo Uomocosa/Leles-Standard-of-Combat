@@ -5,9 +5,9 @@ aliases:
 - ***Image***:<br>![[Pasted image 20241222195149.png|222]]
 - ***Info***: [[Basic Spells|Basic Spell]] - Action 
 - ***Cost***: 3 
-- ***Description***:<br>Ignore fear or intimidation
-- ***Effects***: 
-- ***Limitations***: 
+- ***Description***:<br>_[[SoC • Spell Limitiation - Rad Speech|Rad speech]]_ — This spell can only be cast with booming, shouted words, making it easier to detect and identify.<br>Ignore fear or intimidation
+- ***Effects***: [[SoC • Rune - Clarity|Clarity]]
+- ***Limitations***: [[SoC • Spell Limitiation - Rad Speech|Rad speech]]
 - ***Color***: red 
 ----
 - ***Card***:<br>![[SoC • Card - Courage.png|550]]

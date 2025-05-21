@@ -1,0 +1,1 @@
+<br>_[[SoC • Spell Limitiation - Only Works Outdoors|Only works outdoors]]_ — Elemental forces are required to cast.<br>

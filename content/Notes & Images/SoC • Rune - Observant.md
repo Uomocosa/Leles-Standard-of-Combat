@@ -7,7 +7,7 @@ aliases:
 - ***Image***:<br>![[Pasted image 20250102221500.png|100]]
 - ***Info***: Rune - Observant 
 - ***Cost***: 3 
-- ***Description***:<br>Add effect to an [[Insigth]], [[Investigation]] or [[Perception]] roll.
+- ***Description***:<br>Add effect to an [[Intuition]], [[Intuition]] or [[Perception]] roll.
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: green 

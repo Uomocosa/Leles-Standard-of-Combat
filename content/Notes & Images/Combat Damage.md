@@ -5,6 +5,7 @@ aliases:
   - Taking Damge
   - Aimed Attack
   - Precise Attack
+  - Damage
 ---
 *Sustaining damage from hazards and attacks is part of any RPG. You’ll be hit by arrows, knock your head, sustain sword cuts, or drop items when exhausted*. 
 *However your [[Custom Equipment|gear]] can help you mitigate the damage you take, by shielding you and taking the damage in your place*.
@@ -12,7 +13,7 @@ aliases:
 ----
 ##### Attack Roll
 Roll a **d20** + [[Skills|skill modifier]] against the [[Armor Class (AC)]] of the target, to see if the attack hits.
-If the result is **equal or above** the AC of the target, the attack succesfully hits, [[#^damage-roll|roll for damage]].<br>Usually the skill modifier to use is either: [[Force|Force]], [[Dexterity|Dexterity]] depending on the type of weapon, or [[Arcane|Arcane]] if you cast a spell that requires a roll to hit. 
+If the result is **equal or above** the AC of the target, the attack succesfully hits, [[#^damage-roll|roll for damage]].<br>Usually the skill modifier to use is either: [[Force|Force]], [[Agility|Agility]] depending on the type of weapon, or [[Arcane|Arcane]] if you cast a spell that requires a roll to hit. 
 - If the attacker rolls a natural **20** on the attack roll, then it is considered a [[The Extremes|critical success]], the attack will hit even if the total attack roll is less than the target's [[Armor Class (AC)|AC]], also the total result of the [[#Damage Roll]] will be doubled.
 - If the attacker rolls a natural **1** on the attack roll, then it is considered a [[The Extremes|critical failure]], and the attacker will always miss, no matter how high of an attack bonus he/she has.<br>Your GM might also add a malus, like your weapon hits the ground and it recives **1** damage (*see [[Equiped Gears's Health]]*), or others. However most of the time a [[The Extremes|critical failure]] just means that the attack misses.
 
@@ -24,7 +25,7 @@ The most common way to deal damage is to throw a single damage dice, for example
 ----
 ##### Taking Damage
 If you are succesfully hit, you need to take damage.
-[[discard|Discard]] from your [[State Deck]] (to your [[Discard Pile]]) a total value of [[Health|Health Cards]] **equal or greater** than the damage the enemy has dealt.
+[[Discard Pile|discard]] from your [[State Deck]] (to your [[Discard Pile]]) a total value of [[Health|Health Cards]] **equal or greater** than the damage the enemy has dealt.
 
 *An enemy has hit you, describe how it has hit you, and remove your cards accordingly.<br>The enemy has dealt 6 damage, you have in your deck:<br>• 2 x [[SoC • Health - Helmet Health (3)|Helmet Health (3)]]<br>• 1 x [[SoC • Health - Lower Armor Health (1)|Lower Armor Health (1)]]<br>• 2 x [[SoC • Health - Character's Health (2)|Character's Health (2)]]<br>You describe how the blade of the enemy has crossed over all your body, most of the damage was blocked by your armor however the blade has menage to leave a mark on the unshielded parts of your body, you discard the following cards:<br>• 1 x [[SoC • Health - Helmet Health (3)|Helmet Health (3)]]<br>• 1 x [[SoC • Health - Lower Armor Health (1)|Lower Armor Health (1)]]<br>• 1 x [[SoC • Health - Character's Health (2)|Character's Health (2)]]<br>For a total of 6 damage taken*.
  

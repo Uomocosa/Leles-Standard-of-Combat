@@ -4,10 +4,10 @@ aliases:
 ---
 - ***Image***:<br>![[SoC • Spell - Arcane Lock (Image).png|222]]
 - ***Info***: [[Basic Spells|Basic Spell]] - Action 
-- ***Cost***: 3 
-- ***Description***:<br>A glyph used to permanently seal a door. 
+- ***Cost***: 1 
+- ***Description***:<br>_[[SoC • Spell Limitiation - Ineffable|Ineffable]]_ — This magic is primal, and can’t be recorded for others to use on scrolls, weapons, rings, or wands of any sort.<br>A glyph used to permanently seal a door.
 - ***Effects***: [[SoC • Rune - Ward|Ward]]
-- ***Limitations***: 
+- ***Limitations***: [[SoC • Spell Limitiation - Ineffable|Ineffable]]
 - ***Color***: artifact 
 ----
 - ***Card***:<br>![[SoC • Card - Arcane Lock.png|550]]

@@ -8,6 +8,6 @@ aliases:
 - ***Description***:<br>Has no effect on a specific type of target or target property. 
 - ***Effects***: 
 - ***Limitations***: 
-- ***Color***: blue 
+- ***Color***: white 
 ----
 - ***Card***:<br>![[SoC • Card - Nullified by.png|550]]
