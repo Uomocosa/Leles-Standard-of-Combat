@@ -5,7 +5,7 @@ aliases:
 - ***Image***:<br>![[SoC • Flaw - Unluky (Image).png|222]]
 - ***Info***: Flaw
 - ***Cost***: 
-- ***Description***:<br>No matter how many rabbit’s feet you carry, you have a penchant for comical mishaps.<br>You [[The Extremes|critically fail]] also if you roll a **2** on a **d20**. 
+- ***Description***:<br>_No matter how many rabbit’s feet you carry, you have a penchant for comical mishaps_.<br>You [[The Extremes|critically fail]] also if you roll a **2** on a **d20**. 
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: artifact 

@@ -6,7 +6,7 @@ aliases:
 - ***Info***: Spell - Action 
 - ***Cost***: 12 
 - ***Description***:<br>Add +3 Defense for 1 day. 
-- ***Effects***: [[SoC • Rune - Duration|Duration-3]], [[SoC • Basic Spell - Mage's Armor|Mage's Armor]]
+- ***Effects***: [[SoC • Spell Effect - Duration|Duration-3]], [[SoC • Basic Spell - Mage's Armor|Mage's Armor]]
 - ***Limitations***:  
 - ***Color***: Artifact 
 ----

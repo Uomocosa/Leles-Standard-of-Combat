@@ -5,9 +5,9 @@ aliases:
 - ***Image***:<br>![[SoC • Spell - Mage's Cloak (Image).png|222]]
 - ***Info***: [[Basic Spells|Basic Spell]] - Action 
 - ***Cost***: 3 
-- ***Description***:<br>_[[SoC • Spell Limitiation - Cannot be Customized|Cannot be customized]]_ — This spell is minimalistic, only available in its first-learned form, never to be changed.<br>Enchant a cape. Its wearer is targeted last. 
+- ***Description***:<br>_[[SoC • Spell Limitation - Cannot be Customized|Cannot be customized]]_ — This spell is minimalistic, only available in its first-learned form, never to be changed.<br>Enchant a cape. Its wearer is targeted last. 
 - ***Effects***: [[SoC • Rune - Enchant|Enchant]]
-- ***Limitations***: [[SoC • Spell Limitiation - Cannot be Customized|Cannot be customized]]
+- ***Limitations***: [[SoC • Spell Limitation - Cannot be Customized|Cannot be customized]]
 - ***Color***: blue 
 ----
 - ***Card***:<br>![[SoC • Card - Mages Cloak.png|550]]

@@ -1,13 +1,24 @@
 ---
 aliases:
   - Character Details
+  - Skills
+  - Skill Modifiers
+  - Modifer
+  - Modifiers
+  - Skill
 ---
+%%
 - ***Image***:<br>![[SoC • Generic Card - Character Details (Image).png|50]]
-- ***Info***: Character Details
+- ***Nameplate***: Name: ____________________________
+- ***Name***: Skill Modifiers
+- ***Type***: Character Details
 - ***Cost***: 
-- ***Description***:<br>***Additional Health***: \_\_\_\_\_\_   |   ***AC***: \_\_\_\_\_\_<br>\_\_\_\_\_ **pts** : \_\_\_\_\_\_\_ **Modifier** — ***[[Arcane]]***<br>\_\_\_\_\_ **pts** : \_\_\_\_\_\_\_ **Modifier** — ***[[Agility]]***<br>\_\_\_\_\_ **pts** : \_\_\_\_\_\_\_ **Modifier** — ***[[Deception]]***<br>\_\_\_\_\_ **pts** : \_\_\_\_\_\_\_ **Modifier** — ***[[Faith]]***<br>\_\_\_\_\_ **pts** : \_\_\_\_\_\_\_ **Modifier** — ***[[Force]]***<br>\_\_\_\_\_ **pts** : \_\_\_\_\_\_\_ **Modifier** — ***[[Forging]]***<br>\_\_\_\_\_ **pts** : \_\_\_\_\_\_\_ **Modifier** — ***[[Intimidation]]***<br>\_\_\_\_\_ **pts** : \_\_\_\_\_\_\_ **Modifier** — ***[[Intuition]]***<br>\_\_\_\_\_ **pts** : \_\_\_\_\_\_\_ **Modifier** — ***[[Lore]]***<br>\_\_\_\_\_ **pts** : \_\_\_\_\_\_\_ **Modifier** — ***[[Medicine]]***<br>\_\_\_\_\_ **pts** : \_\_\_\_\_\_\_ **Modifier** — ***[[Nature]]***<br>\_\_\_\_\_ **pts** : \_\_\_\_\_\_\_ **Modifier** — ***[[Perception]]***<br>\_\_\_\_\_ **pts** : \_\_\_\_\_\_\_ **Modifier** — ***[[Performance]]***<br>\_\_\_\_\_ **pts** : \_\_\_\_\_\_\_ **Modifier** — ***[[Persuasion]]***<br>\_\_\_\_\_ **pts** : \_\_\_\_\_\_\_ **Modifier** — ***[[Sleight of Hand]]***<br>\_\_\_\_\_ **pts** : \_\_\_\_\_\_\_ **Modifier** — ***[[Stealth]]***<br>\_\_\_\_\_ **pts** : \_\_\_\_\_\_\_ **Modifier** — ***[[Will]]***
+- ***Description***:<br>**[[Agility]]** — Modifier: \_\_\_\_\_\_\_<br>**[[Might]]** — Modifier: \_\_\_\_\_\_\_<br><br>**[[Arcane]]** — Modifier: \_\_\_\_\_\_\_<br>**[[Faith]]** — Modifier: \_\_\_\_\_\_\_<br>**[[Nature]]** — Modifier: \_\_\_\_\_\_\_<br>**[[Will]]** — Modifier: \_\_\_\_\_\_\_<br><br>**[[Deception]]** — Modifier: \_\_\_\_\_\_\_<br>**[[Forging]]** — Modifier: \_\_\_\_\_\_\_<br>**[[Intimidation]]** — Modifier: \_\_\_\_\_\_\_<br>**[[Intuition]]** — Modifier: \_\_\_\_\_\_\_<br>**[[Lore]]** — Modifier: \_\_\_\_\_\_\_<br>**[[Medicine]]** — Modifier: \_\_\_\_\_\_\_<br>**[[Perception]]** — Modifier: \_\_\_\_\_\_\_<br>**[[Persuasion]]** — Modifier: \_\_\_\_\_\_\_<br>**[[Sleight of Hand]]** — Modifier: \_\_\_\_\_\_\_<br>**[[Stealth]]** — Modifier: \_\_\_\_\_\_\_
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: white 
-----
-- ***Card***:<br>![[SoC • Card - Character Details.png|550]]
+%%
+
+### Card
+
+![[SoC • Card - Skill Modifiers.png|650]]

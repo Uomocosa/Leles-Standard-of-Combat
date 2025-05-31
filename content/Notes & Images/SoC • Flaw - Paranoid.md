@@ -5,7 +5,7 @@ aliases:
 - ***Image***:<br>![[SoC • Flaw - Paranoid (Image).png|222]]
 - ***Info***: Flaw
 - ***Cost***:  
-- ***Description***:<br>What’s that? You hear that? You invent your own boogie men, and sew doubt among others. NPCs will be hesitant to trust you. 
+- ***Description***:<br>_What’s that? You hear that?_<br>You invent your own boogie men, and sew doubt among others. NPCs will be hesitant to trust you. 
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 

@@ -3,6 +3,7 @@ aliases:
   - discard
   - Discard Pile
   - Discarded
+  - Discard
 ---
 This deck or pile of cards is for all the cards that where **used**, **casted** (for spells), or generarly [[expend|expended]].
 No worries, if a card is in the discard pile, it means that if you give it enough time and rest, it will come back eventually to your [[Active Deck]] or [[State Deck]] (depending on the card).

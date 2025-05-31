@@ -5,7 +5,7 @@ aliases:
 - ***Image***:<br>![[SoC • Flaw - Phobia (Image).png|222]]
 - ***Info***: Flaw
 - ***Cost***: 
-- ***Description***:<br>Fear of a common thing. In its presence, no roll can succeed. 
+- ***Description***:<br>_Fear of a common thing_.<br>In its presence, no roll can succeed. 
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: green 

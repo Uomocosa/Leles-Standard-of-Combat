@@ -1,0 +1,1 @@
+**[[Stunned]]** (_next round [[Prepare to Act|Prepare]] **one less Action**_)

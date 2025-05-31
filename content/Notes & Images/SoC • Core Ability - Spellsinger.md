@@ -4,8 +4,8 @@ aliases:
 ---
 - ***Image***:<br>![[SoC • Core Ability - Spellsinger (Image).png|222]]
 - ***Info***: Core Ability
-- ***Cost***: 20
-- ***Description***:<br>You cast spells with flair and oratory. You can never use [[SoC • Rune - Silent|Silent]] or [[SoC • Rune - Still|Still]] spells. As a default, though, your spells work on a target that can **hear** you cast (you no longer have the require to touch your target), upgrade from there as normal.<br>You can substitute your [[Performance]] [[Skills|Modifier]] for your [[Arcana]], [[Faith]], or [[Nature]] [[Skills|Modifier]] when casting spells. Additionally, if a spell requires a check, you may roll a [[Performance]] [[Skill Check|check]] instead of any [[Arcana]], [[Faith]], or [[Nature]] [[Skill Check|check]].
+- ***Cost***: 7
+- ***Description***:<br>_You cast spells with flair and oratory_.<br>You can never use any [[SoC • Spell Effect - Hidden|Hidden]] [[Custom Spells|Spells]].<br>Your spells work on a target that can **hear** you cast, each of yours [[SoC • Spell Effect - Area|Area]] [[Custom Spells|Spells]] that cost **3 or more [[SoC • Energy|Energy]] to cast***, now require **1 less [[SoC • Energy|Energy]]**.<br>For every spell you cast, you may roll a [[Performance]] [[Skill Check|check]] instead of any [[Arcane]] [[Skill Check|check]].
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: green 

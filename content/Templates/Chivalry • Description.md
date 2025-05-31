@@ -1,0 +1,1 @@
+<br>**Chivalry 1d6** — While mounted this weapon deals **1d6** damages.

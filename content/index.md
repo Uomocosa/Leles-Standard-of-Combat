@@ -9,25 +9,26 @@
 - [[Character Creation]] 
 - [[Character Prompts]] (*Optional*) 
 - [[Character Templates]] 
-	- [[Basic Equipment List]] 
-	- [[Basic Armaments List]] 
+	- [[Basic Item List]] 
+	- [[Equipment List]] 
 	- [[Basic Spells]] 
 ----
 ### [[Custom Character Creation]]
-1. ***Starting Points***: All characters start with **50 hero points** to spend on their build.<br>Remember that each of the following step is **OPTIONAL**, you can also create a blank character with **50 points** availables, you can spend them later in a safe place.
+1. ***[[Hero Points|Starting Points]]***: All characters start with **3 [[Type of Cards|Health Cards]] and 2 [[SoC • Energy|Energy Cards]]**. Also thy get (usually) **20 hero points** to spend on their build.<br>Remember that each of the following step is **OPTIONAL**, you can also create a blank character with **20 points** yet-to-spend, and decide later what he/she should become.
 2. ***[[Flaws|Choose Flaw(s)]]*** 
 3. ***[[Core Ability|Choose Your Core Ability]]*** 
-4. ***[[Skills|Choose Skills]]*** 
-5. ***[[Custom Equipment|Buy & Customize, or Scratch-Build Equipment]]*** 
+4. ***[[Skill Checks|Add Points in Skills]]*** 
+5. ***[[Custom Equipment|Buy, Customize, or Scratch-Build Equipment]]*** 
 6. ***[[Custom Spells|Buy, Customize, or Scratch-Build Spells]]*** 
-7. ***[[Companions|Buy & Customize, or Scratch-Build a Companion]]*** 
+7. ***[[Companions|Buy and Customize, or Scratch-Build a Companion]]*** 
 8. ***[[Lineage|Choose Your Lineage]]*** (*Ask you **GM** for the Campaign's Settings and Lineages*)
 ----
-### Making of This Project
-- [[SoC - List of Cards|List of Cards]].
-- [[SoC - Cards to Print|Cards to print]].
-- [[Soc - AI Prompts Examples|AI Prompts]]. 
-- [[Rune]]
+### Making of This Project, Useful Files
+- [[SoC - List of Cards|List of Cards]] 
+- [[SoC - Cards to Print|Cards to print]] 
+- [[Soc - AI Prompts Examples|AI Prompts]] 
+- [[Runes]] 
+- [[Equipment Properties]]
 ----
 ### Crown and Skull Homage
 - [Crown and Skull - Official Site](https://www.runehammer.online/crown-skull-rpg) 

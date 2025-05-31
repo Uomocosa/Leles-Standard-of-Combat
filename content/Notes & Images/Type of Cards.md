@@ -1,19 +1,8 @@
 ---
-aliases:
-  - Action Cards
-  - Reaction Cards
-  - Gear Cards
-  - Health Cards
-  - Condition Cards
+aliases: []
 ---
-- ***Action Cards***: the most common type of card, they can represent your intent to attack with a weapon, use a spell, perform same kind of movment like running, climbing and swimming, ...
+- ***Action Cards***: the most common type of card, they can represent your intent to attack with a weapon, use a spell, perform same kind of movement like running, climbing and swimming, ...
 - ***Reaction Cards***: they represent really fast action, that are basically a second nature to you. During [[Phases of Combat|Combat]], when a **[[Phases of Combat|round]]** starts, you can set one ore more **face-down**, and when a certain **Trigger** is met you can turn the card/s **face-up** and perform that action to interrupt or aide another creature's action.
-- ***Gear Cards***: They represent your [[Custom Equipment|Gear]].
-- ***Health Cards***: They represent your **Character**'s and your **Equiped Gears**'s **Health**.<br>(*See [[Health]], [[Equiped Gears's Health]] and [[Healing and Repair]]*).<br>There are many type of **Health Cards**, most of them represents your [[Basic Armaments List|Armaments]]'s Health:
-	- [[SoC • Health - Character's Health (1)|Character's Health]].
-	- [[SoC • Health - Helmet Health (1)|Helmet Health]].
-	- [[SoC • Health - Upper Armor Health (1)|Upper Armor Health]].
-	- [[SoC • Health - Lower Armor Health (1)|Lower Armor Health]].
-	- [[SoC • Health - Shield Health (1)|Shield Health]].
-	- [[SoC • Health - Weapon Health (1)|Weapon Health]].
-- ***Condition Cards***: For all conditions affecting your character, like [[stunned]], [[Dying|dying]], [[slowed]], ...
+- ***Gear/Equipment/Item Cards***: They represent your [[Custom Equipment|Gear]], [[Equipment List|Equipment]] and [[Basic Item List|Items]].
+- ***Health Cards***: They represent your **Character**'s **Health**.<br>(*See [[Health]], and [[Heal and Repair]]*).
+- ***Condition Cards***: For all conditions affecting your character, like: [[Bleeding]] [[Stunned]], [[Dying and Stable|dying]], [[Slowed]], ...

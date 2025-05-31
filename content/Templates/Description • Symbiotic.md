@@ -1,1 +1,1 @@
-<br>_[[SoC • Spell Limitiation - Symbiotic|Symbiotic]]_ — This spell requires a second willing caster to assist. The other caster [[discard|discards]] one its spell and forgoes one of its actions.<br>
+<br>_[[SoC • Spell Limitation - Symbiotic|Symbiotic]]_ — This spell requires a second willing caster to assist. The other caster [[discard|discards]] one its spell and forgoes one of its actions.<br>

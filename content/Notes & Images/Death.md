@@ -2,7 +2,8 @@
 
 *The ground beneath you grows impossibly soft, as if cradling your weary form. The sky above shifts, painted with hues of twilight, neither day nor night. You see faint figures in the distance—familiar and strange—waiting at the edge of a shimmering veil*.
 
-When your character reaches 3 or more [[Dying|failed death saving throw mark]] he/she **dies**:<br>***[[returning a card to your GM|return your entire Deck to your GM]]***.
+A [[Dying and Stable]] Creature that fails its [[Dying and Stable|Death Saving Throw]] gains 1 [[SoC • Generic Card - Closer to Death|Closer to Death Card]], at the end of each [[Phases of Combat|Round]]. 
+When a Creature reaches 3 or more [[SoC • Generic Card - Closer to Death|Closer to Death Cards]] he/she **dies**:<br>***[[returning a card to your GM|return your entire Deck to your GM]]***.
 
 However even death might be undone, **if your GM allows it** in your campaign you might learn or encounter ways to return a dead-character to the land of the living.
-*For example if your GM allows it you can take the custom spell [[SoC • Spell - Lifeline]] or [[SoC • Spell - Revivify]]*
+*For example if your GM allows it you can learn and use a powerful [[SoC • Spell Effect - Restore|Restore]] spell to revivify*.

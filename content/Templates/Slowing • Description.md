@@ -1,0 +1,1 @@
+<br>**Slowing** — You can choose to roll an [[Attack, Defense and Combat Damage|Attack]] made with this Weapon at [[Advantage and Disadvantage|Disadvantage]], if you hit, the [[Attack, Defense and Combat Damage|Defender]] is [[Slowed]] (_[[SoC • Generic Action - Movement or Skill|Moving]] becomes more strenuous_) for **1 [[Phases of Combat|Round]]**.

@@ -4,7 +4,7 @@ aliases:
 ---
 - ***Image***:<br>![[Pasted image 20250114000755.png|222]]
 - ***Info***: Core Ability
-- ***Cost***: 20
+- ***Cost***: 7
 - ***Description***:<br>Gain **5 points** in [[Intimidation]], [[Persuasion]] and [[Will]] for free.<br>When a combat encounter starts, choose **1** ally. Inspire them with a command to fight! Their first attack does maximum damage, and they cannot be harmed until the starts of their next [[Phases of Combat|round]]. 
 - ***Effects***: 
 - ***Limitations***: 

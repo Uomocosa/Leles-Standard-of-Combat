@@ -1,4 +1,4 @@
 - You can spend any number of points to buy **Additional Health**. Every **5 [[Hero Points]]** you spend like this will increase your [[Health]] by: **3**, **2**.<br>If you are using a **Card System**, add the following cards to your [[State Deck]]:
 	- **1 × [[SoC • Health - Character's Health (2)|Character's Health (2)]]** 
 	- **1 × [[SoC • Health - Character's Health (3)|Character's Health (3)]]**
-- During an adventure you can spend at most 5 [[Hero Points]] after [[Rest & Recovery|a night of rest]] to buy **Additional Health**.
+- During an adventure you can spend at most 5 [[Hero Points]] after [[Rest and Recovery|a night of rest]] to buy **Additional Health**.

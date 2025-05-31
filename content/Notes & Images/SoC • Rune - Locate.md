@@ -7,7 +7,7 @@ aliases:
 - ***Image***:<br>![[Pasted image 20250102220838.png|100]]
 - ***Info***: Rune - Locate 
 - ***Cost***: 3 
-- ***Description***:<br>Choose [[Arcane]], [[Faith]] or [[Nature]] when you add this Effect. You try to take locate a target creature wherever it is, roll the choosen [[Skill Check]] against a [[Skills|DC]] that is equal to **15 + the choosen [[Skills|Skill Modifier]] of target creature**.<br>If you stack this effect you can reduce the [[Skills|DC (Difficulty Class)]] by **5**.
+- ***Description***:<br>Choose [[Arcane]], [[Faith]] or [[Nature]] when you add this Effect. You try to take locate a target creature wherever it is, roll the choosen [[Skill Check]] against a [[Skill Checks|DC]] that is equal to **15 + the choosen [[Skill Checks|Skill Modifier]] of target creature**.<br>If you stack this effect you can reduce the [[Skill Checks|DC (Difficulty Class)]] by **5**.
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: white 

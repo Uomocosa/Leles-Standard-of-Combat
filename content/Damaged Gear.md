@@ -1,0 +1,5 @@
+---
+aliases:
+  - Damaged
+  - Damaged Condition
+---

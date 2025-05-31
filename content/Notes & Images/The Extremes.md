@@ -21,6 +21,10 @@ A **d20** roll of **20** scores a **critical success**, and a **1** a **critical
 
 Each of these rolls will create a maximal version of success or failure. Critical successes overcome impossible odds, grant extra time, or defy belief. Critical failures cost precious equipment, accelerate destructive environments, or lend advantages to foes. “*It’s a crit! Not only do you leap the creek, your pursuer falls in!*”
 
+_However, a critical failure can also be an optimal learning method_.<br>Whenever you roll a [[Skill Check]] and **critically fail**, and have enough points to spend, you can [[Meditate and Train|train]] or [[Meditate and Train|study]], in that skill.
+- ***Train (1 pt)*** — Increase the skill modifer by **+1**. Gain **1 [[Type of Cards|Health Card]]**.
+- ***Study (2 pt)*** — Increase the skill modifer by **+1**. Gain **1 [[Type of Cards|Energy Card]]**.
+
 ----
 ### Hero Coins
 Acts of heroism or astounding play are rewarded by the GM with a hero coin. A hero coin (not to be confused with [[Hero Points]]!) can be redeemed to

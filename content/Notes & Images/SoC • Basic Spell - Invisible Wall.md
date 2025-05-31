@@ -5,7 +5,7 @@ aliases:
 - ***Image***:<br>![[SoC • Basic Spell - Invisible Wall (Image).png|222]]
 - ***Info***: [[Basic Spells|Basic Spell]] - Action 
 - ***Cost***: 3 
-- ***Description***:<br>A **50cm** wide force field with **15** [[Enemy Primer|HP]] and **0** [[Armor Class (AC)|AC]] ([[Combat Damage|Attacks]] against the wall cannot miss).
+- ***Description***:<br>A **50cm** wide force field with **15** [[Enemy Primer|HP]] and **0** [[Armor Class (AC)|AC]] ([[Attack, Defense and Combat Damage|Attacks]] against the wall cannot miss).
 - ***Effects***: [[SoC • Rune - Barrier|Barrier]]
 - ***Limitations***: 
 - ***Color***: artifact 

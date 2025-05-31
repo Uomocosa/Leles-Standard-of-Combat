@@ -1,1 +1,1 @@
-<br>_[[SoC • Spell Limitiation - Ritual|Ritual]]_ — Roll three [[Arcane]] [[Skill Check|Skill Checks]] with [[Skills|DC]] **15**, if one or more fails, so does the spell, however it it fails this way, it is not consumed.<br>
+<br>_[[SoC • Spell Limitation - Ritual|Ritual]]_ — Roll three [[Arcane]] [[Skill Check|Skill Checks]] with [[Skill Checks|DC]] **15**, if one or more fails, so does the spell, however it it fails this way, it is not consumed.<br>

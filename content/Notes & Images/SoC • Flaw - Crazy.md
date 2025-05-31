@@ -5,9 +5,10 @@ aliases:
 - ***Image***:<br>![[SoC • Flaw - Crazy (Image).png|222]]
 - ***Info***: Flaw
 - ***Cost***:
-- ***Description***:<br>When faced with a difficult choice, choose randomly. 
+- ***Description***:<br>When faced with a difficult choice, your **GM** will ask you to choose randomly. 
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: red 
+- _**Prompt** [LMArena](https://beta.lmarena.ai/)_: I need a 2D epic fantasy illustration, in an epic graphic style with white and black color, and a clean white background. It represents the flaw Crazy, with the following effect: 'When faced with a difficult choice, your GM will ask you to choose randomly'. Add the words "Crazy" under the image in a stylish font.
 ----
 - ***Card***:<br>![[SoC • Card - Crazy.png|550]]

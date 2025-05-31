@@ -5,7 +5,7 @@ aliases:
 - ***Image***:<br>![[Pasted image 20250105131538 - Copia.png|222]]
 - ***Info***: Spell - Action 
 - ***Cost***: 6 
-- ***Description***:<br>You touch a creature that has **died within the last [[Phases of Combat|round]]**. That creature returns to life and [[Healing and Repair|regain]] **1 × [[SoC • Health - Character's Health (1)|Character's Health (1) Card]]**. This spell can’t return to life a creature that has died of old age, nor can it restore any missing body parts. 
-- ***Effects***: [[SoC • Rune - Restore|Restore-2]]
+- ***Description***:<br>You touch a creature that has **died within the last [[Phases of Combat|round]]**. That creature returns to life and [[Heal and Repair|regain]] **1 × [[SoC • Health - Character's Health (1)|Character's Health (1) Card]]**. This spell can’t return to life a creature that has died of old age, nor can it restore any missing body parts. 
+- ***Effects***: [[SoC • Spell Effect - Restore|Restore-2]]
 - ***Limitations***: 
 - ***Color***: White 

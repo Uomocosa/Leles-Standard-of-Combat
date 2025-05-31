@@ -6,7 +6,7 @@ aliases:
 - ***Info***: [[Basic Spells|Basic Spell]] - Action 
 - ***Cost***: 1
 - ***Description***:<br>Move small objects in your immediate area. 
-- ***Effects***: [[SoC • Rune - Psychokinesis|Psychokinesis]]
+- ***Effects***: [[SoC • Spell Effect - Psychokinesis|Psychokinesis]]
 - ***Limitations***: 
 - ***Color***: blue 
 ----

@@ -4,8 +4,8 @@ aliases:
 ---
 - ***Image***:<br>![[SoC • Core Ability - Detective (Image).png|222]]
 - ***Info***: Core Ability
-- ***Cost***: 20
-- ***Description***:<br>You have masterful intuition. Gain **7 points** in the [[Intuition]], [[Intuition]] and [[Perception]] skills for free.<br>Additionally, you can give [[Homebrew Rule - Advantange • Disadvantage|Advantage]] to an ally's next attack as an [[SoC • Spell Limitiation - Exhausting|Exhausting Spell]].
+- ***Cost***: 7
+- ***Description***:<br>_You have mastered the art of observation_.<br>Choose one [[Skill Checks|Skill]] between [[Intuition]] and [[Perception]]. When you roll a [[Skill Check]] with the chosen skill, roll it with [[Advantage and Disadvantage|Advantage]].<br>Also you can give [[Advantage and Disadvantage|Advantage]] to an ally's next Attack Roll by [[Forgo an Action|Forgoing one of your Actions]].
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 

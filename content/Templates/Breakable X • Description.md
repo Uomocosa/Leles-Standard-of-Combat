@@ -1,0 +1,1 @@
+<br>**Breakable X** — Whenever you make a [[Skill Check]] using this, if the **d20** result is **X or less**, it becomes [[Damaged Gear|Damaged]].

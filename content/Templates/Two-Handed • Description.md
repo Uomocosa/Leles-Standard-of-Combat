@@ -1,0 +1,1 @@
+<br>**Two-Handed** — This Weapon requires both hands, to be properly managed. You can still decide to use only one, if you do all roll made with this weapon will be at [[Advantage and Disadvantage|Disadvantage]].

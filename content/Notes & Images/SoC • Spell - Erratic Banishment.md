@@ -5,9 +5,9 @@ aliases:
 - ***Image***:<br>![[SoC • Spell - Erratic Banishment (Image).png|222]]
 - ***Info***: Spell - Action 
 - ***Cost***: 1 
-- ***Description***:<br>*Ritual* — Roll three [[Arcane]] [[Skill Check|Skill Checks]] with [[Skills|DC]] **15**, if one or more fails, so does the spell, however it it fails this way, it is not consumed.<br>_Maddening_ — When you cast this spell roll an [[Arcane]] [[Skill Check]] with [[Skills|DC]] **15**, if you fail take the [[SoC • Flaw - Crazy|Crazy]] flaw untill your next [[Rest & Recovery|rest]].<br>_Unstable_ — When you cast this spell roll an [[Arcane]] [[Skill Check]] with [[Skills|DC]] **15**, roll on the [[Unstable Magic|Unstable Magic]]<br>_Banishment_ — All summoned creature in an **9m** area around you with **30 [[Enemy Primer|HP]]** or less are instantly cast out.
-- ***Effects***: [[SoC • Rune - Area|Area]], [[SoC • Rune - Banish|Banish-2]]
-- ***Limitations***: [[SoC • Spell Limitiation - Maddening|Maddening]], [[SoC • Spell Limitiation - Ritual|Ritual]], [[SoC • Spell Limitiation - Unstable|Unstable]]
+- ***Description***:<br>*Ritual* — Roll three [[Arcane]] [[Skill Check|Skill Checks]] with [[Skill Checks|DC]] **15**, if one or more fails, so does the spell, however it it fails this way, it is not consumed.<br>_Maddening_ — When you cast this spell roll an [[Arcane]] [[Skill Check]] with [[Skill Checks|DC]] **15**, if you fail take the [[SoC • Flaw - Crazy|Crazy]] flaw untill your next [[Rest and Recovery|rest]].<br>_Unstable_ — When you cast this spell roll an [[Arcane]] [[Skill Check]] with [[Skill Checks|DC]] **15**, roll on the [[Unstable Magic Table|Unstable Magic Table]]<br>_Banishment_ — All summoned creature in an **9m** area around you with **30 [[Enemy Primer|HP]]** or less are instantly cast out.
+- ***Effects***: [[SoC • Spell Effect - Area|Area]], [[SoC • Spell Effect - Banish|Banish-2]]
+- ***Limitations***: [[SoC • Spell Limitation - Maddening|Maddening]], [[SoC • Spell Limitation - Ritual|Ritual]], [[SoC • Spell Limitation - Unstable|Unstable]]
 - ***Color***: white 
 - ***Note***: Before being actually cast, this spell requires **5** [[Arcane]] [[Skill Check|Skill Checks]] made by you, your party might hate you if you take this spell. Continue at your own risk.
 ----

@@ -1,1 +1,1 @@
-<br>_[[SoC • Spell Limitiation - Unstable|Unstable]]_ — A wobbly, barely-contained magic. When cast, roll an [[Arcane]] [[Skill Check|check]] against a [[Skills|DC]] of **15** to maintain control. If failed, roll on the [[Unstable Magic|Unstable Magic]].<br>
+<br>_[[SoC • Spell Limitation - Unstable|Unstable]]_ — A wobbly, barely-contained magic. When cast, roll an [[Arcane]] [[Skill Check|check]] against a [[Skill Checks|DC]] of **15** to maintain control. If failed, roll on the [[Unstable Magic Table|Unstable Magic Table]].<br>

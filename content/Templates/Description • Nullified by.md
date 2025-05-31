@@ -1,1 +1,1 @@
-<br>_[[SoC • Spell Limitiation - Nullified by|Nullified by]]_ — Has no effect on a specific type of target or target property (DEFINE IT WHEN ADDING THIS LIMITATION).<br>
+<br>_[[SoC • Spell Limitation - Nullified by|Nullified by]]_ — Has no effect on a specific type of target or target property (DEFINE IT WHEN ADDING THIS LIMITATION).<br>

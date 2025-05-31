@@ -1,6 +1,5 @@
 ---
-aliases:
-  - Concealed
+aliases: []
 ---
 - ***Image***:<br>![[Pasted image 20250113133532.png|100]]
 - ***Info***: Effect - Concealed

@@ -5,7 +5,7 @@ aliases:
 - ***Image***:<br>![[SoC • Flaw - Drunkard (Image).png|222]]
 - ***Info***: Flaw
 - ***Cost***:
-- ***Description***:<br>Your drinking wavers between revelry and tomfoolery. Beer and wine drain your pockets and frustrate your friends. 
+- ***Description***:<br>_Your drinking wavers between revelry and tomfoolery. Beer and wine drain your pockets and frustrate your friends_. 
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: green 

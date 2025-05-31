@@ -1,0 +1,1 @@
+<br>**Loaded** — This Weapon requires to be loaded, [[Forgo an Action]] to do so. You cannot Attack with this Weapon if not previously loaded.

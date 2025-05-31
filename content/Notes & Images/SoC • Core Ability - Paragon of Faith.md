@@ -4,8 +4,8 @@ aliases:
 ---
 - ***Image***:<br>![[SoC • Core Ability - Paragon of Faith (Image).png|222]]
 - ***Info***: Core Ability
-- ***Cost***: 20
-- ***Description***:<br>Your [[Faith]] [[Skills|Modifier]] grows by **+1** with every successful spell cast, this bonus lasts for **10 minutes**, each succesfull cast restarts this "timer". You can gain a maximum of **+10** this way.<br>Additionally, destroy **1d6** _weak undead_ as an [[SoC • Spell Limitiation - Exhausting|Exhausting Spell]] (weak unded can be zombies, shamblers, [[SoC • Enemy - Spooky Scary Skeleton|skeletons]], or similar). 
+- ***Cost***: 7
+- ***Description***:<br>Your [[Faith]] [[Skill Checks|Modifier]] grows by **+1** with every successful [[Custom Spells|Spell]] cast, this bonus lasts for **10 minutes**, each successful cast restarts this "timer". You can gain a maximum of **+10** this way.<br>While you have no [[Health|Temporary Health]], and you successfully cast a [[Custom Spells|Spell]], you gain **1 [[Health|Temporary Health]]**, lasting **1 hour**.
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: white 

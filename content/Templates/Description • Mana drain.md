@@ -1,1 +1,1 @@
-<br>_[[SoC • Spell Limitiation - Mana Drain|Mana drain]]_ — To cast this spell you also need to [[discard]] another one of your spells, with cost **3** or more.<br>
+<br>_[[SoC • Spell Limitation - Mana Drain|Mana drain]]_ — To cast this spell you also need to [[discard]] another one of your spells, with cost **3** or more.<br>

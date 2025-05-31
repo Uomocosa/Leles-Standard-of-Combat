@@ -1,0 +1,1 @@
+<br>_Frail_ — Whenever this Weapon would become [[Damaged Gear|Damaged]], instead it is [[Destroyed Gear|Destroyed]].

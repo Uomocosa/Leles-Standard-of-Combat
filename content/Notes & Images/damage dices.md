@@ -1,0 +1,14 @@
+---
+aliases:
+  - damage dices
+  - damage dice
+  - damage die
+---
+- A weapon/spell or more generearly an **effect that deals damage** will make you roll for damage, the dices you roll are called **damage dices**.
+- ***Examples***:
+	- If a weapon deals **1d6**, its damage die is: ***1d6***.
+	- If a weapon deals **2d12**, its damage diece are: ***2d12***.
+	- If a weapon deals **3d4**, its damage diece are: ***3d4***.
+	- If a weapon deals **1d4 + 1d6 lighting damage**, its damage diece are: ***1d4 + 1d6***.
+	- If a weapon deals **1d6 + 3**, its damage die is: ***1d6***.
+	- ...

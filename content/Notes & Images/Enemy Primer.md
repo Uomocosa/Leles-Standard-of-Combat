@@ -14,14 +14,14 @@ While for more complex enemies you can just create a new character using an appr
 _As a **GM** you don't need to have everything written down, and your party does not know what you have or haven't prepared beforehand, be confident. Imporvvisation is your friend. Be kind and just, let your party have a good time_. 
 
 ---
-***HP***:<br>It can be a simple pool of hit points. At 0 hit points, the foe is killed.<br>Or it can be divided in 2 pools: one for enemy health and armor health.<br>How you want to mark the enemy **HP** grossly depend how many [[Combat Damage#Aimed or Precise Attacks|Precise Attacks]] your party tries to do. 
+***HP***:<br>It can be a simple pool of hit points. At 0 hit points, the foe is killed.<br>Or it can be divided in 2 pools: one for enemy health and armor health.<br>How you want to mark the enemy **HP** grossly depend how many [[Attack, Defense and Combat Damage#Aimed or Precise Attacks|Precise Attacks]] your party tries to do. 
 
 ***AC***:
 Like for players, also enemies have their [[Armor Class (AC)]].
 
 
 ***SKILLS***:
-These are the same [[Skills]] of a player, simple enemies are *Unskilled* — **-2** to all Skills. While bosses might be more skillful like: *Noble* — Deception **+5**, Lore **+5**, Persuasion **+3**, Will **+5**.<br>==If a skill modifier is not specified it is just **-2**==.
+These are the same [[Skill Checks]] of a player, simple enemies are *Unskilled* — **-2** to all Skills. While bosses might be more skillful like: *Noble* — Deception **+5**, Lore **+5**, Persuasion **+3**, Will **+5**.<br>==If a skill modifier is not specified it is just **-2**==.
 
 ***TACTICS***:<br>On the enemy turn as a **GM** you need to decide how it will act, ***what tactics, special attacks, special effects an enemy or group of enemies might have***.
 _Is it a simple enemy with few brain cells, then it will try to attack the closest character, no special attacks or tactics, they have just a simple attack like: Sword — **d20+2** (**1d4**)_.

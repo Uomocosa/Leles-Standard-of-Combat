@@ -1,9 +1,3 @@
----
-aliases:
-  - Reaction
-  - Reaction-2
-  - Reaction-3
----
 - ***Image***:<br>![[Pasted image 20250102220744.png|100]]
 - ***Info***: Rune - Reaction 
 - ***Cost***: 3 

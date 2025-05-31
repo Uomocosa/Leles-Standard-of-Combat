@@ -5,7 +5,7 @@ aliases:
 - ***Image***:<br>![[SoC • Flaw - Timid (Image).png|222]]
 - ***Info***: Flaw
 - ***Cost***:
-- ***Description***:<br>You’d rather let others lead.<br>Take actions after all your other allies, especially during [[Phases of Combat|Combat]]. You cannot take the [[SoC • Flaw - Impetuos|Impetuos Flaw]]. 
+- ***Description***:<br>_You’d rather let others lead_.<br>Also during each [[Phases of Combat|Round]] in [[Phases of Combat|Combat]], if you are not the last of your allies to act, you get [[Advantage and Disadvantage|Disadvantage]] on your next [[Skill Check]]. Acting as a [[Reactions|Reaction]] is an exception to this rule.<br>You cannot take the [[SoC • Flaw - Impetuous|Impetuous]] flaw. 
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: white 

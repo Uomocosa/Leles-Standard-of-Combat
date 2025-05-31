@@ -5,7 +5,7 @@ aliases:
 - ***Image***:<br>![[SoC • Spell - Revivify (Image).png|222]]
 - ***Info***: Spell - Action 
 - ***Cost***: 3 
-- ***Description***:<br>Requirements (rare gem worth at least 5 [[The Extremes|Hero Points]], which the spell consumes.)<br>You touch a creature that has **died within the last minute**. That creature returns to life and [[Healing and Repair|regain]] **1 × [[SoC • Health - Character's Health (1)|Character's Health (1) Card]]**. This spell can’t return to life a creature that has died of old age, nor can it restore any missing body parts. 
-- ***Effects***: [[SoC • Rune - Restore|Restore-2]]
-- ***Limitations***: [[SoC • Spell Limitiation - Cost Material to Cast|Cost material to cast]]
+- ***Description***:<br>Requirements (rare gem worth at least 5 [[The Extremes|Hero Points]], which the spell consumes.)<br>You touch a creature that has **died within the last minute**. That creature returns to life and [[Heal and Repair|regain]] **1 × [[SoC • Health - Character's Health (1)|Character's Health (1) Card]]**. This spell can’t return to life a creature that has died of old age, nor can it restore any missing body parts. 
+- ***Effects***: [[SoC • Spell Effect - Restore|Restore-2]]
+- ***Limitations***: [[SoC • Spell Limitation - Cost Material to Cast|Cost material to cast]]
 - ***Color***: White 

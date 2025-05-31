@@ -7,7 +7,7 @@ aliases:
 - ***Cost***: 1 
 - ***Description***:<br>Conjure a type of weather when outdoors. 
 - ***Effects***: 
-- ***Limitations***: [[SoC • Spell Limitiation - Only Works Outdoors|Only works outdoors]]
+- ***Limitations***: [[SoC • Spell Limitation - Only Works Outdoors|Only works outdoors]]
 - ***Color***: blue 
 ----
 - ***Card***:<br>![[SoC • Card - Stormcaller.png|550]]

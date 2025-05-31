@@ -23,21 +23,21 @@ Creating customized spells and equipment is a learned skill as a player, so don�
 - Your character starts with an [[Health]] of **1**, **1**, **1**. 
 - You can spend any number of points to buy [[Additional Health]], each **5 points** you spend like this will grant you additional **3**, **2** [[Health]]. 
 
-***STEP 5: [[Skills|Choose Skills]]***: Skills are the majority of rolls you’ll be making in play. **Just roll a D20, and add the [[Skills|Skill Modifier]] value against a [[Skills|DC]] decided by your GM**. Sometimes, the GM may place a penalty or bonus on this roll, so high skills are a welcome friend! Outfit your character with a handful of skills that fit your concept. 
-- **Skills are purchased at 1-to-1 point value**, meaning a skill of 6 would cost 6 points and on, however take a look at the [[Skills#Skill Modifiers (Bonus or Malus)|Modifiers Table]] to see what bonus (or malus) to add to your [[Skill Check]], the higher the points you put in a skill, the higher the modifer. 
+***STEP 5: [[Skill Checks|Choose Skills]]***: Skills are the majority of rolls you’ll be making in play. **Just roll a D20, and add the [[Skill Checks|Skill Modifier]] value against a [[Skill Checks|DC]] decided by your GM**. Sometimes, the GM may place a penalty or bonus on this roll, so high skills are a welcome friend! Outfit your character with a handful of skills that fit your concept. 
+- **Skills are purchased at 1-to-1 point value**, meaning a skill of 6 would cost 6 points and on, however take a look at the [[Skill Checks#Skill Modifiers (Bonus or Malus)|Modifiers Table]] to see what bonus (or malus) to add to your [[Skill Check]], the higher the points you put in a skill, the higher the modifier. 
 - **There is no limit to how many points you can invest in a skill**. 
 
-***STEP 6: [[Custom Equipment|Buy & Customize Equipment]]***: Visualize your character and spend your precious points on the equipment you need to satisfy the concept. 
+***STEP 6: [[Custom Equipment|Buy and Customize Equipment]]***: Visualize your character and spend your precious points on the equipment you need to satisfy the concept. 
 There will plenty of time in play to earn hero points and buy more equipment, so focus on essentials. Record damage and details for any weapons equipped. If creating a very specific idea, like a priest with a talking sword, dive into the custom equipment rules and be creative! 
 - Add the total value of bonus [[Armor Class (AC)|AC]] to your character. 
 - Record the health of your armor. (*see [[Health|Health Cards]]*) 
-- **When attacked**: enemies will try to hit you, if their total [[Combat Damage|Attack Roll]] is even or higher than your [[Armor Class (AC)|AC]] then you'll suffer some damage. 
+- **When attacked**: enemies will try to hit you, if their total [[Attack, Defense and Combat Damage|Attack Roll]] is even or higher than your [[Armor Class (AC)|AC]] then you'll suffer some damage. 
 
 ***STEP 7: [[Custom Spells|Buy, Customize, or Scratch-Build Spells]]***: Of all the steps in custom character creation, none is more nuanced and ‘DIY’ than creating spells. 
 This takes a flair for magic creativity, a good handle of effects and limitations, and your GM to make a few calls on the magic you’re creating. 
 All this odd work will be especially satisfying to the dedicated wizardplayer. 
 
-***STEP 8: [[Companions|Acquire & Customize a Companion]]***: If your character concept includes a small familiar, falcon, pet or mount, use these rules and pay the points needed.
+***STEP 8: [[Companions|Acquire and Customize a Companion]]***: If your character concept includes a small familiar, falcon, pet or mount, use these rules and pay the points needed.
 
 ***STEP 9: [[Lineage|Choose Your Lineage]]***: There are five lineages to choose from, each offers a bit of flavor for your place in the world.
 

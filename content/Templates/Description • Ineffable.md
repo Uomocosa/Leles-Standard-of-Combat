@@ -1,1 +1,1 @@
-<br>_[[SoC • Spell Limitiation - Ineffable|Ineffable]]_ — This magic is primal, and can’t be recorded for others to use on scrolls, weapons, rings, or wands of any sort.<br>
+<br>_[[SoC • Spell Limitation - Ineffable|Ineffable]]_ — This magic is primal, and can’t be recorded for others to use on scrolls, weapons, rings, or wands of any sort.<br>

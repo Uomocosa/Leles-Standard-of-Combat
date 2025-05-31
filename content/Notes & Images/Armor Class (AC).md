@@ -20,13 +20,13 @@ When changing your armor you move your equiped armor to your [[Inventory]], and 
 
 ----
 ### Damaged/Destroyed
-When hit by an enemy, you can ‘[[Combat Damage#Cross ‘Em Off|cross off]]’ a piece of armor as your [[Combat Damage|attrition]]. 
+When hit by an enemy, you can ‘[[Attack, Defense and Combat Damage#Cross ‘Em Off|cross off]]’ a piece of armor as your [[Attack, Defense and Combat Damage|attrition]]. 
 Most commonly, this means the armor is damaged beyond use. Some foes with [[corrosive]] or ‘[[sundering]]’ attacks will destroy armor, not just damage it. **Delete the item from your inventory permanently**.
 
 ----
 ### The Armorer Skill
 All heavy armor fighters worth their weight are trained in the repair of armor. The [[Forging]] allows an armor user to ‘self-heal’ with a successful [[Skill Check]]. 
-If you need a more rapid solution, consider the [[SoC • Rune - Mend|Mending Effect]].
+If you need a more rapid solution, consider the [[SoC • Spell Effect - Mend|Mending Effect]].
 
 ----
 # 

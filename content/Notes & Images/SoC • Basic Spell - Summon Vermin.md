@@ -6,8 +6,8 @@ aliases:
 - ***Info***: [[Basic Spells|Basic Spell]] - Action 
 - ***Cost***: 1
 - ***Description***:<br>Attract a swarm (**1d8**) of local pests, they attack indiscriminately creatures near you, including yourself.
-- ***Effects***: [[SoC • Rune - Summon|Summon]]
-- ***Limitations***: [[SoC • Spell Limitiation - Cannot be Targeted|Cannot be targeted]]
+- ***Effects***: [[SoC • Spell Effect - Summon|Summon]]
+- ***Limitations***: [[SoC • Spell Limitation - Cannot be Targeted|Cannot be targeted]]
 - ***Color***: black 
 ----
 - ***Card***:<br>![[SoC • Card - Summon Vermin.png|550]]

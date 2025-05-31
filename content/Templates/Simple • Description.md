@@ -1,0 +1,1 @@
+<br>**Simple** — An extremely basic piece of Equipment, that can be repaired by anyone. Whenever you make a [[Forging]] [[Skill Check]] to [[Heal and Repair|Repair]] it, do it with [[Advantage and Disadvantage|Advantage]].

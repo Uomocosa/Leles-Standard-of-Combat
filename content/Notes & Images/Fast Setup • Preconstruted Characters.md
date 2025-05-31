@@ -3,7 +3,7 @@
 ----
 
 _**Blain**_ — A construct forged by a legendary blacksmith and enchanted by one of the continent's most powerful magicians. Its sole purpose is to protect its charge at all costs.<br>Stay vigilant about the wear and tear on your equipment.<br>_The protected individual could be another player or a key NPC._
-- *[[SoC • Homebrew Character Idea • Character Sheet - Blain|Character Sheet]]*.
+- *[[SoC • OLD - Blain|Character Sheet]]*.
 - _Or if you prefer you can print these **[[SoC • Homebrew Character Idea • Card System - Blain|Cards]]**_.
 
 ----

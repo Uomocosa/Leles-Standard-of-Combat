@@ -10,14 +10,14 @@ This simple roll is made on a `d20`, rolling at or below the target or opposing 
 ----
 ### Skill Roll or Skill Checks
 Often during play, you will announce “*I will roll my jump skill to leap over this creek!*” or some equivalent. 
-Roll **1d20** and add that [[Skills|Skill]]’s modifier. 
+Roll **1d20** and add that [[Skill Checks|Skill]]’s modifier. 
 In some cases, a difficulty penalty will reduce the skill’s value. Note that many specialized or athletic actions are simply not possible without a working skill! 
 “*You strain to bend the bars, but without an Athletics skill, you accomplish nothing!*”
 
 ----
 ### Rolling to Hit
 After declaring the enemy you wish to attack, you need to roll a `d20` and depenting on the weapon you'll need to sum a certain skill modifier to your roll. 
-*Generarly melee weapons will ask you to roll with [[Force]], while ranged weapon will ask you to roll with [[Agility]], finally some [[Custom Spells|Spells]] will require an [[Arcane]] or a similar check to apply their effects*.
+*Generarly melee weapons will ask you to roll with [[Might]], while ranged weapon will ask you to roll with [[Agility]], finally some [[Custom Spells|Spells]] will require an [[Arcane]] or a similar check to apply their effects*.
 
 ==A result of `1` on the `d20` is considered a [[The Extremes|critical failure]], While a `20` is considered a [[The Extremes|critical success]]==.
 

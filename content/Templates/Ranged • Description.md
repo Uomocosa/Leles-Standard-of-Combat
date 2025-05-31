@@ -1,0 +1,1 @@
+<br>**Ranged** — You can Attack any Creature that you know the position of. For each Zone between you, roll with an _additional_ [[Advantage and Disadvantage|Disadvantage]]. Succeed in an [[Opposing Rolls|opposing roll]]: _[[Agility]] **vs.** [[Agility]]_ to hit.

@@ -1,38 +1,84 @@
 ---
 aliases:
   - List of Cards
+  - All Cards
 ---
 ### Generic Cards
-- [[SoC • Generic Card - Movement or Skill|Movement or Skill]] (_2 cards per player_) 
+- [[SoC • Generic Action - Movement or Skill|Movement or Skill]] (_2 cards per player_) 
+- [[SoC • Generic Action - Encore|Encore]] (_1 cards per player_) 
 - [[SoC • Generic Card - Character Details|Character Details]] (_1 card per player_) 
-### Rule Cards
-- [[SoC - Skill Modifier Table|Skill Modifier Table]] 
-- [[Infernal Magic|Infernal Magic table]] 
-- [[Unstable Magic|Unstable Magic table]] 
-- [[Healing and Repair]] 
+- [[SoC • Generic Card - Closer to Death|Closer to Death]] (_2 per player, held by the GM_)
+- [[SoC • Resource - Health Card|Health Card]] (_the more the merrier, at least 15 per player_) 
+- [[SoC • Resource - Energy Card|Energy Card]] (_the more the merrier at least 7 per player_)
+- [[SoC • Resource - Temporary Health Card]] (_2 cards per player_) 
+- [[SoC • Resource - Temporary Energy Card]] (_1 card per player_) 
+- [[Forging]] (_1 card per player_) 
+- [[Intimidation]] (_1 card per player_) 
+- [[Medicine]] (_1 card per player_) 
+- [[SoC • Rest and Recovery - A Night of Rest]] (_1 cards per player_) 
+- [[SoC • Rest and Recovery - Short Rest]] (_1 cards per player_) 
+### Rule Cards (print 1 each)
+- [[Infernal Magic Table|Infernal Magic table]] (_print at least 2_)
+- [[Unstable Magic Table|Unstable Magic table]] (_print at least 2_)
+- [[Heal and Repair]]
+- [[SoC • Rest and Recovery - A Night of Rest]]
+- [[SoC • Rest and Recovery - Short Rest]]
+- [[Skill Checks]]
+- [[Meditate and Train]]
 - [[Basic Spells]]
--  [[SoC - Spell Effects Group I]]
--  [[SoC - Spell Effects Group II]]
--  [[SoC - Spell Effects Group III]]
--  [[SoC - Spell Effects Group IV]]
-
+- [[SoC • Rule Card - Spellcasting]]
+- [[SoC • Rule Card - Custom Spells]]
+- [[SoC - Basic Weapons Table|Basic Equipment Table]]
+- [[SoC - Standard Weapons Table]]
+- [[SoC - Grand Weapons Table]]
+- [[SoC - Armors and Shield Table]]
+- [[SoC • Zone - Plains]]
+- [[SoC • Zone - Forest]]
+- [[SoC • Zone - Swamp]]
+- [[SoC • Zone - Lava]]
+- [[SoC • Zone - Shallow Water]]
+- [[SoC • Zone - Deep Water]]
+- [[Bleeding]]
+- [[Slowed]]
+- [[Stunned]]
+- [[Unconscious]]
+- [[SoC • Condition Card - Dying]]
+- [[SoC • Condition Card - Stable]]
+- [[SoC • Rule Card - Death Saving Throws]]
+- [[Skill Checks]]
+- [[Might]]
+- [[Agility]]
+- [[Arcane]]
+- [[Faith]]
+- [[Nature]]
+- [[Will]]
+- [[Deception]]
+- [[Forging]]
+- [[Intimidation]]
+- [[Intuition]]
+- [[Lore]]
+- [[Medicine]]
+- [[Perception]]
+- [[Performance]]
+- [[Persuasion]]
+- [[Sleight of Hand]]
+- [[Stealth]]
 ### Core Ability
+- [[SoC • Core Ability - Artificer|Artificer]]
+- [[SoC • Core Ability - Alchemist|Alchemist]]
 - [[SoC • Core Ability - Battlemaster|Battlemaster]]
 - [[SoC • Core Ability - Brutal Fighter|Brutal Fighter]]
 - [[SoC • Core Ability - Druid|Druid]]
 - [[SoC • Core Ability - Detective|Detective]]
-- [[SoC • Core Ability - Go Unnoticed|Go Unnoticed]]
+- [[SoC • Core Ability - Go Unnoticed|Go Unnoticed]] 
+- [[SoC • Core Ability - Hero|Hero]] 
+- [[SoC • Core Ability - Lucky|Lucky]] 
 - [[SoC • Core Ability - Master of the Forge|Master of the Forge]]
 - [[SoC • Core Ability - Paragon of Faith|Paragon of Faith]]
-- [[SoC • Core Ability - Protector|Protector]]
+- [[SoC • Core Ability - Runic Caster|Runic Caster]]
 - [[SoC • Core Ability - Spellsinger|Spellsinger]]
 - [[SoC • Core Ability - Uncanny Shot|Uncanny Shot]]
-- [[SoC • Core Ability - Veteran Commander|Veteran Commander]]
 - [[SoC • Core Ability - Wizard Savant|Wizard Savant]]
-- [[SoC • Core Ability - Artificer|Artificer]]
-- [[SoC • Core Ability - Hero|Hero]]
-- [[SoC • Core Ability - Lucky|Lucky]]
-- [[SoC • Core Ability - Runic Caster|Runic Caster]]
 ### Flaws
 - [[SoC • Flaw - Addict|Addict]]
 - [[SoC • Flaw - Ascetic|Ascetic]]
@@ -43,7 +89,7 @@ aliases:
 - [[SoC • Flaw - Drunkard|Drunkard]]
 - [[SoC • Flaw - Employed|Employed]]
 - [[SoC • Flaw - Greedy|Greedy]]
-- [[SoC • Flaw - Impetuos|Impetuos]]
+- [[SoC • Flaw - Impetuous|Impetuos]]
 - [[SoC • Flaw - Injured|Injured]]
 - [[SoC • Flaw - Just a Kid|Just a kid]]
 - [[SoC • Flaw - Paranoid|Paranoid]]
@@ -76,82 +122,62 @@ aliases:
 - [[SoC • Basic Spell - Vines|Vines]] 
 - [[SoC • Basic Spell - Waterbreath|Waterbreath]] 
 ### Runes
-- [[SoC • Rune - Adapt|Adapt]] 
-- [[SoC • Rune - Analyze|Analyze]] 
+- [[SoC • Spell Effect - Alter|Adapt]] 
 - [[SoC • Rune - Animate|Animate]] 
-- [[SoC • Rune - Area|Area]] 
-- [[SoC • Rune - Banish|Banish]] 
-- [[SoC • Rune - Barrier|Barrier]]
-- [[SoC • Rune - Blast|Blast]] 
-- [[SoC • Rune - Camouflage|Camouflage]]
-- [[SoC • Rune - Clairvoyance|Clairvoyance]] 
-- [[SoC • Rune - Clarity|Clarity]]
+- [[SoC • Spell Effect - Area|Area]] 
+- [[SoC • Spell Effect - Banish|Banish]] 
+- [[SoC • Spell Effect - Harm|Blast]] 
+- [[SoC • Spell Effect - Sensory|Clairvoyance]] 
+- [[SoC • Rune - Cleanse|Clarity]]
 - [[SoC • Rune - Clone|Clone]] 
-- [[SoC • Rune - Create|Create]] 
-- [[SoC • Rune - Defense|Defense]] 
-- [[SoC • Rune - Detect|Detect]] 
-- [[SoC • Rune - Dispel|Dispel]] 
-- [[SoC • Rune - Dominate|Dominate]] 
-- [[SoC • Rune - Drain|Drain]] 
-- [[SoC • Rune - Duration|Duration]] 
-- [[SoC • Rune - Enchant|Enchant]] 
-- [[SoC • Rune - Evade|Evade]] 
-- [[SoC • Rune - Haste|Haste]] 
-- [[SoC • Rune - Illusions|Illusions]] 
-- [[SoC • Rune - Language|Language]] 
-- [[SoC • Rune - Lasting|Lasting]] 
-- [[SoC • Rune - Levitate|Levitate]] 
-- [[SoC • Rune - Locate|Locate]] 
-- [[SoC • Rune - Mend|Mend]] 
-- [[SoC • Rune - Metal|Metal]] 
-- [[SoC • Rune - Obscure|Obscure]] 
-- [[SoC • Rune - Observant|Observant]] 
-- [[SoC • Rune - Poison|Poison]] 
-- [[SoC • Rune - Powerful|Powerful]] 
-- [[SoC • Rune - Psychokinesis|Psychokinesis]] 
-- [[SoC • Rune - Ranged|Ranged]] 
-- [[SoC • Rune - Reaction|Reaction]] 
-- [[SoC • Rune - Recast|Recast]]
-- [[SoC • Rune - Restore|Restore]] 
-- [[SoC • Rune - Shapechange|Shapechange]] 
-- [[SoC • Rune - Silent|Silent]] 
-- [[SoC • Rune - Specialist|Specialist]] 
-- [[SoC • Rune - Still|Still]] 
-- [[SoC • Rune - Summon|Summon]] 
-- [[SoC • Rune - Telepathy|Telepathy]] 
-- [[SoC • Rune - Transmute|Transmute]] 
-- [[SoC • Rune - Transport|Transport]] 
-- [[SoC • Rune - Upgrade|Upgrade]]
-- [[SoC • Rune - Vapor|Vapor]] 
-- [[SoC • Rune - Ward|Ward]] 
+- [[SoC • Spell Effect - Create|Create]] 
+- [[SoC • Spell Effect - Defensive|Defense]] 
+- [[SoC • Spell Effect - Dispel|Dispel]] 
+- [[SoC • Spell Effect - Dominate|Dominate]] 
+- [[SoC • Spell Effect - Wither|Drain]] 
+- [[SoC • Spell Effect - Duration|Duration]] 
+- [[SoC • Spell Effect - Haste|Haste]] 
+- [[SoC • Spell Effect - Hidden|Hidden]] 
+- [[SoC • Spell Effect - Illusion|Illusions]] 
+- [[SoC • Spell Effect - Lasting|Lasting]] 
+- [[SoC • Spell Effect - Mend|Mend]] 
+- [[SoC • Spell Effect - Obscure|Obscure]] 
+- [[SoC • Spell Effect - Psychokinesis|Psychokinesis]] 
+- [[SoC • Spell Effect - Ranged|Ranged]] 
+- [[SoC • Spell Effect - Restore|Restore]] 
+- [[SoC • Spell Effect - Shapechange|Shapechange]] 
+- [[SoC • Spell Effect - Summon|Summon]] 
+- [[SoC • Spell Effect - Telepathy|Telepathy]] 
+- [[SoC • Spell Effect - Transport|Transport]] 
+- [[SoC • Spell Effect - Ward|Ward]] 
 ### Spell Limitation
-- [[SoC • Spell Limitiation - Binding Oath|Binding Oath]] 
-- [[SoC • Spell Limitiation - Cannot be Customized|Cannot be customized]] 
-- [[SoC • Spell Limitiation - Cannot be Targeted|Cannot be targeted]] 
-- [[SoC • Spell Limitiation - Elemental Anchor|Elemental anchor]] 
-- [[SoC • Spell Limitiation - Eldrich Bond|Eldrich bond]] 
-- [[SoC • Spell Limitiation - Exhausting|Exhausting]] 
-- [[SoC • Spell Limitiation - Cost Material to Cast|Cost material to cast]] 
-- [[SoC • Spell Limitiation - Druidic|Druidic]] 
-- [[SoC • Spell Limitiation - Ineffable|Ineffable]] 
-- [[SoC • Spell Limitiation - Linked to Physical Object|Linked to physical object]] 
-- [[SoC • Spell Limitiation - Maddening|Maddening]] 
-- [[SoC • Spell Limitiation - Must be Sustained|Must be sustained]] 
-- [[SoC • Spell Limitiation - Mana Drain|Mana drain]] 
-- [[SoC • Spell Limitiation - Nullified by|Nullified by]] 
-- [[SoC • Spell Limitiation - Only Works on Specific Target Type|Only works on specific target type]] 
-- [[SoC • Spell Limitiation - Only Works Outdoors|Only works outdoors]] 
-- [[SoC • Spell Limitiation - Painful|Painful]] 
-- [[SoC • Spell Limitiation - Debilitating|Debilitating]] 
-- [[SoC • Spell Limitiation - Rad Speech|Rad speech]] 
-- [[SoC • Spell Limitiation - Ritual|Ritual]] 
-- [[SoC • Spell Limitiation - Sacrificial Rite|Sacrificial rite]] 
-- [[SoC • Spell Limitiation - Symbiotic|Symbiotic]] 
-- [[SoC • Spell Limitiation - Takes One Round to Cast|Takes one round to cast]] 
-- [[SoC • Spell Limitiation - Temporal Lock|Temporal lock]] 
-- [[SoC • Spell Limitiation - Unstable|Unstable]] 
-- [[SoC • Spell Limitiation - Uses Infernal Powers|Uses infernal powers]] 
-- [[SoC • Spell Limitiation - Veil of Silence|Veil of silence]]
+- [[SoC • Spell Limitation - Binding Oath|Binding Oath]] 
+- [[SoC • Spell Limitation - Cannot be Customized|Cannot be customized]] 
+- [[SoC • Spell Limitation - Cannot be Targeted|Cannot be targeted]] 
+- [[SoC • Spell Limitation - Elemental Anchor|Elemental anchor]] 
+- [[SoC • Spell Limitation - Eldrich Bond|Eldrich bond]] 
+- [[SoC • Spell Limitation - Exhausting|Exhausting]] 
+- [[SoC • Spell Limitation - Cost Material to Cast|Cost material to cast]] 
+- [[SoC • Spell Limitation - Druidic|Druidic]] 
+- [[SoC • Spell Limitation - Ineffable|Ineffable]] 
+- [[SoC • Spell Limitation - Linked to Physical Object|Linked to physical object]] 
+- [[SoC • Spell Limitation - Maddening|Maddening]] 
+- [[SoC • Spell Limitation - Must be Sustained|Must be sustained]] 
+- [[SoC • Spell Limitation - Mana Drain|Mana drain]] 
+- [[SoC • Spell Limitation - Nullified by|Nullified by]] 
+- [[SoC • Spell Limitation - Only Works on Specific Target Type|Only works on specific target type]] 
+- [[SoC • Spell Limitation - Only Works Outdoors|Only works outdoors]] 
+- [[SoC • Spell Limitation - Painful|Painful]] 
+- [[SoC • Spell Limitation - Debilitating|Debilitating]] 
+- [[SoC • Spell Limitation - Rad Speech|Rad speech]] 
+- [[SoC • Spell Limitation - Ritual|Ritual]] 
+- [[SoC • Spell Limitation - Sacrificial Rite|Sacrificial rite]] 
+- [[SoC • Spell Limitation - Symbiotic|Symbiotic]] 
+- [[SoC • Spell Limitation - Takes One Round to Cast|Takes one round to cast]] 
+- [[SoC • Spell Limitation - Temporal Lock|Temporal lock]] 
+- [[SoC • Spell Limitation - Unstable|Unstable]] 
+- [[SoC • Spell Limitation - Uses Infernal Powers|Uses infernal powers]] 
+- [[SoC • Spell Limitation - Veil of Silence|Veil of silence]]
 - [[SoC • Gear Effect - Balanced|Balanced]]
 - [[SoC • Gear Effect - Bleed|Bleed]]
 - [[SoC • Gear Effect - Cold Forged|Cold forged]]
@@ -164,12 +190,12 @@ aliases:
 - [[SoC • Gear Effect - Lucky Weapon|Lucky weapon]]
 - [[SoC • Gear Effect - Plated|Plated]]
 - [[SoC • Gear Effect - Reinforced|Reinforced]]
-- [[SoC • Gear Limitiation - Breakable|Breakable]]
-- [[SoC • Gear Limitiation - Sought After|Sought after]]
-- [[SoC • Gear Limitiation - Stolen|Stolen]]
-- [[SoC • Gear Limitiation - Wonky|Wonky]]
-- [[SoC • Gear Limitiation - Heavy|Heavy]]
-- [[SoC • Gear Limitiation - Garish|Garish]]
+- [[SoC • Gear Defect - Breakable|Breakable]]
+- [[SoC • Gear Defect - Sought After|Sought after]]
+- [[SoC • Gear Defect - Specialized|Stolen]]
+- [[SoC • Gear Defect - Wonky|Wonky]]
+- [[SoC • Gear Defect - Heavy|Heavy]]
+- [[SoC • Gear Defect - Garish|Garish]]
 ### Spells
 - [[SoC • Spell - Magic Shield|Magic Shield]] 
 - [[SoC • Spell - Magic Armor|Magic Armor]] 
@@ -182,38 +208,41 @@ aliases:
 - [[SoC • Spell - Erratic Arcfire Hand|Erratic Arcfire Hand]]
 - [[SoC • Spell - Erratic Fireball|Erratic Fireball]]
 - [[SoC • Spell - Erratic Wall|Erratic Wall]]
-### Gear and Items
-- [[SoC • Weapon - Dagger|Dagger]]
-- [[SoC • Weapon - Walking Staff|Walking Staff]]
-- [[SoC • Weapon - Short Sword|Short Sword]]
-- [[SoC • Weapon - Long Sword|Long Sword]]
-- [[SoC • Weapon - Great Sword|Great Sword]]
-- [[SoC • Weapon - Wood Axe|Wood Axe]]
-- [[SoC • Weapon - Battle Axe|Battle Axe]]
-- [[SoC • Weapon - Pick Hammer|Pick Hammer]]
-- [[SoC • Weapon - War Hammer|War Hammer]]
-- [[SoC • Weapon - Studded Mace|Studded Mace]]
-- [[SoC • Weapon - Spear|Spear]]
-- [[SoC • Weapon - Halberd|Halberd]]
-- [[SoC • Weapon - Scimitar|Scimitar]]
-- [[SoC • Weapon - Barbed Whip|Barbed Whip]]
-- [[SoC • Weapon - Hidden Crossbow|Hidden Crossbow]]
-- [[SoC • Weapon - Long Bow|Long Bow]]
-- [[SoC • Weapon - Crossbow|Crossbow]]
-- [[SoC • Weapon - Musket|Musket]]
-- [[SoC • Weapon - Flint Pistol|Flint Pistol]]
-- [[SoC • Upper Armor - Cloak|Cloak]]
-- [[SoC • Lower Armor - Leather Striders|Leather Striders]]
-- [[SoC • Helmet - Iron Helm|Iron Helm]]
-- [[SoC • Upper Armor - Leather Vest|Leather Vest]]
-- [[SoC • Lower Armor - Iron Grevails|Iron Grevails]]
-- [[SoC • Upper Armor - Chain Mail|Chain Mail]]
-- [[SoC • Lower Armor - Scale Greaves|Scale Greaves]]
-- [[SoC • Helmet - Heavy Helm|Heavy Helm]]
-- [[SoC • Upper Armor - Chest Plate|Chest Plate]]
-- [[SoC • Shield - Wood Shield|Wood Shield]]
-- [[SoC • Shield - Steel Shield|Steel Shield]]
-- [[SoC • Shield - Tower Shield|Tower Shield]]
+
+### Weapons
+
+| WEAPON                                                             |
+| :----------------------------------------------------------------- |
+| ***[[SoC • Basic Weapon - Dagger\|Dagger]]***                      |
+| ***[[SoC • Basic Weapon - Walking Staff\|Walking Staff]]***        |
+| ***[[SoC • Basic Weapon - Short Sword\|Short Sword]]***            |
+| ***[[SoC • Grand Weapon - Great Sword\|Great Sword]]***            |
+| ***[[SoC • Basic Weapon - Wood Axe\|Wood Axe]]***                  |
+| ***[[SoC • Grand Weapon - Battle Axe\|Battle Axe]]***              |
+| ***[[SoC • Standard Weapon - Pick Hammer\|Pick Hammer]]***         |
+| ***[[SoC • Grand Weapon - War Hammer\|War Hammer]]***              |
+| ***[[SoC • Standard Weapon - Studded Mace\|Studded Mace]]***       |
+| ***[[SoC • Standard Weapon - Spear\|Spear]]***                     |
+| ***[[SoC • Grand Weapon - Halberd\|Halberd]]***                    |
+| ***[[SoC • Standard Weapon - Scimitar\|Scimitar]]***               |
+| ***[[SoC • Basic Weapon - Barbed Whip\|Barbed Whip]]***            |
+| ***[[SoC • Standard Weapon - Hidden Crossbow\|Hidden Crossbow]]*** |
+| ***[[SoC • Standard Weapon - Long Bow\|Long Bow]]***               |
+| ***[[SoC • Standard Weapon - Crossbow\|Crossbow]]***               |
+| ***[[SoC • Grand Weapon - Musket\|Musket]]***                      |
+| ***[[SoC • Grand Weapon - Flint Pistol\|Flint Pistol]]***          |
+### Armors
+
+| ARMORS                                                        |
+| :------------------------------------------------------------ |
+| ***[[SoC • Basic Armor - Leather Armor\|Leather Armor]]***    |
+| ***[[SoC • Standard Armor - Hardened Hide\|Hardened Hide]]*** |
+| ***[[SoC • Grand Armor - Chain Mail\|Chain Mail]]***          |
+| ***[[SoC • Basic Shield - Wood Shield\|Wood Shield]]***       |
+| ***[[SoC • Standard Shield - Steel Shield\|Steel Shield]]***  |
+| ***[[SoC • Grand Shield - Tower Shield\|Tower Shield]]***     |
+
+### Items
 - [[SoC • Item - Rations|Rations]]
 - [[SoC • Item - Torches|Torches]]
 - [[SoC • Item - Climbing Gear|Climbing Gear]]
@@ -222,7 +251,7 @@ aliases:
 - [[SoC • Item - Diving Gear|Diving Gear]]
 - [[SoC • Item - Lockpicks|Lockpicks]]
 - [[SoC • Item - Sack of Bearings|Sack of Bearings]]
-- [[SoC • Item - Flint & Steel|Flint & Steel]]
+- [[SoC • Item - Flint and Steel|Flint and Steel]]
 - [[SoC • Item - Scribe's Kit|Scribe's Kit]]
 - [[SoC • Item - Craftsman's Tools|Craftsman's Tools]]
 - [[SoC • Item - Bandage Kit|Bandage Kit]]

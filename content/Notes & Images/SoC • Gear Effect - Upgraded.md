@@ -5,7 +5,7 @@ aliases:
 - ***Image***:<br>![[Pasted image 20250113133548.png|100]]
 - ***Info***: Effect - Upgraded
 - ***Cost***: 3
-- ***Description***:<br>Upgrade **1** [[damage dieces|damage die]] by **3** [[Dice Grades|grades]].<br>(_A **d4** becomes a **d10**, a **d6** becomes a **d12**._) 
+- ***Description***:<br>Upgrade **1** [[damage dices|damage die]] by **3** [[Dice Grades|grades]].<br>(_A **d4** becomes a **d10**, a **d6** becomes a **d12**._) 
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: artifact 

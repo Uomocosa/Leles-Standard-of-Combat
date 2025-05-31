@@ -1,1 +1,1 @@
-<br>_[[SoC • Spell Limitiation - Rad Speech|Rad speech]]_ — This spell can only be cast with booming, shouted words, making it easier to detect and identify.<br>
+<br>_[[SoC • Spell Limitation - Rad Speech|Rad speech]]_ — This spell can only be cast with booming, shouted words, making it easier to detect and identify.<br>

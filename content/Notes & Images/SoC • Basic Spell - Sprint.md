@@ -5,8 +5,8 @@ aliases:
 - ***Image***:<br>![[SoC • Spell - Sprint (Image).png|222]]
 - ***Info***: [[Basic Spells|Basic Spell]] - Action 
 - ***Cost***: 1
-- ***Description***:<br>_[[SoC • Spell Limitiation - Cannot be Customized|Cannot be customized]]_ — This spell is minimalistic, only available in its first-learned form, never to be changed.<br>Double, running, swimming and climbing speed of touched creature. 
-- ***Effects***: [[SoC • Rune - Haste|Haste]]
+- ***Description***:<br>_[[SoC • Spell Limitation - Cannot be Customized|Cannot be customized]]_ — This spell is minimalistic, only available in its first-learned form, never to be changed.<br>Double, running, swimming and climbing speed of touched creature. 
+- ***Effects***: [[SoC • Spell Effect - Haste|Haste]]
 - ***Limitations***: 
 - ***Color***: red 
 ----

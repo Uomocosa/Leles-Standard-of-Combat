@@ -1,0 +1,18 @@
+---
+aliases:
+  - Properties
+  - Property
+---
+- [[Breakable 1 • Description]]
+- [[Breakable X • Description]]
+- [[Bleeding • Description]]
+- [[Chivalry • Description]]
+- [[Complex • Description]]
+- [[Concealed • Description]]
+- [[Crippling • Description]]
+- [[Finesse • Description]]
+- [[Loaded • Description]]
+- [[Ranged • Description]]
+- [[Simple • Description]]
+- [[Slowing • Description]]
+- [[Two-Handed • Description]]

@@ -5,9 +5,9 @@ aliases:
 - ***Image***:<br>![[SoC • Basic Spell - Mage's Armor (Image).png|222]]
 - ***Info***: [[Basic Spells|Basic Spell]] - Action 
 - ***Cost***: 3 
-- ***Description***:<br>_[[SoC • Spell Limitiation - Exhausting|Exhausting]]_ — No magic can be used untill the end of the **following [[Phases of Combat|round]]** after cast.<br>Add **+5** [[Armor Class (AC)|AC]] for **1** [[Phases of Combat|round]]. 
-- ***Effects***: [[SoC • Rune - Defense|Defense]], [[SoC • Rune - Powerful|Powerful]]
-- ***Limitations***: [[SoC • Spell Limitiation - Exhausting|Exhausting]]
+- ***Description***:<br>_[[SoC • Spell Limitation - Exhausting|Exhausting]]_ — No magic can be used untill the end of the **following [[Phases of Combat|round]]** after cast.<br>Add **+5** [[Armor Class (AC)|AC]] for **1** [[Phases of Combat|round]]. 
+- ***Effects***: [[SoC • Spell Effect - Defensive|Defense]], [[SoC • Rune - Powerful|Powerful]]
+- ***Limitations***: [[SoC • Spell Limitation - Exhausting|Exhausting]]
 - ***Color***: blue 
 - _**Prompt** [ChatGPT](https://chatgpt.com/?model=auto)_: I need a 2D minimalistic fantasy illustration, in a minimal graphic style with white and black color, and a clean white background. It represents the spell ***Mage's Armor***, with the following effect: Add **+3** Defense for **1** [[Phases of Combat|round]]. Add the words "***Mage's Armor***" under the image in a stylish font.
 ----

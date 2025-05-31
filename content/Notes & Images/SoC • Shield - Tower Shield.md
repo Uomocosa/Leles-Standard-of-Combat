@@ -2,10 +2,8 @@
 aliases:
   - Tower Shield
 ---
-- ***Image***:<br>![[SoC • Shield - Tower Shield (Image).png|222]]
+- ***Image***:<br>![[SoC • Shield - Tower Shield (Alternative 1).png|222]]
 - ***Info***: Shield
-- ***Cost***: 7 
-- ***Description***:<br>Health — **5**, **3**<br>Bonus AC — **+3**<br>Require at least 12 points in [[Force]]. Ignore all attack that deals exactly **1** damage. You cannot [[Types of Movments|swim]], and have [[Homebrew Rule - Advantange • Disadvantage|Disadvantage]] on all [[Stealth]] and [[Agility]] checks.
-- ***Color***: White 
-----
-- ***Card***:<br>![[SoC • Card - Tower Shield.png|550]]
+- ***Cost***: 3 
+- ***Description***:
+- ***Color***: artifact, white 

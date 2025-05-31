@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[Pasted image 20250102220453.png|100]]
 - ***Info***: Rune - Specialist 
 - ***Cost***: 6 
-- ***Description***:<br>Choose [[Arcane]], [[Faith]], [[Nature]] when you add this Effect. Add the choosen [[Skills|Skill Modifier]] to the spell's [[Combat Damage|Damage]]. 
+- ***Description***:<br>Choose [[Arcane]], [[Faith]], [[Nature]] when you add this Effect. Add the choosen [[Skill Checks|Skill Modifier]] to the spell's [[Attack, Defense and Combat Damage|Damage]]. 
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: artifact 

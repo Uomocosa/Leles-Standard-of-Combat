@@ -5,7 +5,7 @@ aliases:
 - ***Image***:<br>![[SoC • Upper Armor - Chest Plate (Image).png|222]]
 - ***Info***: Upper Armor 
 - ***Cost***: 5 
-- ***Description***:<br>Health — **5**, **3**, **2**<br>Bonus AC — **+4**<br>Require at least 12 points in [[Force]].<br>You cannot [[Types of Movments|swim]], and have [[Homebrew Rule - Advantange • Disadvantage|Disadvantage]] on all [[Stealth]] and [[Agility]] checks.
+- ***Description***:<br>Health — **5**, **3**, **2**<br>Bonus AC — **+4**<br>Require at least 12 points in [[Might]].<br>You cannot [[Types of Movments|swim]], and have [[Advantage and Disadvantage|Disadvantage]] on all [[Stealth]] and [[Agility]] checks.
 - ***Color***: Artifact 
 ----
 - ***Card***:<br>![[SoC • Card - Chest Plate.png|550]]

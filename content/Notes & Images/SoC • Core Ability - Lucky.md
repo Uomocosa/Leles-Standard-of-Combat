@@ -4,8 +4,8 @@ aliases:
 ---
 - ***Image***:<br>![[SoC • Core Ability - Lucky (Image).png|222]]
 - ***Info***: Core Ability
-- ***Cost***: 20
-- ***Description***:<br>You have inexplicable luck that seems to kick in at just the right moment.<br>You have **3 luck points**. Whenever you or another creater you can see, makes a [[Skill Check]], you can spend **1 luck point** to roll an additional **d20**. You can choose to spend one of your luck points after you roll the die, but before the outcome is determined. You choose which of the **d20**s is used for the roll. If more than one creature spends a luck point to influence the outcome of a roll, the points cancel each other out; no additional dice are rolled.<br>You regain all of your expended luck points after [[Rest & Recovery|a night of rest]]. 
+- ***Cost***: 7
+- ***Description***:<br>_You have inexplicable luck that seems to kick in at just the right moment_.<br>Whenever you or another creater you can see, makes a [[Skill Check]] you can roll an additional **d20**. You can choose to use this effect after you roll the die, but before the outcome is determined. From all the **d20**s rolled for this check, choose one of them to be the result.<br>You can use this effect once per [[Rest and Recovery|night of rest]], after that to use it again you need to pay **1 [[Hero Points|Hero Point]]**.
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: artifact 

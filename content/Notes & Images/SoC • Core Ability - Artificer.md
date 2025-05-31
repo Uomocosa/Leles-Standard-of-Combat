@@ -4,8 +4,8 @@ aliases:
 ---
 - ***Image***:<br>![[Pasted image 20250115190742.png|222]]
 - ***Info***: Core Ability
-- ***Cost***: 20
-- ***Description***:<br>Gain **7 points** in [[Forging]] for free.<br>All spells you [[Spells • The Defaults|Inscribe]] on any Item gain an additional [[SoC • Rune - Upgrade|Upgrade Effect]] for free (this still counts towards the [[Total Effect Cost]]).<br>You can substitute your [[Forging]] [[Skills|Modifier]] for your [[Arcana]] [[Skills|Modifier]] when casting spells. Additionally, if a spell requires a check, you may roll a [[Forging]] [[Skill Check|check]] instead of any [[Arcana]] [[Skill Check|check]].
+- ***Cost***: 7
+- ***Description***:<br>For every spell you cast, you may roll a [[Forging]] [[Skill Check|check]] instead of any [[Arcane]] [[Skill Check|check]].<br>All yours [[SoC • Spell Effect - Create|Create]] [[Custom Spells|Spells]] cost **1 less [[SoC • Energy|Energy]] to cast*** (_This can reduce the Spell's Energy Cost to 0_).
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: red 

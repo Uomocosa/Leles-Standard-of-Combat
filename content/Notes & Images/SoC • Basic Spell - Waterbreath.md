@@ -6,8 +6,8 @@ aliases:
 - ***Info***: [[Basic Spells|Basic Spell]] - Action 
 - ***Cost***: 1
 - ***Description***:<br>Breathe underwater with ease. 
-- ***Effects***: [[SoC • Rune - Adapt|Adapt]]
-- ***Limitations***: [[SoC • Spell Limitiation - Elemental Anchor|Elemental anchor]] (water)
+- ***Effects***: [[SoC • Spell Effect - Alter|Adapt]]
+- ***Limitations***: [[SoC • Spell Limitation - Elemental Anchor|Elemental anchor]] (water)
 - ***Color***: blue 
 ----
 - ***Card***:<br>![[SoC • Card - Waterbreath.png|550]]
