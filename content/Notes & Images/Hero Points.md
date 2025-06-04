@@ -2,22 +2,23 @@
 aliases:
   - hero points
   - Start of a New Campaign
-  - Safe Place
 ---
-*In the course of their perilous lives, our heroes will need replacement gear, new armor, healing herbs, new skills, magic elixirs, wagons, war horses, hired thugs, bribe funds, beach huts and court fi nery to survive and thrive*. 
+*In the course of their perilous lives, our heroes will need replacement gear, new armor, healing herbs, new skills, magic elixirs, wagons, war horses, hired thugs, bribe funds, beach huts, and much more, if they wish to survive, and maybe even thrive!*
 
-**Hero Points** can be used by players to buy items and upgrade their characters. 
+**Hero Points** can be used by players to buy or craft items, and upgrade their characters. 
 
-> ***Start of a New Campaign***
-> When a new **Campaign** starts all the players get some **Hero Points** (usually **50**) to create their characters.<br>Your **GM** will decide the actual number, for his/her **Campaign**. ^start-of-a-new-campaign
+![[SoC • Card - Start of a New Campaign.png|325]]
 
-> ***Safe Place***
-> You’ll be using hero points to create, and later grow, your character. The GM will award hero points after each session, granting more for ‘session mvp’ or other momentous elements of play.<br>This replaces the heaping of treasure. As such, you’ll be looking for a chance to spend these gathered points on new skills, spells, improved equipment, or even an animal companion.<br>There is, however, a key limitation to your spending opportunities: <br>***HERO POINTS CAN ONLY BE SPENT TO UPGRADE A CHARACTER WHEN RESTING IN A SAFE PLACE WITH REQUIRED FACILITIES OR SERVICES*** ^safe-place
+The most common way to spend your hero points is by [[Meditate and Train|Meditating or Training]], to affine your [[SoC • Generic Card - Character Details|Skills]], and increase your [[Health]] or [[Energy|Energy]].
+You'll usually do so during as part of [[Rest and Recovery|a Night of Rest]], before resting.
 
-At first, this limitation may not seem like much. Resting to regain resources is very common in many RPGs (*see [[Heal and Repair]]*).
-**Spending hero points** is a different matter, requiring rest, safety, skilled people, special equipment, training, or technical services to perform. In short, spending hero points is not just rest... it’s an active state of character development with more specifi c requirements than rest and safety. 
-- [[Custom Equipment|Upgrading or creating]] new armor may require a forge, anvil, or capable blacksmith. 
-- Improving your **[[Medicine]] [[Skill Checks|Skill]]** requires meeting with a local expert. 
-- Upgrading your **[[Arcane]] [[Skill Checks|Skill]]** might be achieved by reading from ageold tablets or dusty tomes. 
+But you could also [[SoC • Rules - Craft a New Equipment|Craft]] or [[SoC • Rules - Upgrading a Piece of Equipment|Upgrade]] your **Gear**.
+Learn new [[Custom Spells|Spells]] or Customize existing ones to your need.
+Or even spend your **Points** and time into training one of your [[Companions|Companion]].
+...
 
-This limitation, combined with a life of travel and danger, should make the spending of hero points a milestone moment for any character. “*Is that? Can it be? A TOWN? Gods above, let’s go! I’ve been sitting on a dozen points for ages!*”
+_But let's not get too ahead of ourselves, for now just remember that each Players start with **20 pts** to create their Character_.
+
+----
+
+![[SoC • Card - Safe Place.png|325]]

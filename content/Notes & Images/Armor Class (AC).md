@@ -25,7 +25,7 @@ Most commonly, this means the armor is damaged beyond use. Some foes with [[corr
 
 ----
 ### The Armorer Skill
-All heavy armor fighters worth their weight are trained in the repair of armor. The [[Forging]] allows an armor user to ‘self-heal’ with a successful [[Skill Check]]. 
+All heavy armor fighters worth their weight are trained in the repair of armor. The [[Forging]] allows an armor user to ‘self-heal’ with a successful [[Skill Checks]]. 
 If you need a more rapid solution, consider the [[SoC • Spell Effect - Mend|Mending Effect]].
 
 ----

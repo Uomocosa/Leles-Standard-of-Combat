@@ -2,6 +2,7 @@
 aliases:
   - Ascetic
 ---
+%%
 - ***Image***:<br>![[SoC • Flaw - Ascetic (Image).png|222]]
 - ***Info***: Flaw
 - ***Cost***:
@@ -9,5 +10,8 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: white 
-----
-- ***Card***:<br>![[SoC • Card - Ascetic.png|550]]
+%%
+
+### Card
+
+![[SoC • Card - Ascetic.png|650]]

@@ -9,3 +9,8 @@ aliases:
 - ***Color***: Artifact 
 ----
 - ***Card***:<br>![[SoC • Card - Mast Ship.png|550]]
+
+
+### Card
+
+![[SoC • Card - Mast Ship.png|650]]

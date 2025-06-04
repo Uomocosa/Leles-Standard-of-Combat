@@ -1,0 +1,1 @@
+<br>**Finesse** — [[Attack, Defense and Combat Damage|Attacks]] made with this Weapon can be done with [[Agility]], instead of [[Might]].

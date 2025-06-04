@@ -2,6 +2,7 @@
 aliases:
   - Bad reputation
 ---
+%%
 - ***Image***:<br>![[SoC • Flaw - Bad Reputation (image).png|222]]
 - ***Info***: Flaw
 - ***Cost***: 
@@ -9,5 +10,8 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: black 
-----
-- ***Card***:<br>![[SoC • Card - Bad Reputation.png|550]]
+%%
+
+### Card
+
+![[SoC • Card - Bad Reputation.png|650]]

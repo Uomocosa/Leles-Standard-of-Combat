@@ -2,13 +2,17 @@
 aliases:
   - Ghost Blade
 ---
+%%
 - ***Image***:<br>![[SoC • Basic Spell - Ghost Blade (Image).png|222]]
-- ***Info***: [[Basic Spells|Basic Spell]] - Action 
-- ***Cost***: 3 
-- ***Description***:<br>_[[SoC • Spell Limitation - Cannot be Targeted|Cannot be targeted]]_ — Spell always flies wild. Use dice for direction, or randomly select from available targets.<br>Create **1d4** arcane knives that deal 1 damage to target/s near you. 
-- ***Effects***: [[SoC • Spell Effect - Create|Create]]
-- ***Limitations***: [[SoC • Spell Limitation - Cannot be Targeted|Cannot be targeted]]
+- ***Info***: Basic Spell - Ghost Blade 
+- ***Cost***: 1 
+- ***Description***:<br>_Spectral knives shimmer into existence from your palm, they dart through the air, accelerating with unnatural speed towards your target_.<br>Choose a target in your Zone, deal **1d6 force damages** to it.
+- ***Effects***: [[SoC • Spell Effect - Harm|Harm]]
+- ***Limitations***: 
 - ***Color***: artifact 
-- _**Prompt** [ChatGPT](https://chatgpt.com/?model=auto)_: I need a 2D minimalistic fantasy illustration, in a minimal graphic style with white and black color, and a clean white background. It represents the spell ***Ghost Blade***, with the following effect: Hit **1d2** targets with arcane knives, each dealing **1d4** damage. Add the words "***Ghost Blade***" under the image in a stylish font, they must be clearely visible.
-----
-- ***Card***:<br>![[SoC • Card - Ghost Blade.png|550]]
+- ***Rarity***: common
+%%
+
+### Card
+
+![[SoC • Card - Ghost Blade.png|650]]

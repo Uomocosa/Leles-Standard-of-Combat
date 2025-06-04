@@ -2,6 +2,7 @@
 aliases:
   - Paranoid
 ---
+%%
 - ***Image***:<br>![[SoC • Flaw - Paranoid (Image).png|222]]
 - ***Info***: Flaw
 - ***Cost***:  
@@ -9,5 +10,8 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 
-----
-- ***Card***:<br>![[SoC • Card - Paranoid.png|550]]
+%%
+
+### Card
+
+![[SoC • Card - Paranoid.png|650]]

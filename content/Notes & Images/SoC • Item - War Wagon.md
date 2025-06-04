@@ -4,8 +4,13 @@ aliases:
 ---
 - ***Image***:<br>![[SoC • Item - War Wagon (Image).png|222]]
 - ***Info***: Large Item 
-- ***Cost***: 25 
-- ***Description***:<br>An armored wagon for siege.
+- ***Cost***: 12 
+- ***Description***:<br>An armored wagon for a siege.
 - ***Color***: Red 
 ----
 - ***Card***:<br>![[SoC • Card - War Wagon.png|550]]
+
+
+### Card
+
+![[SoC • Card - War Wagon.png|650]]

@@ -9,3 +9,8 @@ aliases:
 - ***Color***: Artifact 
 ----
 - ***Card***:<br>![[SoC • Card - Garrison.png|550]]
+
+
+### Card
+
+![[SoC • Card - Garrison.png|650]]

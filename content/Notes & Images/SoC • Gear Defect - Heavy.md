@@ -7,7 +7,7 @@ aliases:
 - ***Nameplate***: Defect - Heavy
 - ***Type***: Gear Defect
 - ***Cost***: 
-- ***Description***:<br>Every [[Phases of Combat|Round]] all the **[[Skill Check|Skill Checks]] involving this Equipment**, after the first, are made with [[Advantage and Disadvantage|Disadvantage]].<br>This Defect cannot be added to an Armor or Shield.
+- ***Description***:<br>Every [[Phases of Combat|Round]] all the **[[Skill Checks|Skill Checks]] involving this Equipment**, after the first, are made with [[SoC • Rules - Advantage and Disadvantage|Disadvantage]].<br>This Defect cannot be added to an Armor or Shield.
 - ***Flavor***: 
 - ***Effects***: 
 - ***Limitations***: 

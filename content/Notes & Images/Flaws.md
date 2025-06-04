@@ -1,4 +1,4 @@
-Things that make you unique, but also prove challenging in time... flaws! 
+_Things that make you unique, but also prove challenging in time... flaws!_ 
 The first flaw earns **2 pts**, while each other flaw after the first, gives earns you **1 pt**.<br> You can choose **maximum 4 flaws** at character creation.
 
 ----
@@ -15,7 +15,7 @@ The first flaw earns **2 pts**, while each other flaw after the first, gives ear
 10. ***[[SoC • Flaw - Grudge|Grudge]]*** — _You have been wronged, and hold it against an individual or group, unjustly_.
 11. ***[[SoC • Flaw - Impetuous|Impetuous]]*** — _You are impatient, leaping into situations without planning or reservation_.
 12. ***[[SoC • Flaw - Injured|Injured]]*** — _A grievous wound to the hand, a scar on your eye_.
-13. **[[SoC • Flaw - Just a Kid|Just a kid]]** — _Hey, I’m just a kid!_.
+13. **[[SoC • Flaw - Just a Kid|Just a Kid]]** — _Hey, I’m just a kid!_.
 14. ***[[SoC • Flaw - Paranoid|Paranoid]]*** — _You invent your own boogie men, and sew doubt among others_.
 15. ***[[SoC • Flaw - Phobia|Phobia]]*** — _Extreme fear of a common thing_.
 16. ***[[SoC • Flaw - Pursued|Pursued]]*** — _You have a nemesis out there... somewhere... hunting you_.

@@ -2,10 +2,15 @@
 aliases:
   - Bandage Kit
 ---
-- ***Image***:<br>![[SoC • Item - Bandage Kit (Image).png|222]]
+%%
+- ***Image***:<br>![[Pasted image 20250604110508.png|222]]
 - ***Info***: Item
-- ***Cost***: 3 
-- ***Description***:<br>3 counts, grants **+5** to [[Medicine|Medicine (Heal)]] [[Skill Check|checks]].
+- ***Cost***: 1
+- ***Description***:<br>3 counts, grants **[[SoC • Rules - Advantage and Disadvantage|Advantage]]** to a [[Medicine|Medicine (Heal)]] [[Skill Checks|Check]].<br>_Counts_ — ☐ ☐ ☐
 - ***Color***: white 
-----
-- ***Card***:<br>![[SoC • Card - Bandage Kit.png|550]]
+- _**Prompt** [LMArena](https://beta.lmarena.ai/)_: I need a 2D epic fantasy illustration, in an epic graphic style with white and black color, and a clean white background. Show a Bandage Kit. Add the words "Bandage Kit" under the image in a stylish font.
+%%
+
+### Card
+
+![[SoC • Card - Bandage Kit.png|650]]

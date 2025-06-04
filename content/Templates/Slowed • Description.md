@@ -1,1 +1,1 @@
-**[[Slowed]]** (_to **[[SoC • Generic Action - Movement or Skill|Move]]**, also pay **1 Energy** or [[Forgo an Action]]_) 
+**[[Slowed]]** (_[[SoC • Generic Action - Movement or Skill|Moving]] becomes more strenuous_)

@@ -2,10 +2,14 @@
 aliases:
   - Scribe's Kit
 ---
+%%
 - ***Image***:<br>![[SoC • Item - Scribe's Kit (Image).png|222]]
 - ***Info***: Item
 - ***Cost***: 1 
-- ***Description***:<br>Parchment book, charcoal sticks.
+- ***Description***:<br>_Parchment book, charcoal sticks_.
 - ***Color***: blue 
-----
-- ***Card***:<br>![[SoC • Card - Scribes Kit.png|550]]
+%%
+
+### Card
+
+![[SoC • Card - Scribes Kit.png|650]]

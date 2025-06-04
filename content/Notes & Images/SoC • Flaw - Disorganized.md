@@ -2,6 +2,7 @@
 aliases:
   - Disorganized
 ---
+%%
 - ***Image***:<br>![[SoC • Flaw - Disorganized (Image).png|222]]
 - ***Info***: Flaw
 - ***Cost***:
@@ -9,5 +10,8 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: green
-----
-- ***Card***:<br>![[SoC • Card - Disorganized.png|550]]
+%%
+
+### Card
+
+![[SoC • Card - Disorganized.png|650]]

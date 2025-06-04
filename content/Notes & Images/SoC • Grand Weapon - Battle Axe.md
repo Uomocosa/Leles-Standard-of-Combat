@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[Grand Weapon - Battle Axe (Image).png|222]]
 - ***Info***: Grand Weapon
 - ***Cost***: 3 
-- ***Description***:<br>**Damage** — **1d6** force damages<br>**Breakable 4** — Whenever you make a [[Skill Check]] using this, if the **d20** result is **4 or less**, it becomes [[Damaged Gear|Damaged]].
+- ***Description***:<br>**Damage** — **1d6** force damages<br>**Breakable 4** — Whenever you make a [[Skill Checks]] using this, if the **d20** result is **4 or less**, it becomes [[Damaged Gear|Damaged]].
 - ***Color***: artifact 
 - ***Nameplate Color***: artifact 
 - ***Background Color***: artifact 

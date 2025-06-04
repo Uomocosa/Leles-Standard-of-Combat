@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[SoC • Grand Weapon - Musket (Image).png|222]]
 - ***Info***: Grand Weapon
 - ***Cost***: 3 
-- ***Description***:<br>**Damage** — **1d10** fire damages<br>**Breakable 7**. **Two-Handed**. **Loaded**. **Ranged**.<br>**Complex** — An extremely advanced piece of Equipment, that can only be repaired by magic or master artisans. Whenever you make a [[Forging]] [[Skill Check]] to [[Heal and Repair|Repair]] it, do it with [[Advantage and Disadvantage|Disadvantage]].<br><br>Ignore **the first 2** [[Advantage and Disadvantage|Disadvantages]] given by the **Ranged** [[Equipment Properties|property]].
+- ***Description***:<br>**Damage** — **1d10** fire damages<br>**Breakable 7**. **Two-Handed**. **Loaded**. **Ranged**.<br>**Complex** — An extremely advanced piece of Equipment, that can only be repaired by magic or master artisans. Whenever you make a [[Forging]] [[Skill Checks]] to [[Heal and Repair|Repair]] it, do it with [[SoC • Rules - Advantage and Disadvantage|Disadvantage]].<br><br>Ignore **the first 2** [[SoC • Rules - Advantage and Disadvantage|Disadvantages]] given by the **Ranged** [[Equipment Properties|property]].
 - ***Color***: artifact, green, red 
 - ***Nameplate Color***: artifact 
 - ***Background Color***: artifact 

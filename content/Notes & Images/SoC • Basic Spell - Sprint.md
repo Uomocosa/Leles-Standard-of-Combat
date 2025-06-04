@@ -2,12 +2,16 @@
 aliases:
   - Sprint
 ---
+%%
 - ***Image***:<br>![[SoC • Spell - Sprint (Image).png|222]]
 - ***Info***: [[Basic Spells|Basic Spell]] - Action 
 - ***Cost***: 1
-- ***Description***:<br>_[[SoC • Spell Limitation - Cannot be Customized|Cannot be customized]]_ — This spell is minimalistic, only available in its first-learned form, never to be changed.<br>Double, running, swimming and climbing speed of touched creature. 
+- ***Description***:<br>Choose a target creature in your Zone, for **1 hour** it can [[Forgo an Action|Forgo two Actions]] to perform up to three [[SoC • Generic Action - Movement or Skill|Movements]].
 - ***Effects***: [[SoC • Spell Effect - Haste|Haste]]
 - ***Limitations***: 
 - ***Color***: red 
-----
-- ***Card***:<br>![[SoC • Card - Sprint.png|550]]
+%%
+
+### Card
+
+![[SoC • Card - Sprint.png|650]]

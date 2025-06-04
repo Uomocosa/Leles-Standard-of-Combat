@@ -2,6 +2,7 @@
 aliases:
   - Greedy
 ---
+%%
 - ***Image***:<br>![[SoC • Flaw - Greedy (Image).png|222]]
 - ***Info***: Flaw
 - ***Cost***:
@@ -9,5 +10,8 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: red 
-----
-- ***Card***:<br>![[SoC • Card - Greedy.png|550]]
+%%
+
+### Card
+
+![[SoC • Card - Greedy.png|650]]

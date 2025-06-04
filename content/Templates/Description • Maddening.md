@@ -1,1 +1,1 @@
-<br>_[[SoC • Spell Limitation - Maddening|Maddening]]_ — When you cast this spell roll an [[Arcane]] [[Skill Check]] with [[Skill Checks|DC]] **15**, if you fail take the [[SoC • Flaw - Crazy|Crazy]] flaw untill your next [[Rest and Recovery|rest]].<br>
+<br>_[[SoC • Spell Limitation - Maddening|Maddening]]_ — When you cast this spell roll an [[Arcane]] [[Skill Checks|Skill Check]] with [[Skill Checks|DC]] **15**, if you fail take the [[SoC • Flaw - Crazy|Crazy]] flaw untill your next [[Rest and Recovery|rest]].<br>

@@ -1,6 +1,7 @@
 ---
 aliases: Savior
 ---
+%%
 - ***Image***:<br>![[SoC • Flaw - Savior (Image).png|222]]
 - ***Info***: Flaw
 - ***Cost***: 
@@ -12,5 +13,8 @@ aliases: Savior
 - _**Prompt** [LMArena](https://beta.lmarena.ai/)_: 
 - _**Prompt** [LMArena](https://beta.lmarena.ai/)_: 
 - _**Prompt** [LMArena](https://beta.lmarena.ai/)_: 
-----
-- ***Card***:<br>![[SoC • Card - Savior.png|550]]
+%%
+
+### Card
+
+![[SoC • Card - Savior.png|650]]

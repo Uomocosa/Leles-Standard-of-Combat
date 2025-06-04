@@ -8,12 +8,12 @@ Once you have a sense for the basic flow of the game, it’s time to get into so
 
 ----
 ### For Beginners: Templates and Prompts
-To get right into rolling dice with no hassle, choose a [[Character Templates|Character Template]].
+To get right into rolling dice with no hassle, choose a [[Fast Setup • Preconstruted Characters|Preconstruted Characters]]     
 This will get you started playing instantly without learning the point-build system. You can also use the [[Character Prompts]] to get story and background ideas flowing for your new character.
 
 ----
 ### For Experienced Players: Custom Built Characters
- For more fielded RPG veterans, I have stealed from *CROWN and SKULL*, a robust, indepth point buy creation system. This super-flexible method lets you create everything using hero point costs and discounts... even [[Custom Spells|Spells]], [[Custom Equipment|Equipment]], and [[Companions]]
+ For more fielded RPG veterans, I have stolen from *CROWN and SKULL*, a robust, in depth point buy creation system. This super-flexible method lets you create everything using hero point costs and discounts... even [[Custom Spells|Spells]], [[Custom Equipment|Equipment]], and [[Companions]].
 
 ----
 # 

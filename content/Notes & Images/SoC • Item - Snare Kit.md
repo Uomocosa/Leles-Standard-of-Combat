@@ -5,7 +5,10 @@ aliases:
 - ***Image***:<br>![[SoC • Item - Snare Kit (Image).png|222]]
 - ***Info***: Item
 - ***Cost***: 1 
-- ***Description***:<br>3 counts, catch small animals.
+- ***Description***:<br>_For catching small animals_.
 - ***Color***: artifact 
-----
-- ***Card***:<br>![[SoC • Card - Snare Kit.png|550]]
+
+
+### Card
+
+![[SoC • Card - Snare Kit.png|650]]

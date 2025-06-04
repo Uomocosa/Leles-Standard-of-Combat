@@ -2,11 +2,15 @@
 aliases:
   - Goblin
 ---
+%%
 - ***Image***:<br>![[SoC • Enemy - Goblin (Image).png|222]]
 - ***Info***: Creature
-- ***Description***:<br>HP — **5** | AC — **8**<br>*Unskilled* — **-2** to all Skills<br>*Chipped Dagger* — **d20-2** (**1d6**)<br>*Goblin Rally Cry* — The goblin lets out a piercing wail, summoning nearby goblins to come to its aid.
-- ***Flavor***: Do not understimate.
+- ***Description***:<br>**[[Health]]** — **5**<br>_Unskilled_ — **-2** to all Skills<br><br>_Each turn roll **2d20**, each result is one action_:<br>**1-15** | *Chipped Dagger* — **d20-2** (**1**)<br>**18-20** | _Goblin Rally Cry_ — The goblin lets out a piercing wail, summoning nearby goblins to come to its aid.
+- ***Flavor***: Do not underestimate.
 - ***Color***: red 
 - ***Rarity***: common
-----
-- ***Card***:<br>![[SoC • Card - Goblin.png|550]]
+%%
+
+### Card
+
+![[SoC • Card - Goblin.png|650]]

@@ -5,9 +5,14 @@ aliases:
 - ***Image***:<br>![[SoC • Core Ability - Druid (Image).png|222]]
 - ***Info***: Core Ability
 - ***Cost***: 7
-- ***Description***:<br>When outdoors, gain **+1** on all [[Skill Checks]].<br>All yours [[SoC • Spell Effect - Shapechange|Shapechange]] [[Custom Spells|Spells]] cost **1 less [[SoC • Energy|Energy]] to cast*** (_This can reduce the Spell's Energy Cost to 0_).
+- ***Description***:<br>When outdoors, gain **+1** on all [[Skill Checks]].<br>All yours [[SoC • Spell Effect - Shapechange|Shapechange]] [[Custom Spells|Spells]] cost **1 less [[Energy|Energy]] to cast*** (_This can reduce the Spell's Energy Cost to 0_).
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: green 
 ----
 - ***Card***:<br>![[SoC • Card - Druid.png|550]]
+
+
+### Card
+
+![[SoC • Card - Druid.png|650]]

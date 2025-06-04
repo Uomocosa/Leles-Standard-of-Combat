@@ -2,6 +2,7 @@
 aliases:
   - Temporal lock
 ---
+%%
 - ***Image***:<br>![[Pasted image 20250112233517.png|100]]
 - ***Nameplate***: Limitation - Temporal Lock
 - ***Type***: Spell Limitation
@@ -11,7 +12,7 @@ aliases:
 - ***Limitations***: 
 - ***Color***: blue 
 - ***Image Filter***: spell_limitation
-
+%%
 
 ### Card
 

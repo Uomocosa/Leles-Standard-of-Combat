@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[SoC • Basic Weapon - Short Sword (Image).png|222]]
 - ***Info***: Basic Weapon 
 - ***Cost***: 1 
-- ***Description***:<br>**Damage** — **1d4** force damages<br>**Breakable 3** — Whenever you make a [[Skill Check]] using this, if the **d20** result is **3 or less**, it becomes [[Damaged Gear|Damaged]].
+- ***Description***:<br>**Damage** — **1d4** force damages<br>**Breakable 3** — Whenever you make a [[Skill Checks]] using this, if the **d20** result is **3 or less**, it becomes [[Damaged Gear|Damaged]].
 - ***Color***: artifact 
 - ***Nameplate Color***: artifact 
 - ***Background Color***: artifact 

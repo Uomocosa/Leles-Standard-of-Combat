@@ -10,7 +10,7 @@ aliases:
 - ***Description***:<br>Sustain **2** damages with each cast.
 - ***Effects***: 
 - ***Limitations***: 
-- ***Color***: blue 
+- ***Color***: black 
 - ***Image Filter***: spell_limitation
 %%
 

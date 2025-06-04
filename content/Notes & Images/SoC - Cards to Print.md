@@ -1,0 +1,4 @@
+---
+aliases:
+  - Cards to print
+---

@@ -1,6 +1,6 @@
-Select a *Core Ability* to gain a mechanical specialization.
-- **A character can only have one**. 
-- Core abilities cost **7 hero points**.
+If you wish, you can select a *Core Ability* to gain a mechanical specialization.
+- **A character can have at most one**. 
+- Core abilities cost **7 hero points** (_unless specified otherwise_).
 
 ----
 ### Core Ability List

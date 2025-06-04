@@ -10,7 +10,7 @@ aliases:
 - ***Image***:<br>![[Pasted image 20250102221352.png|100]]
 - ***Info***: Spell Effect - Obscure 
 - ***Cost***: X 
-- ***Description***:<br>Magically hide objects or creatures.<br>_Examples of Obscure Effects_:<br>• ***1 pt*** | **[[Blind]]** target Creature in your Zone, an [[Opposing Rolls|opposing roll]] is needed.<br>• ***2 pts*** | Target Creature in your Zone becomes **[[Invisible]]**, if it tries to resist an [[Opposing Rolls|opposing roll]] is needed.
+- ***Description***:<br>Magically hide objects or creatures.<br>_Examples of Obscure Effects_:<br>• ***1 pt*** | **[[Blind]]** target Creature in your Zone, an [[SoC • Rules - Opposing Rolls|opposing roll]] is needed.<br>• ***2 pts*** | Target Creature in your Zone becomes **[[Invisible]]**, if it tries to resist an [[SoC • Rules - Opposing Rolls|opposing roll]] is needed.
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: black 

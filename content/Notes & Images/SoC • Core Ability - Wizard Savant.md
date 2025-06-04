@@ -13,3 +13,8 @@ aliases:
 
 ----
 - ***Card***:<br>![[SoC • Card - Wizard Savant.png|550]]
+
+
+### Card
+
+![[SoC • Card - Wizard Savant.png|650]]

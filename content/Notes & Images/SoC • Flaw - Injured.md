@@ -2,6 +2,7 @@
 aliases:
   - Injured
 ---
+%%
 - ***Image***:<br>![[SoC • Flaw - Injured (Image).png|222]]
 - ***Info***: Flaw
 - ***Cost***:
@@ -9,5 +10,8 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: black 
-----
-- ***Card***:<br>![[SoC • Card - Injured.png|550]]
+%%
+
+### Card
+
+![[SoC • Card - Injured.png|650]]

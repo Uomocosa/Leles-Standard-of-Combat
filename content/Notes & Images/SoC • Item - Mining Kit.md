@@ -2,10 +2,14 @@
 aliases:
   - Mining Kit
 ---
+%%
 - ***Image***:<br>![[SoC • Item - Mining Kit (Image).png|222]]
 - ***Info***: Item
 - ***Cost***: 1 
-- ***Description***:<br>Exploring or excavation times cut in half.
+- ***Description***:<br>_Helpful items for an excavation_.
 - ***Color***: artifact 
-----
-- ***Card***:<br>![[SoC • Card - Mining Kit.png|550]]
+%%
+
+### Card
+
+![[SoC • Card - Mining Kit.png|650]]

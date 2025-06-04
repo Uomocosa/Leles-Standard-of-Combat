@@ -11,3 +11,8 @@ aliases:
 - ***Color***: white 
 ----
 - ***Card***:<br>![[SoC • Card - Paragon of Faith.png|550]]
+
+
+### Card
+
+![[SoC • Card - Paragon of Faith.png|650]]

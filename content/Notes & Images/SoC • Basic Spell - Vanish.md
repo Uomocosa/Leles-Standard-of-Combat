@@ -2,12 +2,16 @@
 aliases:
   - Vanish
 ---
+%%
 - ***Image***:<br>![[SoC • Spell - Vanish (Image).png|222]]
 - ***Info***: [[Basic Spells|Basic Spell]] - Action 
-- ***Cost***: 3 
-- ***Description***:<br>_[[SoC • Spell Limitation - Veil of Silence|Veil of silence]]_ — You lose the ability speak for **2** [[Phases of Combat|rounds]]. You cannot cast spells as long as they require verbal components.<br>Become invisible for **1 minute**. Only a [[SoC • Rune - Detect|Detect]] or [[SoC • Spell Effect - Sensory|Clairvoyance]] spell can reveal your location, or a high [[Skill Check|check]] in [[Perception]] ([[Skill Checks|DC]]: **20**).<br>This spell ends if you perform any Attack or cast any Spell.
+- ***Cost***: 2 
+- ***Description***:<br>Target Creature in your Zone becomes invisible for **1 hour**.<br>If the target tries to resist, succeed in an [[SoC • Rules - Opposing Rolls|opposing roll]]: _[[Faith]] **vs.** [[Will]]_ to apply the spell's effects.<br>This spell ends if the target Attacks or cast any Spell.
 - ***Effects***: [[SoC • Spell Effect - Obscure|Obscure-2]]
-- ***Limitations***: [[SoC • Spell Limitation - Veil of Silence|Veil of silence]]
+- ***Limitations***:
 - ***Color***: black 
-----
-- ***Card***:<br>![[SoC • Card - Vanish.png|550]]
+%%
+
+### Card
+
+![[SoC • Card - Vanish.png|650]]

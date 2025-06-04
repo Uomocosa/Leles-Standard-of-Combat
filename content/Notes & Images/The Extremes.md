@@ -11,7 +11,7 @@ During play, things can get intense. Some rolls are all but impossible, death ca
 
 ----
 ### Negotiation
-Characters often get themselves into terrible situations of danger and limited time. When this happens, rolls can become prohibitively difficult. This is a time to negotiate with the GM, seeking environmental or strategic elements that can soften the diffi culty. Don’t be shy! “*The wall isn’t climbable? Can I lean one of these desks against it for a boost?*”
+Characters often get themselves into terrible situations of danger and limited time. When this happens, rolls can become prohibitively difficult. This is a time to negotiate with the GM, seeking environmental or strategic elements that can soften the difficulty. Don’t be shy! “*The wall isn’t climbable? Can I lean one of these desks against it for a boost?*”
 
 ----
 ### Critical Success and Failure
@@ -21,21 +21,19 @@ A **d20** roll of **20** scores a **critical success**, and a **1** a **critical
 
 Each of these rolls will create a maximal version of success or failure. Critical successes overcome impossible odds, grant extra time, or defy belief. Critical failures cost precious equipment, accelerate destructive environments, or lend advantages to foes. “*It’s a crit! Not only do you leap the creek, your pursuer falls in!*”
 
-_However, a critical failure can also be an optimal learning method_.<br>Whenever you roll a [[Skill Check]] and **critically fail**, and have enough points to spend, you can [[Meditate and Train|train]] or [[Meditate and Train|study]], in that skill.
-- ***Train (1 pt)*** — Increase the skill modifer by **+1**. Gain **1 [[Type of Cards|Health Card]]**.
-- ***Study (2 pt)*** — Increase the skill modifer by **+1**. Gain **1 [[Type of Cards|Energy Card]]**.
+_However, a critical failure can also be an optimal learning method_.<br>Whenever you roll a [[Skill Checks|Skill Check]] and **critically fail**, and have enough points to spend, you can [[Meditate and Train|Meditate or Train]], in that skill.
+- ***Train (1 pt)*** — Increase the skill [[SoC • Generic Card - Character Details|Modifier]] by **+1**. Gain **1 [[Type of Cards|Health Card]]**.
+- ***Study (2 pt)*** — Increase the skill [[SoC • Generic Card - Character Details|Modifier]] by **+1**. Gain **1 [[Type of Cards|Energy Card]]**.
 
 ----
-### Hero Coins
-Acts of heroism or astounding play are rewarded by the GM with a hero coin. A hero coin (not to be confused with [[Hero Points]]!) can be redeemed to
-1) Reroll any roll entirely. 
-2) Maximize the damage or output of an attack or effect. 
+### Inspiration
+Acts of heroism or astounding play are rewarded by the GM with an **Inspiration**. You can consume it to: Re-roll any roll entirely.
 
 Also:
 - **Hero Coins** can be freely given between players. 
-- **A player may only have 1 Hero Coin at a time**.
+- **A player may only have 1 Inspiration at a time**.
 
-“*We need this attack to be huge... we’re out of options! Here, take my coin.*”
+“*We need this attack to be huge... we’re out of options! Use my Inspiration!*”
 
 ----
 ### Meta-Gaming

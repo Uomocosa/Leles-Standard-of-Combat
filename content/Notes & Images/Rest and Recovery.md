@@ -2,9 +2,9 @@
 aliases:
   - a Night of Rest
   - Short Rest
-cssclasses:
-  - seamless-embed
-  - no-embed-headers
+  - Resting
+  - Rest
 ---
-### Cards
-![[SoC • Rest and Recovery - A Night of Rest]]![[SoC • Rest and Recovery - Short Rest]]
+![[SoC • Card - A Night of Rest.png|350]]
+
+![[SoC • Card - Short Rest.png|350]]

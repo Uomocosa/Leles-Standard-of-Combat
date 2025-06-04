@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[SoC • Standard Weapon - Long Bow (Image).png|222]]
 - ***Info***: Standard Weapon
 - ***Cost***: 2 
-- ***Description***:<br>**Damage** — **1d4** force damages<br>**Breakable 2**. **Simple**. **Ranged**. **Two-Handed**.<br><br>Ignore **the first** [[Advantage and Disadvantage|Disadvantage]] given by the **Ranged** [[Equipment Properties|property]].
+- ***Description***:<br>**Damage** — **1d4** force damages<br>**Breakable 2**. **Simple**. **Ranged**. **Two-Handed**.<br><br>Ignore **the first** [[SoC • Rules - Advantage and Disadvantage|Disadvantage]] given by the **Ranged** [[Equipment Properties|property]].
 - ***Color***: artifact, green
 - ***Nameplate Color***: artifact 
 - ***Background Color***: artifact 

@@ -10,9 +10,9 @@ aliases:
 - ***Description***:<br>This spell can only be cast after offering a living creature as a sacrifice. 
 - ***Effects***: 
 - ***Limitations***: 
-- ***Color***: blue 
+- ***Color***: black 
 - ***Image Filter***: spell_limitation
-
+%%
 
 ### Card
 

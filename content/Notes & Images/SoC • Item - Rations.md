@@ -2,10 +2,16 @@
 aliases:
   - Rations
 ---
+%%
 - ***Image***:<br>![[SoC • Item - Rations (Image).png|222]]
 - ***Info***: Item
 - ***Cost***: 1 
-- ***Description***:<br>3 counts (1 per day). Also contains flasks of water.
+- ***Description***:<br>7 counts. Also contains flasks of water.<br>A medium-sized creature usually consumes 1 count per day.<br>_Counts_ — ☐ ☐ ☐ ☐ ☐ ☐ ☐
+Counts — 
+Counts — 
 - ***Color***: white 
-----
-- ***Card***:<br>![[SoC • Card - Rations.png|550]]
+%%
+
+### Card
+
+![[SoC • Card - Rations.png|650]]

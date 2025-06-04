@@ -7,10 +7,10 @@ aliases:
 - ***Nameplate***: Limitation - Veil of Silence
 - ***Type***: Spell Limitation
 - ***Cost***: 
-- ***Description***:<br>You lose the ability speak for **2** [[Phases of Combat|rounds]]. You cannot cast spells as long as they require verbal components.
+- ***Description***:<br>You lose the ability speak for **2** [[Phases of Combat|rounds]]. You cannot cast spells, unless they are [[SoC • Spell Effect - Hidden|Hidden]] Spells.
 - ***Effects***: 
 - ***Limitations***: 
-- ***Color***: blue 
+- ***Color***: artifact 
 - ***Image Filter***: spell_limitation
 %%
 

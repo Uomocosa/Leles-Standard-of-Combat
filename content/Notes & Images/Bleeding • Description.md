@@ -1,0 +1,1 @@
+<br>**Bleeding** — This Weapon is made specifically to lacerate flesh. Whenever an [[Attack, Defense and Combat Damage|Attack]] made with this Weapon causes a Creature to loose [[Health]], it also starts [[Bleeding]] (_looses **1d4** [[Health]] at the end of every [[Phases of Combat|Round]]_).

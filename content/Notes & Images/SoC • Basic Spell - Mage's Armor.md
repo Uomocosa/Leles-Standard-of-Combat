@@ -2,13 +2,18 @@
 aliases:
   - Mage's Armor
 ---
+%%
 - ***Image***:<br>![[SoC • Basic Spell - Mage's Armor (Image).png|222]]
 - ***Info***: [[Basic Spells|Basic Spell]] - Action 
-- ***Cost***: 3 
-- ***Description***:<br>_[[SoC • Spell Limitation - Exhausting|Exhausting]]_ — No magic can be used untill the end of the **following [[Phases of Combat|round]]** after cast.<br>Add **+5** [[Armor Class (AC)|AC]] for **1** [[Phases of Combat|round]]. 
-- ***Effects***: [[SoC • Spell Effect - Defensive|Defense]], [[SoC • Rune - Powerful|Powerful]]
-- ***Limitations***: [[SoC • Spell Limitation - Exhausting|Exhausting]]
+- ***Cost***: 1 
+- ***Description***:<br>For **1 hour**, the next time a target Creature in your Zone would make an [[SoC • Rules - Opposing Rolls|opposing roll]] as the **Defender** that isn't a **[[Will]] [[Skill Checks|Skill Check]]**, instead it may use your [[Arcane]] [[SoC • Generic Card - Character Details|Modifier]] for that roll.
+- ***Effects***: [[SoC • Spell Effect - Defensive|Defensive]]
+- ***Limitations***: 
 - ***Color***: blue 
 - _**Prompt** [ChatGPT](https://chatgpt.com/?model=auto)_: I need a 2D minimalistic fantasy illustration, in a minimal graphic style with white and black color, and a clean white background. It represents the spell ***Mage's Armor***, with the following effect: Add **+3** Defense for **1** [[Phases of Combat|round]]. Add the words "***Mage's Armor***" under the image in a stylish font.
-----
-- ***Card***:<br>![[SoC • Card - Mages Armor.png|550]]
+%%
+
+
+### Card
+
+![[SoC • Card - Mages Armor.png|650]]

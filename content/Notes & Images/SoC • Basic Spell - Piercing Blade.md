@@ -2,12 +2,16 @@
 aliases:
   - Piercing Blade
 ---
+%%
 - ***Image***:<br>![[SoC • Spell - Piercing Blade (Image).png|222]]
 - ***Info***: [[Basic Spells|Basic Spell]] - Action 
-- ***Cost***: 3 
-- ***Description***:<br>_[[SoC • Spell Limitation - Only Works on Specific Target Type|Only works on specific target type]]_ — Can be used only on daggers, and swords.<br>Enchant a weapon. For **1 round** it gains the [[SoC • Gear Effect - Deadly|Deadly]] and [[SoC • Gear Effect - Precise|Precise]] [[Custom Equipment|Effects]]. (_**1d4** additional damage and **+2 to [[Attack, Defense and Combat Damage|Attack Rolls]]**_) 
-- ***Effects***: [[SoC • Rune - Enchant|Enchant]]
+- ***Cost***: 2 
+- ***Description***:<br>Choose target Weapon in your Zone, it's attacks deal **1d4** more damages for **1 hour**.
+- ***Effects***: [[SoC • Spell Effect - Harm|Harm]]
 - ***Limitations***: 
 - ***Color***: red 
-----
-- ***Card***:<br>![[SoC • Card - Piercing Blade.png|550]]
+%%
+
+### Card
+
+![[SoC • Card - Piercing Blade.png|650]]

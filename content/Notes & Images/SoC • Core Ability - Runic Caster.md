@@ -12,3 +12,8 @@ aliases:
 - ***Color***: blue 
 ----
 - ***Card***:<br>![[SoC • Card - Runic Caster.png|550]]
+
+
+### Card
+
+![[SoC • Card - Runic Caster.png|650]]

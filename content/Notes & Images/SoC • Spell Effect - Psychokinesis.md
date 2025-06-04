@@ -10,7 +10,7 @@ aliases:
 - ***Image***:<br>![[Pasted image 20250102221525.png|100]]
 - ***Info***: Spell Effect - Psychokinesis 
 - ***Cost***: X 
-- ***Description***:<br>_Examples of Psychokinesis Effects_:<br>• ***1 pt*** | For **1 hour** target Creatures in your Zone, can perform [[Might]] [[Skill Checks|Skill Checks]] at **Range** (_for each Zone between you and your target, roll with an additional [[Advantage and Disadvantage|Disadvantage]]_).
+- ***Description***:<br>_Examples of Psychokinesis Effects_:<br>• ***2 pt*** | For **1 hour** target Creatures in your Zone, can perform [[Might]] [[Skill Checks|Skill Checks]] at **Range** (_for each Zone between you and your target, roll with an additional [[SoC • Rules - Advantage and Disadvantage|Disadvantage]]_).
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: red 

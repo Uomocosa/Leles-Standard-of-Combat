@@ -2,13 +2,14 @@
 aliases:
   - Dragon
 ---
+%%
 - ***Image***:<br>![[SoC • Enemy - Dragon (Image).png|222]]
 - ***Info***: Creature
-- ***Description***:<br>HP — **150** | AC — **20**<br>*Ancient* — Arcane **+5**, Deception **+5**, Force **+10**, Lore **+5**, Persuasion **+7**, Will **+7**<br>*Claws* — **d20+10** (**2d10**)<br>*Sweeping Lash* — Whips its tail in a wide arc, striking all enemies in a **9m cone** behind it. Each target takes **2d10 damage**, [[Skill Checks|DC]] 20 ([[Agility]]) to halve.<br>*Dragon breath* — Hit all enemies in front of him in a **12m** cone, deals **3d10** fire damage, [[Skill Checks|DC]] 22 ([[Agility]]) to halve.<br>*Call of the Ancient* — Tries to **Dominate** the mind of a single enemy within **30m**, [[Skill Checks|DC]] 18 ([[Will]]).
+- ***Description***:<br>**[[Health]]** — **150**<br>_Ancient_ — Lore **+15**, Will **+15**. All other [[SoC • Generic Card - Character Details|Skills]] at **+10**.<br><br>_Each turn roll **3d20**, each result is one action_:<br>**1-14** | _Dragon's Claw_ — **d20+10** (**1d10**)<br>**15-17** | _Sweeping Lash_ — Whips its tail in a wide arc, striking all enemies in its Zone. Creatures that fail in an [[SoC • Rules - Opposing Rolls|opposing roll]]: _[[Might]] **vs.** [[Agility]]_ take **2d10 damage**.<br>**18-19** | _Dragon breath_ — Hit all enemies in a Zone (**Ranged**). Creatures that fail in an [[SoC • Rules - Opposing Rolls|opposing roll]]: _[[Nature]] **vs.** [[Agility]]_ take **3d10 damage**.<br>**20** | _Call of the Ancient_ — Choose a target Creature, at **[[SoC • Spell Effect - Ranged|Range]]**. Succeed in an [[SoC • Rules - Opposing Rolls|opposing roll]]: _[[Arcane]] **vs.** [[Will]]_ to **[[SoC • Spell Effect - Dominate|Dominate]]** it.
 - ***Color***: red 
 - ***Rarity***: special
-----
-- ***Card***:![[SoC • Card - Dragon.png|550]]
+%%
 
-----
-- ***Card***:<br>![[SoC • Card - Dragon.png|550]]
+### Card
+
+![[SoC • Card - Dragon.png|650]]

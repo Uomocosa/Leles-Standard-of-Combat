@@ -2,12 +2,16 @@
 aliases:
   - Dream Spike
 ---
+%%
 - ***Image***:<br>![[SoC • Spell - Dream Spike (Image).png|222]]
 - ***Info***: [[Basic Spells|Basic Spell]] - Action 
-- ***Cost***: 3 
-- ***Description***:<br><br>_[[SoC • Spell Limitation - Nullified by|Nullified by Undead]]_ — Has no effect on Undead creatures.<br>Roll your [[Arcane]] [[Skill Checks|Skill]] against the [[Will]] of an intelligent foe. If you win the roll, the target is [[Stun|Stunned]] an for **1** [[Phases of Combat|round]]. 
-- ***Effects***: [[SoC • Rune - Still|Still]]
-- ***Limitations***: [[SoC • Spell Limitation - Nullified by|Nullified by]]
+- ***Cost***: 1 
+- ***Description***:<br>Succeed in an [[SoC • Rules - Opposing Rolls|opposing roll]]: _[[Arcane]] **vs.** [[Will]]_ against target Creature in your **Zone**, to **[[Stun]]** it (_loose one or more [[Prepare to Act|Actions]]_) for **1 [[Phases of Combat|Round]]**.
+- ***Effects***: [[SoC • Spell Effect - Wither|Wither]]
+- ***Limitations***:
 - ***Color***: black 
-----
-- ***Card***:<br>![[SoC • Card - Dream Spike.png|550]]
+%%
+
+### Card
+
+![[SoC • Card - Dream Spike.png|650]]

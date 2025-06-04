@@ -7,24 +7,22 @@ aliases:
   - Spell
   - Spells
   - Limitation
-cssclasses:
-  - no-embed-headers
-  - seamless-embed
 ---
 Creating and modifying spells is an art in itself, and may take some practice. Much like the wizards of old, you’ll be scheming how limitations and effects can counterbalance one another, or how a simple upgrade could make a [[Basic Spells|Basic Spell]] all it needs to be. 
 Settle in to the ancient library, and ponder the mysteries of *Custom Spells*...
 
 _We call them Spells but they can be also supernatural powers, all that changes is the flavor, how the Effect manifest, and how your character display this power_
 
-![[SoC • Rule Card - Spellcasting]]![[SoC • Rule Card - Custom Spells]]
+![[SoC • Card - Spellcasting.png|350]]
+![[SoC • Card - Custom Spells.png|350]]
 
 ----
 ### Effects
-1. ***[[SoC • Spell Effect - Alter|Adapt]]*** — _Change a Creature's body_.
+1. ***[[SoC • Spell Effect - Alter|Alter]]*** — _Change a Creature's body_.
 2. ***[[SoC • Spell Effect - Area|Area]]*** — _Increase area of a spell_.
 3. ***[[SoC • Spell Effect - Banish|Banish]]*** — _Destroy summoned creatures with ease_.
 4. ***[[SoC • Spell Effect - Create|Create]]*** — _Create an object from nothing imbued with a spell_.
-5. ***[[SoC • Spell Effect - Defensive|Defense]]*** — _Magically defend against incoming attacks_
+5. ***[[SoC • Spell Effect - Defensive|Defensive]]*** — _Magically defend against incoming attacks_
 6. ***[[SoC • Spell Effect - Duration|Duration]]*** — _The spell lasts longer_.
 7. ***[[SoC • Spell Effect - Dispel|Dispel]]*** — _Cancel other magic_.
 8. ***[[SoC • Spell Effect - Dominate|Dominate]]*** — _Force another creature to do your bidding_.
@@ -37,16 +35,17 @@ _We call them Spells but they can be also supernatural powers, all that changes 
 15. ***[[SoC • Spell Effect - Obscure|Obscure]]*** — _Magically hide objects or creatures_.
 16. ***[[SoC • Spell Effect - Passive|Passive]]*** — _The Spell effect is always active on yourself_.
 17. ***[[SoC • Spell Effect - Psychokinesis|Psychokinesis]]*** — _Use [[Might]] at a distance_.
-18. ***[[SoC • Spell Effect - Ranged|Ranged]]*** — _The spell no longer require to touch the target_.
-19. ***[[SoC • Spell Effect - Restore|Restore]]*** — _Heal yourself or an ally_.
-20. ***[[SoC • Spell Effect - Sensory|Sensory]]*** — _Enhance or manipulate a creature senses_.
-21. ***[[SoC • Spell Effect - Shapechange|Shapechange]]*** — _Your body changes in that of an animal_.
-22. ***[[SoC • Spell Effect - Summon|Summon]]*** — _Summon Creatures or Animate Objects to do your bidding_.
-23. ***[[SoC • Spell Effect - Telepathy|Telepathy]]*** — _Read the minds, or indulge in a private conversation_.
-24. ***[[SoC • Spell Effect - Transmute|Transmute]]*** — _Manipulate an inanimate object to your will_.
-25. ***[[SoC • Spell Effect - Transport|Transport]]*** — _Magically teleport a creature or an object_.
-26. ***[[SoC • Spell Effect - Ward|Ward]]*** — _Block access of a specified creature, through a passage_.
-27. ***[[SoC • Spell Effect - Wither|Wither]]*** — _Weaken another creature_.
+18. ***[[SoC • Spell Effect - Randomic|Randomic]]*** — _TODO_.
+19. ***[[SoC • Spell Effect - Ranged|Ranged]]*** — _The spell no longer require to touch the target_.
+20. ***[[SoC • Spell Effect - Restore|Restore]]*** — _Heal yourself or an ally_.
+21. ***[[SoC • Spell Effect - Sensory|Sensory]]*** — _Enhance or manipulate a creature senses_.
+22. ***[[SoC • Spell Effect - Shapechange|Shapechange]]*** — _Your body changes in that of an animal_.
+23. ***[[SoC • Spell Effect - Summon|Summon]]*** — _Summon Creatures or Animate Objects to do your bidding_.
+24. ***[[SoC • Spell Effect - Telepathy|Telepathy]]*** — _Read the minds, or indulge in a private conversation_.
+25. ***[[SoC • Spell Effect - Transmute|Transmute]]*** — _Manipulate an inanimate object to your will_.
+26. ***[[SoC • Spell Effect - Transport|Transport]]*** — _Magically teleport a creature or an object_.
+27. ***[[SoC • Spell Effect - Ward|Ward]]*** — _Block access of a specified creature, through a passage_.
+28. ***[[SoC • Spell Effect - Wither|Wither]]*** — _Weaken another creature_.
 ----
 ### Limitations
 1. ***[[SoC • Spell Limitation - Binding Oath|Binding Oath]]*** — _You learned this spell as part of a deal_.
