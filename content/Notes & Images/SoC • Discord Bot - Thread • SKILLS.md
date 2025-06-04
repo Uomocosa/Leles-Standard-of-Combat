@@ -1,4 +1,4 @@
-Increase your' Skills Mastery by [[Meditate and Train]].
+Increase your' Skills Mastery by [[Meditate and Train|Meditating and Training]].
 
 ![[SoC • Card - Meditate and Train.png|325]]
 

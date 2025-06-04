@@ -3,6 +3,7 @@ aliases:
   - Energy
   - Energy Cards
   - Energy Card
+  - Temporary Energy
 ---
 Each Character starts with **2** **Energy Cards**.
 Whenever you need to pay Energy (_for example by casting a [[Custom Spells|Spell]]_): you [[Discard Pile|discard]] that number of Energy Cards.

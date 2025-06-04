@@ -24,4 +24,4 @@ The first flaw earns **2 pts**, while each other flaw after the first, gives ear
 19. ***[[SoC • Flaw - Timid|Timid]]*** — _You’d rather let others lead_.
 20. ***[[SoC • Flaw - Savior|Savior]]*** — _Your spells are for others, never for you_.
 21. ***[[SoC • Flaw - Unluky|Unlucky]]*** — _You fail spectacularly more often than others_.
-22. _***[[SoC • Flaw - Split Personality|Split Personality]]** (**+0 pts**)_ — _Your character personality changes when stressed out_.
+22. _**[[SoC • Flaw - Split Personality|Split Personality]]** (**+0 pts**)_ — _Your character personality changes when stressed out_.

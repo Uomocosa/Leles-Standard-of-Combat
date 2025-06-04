@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Temporary Energy
+  - Temporary Energy Card
 ---
 
 %%

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Temporary Health
+  - Temporary Health Card
 ---
 %%
 - ***Image***:<br>![[cool_heart.png|222]]

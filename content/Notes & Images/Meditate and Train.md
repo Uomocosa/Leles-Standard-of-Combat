@@ -6,6 +6,7 @@ aliases:
   - Meditating
   - Meditating or Training
   - Meditate or Train
+  - Meditating and Training
 ---
 %%
 - ***Image***:<br>
