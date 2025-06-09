@@ -2,6 +2,7 @@
 aliases:
   - Detective
 ---
+%%
 - ***Image***:<br>![[SoC • Core Ability - Detective (Image).png|222]]
 - ***Info***: Core Ability
 - ***Cost***: 7
@@ -9,9 +10,7 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 
-----
-- ***Card***:<br>![[SoC • Card - Detective.png|550]]
-
+%%
 
 ### Card
 

@@ -2,6 +2,7 @@
 aliases:
   - Hero
 ---
+%%
 - ***Image***:<br>![[Pasted image 20250114001221.png|222]]
 - ***Info***: Core Ability
 - ***Cost***: 7
@@ -10,9 +11,7 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: white 
-----
-- ***Card***:<br>![[SoC • Card - Hero.png|550]]
-
+%%
 
 ### Card
 

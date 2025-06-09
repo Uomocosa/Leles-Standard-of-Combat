@@ -2,6 +2,7 @@
 aliases:
   - Lucky
 ---
+%%
 - ***Image***:<br>![[SoC • Core Ability - Lucky (Image).png|222]]
 - ***Info***: Core Ability
 - ***Cost***: 7
@@ -10,9 +11,7 @@ aliases:
 - ***Limitations***: 
 - ***Color***: artifact 
 - _**Prompt** [ChatGPT](https://chatgpt.com/?model=auto)_: I need a 2D minimalistic fantasy illustration, in a minimal graphic style with white and black color, and a clean white background. It represents the core ability: ***Lucky***. It has the following effect: '_You have inexplicable luck that seems to kick in at just the right moment._' Add the words "***Lucky***" under the image in a stylish font, they must be clearely visible.
-----
-- ***Card***:<br>![[SoC • Card - Lucky.png|550]]
-
+%%
 
 ### Card
 

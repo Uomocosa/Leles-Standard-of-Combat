@@ -2,6 +2,7 @@
 aliases:
   - Spellsinger
 ---
+%%
 - ***Image***:<br>![[SoC • Core Ability - Spellsinger (Image).png|222]]
 - ***Info***: Core Ability
 - ***Cost***: 7
@@ -9,9 +10,7 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: green 
-----
-- ***Card***:<br>![[SoC • Card - Spellsinger.png|550]]
-
+%%
 
 ### Card
 

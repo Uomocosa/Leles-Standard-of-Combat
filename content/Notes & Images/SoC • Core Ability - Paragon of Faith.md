@@ -2,6 +2,7 @@
 aliases:
   - Paragon of Faith
 ---
+%%
 - ***Image***:<br>![[SoC • Core Ability - Paragon of Faith (Image).png|222]]
 - ***Info***: Core Ability
 - ***Cost***: 7
@@ -9,9 +10,7 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: white 
-----
-- ***Card***:<br>![[SoC • Card - Paragon of Faith.png|550]]
-
+%%
 
 ### Card
 

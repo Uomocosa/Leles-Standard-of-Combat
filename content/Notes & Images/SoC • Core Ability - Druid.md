@@ -2,6 +2,7 @@
 aliases:
   - Druid
 ---
+%%
 - ***Image***:<br>![[SoC • Core Ability - Druid (Image).png|222]]
 - ***Info***: Core Ability
 - ***Cost***: 7
@@ -9,9 +10,7 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: green 
-----
-- ***Card***:<br>![[SoC • Card - Druid.png|550]]
-
+%%
 
 ### Card
 

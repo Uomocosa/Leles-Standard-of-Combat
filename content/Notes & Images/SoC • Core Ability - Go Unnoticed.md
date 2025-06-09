@@ -2,6 +2,7 @@
 aliases:
   - Go Unnoticed
 ---
+%%
 - ***Image***:<br>![[SoC • Core Ability - Go Unnoticed (Image).png|222]]
 - ***Info***: Core Ability
 - ***Cost***: 7
@@ -9,9 +10,7 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: black 
-----
-- ***Card***:<br>![[SoC • Card - Go Unnoticed.png|550]]
-
+%%
 
 ### Card
 

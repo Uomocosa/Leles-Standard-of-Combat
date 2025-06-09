@@ -2,6 +2,7 @@
 aliases:
   - Artificer
 ---
+%%
 - ***Image***:<br>![[Pasted image 20250115190742.png|222]]
 - ***Info***: Core Ability
 - ***Cost***: 7
@@ -9,9 +10,7 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: red 
-----
-- ***Card***:<br>![[SoC • Card - Artificer.png|550]]
-
+%%
 
 ### Card
 
