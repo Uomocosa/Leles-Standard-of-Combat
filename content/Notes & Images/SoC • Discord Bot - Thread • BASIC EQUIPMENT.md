@@ -1,3 +1,7 @@
+---
+aliases:
+  - Basic Equipment
+---
 # Weapons
 
 ![[SoC • Card - Dagger.png]]

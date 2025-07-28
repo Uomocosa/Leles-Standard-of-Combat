@@ -33,4 +33,4 @@ The most common way to deal damage is to throw a single [[damage dices|damage di
 ----
 ### Taking Damage
 If you are successfully hit, you need to take damage.
-[[Discard Pile|Discard]] from your [[State Deck]] (to your [[Discard Pile]]) a number of [[Health|Health Cards]] equal to the damage received.
+[[Discard Pile|Discard]] from your [[State Deck]] (to your [[Discard Pile]]) a number of [[SoC • Discord Bot - Thread • HEALTH|Health Cards]] equal to the damage received.

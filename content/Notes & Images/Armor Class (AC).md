@@ -10,13 +10,13 @@ The Armor Class (AC) is a crucial aspect of your character. Any time enemies att
 - ***There is no maximum value for AC, but remeber that a [[The Extremes|critical attack]] will always damage you***.
 ----
 ### Using Backup Armor
-When loading up on armor, duplicates can be carried, but only one of a type/body location can be worn to boost your **AC** and to add [[Health|Gear's Health Cards]] to your [[Deck]].
+When loading up on armor, duplicates can be carried, but only one of a type/body location can be worn to boost your **AC** and to add [[SoC • Discord Bot - Thread • HEALTH|Gear's Health Cards]] to your [[Deck]].
 *You can’t wear two helmets, for example*. 
 
 That said, backups can be carried.
 
 When changing your armor you move your equiped armor to your [[Inventory]], and add a the new/beckup armror (that you just found, or you carried around) to your [[Active Deck]] or [[State Deck]] (depending on the card).
-***Remember to keep track on the conditions of the armor you put in you [[Inventory]], especially how much [[Health]] it has left***, just add a piece of paper with the remaining armor's health on your card.
+***Remember to keep track on the conditions of the armor you put in you [[Inventory]], especially how much [[SoC • Discord Bot - Thread • HEALTH]] it has left***, just add a piece of paper with the remaining armor's health on your card.
 
 ----
 ### Damaged/Destroyed

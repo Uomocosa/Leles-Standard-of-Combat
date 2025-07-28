@@ -1,3 +1,7 @@
+---
+aliases:
+  - Companions
+---
 _A sidekick, or a pet that is always with you!_
 
 ![[SoC • Card - Companions.png|350]]

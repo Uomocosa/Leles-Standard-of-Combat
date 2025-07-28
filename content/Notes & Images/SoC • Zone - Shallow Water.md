@@ -1,3 +1,7 @@
+---
+aliases:
+  - Shallow Water
+---
 %%
 - ***Image***:<br>![[Pasted image 20250531174004.png|222]]
 - ***Alt***:<br>![[Pasted image 20250531173902.png|222]]

@@ -1,7 +1,7 @@
 %%
 - ***Image***:<br>![[Pasted image 20250527185527.png|222]]
 - ***Info***: Skill
-- ***Description***:<br>_The **Nature** skill represents a character's profound connection to the natural world, encompassing their knowledge of its intricate workings, their ability to thrive within its untamed environments, and often, a spiritual or empathetic bond with its creatures and elemental forces._<br><br>Your **Nature** knowledge can help you to:<br>• **Cast [[Custom Spells|Spells]]**.<br>• Survive in the wilderness.<br>• Communicate with animals.
+- ***Description***:<br>_The **Nature** skill represents a character's profound connection to the natural world, encompassing their knowledge of its intricate workings, their ability to thrive within its untamed environments, and often, a spiritual or empathetic bond with its creatures and elemental forces._<br><br>Your **Nature** knowledge can help you to:<br>• **Cast [[SoC • Discord Bot - Thread • CUSTOM SPELLS|Spells]]**.<br>• Survive in the wilderness.<br>• Communicate with animals.
 - ***Flavor***: 
 - ***Color***: green 
 - ***Rarity***: common

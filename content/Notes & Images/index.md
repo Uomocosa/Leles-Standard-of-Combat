@@ -10,17 +10,17 @@ _Heavily inspired by [Crow and Skull](https://www.runehammer.online/crown-skull-
 ----
 ### Character Creation
 1. ***Start with the following Cards***:
-	- **1 [[SoC • Generic Card - Character Details|Character Details Card]]**.
-	- **3 [[Type of Cards|Health Cards]] and 2 [[Energy|Energy Cards]]**.
+	- **1 [[SoC • Discord Bot - Thread • SKILLS|Character Details Card]]**.
+	- **3 [[Type of Cards|Health Cards]] and 2 [[SoC • Discord Bot - Thread • ENERGY|Energy Cards]]**.
 	- **2 copies of each Generic Action Card: [[SoC • Generic Action - Movement or Skill|Movement or Skill]] and [[SoC • Generic Action - Encore|Encore]]**.
 	- **1 set of [[SoC • Item - Rations|Rations]]** (_they should last you for a **week**_).
-2. ***[[Hero Points|Starting Points]]***: All Characters start (usually) with **20 hero points** to spend on their build. <br>Remember that each of the following step is **OPTIONAL**, you can also create a blank character with **20 points** yet-to-spend.
-3. ***[[Flaws|Choose Flaw(s)]]*** 
-4. ***[[Core Ability|Choose Your Core Ability]]*** 
+2. ***[[SoC • Discord Bot - Thread • NEW CAMPAIGN|Starting Points]]***: All Characters start (usually) with **20 hero points** to spend on their build. <br>Remember that each of the following step is **OPTIONAL**, you can also create a blank character with **20 points** yet-to-spend.
+3. ***[[SoC • Discord Bot - Thread • FLAWS|Choose Flaw(s)]]*** 
+4. ***[[SoC • Discord Bot - Thread • CORE ABILITIES|Choose Your Core Ability]]*** 
 5. ***[[Skill Checks|Add Points in Skills]]*** 
 6. ***[[Custom Equipment|Buy, Customize, or Scratch-Build Equipment and Items]]*** 
-7. ***[[Custom Spells|Buy, Customize, or Scratch-Build Spells]]*** 
-8. ***[[Companions|Buy and Customize, or Scratch-Build a Companion]]*** 
+7. ***[[SoC • Discord Bot - Thread • CUSTOM SPELLS|Buy, Customize, or Scratch-Build Spells]]*** 
+8. ***[[SoC • Discord Bot - Thread • COMPANIONS|Buy and Customize, or Scratch-Build a Companion]]*** 
 9. ***[[Lineage|Choose Your Lineage]]*** (*Ask you **GM** for the Campaign's Settings and Lineages*)
 ----
 ### Making of This Project, Useful Files

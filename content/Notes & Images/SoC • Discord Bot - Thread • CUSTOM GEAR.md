@@ -1,20 +1,16 @@
-_Gear is king for the life of an adventurer! It’s cheap, lying around, and often quite awesome in creative hands_.
+---
+aliases:
+  - Custom Gear
+---
+![[SoC • Card - Gear.png|350]]
 
-[[Hero Points]] are at the base of this System. They can be seen as inspiration that allows you **Character** to grow, simple currency to [[Equipment List|Buy some Equipment]] or [[Basic Item List|Items]]. Or even special parts that allows you to build or modify one.
-
-In this chapter we'll focus on **Custom Equipment**. As mentioned above, you can use [[Hero Points]] to create a brand new [[Basic Item List|Equipment]], or [[Custom Equipment|Upgrade]] an existing one.
-
-![[SoC • Card - Craft a New Equipment.png|350]]
+![[SoC • Card - Forging your Gear.png|350]]
 
 ![[SoC • Card - Upgrading a Piece of Equipment.png|350]]
 
 ![[SoC • Card - 1 Point Upgrade.png|350]]
 
-![[SoC • Card - 1 Point Upgrade.png|350]]
-
 ![[SoC • Card - 2 Points Upgrade.png|350]]
-
-![[SoC • Card - Forging your Gear.png|350]]
 
 ![[SoC • Card - With What Forge.png|350]]
 # Gear Defects Lists

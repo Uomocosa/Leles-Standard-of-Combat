@@ -4,9 +4,9 @@ aliases:
 ---
 %%
 - ***Image***:<br>![[SoC • Basic Spell - Mage's Armor (Image).png|222]]
-- ***Info***: [[Basic Spells|Basic Spell]] - Action 
+- ***Info***: [[Basic Spells|Basic Spell]] 
 - ***Cost***: 1 
-- ***Description***:<br>For **1 hour**, the next time a target Creature in your Zone would make an [[SoC • Rules - Opposing Rolls|opposing roll]] as the **Defender** that isn't a **[[Will]] [[Skill Checks|Skill Check]]**, instead it may use your [[Arcane]] [[SoC • Generic Card - Character Details|Modifier]] for that roll.
+- ***Description***:<br>For **1 hour**, the next time a target Creature in your Zone would make an [[SoC • Rules - Opposing Rolls|opposing roll]] as the **Defender** that isn't a **[[Will]] [[Skill Checks|Skill Check]]**, instead it may use your [[Arcane]] [[SoC • Discord Bot - Thread • SKILLS|Modifier]] for that roll.
 - ***Effects***: [[SoC • Spell Effect - Defensive|Defensive]]
 - ***Limitations***: 
 - ***Color***: blue 

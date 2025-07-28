@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[SoC • Basic Weapon - Barbed Whip (Image).png|222]]
 - ***Info***: Basic Weapon
 - ***Cost***: 1
-- ***Description***:<br>**Damage** — **1** force damage<br>**Breakable 4** — Whenever you make a [[Skill Checks]] using this, if the **d20** result is **4 or less**, it becomes [[Damaged Gear|Damaged]].<br>**Bleeding** — This Weapon is made specifically to lacerate flesh. Whenever an [[Attack, Defense and Combat Damage|Attack]] made with this Weapon causes a Creature to loose [[Health]], it also starts [[Bleeding]] (_looses **1d4** [[Health]] at the end of every [[Phases of Combat|Round]]_).
+- ***Description***:<br>**Damage** — **1** force damage<br>**Breakable 4** — Whenever you make a [[Skill Checks]] using this, if the **d20** result is **4 or less**, it becomes [[Damaged Gear|Damaged]].<br>**Bleeding** — This Weapon is made specifically to lacerate flesh. Whenever an [[Attack, Defense and Combat Damage|Attack]] made with this Weapon causes a Creature to loose [[SoC • Discord Bot - Thread • HEALTH]], it also starts [[Bleeding]] (_looses **1d4** [[SoC • Discord Bot - Thread • HEALTH]] at the end of every [[Phases of Combat|Round]]_).
 - ***Color***: artifact, black
 - ***Nameplate Color***: artifact 
 - ***Background Color***: artifact 

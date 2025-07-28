@@ -18,13 +18,13 @@ After all Creatures in combat have performed their **Turn**, one **Round** has p
 
 ----
 ### Combat
-1. ***[[Prepare to Act]]*** — At the start of each **Round**, all creatures involved in combat prepare up to **2 actions**, representing your intentions for the round, what you plan to do. To [[Prepare to Act|Prepare an Action]] you set a card face-down.<br>If you need, you can also pay **1 [[Energy|Energy]]** to exchange one of your [[Prepare to Act|Prepared Actions]], with another one.
+1. ***[[Prepare to Act]]*** — At the start of each **Round**, all creatures involved in combat prepare up to **2 actions**, representing your intentions for the round, what you plan to do. To [[Prepare to Act|Prepare an Action]] you set a card face-down.<br>If you need, you can also pay **1 [[SoC • Discord Bot - Thread • ENERGY|Energy]]** to exchange one of your [[Prepare to Act|Prepared Actions]], with another one.
 	- _You have an item in hand and want use it, set its card face down to indicate you intend to, for example a [[Equipment List|Weapon]]_.
-	- _Choose one of your [[Custom Spells|Spell]] and set it face-down to cast it_.
+	- _Choose one of your [[SoC • Discord Bot - Thread • CUSTOM SPELLS|Spell]] and set it face-down to cast it_.
 	- _"Seems this fella likes my fire spell, let's give him an [[SoC • Generic Action - Encore|Ancore]]"_.
 2. ***Initiative*** — The **GM** decides the turn order, whether enemies or players act first.<br>The initiative may change after every round, or remain the same, depending on the situation.
 3. ***Enemy Turn*** — During the enemies’ turn:
-	- You can only use **[[Reactions]]** (_pay **1 [[Energy|Energy]]** to use one of your [[Prepare to Act|Prepared Actions]]_) in response to enemies' actions.
+	- You can only use **[[Reactions]]** (_pay **1 [[SoC • Discord Bot - Thread • ENERGY|Energy]]** to use one of your [[Prepare to Act|Prepared Actions]]_) in response to enemies' actions.
 4. ***Player Turn*** — During the players’ turn:
 	- Decide with your allies which one of you goes first.
 	- Perform the actions you declared at the start of the round. _Or not, I'm not a cop_.

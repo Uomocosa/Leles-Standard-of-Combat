@@ -4,7 +4,7 @@ aliases:
 ---
 %%
 - ***Image***:<br>![[SoC • Basic Spell - Invisible Wall (Image).png|222]]
-- ***Info***: [[Basic Spells|Basic Spell]] - Action 
+- ***Info***: [[Basic Spells|Basic Spell]] 
 - ***Cost***: 1 
 - ***Description***:<br>Choose an intersection between two Zones, or separate a single Zone in two. Create an invisible wall with **2 HP**.<br>If you choose to set the wall inside of a Zone, the **GM** will tell beforehand which Creatures are inside your new Zone, and which other Creatures will be on the other side.
 - ***Effects***: [[SoC • Spell Effect - Create|Create]]

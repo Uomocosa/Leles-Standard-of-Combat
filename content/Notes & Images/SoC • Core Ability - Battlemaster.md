@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[SoC • Core Ability - Battlemaster (Image).png|222]]
 - ***Info***: Core Ability
 - ***Cost***: 7
-- ***Description***:<br>You can re-roll any **[[Skill Checks|Skill Check]]** you make for attacking with a weapon.<br>You can use this effect **once per [[Rest and Recovery|Night of Rest]]**, after that to use it again you need to pay **2 [[Energy|Energy]]**.
+- ***Description***:<br>You can re-roll any **[[Skill Checks|Skill Check]]** you make for attacking with a weapon.<br>You can use this effect **once per [[Rest and Recovery|Night of Rest]]**, after that to use it again you need to pay **2 [[SoC • Discord Bot - Thread • ENERGY|Energy]]**.
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: red 

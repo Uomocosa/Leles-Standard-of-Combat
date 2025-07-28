@@ -2,6 +2,7 @@
 aliases:
   - Advantage
   - Disadvantage
+  - Advantage and Disadvantage
 ---
 %%
 - ***Type***: Rules

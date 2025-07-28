@@ -1,3 +1,7 @@
+---
+aliases:
+  - Plains
+---
 %%
 - ***Image***:<br>![[Pasted image 20250531174226.png|222]]
 - ***Name***: Plains 

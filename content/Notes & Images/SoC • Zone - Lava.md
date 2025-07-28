@@ -1,3 +1,7 @@
+---
+aliases:
+  - Lava
+---
 %%
 - ***Image***:<br>![[Pasted image 20250531175201.png|222]]
 - ***Name***: Lava 

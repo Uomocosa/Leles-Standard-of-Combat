@@ -4,7 +4,7 @@ aliases:
 ---
 %%
 - ***Image***:<br>![[Pasted image 20250603172344.png|222]]
-- ***Info***: [[Basic Spells|Basic Spell]] - Action 
+- ***Info***: [[Basic Spells|Basic Spell]]  
 - ***Cost***: 1
 - ***Description***:<br>A target creature's body changes and gills appear on its neck, allowing him to breath underwater. The spell lasts for **1 hour**.<br>If the target tries to resist, succeed in an [[SoC • Rules - Opposing Rolls|opposing roll]]: _[[Nature]] **vs.** [[Will]]_ to apply the spell's effects. At the end of **[[Phases of Combat|Round]]** succeed in the same opposing roll, otherwise the spell ends.
 - ***Effects***: [[SoC • Spell Effect - Alter|Adapt]]

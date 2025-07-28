@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[SoC • Core Ability - Lucky (Image).png|222]]
 - ***Info***: Core Ability
 - ***Cost***: 7
-- ***Description***:<br>_You have inexplicable luck that seems to kick in at just the right moment_.<br>Whenever you or another creater you can see, makes a [[Skill Checks]] you can roll an additional **d20**. You can choose to use this effect after you roll the die, but before the outcome is determined. From all the **d20**s rolled for this check, choose one of them to be the result.<br>You can use this effect once per [[Rest and Recovery|night of rest]], after that to use it again you need to pay **1 [[Hero Points|Hero Point]]**.
+- ***Description***:<br>_You have inexplicable luck that seems to kick in at just the right moment_.<br>Whenever you or another creater you can see, makes a [[Skill Checks]] you can roll an additional **d20**. You can choose to use this effect after you roll the die, but before the outcome is determined. From all the **d20**s rolled for this check, choose one of them to be the result.<br>You can use this effect once per [[Rest and Recovery|night of rest]], after that to use it again you need to pay **1 [[SoC • Discord Bot - Thread • NEW CAMPAIGN|Hero Point]]**.
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: artifact 

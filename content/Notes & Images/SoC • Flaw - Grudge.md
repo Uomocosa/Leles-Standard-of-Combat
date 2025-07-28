@@ -4,7 +4,7 @@ aliases:
 ---
 %%
 - ***Image***:<br>![[SoC • Flaw - Grudge (Alternative 3).png|222]]
-- ***Info***: Flaw - Grudge
+- ***Info***: Flaw
 - ***Description***:<br>_You have been wronged, and hold it against an individual or group, unjustly. When you encounter them, you behave terribly_. 
 - ***Effects***: 
 - ***Limitations***: 

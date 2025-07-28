@@ -1,5 +1,8 @@
-_Things that make you unique, but also prove challenging in time... flaws!_
-The first flaw you take **earns** you **2 pts**, while each other flaw after the first, gives you **1 pt**.<br> You can choose **maximum 4 flaws** at character creation.
+---
+aliases:
+  - Flaws
+---
+![[SoC • Card - Flaws.png|350]]
 # Character Flaws List
 1. ***[[SoC • Flaw - Addict|Addict]]*** — _You have a specific vice you cannot deny_.
 2. ***[[SoC • Flaw - Ascetic|Ascetic]]*** — _You frown on possessions_.

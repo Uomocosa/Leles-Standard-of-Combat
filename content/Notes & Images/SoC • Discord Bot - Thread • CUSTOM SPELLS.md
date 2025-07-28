@@ -1,18 +1,50 @@
-Creating and modifying spells is an art in itself, and may take some practice. Much like the wizards of old, you’ll be scheming how limitations and effects can counterbalance one another, or how a simple upgrade could make a [[Basic Spells|Basic Spell]] all it needs to be. 
-Settle in to the ancient library, and ponder the mysteries of *Custom Spells*...
-
-_We call them Spells but they can be also supernatural powers, all that changes is the flavor, how the Effect manifest, and how your character display this power_
-
+---
+aliases:
+  - Custom Spells
+  - Custom Spell Effects
+  - Custom Spell Limitations
+  - Effect
+  - Limitation
+  - Spell Effect
+  - Spell Limitation
+  - Spell Spells
+---
 ![[SoC • Card - Custom Spells.png|350]]
 
+![[SoC • Card - Create a Custom Spell.png|350]]
 
-----
-### Effects
-1. ***[[SoC • Spell Effect - Alter|Adapt]]*** — _Change a Creature's body_.
+# Example — Creating a Brand New Spell
+
+First we need to decide which effect we want to start with, let's start with [[SoC • Spell Effect - Telepathy|Telepathy]]:
+
+![[SoC • Card - Telepathy.png]]
+
+Let's make it simple and use one of the examples provided!
+
+![[SoC • Card - Sanctified Insight.png]]
+
+Now you can further modify it, for example you can make it an [[SoC • Spell Effect - Area|Area]] [[SoC • Discord Bot - Thread • CUSTOM SPELLS|Spell]] so that it target all Creatures in a Zone.<br>Or you can increase the potency of the [[SoC • Spell Effect - Telepathy|Telepathy]] [[SoC • Discord Bot - Thread • CUSTOM SPELLS|Effect]] to gain [[SoC • Rules - Advantage and Disadvantage|Advantage]] on the roll.
+**The possibility are endless, but before anything be sure your GM approves of your final spell!**
+# Example — Modifying an Existing Spell
+
+Let's start by taking a simple [[Basic Spells|Basic Spell]], [[SoC • Basic Spell - Vanish|Vanish]]:
+
+![[SoC • Card - Vanish.png]]
+
+We want to make it an [[SoC • Spell Effect - Area|Area]] spell so that each of our allies can become [[SoC • Condition Card - Invisible|Invisible]] as well.
+
+![[SoC • Card - Area.png]]
+
+So we can create a spell like so: 
+
+![[SoC • Card - Mass Invisibility.png]]
+
+# Spell's Effects Lists
+1. ***[[SoC • Spell Effect - Alter|Alter]]*** — _Change a Creature's body_.
 2. ***[[SoC • Spell Effect - Area|Area]]*** — _Increase area of a spell_.
 3. ***[[SoC • Spell Effect - Banish|Banish]]*** — _Destroy summoned creatures with ease_.
 4. ***[[SoC • Spell Effect - Create|Create]]*** — _Create an object from nothing imbued with a spell_.
-5. ***[[SoC • Spell Effect - Defensive|Defense]]*** — _Magically defend against incoming attacks_
+5. ***[[SoC • Spell Effect - Defensive|Defensive]]*** — _Magically defend against incoming attacks_
 6. ***[[SoC • Spell Effect - Duration|Duration]]*** — _The spell lasts longer_.
 7. ***[[SoC • Spell Effect - Dispel|Dispel]]*** — _Cancel other magic_.
 8. ***[[SoC • Spell Effect - Dominate|Dominate]]*** — _Force another creature to do your bidding_.
@@ -36,8 +68,7 @@ _We call them Spells but they can be also supernatural powers, all that changes 
 26. ***[[SoC • Spell Effect - Transport|Transport]]*** — _Magically teleport a creature or an object_.
 27. ***[[SoC • Spell Effect - Ward|Ward]]*** — _Block access of a specified creature, through a passage_.
 28. ***[[SoC • Spell Effect - Wither|Wither]]*** — _Weaken another creature_.
-----
-### Limitations
+# Spell's Limitations Lists
 1. ***[[SoC • Spell Limitation - Binding Oath|Binding Oath]]*** — _You learned this spell as part of a deal_.
 2. ***[[SoC • Spell Limitation - Cannot be Customized|Cannot be customized]]*** — _You cannot modify this spell anymore_.
 3. ***[[SoC • Spell Limitation - Cannot be Targeted|Cannot be targeted]]*** — _Spell always flies wild_.
@@ -65,119 +96,3 @@ _We call them Spells but they can be also supernatural powers, all that changes 
 25. ***[[SoC • Spell Limitation - Unstable|Unstable]]*** — _A wobbly, barely-contained magic_.
 26. ***[[SoC • Spell Limitation - Uses Infernal Powers|Uses infernal powers]]*** — _Ancient forces might attack you if you use this spell_.
 27. ***[[SoC • Spell Limitation - Veil of Silence|Veil of silence]]*** — _Lose your voice_.
-----
-
-# Effect Cards
-
-![[SoC • Card - Alter.png]]
-
-![[SoC • Card - Area.png]]
-
-![[SoC • Card - Banish.png]]
-
-![[SoC • Card - Create.png]]
-
-![[SoC • Card - Defensive.png]]
-
-![[SoC • Card - Duration.png]]
-
-![[SoC • Card - Dispel.png]]
-
-![[SoC • Card - Dominate.png]]
-
-![[SoC • Card - Harm.png]]
-
-![[SoC • Card - Haste.png]]
-
-![[SoC • Card - Hidden.png]]
-
-![[SoC • Card - Mend.png]]
-
-![[SoC • Card - Illusion.png]]
-
-![[SoC • Card - Lasting.png]]
-
-![[SoC • Card - Obscure.png]]
-
-![[SoC • Card - Passive.png]]
-
-![[SoC • Card - Psychokinesis.png]]
-
-![[SoC • Card - Randomic.png]]
-
-![[SoC • Card - Ranged.png]]
-
-![[SoC • Card - Restore.png]]
-
-![[SoC • Card - Sensory.png]]
-
-![[SoC • Card - Shapechange.png]]
-
-![[SoC • Card - Summon.png]]
-
-![[SoC • Card - Telepathy.png]]
-
-![[SoC • Card - Transmute.png]]
-
-![[SoC • Card - Transport.png]]
-
-![[SoC • Card - Ward.png]]
-
-![[SoC • Card - Wither.png]]
-
-# Limitation Cards
-![[SoC • Card - Binding Oath.png]]
-
-![[SoC • Card - Cannot be Customized.png]]
-
-![[SoC • Card - Cannot be Targeted.png]]
-
-![[SoC • Card - Eldrich Bond.png]]
-
-![[SoC • Card - Exhausting.png]]
-
-![[SoC • Card - Cost Material to Cast.png]]
-
-![[SoC • Card - Druidic.png]]
-
-![[SoC • Card - Debilitating.png]]
-
-![[SoC • Card - Linked to Physical Object.png]]
-
-![[SoC • Card - Maddening.png]]
-
-![[SoC • Card - Must be Sustained.png]]
-
-![[SoC • Card - Mana Drain.png]]
-
-![[SoC • Card - Nullified by.png]]
-
-![[SoC • Card - Only Works Outdoors.png]]
-
-![[SoC • Card - Only Works on Specific Target Type.png]]
-
-![[SoC • Card - Painful.png]]
-
-![[SoC • Card - Rad Speech.png]]
-
-![[SoC • Card - Requires Contact.png]]
-
-![[SoC • Card - Ritual.png]]
-
-![[SoC • Card - Sacrificial Rite.png]]
-
-![[SoC • Card - Symbiotic.png]]
-
-![[SoC • Card - Takes One Round to Cast.png]]
-
-![[SoC • Card - Temporal Lock.png]]
-
-![[SoC • Card - Unstable.png]]
-
-![[SoC • Card - Uses Infernal Powers.png]]
-
-![[SoC • Card - Veil of Silence.png]]
-
-![[SoC • Card - Unstable Magic Table.png|325]]
-
-![[SoC • Card - Infernal Magic Table.png|325]]

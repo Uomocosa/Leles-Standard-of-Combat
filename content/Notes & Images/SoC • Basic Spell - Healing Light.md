@@ -4,7 +4,7 @@ aliases:
 ---
 %%
 - ***Image***:<br>![[Pasted image 20250603155900.png|222]]
-- ***Info***: [[Basic Spells|Basic Spell]] - Action 
+- ***Info***: [[Basic Spells|Basic Spell]]  
 - ***Cost***: 1 
 - ***Description***:<br>Target creature in your Zone gets [[Heal and Repair|Healed]] by **1d4 damages**.
 - ***Effects***: [[SoC • Spell Effect - Restore|Restore]]

@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[SoC • Core Ability - Master of the Forge (Image).png|222]]
 - ***Info***: Core Ability
 - ***Cost***: 7
-- ***Description***:<br>When you roll a [[Forging]] [[Skill Checks]], roll it with [[SoC • Rules - Advantage and Disadvantage|Advantage]].<br>When [[Custom Equipment|Upgrading]] a piece of [[Custom Equipment|Gear]], you can add one more **1 pt cost [[Custom Spells|Effect]]**, for free, however you still have to succeed in the [[Forging]] [[Skill Checks|Skill Check]] as usual.
+- ***Description***:<br>When you roll a [[Forging]] [[Skill Checks]], roll it with [[SoC • Rules - Advantage and Disadvantage|Advantage]].<br>When [[Custom Equipment|Upgrading]] a piece of [[Custom Equipment|Gear]], you can add one more **1 pt cost [[SoC • Discord Bot - Thread • CUSTOM SPELLS|Effect]]**, for free, however you still have to succeed in the [[Forging]] [[Skill Checks|Skill Check]] as usual.
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: artifact 

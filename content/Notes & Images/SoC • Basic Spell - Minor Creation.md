@@ -4,7 +4,7 @@ aliases:
 ---
 %%
 - ***Image***:<br>![[minor-creation-edit.png|222]]
-- ***Info***: [[Basic Spells|Basic Spell]] - Action 
+- ***Info***: [[Basic Spells|Basic Spell]] 
 - ***Cost***: 1 
 - ***Description***:<br>Create a simple object that costs **1 pt** or less, it lasts **1 hour**.
 - ***Effects***: [[SoC • Spell Effect - Create|Create]]

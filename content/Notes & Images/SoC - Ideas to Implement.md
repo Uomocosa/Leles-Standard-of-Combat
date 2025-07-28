@@ -5,9 +5,9 @@ aliases:
 ---
 #### Overhaul
 - ***Starting points***: **20 pts**.
-- ***[[Flaws]]***: The first flaw give you **+2 pts** to spend, all the other flaws after the first gives you only **+1 pts** each, you take at most **4 flaws** at character creation.
-- ***[[Core Ability]]***: **7 pts**.
-- ***Average Starting [[Health]]***: Considering an average of **6 pts** spent in [[Skill Checks]], a player starts with **9 HP** and **2 Energy**.<br>He/She can choose to take **1 Energy**, instead of **2 HP** so it you could also go to: **3 HP, 5 Energy**.
+- ***[[SoC • Discord Bot - Thread • FLAWS]]***: The first flaw give you **+2 pts** to spend, all the other flaws after the first gives you only **+1 pts** each, you take at most **4 flaws** at character creation.
+- ***[[SoC • Discord Bot - Thread • CORE ABILITIES]]***: **7 pts**.
+- ***Average Starting [[SoC • Discord Bot - Thread • HEALTH]]***: Considering an average of **6 pts** spent in [[Skill Checks]], a player starts with **9 HP** and **2 Energy**.<br>He/She can choose to take **1 Energy**, instead of **2 HP** so it you could also go to: **3 HP, 5 Energy**.
 - ***[[Skill Checks]]***: **1 pts** ⇒ **+1 Modifier**.
 - ***Spells***: ***1 ~ 5 pts***
 - ***Weapons***/***Armors***: Light: **1 pts**, Heavy: **3 pts**.<br>_Light Weapons_ deal: **1d4** damages, while _Heavy Wepons_ deal **1d6** damages.<br>Their damage can be increased by **1** [[damage dices|damage die]] by paying **2 pts** via **Enchant — Damage**.<br>While you [[Attack, Defense and Combat Damage|Attack]] with a weapon if the result of the **d20** (taken before adding any modifier) is **1 ~ 5**, after the Attack the weapon becomes [[Damaged Gear|Damaged]], and needs to be [[Heal and Repair|Repaired]], until then it will only deal **1** damage, and looses all abilities.
@@ -50,7 +50,7 @@ aliases:
 	- You will always choose to loose health first.
 	- Each armor-token is equal to **+1 AC** or **3 Health**, meaning that [[Heal and Repair|Repairing]] armor is **MUCH** better than [[Heal and Repair|Healing]] (an Health card is at most **3** Health)
 - *(Optional Rule) — Falling Armor*:<br>When you get hit, if you receive **3** or more [[Attack, Defense and Combat Damage|Damage]], you'll also loose **1** armor-token.<br>==_Not so much fun :(_==
-- *(Optional Rule) — Falling Armor*:<br>When an enemy attacks you and [[The Extremes|crits]], it does not deal **double damage**, instead you'll receive the normal damage to your [[Health]], and you'll also loose **3** armor-tokens.<br>==_Not so much fun :(_==
+- *(Optional Rule) — Falling Armor*:<br>When an enemy attacks you and [[The Extremes|crits]], it does not deal **double damage**, instead you'll receive the normal damage to your [[SoC • Discord Bot - Thread • HEALTH]], and you'll also loose **3** armor-tokens.<br>==_Not so much fun :(_==
 - *(Optional Rule) — Falling Armor*:<br>When an enemy attacks you and one of its damage dieces is maximized, you loose **1** armor-token.<br>==_Not so much fun :(_==
 ----
 ##### Initiative
@@ -58,7 +58,7 @@ aliases:
 - *(Optional Rule) — Roll for Initiative*:<br>Another way to decide the turn of combat, is to roll a [[Skill Checks]], usually on [[Agility]].
 ----
 ##### Stamina
-- *(Optional Rule) — Stamina*:<br>There is no longer a concpet of [[Health]], instead each player has **Stamina**.<br>Every [[Type of Cards|Action]] has a stamina cost, [[Attack, Defense and Combat Damage|Damage]] you receive is subctrated from your **Stamina**.<br>If you have $0$ **Stamina** and you receive damage your become [[Dying and Stable]], simliar rules apply.
+- *(Optional Rule) — Stamina*:<br>There is no longer a concpet of [[SoC • Discord Bot - Thread • HEALTH]], instead each player has **Stamina**.<br>Every [[Type of Cards|Action]] has a stamina cost, [[Attack, Defense and Combat Damage|Damage]] you receive is subctrated from your **Stamina**.<br>If you have $0$ **Stamina** and you receive damage your become [[Dying and Stable]], simliar rules apply.
 - *(Optional Rule) — Stamina and Initiative*:<br>Your party can expend a total of $5$ **Stamina** before combat to go first.
 -----
 - Change Additional Health description. Non è facile da capire che puoi comprare solo 2,3 di vita pagando 5.

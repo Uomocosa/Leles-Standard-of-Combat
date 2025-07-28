@@ -4,10 +4,10 @@ aliases:
 ---
 %%
 - ***Image***:<br>![[unseen-strenght-edit.png|222]]
-- ***Info***: [[Basic Spells|Basic Spell]] - Action 
+- ***Info***: [[Basic Spells|Basic Spell]]  
 - ***Cost***: 2
-- ***Description***:<br>For **1 hour** target Creatures in your Zone, can perform [[Might]] [[Skill Checks|Skill Checks]] at **Range** (_for each Zone between him and his target, he rolls with an additional [[SoC • Rules - Advantage and Disadvantage|Disadvantage]]_).
-- ***Effects***: [[SoC • Spell Effect - Psychokinesis|Psychokinesis]]
+- ***Description***:<br>For **1 hour**, target Creature in your [[Combat Zones|Zone]] can choose to forgo an Action, or spend **1 [[SoC • Discord Bot - Thread • ENERGY]]**, to make their next [[Might]] [[Skill Checks|Skill Check]] at **Range** (_for each Zone between them and their target, they roll with an additional [[SoC • Rules - Advantage and Disadvantage|Disadvantage]]_).
+- ***Effects***: [[SoC • Spell Effect - Psychokinesis|Psychokinesis-2]]
 - ***Limitations***: 
 - ***Color***: red 
 - ***Prompt***: Help me come up with a prompt, not an image, for the spell: "Unseen Strength", with this effect: For **1 hour** target Creatures in your Zone, can perform [[Might]] [[Skill Checks|Skill Checks]] at **Range** (_for each Zone between you and your target, roll with an additional [[SoC • Rules - Advantage and Disadvantage|Disadvantage]]_). I want the prompt to respect a creature guiding its weapon from a distance against another's creature. the other creature defends with its weapon

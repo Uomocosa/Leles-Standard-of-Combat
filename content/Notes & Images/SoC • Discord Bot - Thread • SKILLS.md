@@ -1,14 +1,27 @@
+---
+aliases:
+  - Skills
+  - Skill Modifiers
+  - Modifier
+  - Modifiers
+  - Skill
+---
 Increase your' Skills Mastery by [[Meditate and Train|Meditating and Training]].
 
 ![[SoC • Card - Meditate and Train.png|325]]
 
+Mark your Skill's Modifier in your [[SoC • Card - Character Details|Character Details]] Card:
+
+![[SoC • Card - Skill Modifiers.png]]
 # Skill Checks
 
 ![[SoC • Card - Skill Checks.png|325]]
 
-# Opposing Rolls
+# Opposing Rolls, Advantage and Disadvantage
 
-![[SoC • Card - Opposing Rolls.png|650]]
+![[SoC • Card - Opposing Rolls.png|350]]
+
+![[SoC • Card - Advantage and Disadvantage.png|350]]
 # Skills
 
 ![[SoC • Card - Agility.png|650]]
@@ -36,6 +49,8 @@ Increase your' Skills Mastery by [[Meditate and Train|Meditating and Training]].
 ![[SoC • Card - Medicine.png|650]]
 
 ![[SoC • Card - Perception.png|650]]
+
+![[SoC • Card - Performance.png]]
 
 ![[SoC • Card - Persuasion.png|650]]
 

@@ -1,3 +1,7 @@
+---
+aliases:
+  - Lineages
+---
 Choose a **Lineage** when creating a character. Lineage does not include mechanical aspects, as each population is vast and diverse.
 Here are some common ones.
 ### Human

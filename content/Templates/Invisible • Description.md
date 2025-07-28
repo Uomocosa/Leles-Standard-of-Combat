@@ -1,0 +1,1 @@
+**[[SoC • Condition Card - Invisible|Invisible]]** (_you cannot be seen, and cannot become target of attack and spells_)

@@ -3,7 +3,7 @@ aliases:
   - Impetuos
 ---
 ### From the Official Rules
-![[Flaws#^impetuos]]
+![[SoC • Discord Bot - Thread • FLAWS#^impetuos]]
 
 ----
 ### Notes

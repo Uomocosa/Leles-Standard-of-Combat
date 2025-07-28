@@ -9,9 +9,9 @@ aliases:
 - ***Alt***:<br>![[Pasted image 20250603162642.png|222]]
 - ***Alt***:<br>![[Pasted image 20250603162746.png|222]]
 - ***Alt***:<br>![[Pasted image 20250603162732.png|222]]
-- ***Info***: [[Basic Spells|Basic Spell]] - Action 
+- ***Info***: [[Basic Spells|Basic Spell]]  
 - ***Cost***: 3
-- ***Description***:<br>Choose a target Creature, or object up to medium size, in your Zone, you can [[Forgo an Action]] to **fly** (_[[SoC • Generic Action - Movement or Skill|Move]] by one Zone in any direction_) the target at your will. The spell lasts up to **1 hour**.<br>If the target tries to resist, succeed in an [[SoC • Rules - Opposing Rolls|opposing roll]]: _[[Faith]] **vs.** [[Will]]_ to apply the spell's effects. At the end of **[[Phases of Combat|Round]]** succeed in the same opposing roll, otherwise the spell ends.
+- ***Description***:<br>Choose a target Creature, or object up to medium size, in your Zone, you can [[Forgo an Action]] to **[[SoC • Condition Card - Flying|Fly]]** (_[[SoC • Generic Action - Movement or Skill|Move]] in any direction, and ignore Zone Effects_) the target at your will. The spell lasts up to **1 hour**.<br>If the target tries to resist, succeed in an [[SoC • Rules - Opposing Rolls|opposing roll]]: _[[Faith]] **vs.** [[Will]]_ to apply the spell's effects. At the end of **[[Phases of Combat|Round]]** succeed in the same opposing roll, otherwise the spell ends.
 - ***Effects***: [[SoC • Spell Effect - Transport|Transport]]
 - ***Limitations***: 
 - ***Color***: white 

@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[SoC • Core Ability - Spellsinger (Image).png|222]]
 - ***Info***: Core Ability
 - ***Cost***: 7
-- ***Description***:<br>_You cast spells with flair and oratory_.<br>You can never use any [[SoC • Spell Effect - Hidden|Hidden]] [[Custom Spells|Spells]].<br>Your spells work on a target that can **hear** you cast, each of yours [[SoC • Spell Effect - Area|Area]] [[Custom Spells|Spells]] that cost **3 or more [[Energy|Energy]] to cast***, now require **1 less [[Energy|Energy]]**.<br>For every spell you cast, you may roll a [[Performance]] [[Skill Checks|check]] instead of any [[Arcane]] [[Skill Checks|check]].
+- ***Description***:<br>You channel magic through voice and music, and have mastered the art of casting [[SoC • Spell Effect - Area|Area]] [[SoC • Discord Bot - Thread • CUSTOM SPELLS|Spells]] (_Spells that use the [[SoC • Spell Effect - Area|"Area" effect]]_). Any of your [[SoC • Discord Bot - Thread • CUSTOM SPELLS|Spells]] that target an entire Zone (or more) now cost **1 less [[SoC • Discord Bot - Thread • ENERGY|Energy]]** to cast.<br>When casting a spell, you may roll a [[Performance]] [[Skill Checks|check]] instead of any [[Arcane]] [[Skill Checks|check]].<br>You cannot cast [[SoC • Spell Effect - Hidden|Hidden]] [[SoC • Discord Bot - Thread • CUSTOM SPELLS|Spells]] (_Spells that use the [[SoC • Spell Effect - Hidden|"Hidden" effect]]_).
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: green 

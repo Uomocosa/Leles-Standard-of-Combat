@@ -1,3 +1,7 @@
+---
+aliases:
+  - Forest
+---
 %%
 - ***Image***:<br>![[Pasted image 20250531174510.png|222]]
 - ***Alt***:<br>![[Pasted image 20250531174327.png|222]]

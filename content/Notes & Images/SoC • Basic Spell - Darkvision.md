@@ -4,7 +4,7 @@ aliases:
 ---
 %%
 - ***Image***:<br>![[Pasted image 20250603152255.png|222]]
-- ***Info***: [[Basic Spells|Basic Spell]] - Action 
+- ***Info***: [[Basic Spells|Basic Spell]] 
 - ***Cost***: 1 
 - ***Description***:<br>Choose target Creature in your **Zone**, for **1 hour** it can see through **Darkness**, as you would during the day.
 - ***Effects***: [[SoC • Spell Effect - Sensory|Sensory]]

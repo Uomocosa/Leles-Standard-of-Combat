@@ -1,23 +1,30 @@
+---
+aliases:
+  - Health
+  - Health Card
+  - Health Cards
+  - Temporary Health
+  - Temporary Health Cards
+---
 # Health
-Each Character starts with **3 Health Cards**.
-When you loose health (_for example by receiving damage_): you [[Discard Pile|discard]] that number of Health Cards.
+
+![[SoC • Card - Health and Energy.png|350]]
 
 ![[SoC • Card - Health Card.png|350]]
-# Regaining Health
 
-To regain the Health you have [[Discard Pile|Discarded]] you need to [[Rest and Recovery|Rest]], or get [[Heal and Repair|Healed]].
-
-![[SoC • Card - Remember to Eat Sweety.png|325]] 
+![[SoC • Card - Heal and Repair.png|350]]
 
 ![[SoC • Card - A Night of Rest.png|350]]
 
 ![[SoC • Card - Short Rest.png|350]]
 
-![[SoC • Card - Heal and Repair.png|350]]
+# Eating is not Optional
+
+![[SoC • Card - Remember to Eat Sweety.png|350]] 
 # Training
 You can increase your Health by [[Meditate and Train|Training]].
 
-![[SoC • Card - Meditate and Train.png|350]]
+![[SoC • Card - Meditate an[[SoC • Discord Bot - Thread • HEALTH]]g|350]]
 
 # Death
 If you lose all your [[Health]] you start [[Dying and Stable|Dying]]. Depending on the situation, your Allies could have a few [[Phases of Combat|Rounds]] to help you, until you [[Death|Die]].
@@ -33,8 +40,7 @@ If you lose all your [[Health]] you start [[Dying and Stable|Dying]]. Depending 
 ![[SoC • Card - Death.png|350]]
 
 # Temporary Health
-Some enchantments, or other **sources**, will give you some **Temporary Health**: 
-- When lose Health, you'll first use your **Temporary Health Cards** instead of your normal **Health Cards**.
-- **Temporary Health Cards**, do NOT go to your [[Discard Pile]], instead [[returning a card to your GM|return them to your GM]].
+
+![[SoC • Card - Temporary Health and Energy.png|350]]
 
 ![[SoC • Card - Temporary Health Card.png|350]]

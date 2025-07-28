@@ -1,3 +1,11 @@
+---
+aliases:
+  - Melee Attack
+  - Ranged Attack
+  - Melee Attacks
+  - Ranged Attacks
+  - Melee and Ranged Attacks
+---
 %%
 - ***Type***: Rules
 - ***Description***:<br>***Melee Attack*** — Succeed in an [[SoC • Rules - Opposing Rolls|opposing roll]]: _[[Might]] **vs.** [[Might]] or [[Agility]]_ (_defender uses lowest_) to hit.<br>***Ranged Attack*** — Succeed in an [[SoC • Rules - Opposing Rolls|opposing roll]]: _[[Agility]] **vs.** [[Agility]]_ to hit. For each Zone between you and your target, roll with an additional [[SoC • Rules - Advantage and Disadvantage|Disadvantage]].<br>***Throw your Weapon*** — Like a **Ranged Attack**. However, you need to fetch it before you can use it again.

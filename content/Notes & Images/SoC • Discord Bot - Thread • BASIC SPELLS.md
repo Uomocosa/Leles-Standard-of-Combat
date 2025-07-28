@@ -1,4 +1,10 @@
+---
+aliases:
+  - Basic Spells
+---
 ![[SoC • Card - Spellcasting.png|350]]
+
+![[SoC • Card - Basic Spells.png|350]]
 
 # Basic Spells
 

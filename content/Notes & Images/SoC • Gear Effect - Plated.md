@@ -7,7 +7,7 @@ aliases:
 - ***Image***:<br>![[Pasted image 20250113133524.png|100]]
 - ***Info***: Effect - Plated
 - ***Cost***: 3
-- ***Description***:<br>Add an addition [[Health|health-block]] with a value of **3**.<br>You can add this **Effect** up to **3** times on a single [[Custom Equipment|Gear]]. 
+- ***Description***:<br>Add an addition [[SoC • Discord Bot - Thread • HEALTH|health-block]] with a value of **3**.<br>You can add this **Effect** up to **3** times on a single [[Custom Equipment|Gear]]. 
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: artifact 

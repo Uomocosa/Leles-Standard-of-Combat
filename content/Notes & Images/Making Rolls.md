@@ -10,7 +10,7 @@ The most common **flat roll** is a [[Dying and Stable|Death Saving Throw]], _whi
 ----
 ### Skill Roll or Skill Checks
 Often during play, you will announce “*I will make an [[Agility]] [[Skill Checks|Check]] to leap over this creek!*” or some equivalent. 
-Roll a **d20** and add that [[Skill Checks|Skill]]’s [[SoC • Generic Card - Character Details|Modifier]]. 
+Roll a **d20** and add that [[Skill Checks|Skill]]’s [[SoC • Discord Bot - Thread • SKILLS|Modifier]]. 
 In some cases, a difficulty penalty will make a success more difficult to obtain. In other cases however you could also get a bonus. Most of these bonus or malus are represented by an [[SoC • Rules - Advantage and Disadvantage|Advantage]] or [[SoC • Rules - Advantage and Disadvantage|Disadvantage]] on the roll.
 
 ![[SoC • Card - Skill Checks.png|325]]
@@ -27,7 +27,7 @@ In some cases, a difficulty penalty will make a success more difficult to obtain
 ----
 ### Rolling Damage/Effect
 You have successfully hit your enemy, now it's time to see how how much damage you have dealt.
-Each [[Custom Equipment|Weapon]] and [[Custom Spells|Spell]] has its custom damage, and this roll can use a wide variety of dices.
+Each [[Custom Equipment|Weapon]] and [[SoC • Discord Bot - Thread • CUSTOM SPELLS|Spell]] has its custom damage, and this roll can use a wide variety of dices.
 
 ----
 ### Yes/No Rolls

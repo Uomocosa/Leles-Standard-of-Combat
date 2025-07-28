@@ -2,6 +2,7 @@
 aliases:
   - opposing rolls
   - opposing roll
+  - Opposing Rolls
 ---
 %%
 - ***Type***: Rules

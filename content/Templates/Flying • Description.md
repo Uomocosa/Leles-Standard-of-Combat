@@ -1,0 +1,1 @@
+**[[SoC • Condition Card - Flying|Fly]]** (_[[SoC • Generic Action - Movement or Skill|Move]] in any direction, and ignore Zone Effects_)

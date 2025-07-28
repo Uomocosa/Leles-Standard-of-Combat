@@ -4,7 +4,7 @@ aliases:
   - All Cards
 ---
 ### Generic Cards
-- [[SoC • Generic Card - Character Details|Character Details]] (_1 card per player_) 
+- [[SoC • Discord Bot - Thread • SKILLS|Character Details]] (_1 card per player_) 
 - [[SoC • Generic Action - Movement or Skill|Movement or Skill]] (_2 cards per player_) 
 - [[SoC • Generic Action - Encore|Encore]] (_1 cards per player_) 
 - [[SoC • Generic Card - Closer to Death|Closer to Death]] (_2 per player, held by the GM_)
@@ -15,37 +15,55 @@ aliases:
 - [[Forging]] (_1 card per player_) 
 - [[Intimidation]] (_1 card per player_) 
 - [[Medicine]] (_1 card per player_) 
-- [[SoC • Rest and Recovery - A Night of Rest]] (_1 cards per player_) 
-- [[SoC • Rest and Recovery - Short Rest]] (_1 cards per player_) 
+- [[SoC • Rest and Recovery - A Night of Rest|A Night of Rest]] (_1 cards per player_) 
+- [[SoC • Rest and Recovery - Short Rest|Short Rest]] (_1 cards per player_) 
 ### Rule Cards (print 1 each)
-- [[Skill Checks]]
-- [[Meditate and Train]]
-- [[Heal and Repair]]
-- [[SoC • Rules - Remember to Eat Sweety]] 
-- [[SoC • Rest and Recovery - A Night of Rest]]
-- [[SoC • Rest and Recovery - Short Rest]]
-- [[SoC • Rules - Start of a New Campaign]]
-- [[SoC • Rules - Advantage and Disadvantage]]
-- [[SoC • Rules - Opposing Rolls]]
-- [[SoC • Rules - Melee and Ranged Attacks]]
+- [[SoC • Rules - Start of a New Campaign|Start of a New Campaign]] 
+- [[SoC • Introduction - Spend your Points|Spend your Points]] 
+- [[SoC • Rules - Health and Energy|Health and Energy]] 
+- [[SoC • Rules - Temporary Health and Energy|Temporary Health and Energy]] 
+- [[SoC • Condition Card - Dying|Dying]]
+- [[SoC • Condition Card - Stable|Stable]]
+- [[Dying and Stable|Death Saving Throw]]
+- [[Death]]
+- [[Skill Checks]] 
+- [[SoC • Rules - Advantage and Disadvantage|Advantage and Disadvantage]] 
+- [[SoC • Rules - Opposing Rolls|Opposing Rolls]] 
+- [[Meditate and Train]] 
+- [[Heal and Repair]] 
+- [[SoC • Rules - Remember to Eat Sweety|Remember to Eat, Sweety]] 
+- [[SoC • Rest and Recovery - A Night of Rest|A Night of Rest]] 
+- [[SoC • Rest and Recovery - Short Rest|Short Rest]] 
+- [[SoC • Introduction - Character Creation|Character Creation]] 
+- [[SoC • Rules - Flaws|Flaws]]
+- [[SoC • Rules - Core Ability|Core Ability]]
+- [[SoC • Introduction - Zone Cards|Zone Cards]] 
+- [[SoC • Rules - Combat|Combat]]
+- [[SoC • Rules - Damage Roll|Damage Roll]]
+- [[SoC • Rules - Turn and Round|Turn and Round]] 
+- [[SoC • Rules - Surprise Round|Surprise Round]] 
+- [[SoC • Rules - Melee and Ranged Attacks|Melee and Ranged Attacks]]
 - [[Prepare to Act]]
 - [[Reactions]]
-- [[SoC • Rules - Attack and Defensive Roll]]
-- [[SoC • Optional Rules - Legion Commander]]
-- [[Basic Spells]]
-- [[SoC • Rule Card - Spellcasting|Spellcasting]]
-- [[SoC • Rules - Custom Spells|Custom Spells Rule Card]]
-- [[SoC • Rules - Combat|Combat Rule Card]]
-- [[Death]]
+- [[SoC • Rules - Attack and Defensive Roll|Attack and Defensive Roll]] 
+- [[SoC • Introduction - Gear|Gear]] 
+- [[Basic Spells]] 
+- [[SoC • Rule Card - Spellcasting|Spellcasting]] 
+- [[SoC • Introduction - Custom Spells|Custom Spells]] 
+- [[SoC • Rules - Create a Custom Spell|Create a Custom Spell]] 
+- [[SoC • Rules - Scrolls|Scrolls]] 
+- [[SoC • Rules - Potions|Potions]] 
+- [[Death]] 
+- [[SoC • Optional Rules - Legion Commander|Legion Commander]] 
 ### Skills
-**[[Agility]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Might]]** — Modifier: \_\_\_\_\_\_\_ <br><br>**[[Arcane]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Faith]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Nature]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Will]]** — Modifier: \_\_\_\_\_\_\_ <br><br>**[[Deception]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Forging]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Intimidation]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Intuition]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Lore]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Medicine]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Perception]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Persuasion]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Sleight of Hand]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Stealth]]** — Modifier: \_\_\_\_\_\_\_
+**[[Agility]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Might]]** — Modifier: \_\_\_\_\_\_\_ <br><br>**[[Arcane]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Faith]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Nature]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Will]]** — Modifier: \_\_\_\_\_\_\_ <br><br>**[[Deception]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Forging]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Intimidation]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Intuition]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Lore]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Medicine]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Perception]]** — Modifier: \_\_\_\_\_\_\_<br>**[[Performance]]** — Modifier: \_\_\_\_\_\_\_  <br>**[[Persuasion]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Sleight of Hand]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Stealth]]** — Modifier: \_\_\_\_\_\_\_
 ### Equipment
-- [[SoC • Rules - Craft a New Equipment|Craft]]
-- [[SoC • Rules - Upgrading a Piece of Equipment|Upgrade]]
-- [[SoC • Rules - 1 Point Upgrade|1 Point Upgrade]]
-- [[SoC • Rules - 2 Points Upgrade|2 Points Upgrade]]
-- [[SoC • Rules - Forging your Gear|Forging your Gear]]
-- [[SoC • Optional Rule - With What Forge|With What Forge?]]
+- [[SoC • Rules - Craft New Equipment|Craft]] 
+- [[SoC • Rules - Upgrading a Piece of Equipment|Upgrade]] 
+- [[SoC • Rules - 1 Point Upgrade|1 Point Upgrade]] 
+- [[SoC • Rules - 2 Points Upgrade|2 Points Upgrade]] 
+- [[SoC • Rules - Forging your Gear|Forging your Gear]] 
+- [[SoC • Optional Rule - With What Forge|With What Forge?]] 
 ### Gear Defects Lists
 1. ***[[SoC • Gear Defect - Breakable|Breakable]]*** — _A fragile piece of equipment that can easily break under pressure, especially when things go wrong_.
 2. ***[[SoC • Gear Defect - Sought After|Sought after]]*** — _An item with a dark allure, attracting the attention of dangerous individuals with questionable intentions_.
@@ -54,45 +72,37 @@ aliases:
 5. ***[[SoC • Gear Defect - Heavy|Heavy]]*** — _A cumbersome piece of equipment that requires great mastery to wield effectively_.
 6. ***[[SoC • Gear Defect - Garish|Garish]]*** — _A garish and intimidating piece of gear that attracts unwanted attention, either provoking enemies or causing social discomfort_.
 ### Weapons
-_Weapons can break at any moment, take spares, just to be safe_.
-
-| WEAPON                                                             | DMG        | TYPE         | EFFECTS                                                                                                                                                                                   | COST      |
-| :----------------------------------------------------------------- | :--------- | :----------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------- |
-| ***[[SoC • Basic Weapon - Dagger\|Dagger]]***                      | **`1`**    | **Basic**    | _Breakable 4, Concealed **1d6**, Finesse_.                                                                                                                                                | **1 pt**  |
-| ***[[SoC • Basic Weapon - Walking Staff\|Walking Staff]]***        | **`1`**    | **Basic**    | _Breakable 5, Finesse, Simple_.                                                                                                                                                           | **1 pt**  |
-| ***[[SoC • Basic Weapon - Short Sword\|Short Sword]]***            | **`1d4`**  | **Basic**    | _Breakable 3_.                                                                                                                                                                            | **1 pt**  |
-| ***[[SoC • Grand Weapon - Great Sword\|Great Sword]]***            | **`1d6`**  | **Grand**    | _Breakable 2, Two-Handed_.                                                                                                                                                                | **3 pts** |
-| ***[[SoC • Basic Weapon - Wood Axe\|Wood Axe]]***                  | **`1d4`**  | **Basic**    | _Breakable 5, Simple_.<br>_You can use [[Might]] instead of [[Agility]] to [[Thrown • Description\|Throw]] this Weapon_                                                                   | **1 pt**  |
-| ***[[SoC • Grand Weapon - Battle Axe\|Battle Axe]]***              | **`1d6`**  | **Grand**    | _Breakable 4_.                                                                                                                                                                            | **3 pts** |
-| ***[[SoC • Standard Weapon - Pick Hammer\|Pick Hammer]]***         | **`1d4`**  | **Standard** | _Breakable 3, Slowing_.                                                                                                                                                                   | **2 pts** |
-| ***[[SoC • Grand Weapon - War Hammer\|War Hammer]]***              | **`1d6`**  | **Grand**    | _Breakable 2, Two-Handed, Crippling_.                                                                                                                                                     | **3 pts** |
-| ***[[SoC • Standard Weapon - Studded Mace\|Studded Mace]]***       | **`1d4`**  | **Standard** | _Breakable 3, Crippling_.                                                                                                                                                                 | **2 pts** |
-| ***[[SoC • Standard Weapon - Spear\|Spear]]***                     | **`1d4`**  | **Standard** | _Breakable 4, Finesse, Chivalry **1d6**_.                                                                                                                                                 | **2 pts** |
-| ***[[SoC • Grand Weapon - Halberd\|Halberd]]***                    | **`1d6`**  | **Grand**    | _Breakable 2, Two-Handed, Slowing_.                                                                                                                                                       | **3 pts** |
-| ***[[SoC • Standard Weapon - Scimitar\|Scimitar]]***               | **`1d4`**  | **Standard** | _Breakable 2, Finesse_.                                                                                                                                                                   | **2 pts** |
-| ***[[SoC • Basic Weapon - Barbed Whip\|Barbed Whip]]***            | **`1`**    | **Basic**    | _Breakable 4, Finesse, Bleeding_.                                                                                                                                                         | **1 pts** |
-| ***[[SoC • Standard Weapon - Hidden Crossbow\|Hidden Crossbow]]*** | **`1d4`**  | **Standard** | _Breakable 5, Concealed **1d8**, Loaded, Ranged_.                                                                                                                                         | **2 pt**  |
-| ***[[SoC • Standard Weapon - Long Bow\|Long Bow]]***               | **`1d4`**  | **Standard** | _Breakable 2, Ranged, Simple, Two-Handed_.<br>_Ignore **the first** [[SoC • Rules - Advantage and Disadvantage\|Disadvantage]] given by the **Ranged** [[Equipment Properties\|property]]_.             | **2 pts** |
-| ***[[SoC • Standard Weapon - Crossbow\|Crossbow]]***               | **`1d6`**  | **Standard** | _Breakable 4, Loaded, Ranged_.                                                                                                                                                            | **2 pts** |
-| ***[[SoC • Grand Weapon - Musket\|Musket]]***                      | **`1d10`** | **Grand**    | _Breakable 7, Complex, Two-Handed, Loaded, Ranged_.<br>_Ignore **the first 2** [[SoC • Rules - Advantage and Disadvantage\|Disadvantages]] given by the **Ranged** [[Equipment Properties\|property]]_. | **3 pts** |
-| ***[[SoC • Grand Weapon - Flint Pistol\|Flint Pistol]]***          | **`1d6`**  | **Grand**    | _Breakable 7, Complex, Concealed **1d10**, Loaded, Ranged_.                                                                                                                               | **3 pts** |
+- ***[[SoC • Basic Weapon - Dagger|Dagger]]***
+- ***[[SoC • Basic Weapon - Walking Staff|Walking Staff]]***
+- ***[[SoC • Basic Weapon - Short Sword|Short Sword]]***
+- ***[[SoC • Grand Weapon - Great Sword|Great Sword]]***
+- ***[[SoC • Basic Weapon - Wood Axe|Wood Axe]]***
+- ***[[SoC • Grand Weapon - Battle Axe|Battle Axe]]***
+- ***[[SoC • Standard Weapon - Pick Hammer|Pick Hammer]]***
+- ***[[SoC • Grand Weapon - War Hammer|War Hammer]]***
+- ***[[SoC • Standard Weapon - Studded Mace|Studded Mace]]***
+- ***[[SoC • Standard Weapon - Spear|Spear]]***
+- ***[[SoC • Grand Weapon - Halberd|Halberd]]***
+- ***[[SoC • Standard Weapon - Scimitar|Scimitar]]***
+- ***[[SoC • Basic Weapon - Barbed Whip|Barbed Whip]]***
+- ***[[SoC • Standard Weapon - Hidden Crossbow|Hidden Crossbow]]***
+- ***[[SoC • Standard Weapon - Long Bow|Long Bow]]***
+- ***[[SoC • Standard Weapon - Crossbow|Crossbow]]***
+- ***[[SoC • Grand Weapon - Musket|Musket]]***
+- ***[[SoC • Grand Weapon - Flint Pistol|Flint Pistol]]***
 ### Armors
-_If you have a passion for staying alive, take some armor!_
-
-| ARMORS                                                        | TYPE         | EFFECTS                                                                                                                                        | COST     |
-| :------------------------------------------------------------ | :----------- | :--------------------------------------------------------------------------------------------------------------------------------------------- | :------- |
-| ***[[SoC • Basic Armor - Leather Armor\|Leather Armor]]***    | **Basic**    | _[[Discard Pile\|Discard]]: Prevent **3** damages. The Armor gets [[Damaged Gear\|Damaged]]_.                                                  | **1 pt** |
-| ***[[SoC • Standard Armor - Hardened Hide\|Hardened Hide]]*** | **Standard** | _[[Discard Pile\|Discard]]: Prevent **5** damages. The Armor gets [[Damaged Gear\|Damaged]]_.                                                  | **2 pt** |
-| ***[[SoC • Grand Armor - Chain Mail\|Chain Mail]]***          | **Grand**    | _Reduce all **force** damage taken by **1**_.<br>_[[Discard Pile\|Discard]]: Prevent **2** damages. The Armor gets [[Damaged Gear\|Damaged]]_. | **3 pt** |
-| ***[[SoC • Basic Shield - Wood Shield\|Wood Shield]]***       | **Basic**    | _[[Discard Pile\|Discard]]: Prevent **3** damages. The Shield gets [[Damaged Gear\|Damaged]]_.                                                 | **1 pt** |
-| ***[[SoC • Standard Shield - Steel Shield\|Steel Shield]]***  | **Standard** | _[[Discard Pile\|Discard]]: Prevent **5** damages. The Shield gets [[Damaged Gear\|Damaged]]_.                                                 | **2 pt** |
-| ***[[SoC • Grand Shield - Tower Shield\|Tower Shield]]***     | **Grand**    | _[[Discard Pile\|Discard]]: Prevent **7** damages. The Shield gets [[Damaged Gear\|Damaged]]_.                                                 | **3 pt** |
+- ***[[SoC • Basic Armor - Leather Armor|Leather Armor]]***
+- ***[[SoC • Standard Armor - Hardened Hide|Hardened Hide]]***
+- ***[[SoC • Grand Armor - Chain Mail|Chain Mail]]***
+- ***[[SoC • Basic Shield - Wood Shield|Wood Shield]]***
+- ***[[SoC • Standard Shield - Steel Shield|Steel Shield]]***
+- ***[[SoC • Grand Shield - Tower Shield|Tower Shield]]***
 ### Basic Spells
-1. ***[[SoC • Basic Spell - Arcane Lock|Arcane Lock]]*** (**1 pts**) — _A glyph used to permanently seal a door_.<br>2. ***[[SoC • Basic Spell - Darkvision|Darkvision]]*** (**1 pts**) — _See through darkness_.<br>3. ***[[SoC • Basic Spell - Dream Spike|Dream Spike]]*** (**1 pts**) — _Stun an intelligent foe_.<br>4. ***[[SoC • Basic Spell - Fireblast|Fireblast]]*** (**1 pts**) — _Explosive fire from the caster's hands_.<br>5. ***[[SoC • Basic Spell - Ghost Blade|Ghost Blade]]*** (**1 pts**) — _Spectral knifes launched against an enemy_.<br>6. ***[[SoC • Basic Spell - Healing Light|Healing Light]]*** (**1 pts**) — _Heal a Creature_.<br>7. ***[[SoC • Basic Spell - Invisible Wall|Invisible Wall]]*** (**1 pts**) — _A force field to keep the enemies at bay_.<br>8. ***[[SoC • Basic Spell - Mage's Armor|Mage's Armor]]*** (**1 pts**) — _Use your [[Arcane]] [[SoC • Generic Card - Character Details|Modifier]] to defend against an [[Attack, Defense and Combat Damage|Attack]]_.<br>9. ***[[SoC • Basic Spell - Minor Creation|Minor Creation]]*** (**1 pts**) — _Create a simple object_.<br>10. ***[[SoC • Basic Spell - Minor Metamorphosis|Minor Metamorphosis]]*** (**1 pts**) — _Target becomes a small creature_<br>11. ***[[SoC • Basic Spell - Sprint|Sprint]]*** (**1 pts**) — _Increase speed of a target_.<br>12. ***[[SoC • Basic Spell - Summon Vermin|Summon Vermin]]*** (**1 pts**) — _A small creature comes to your aide_.<br>13. ***[[SoC • Basic Spell - Summoner's Bane|Summoner's Bane]]*** (**1 pts**) — _Deal massive damages to a Summoned Creature_<br>14. ***[[SoC • Basic Spell - Vines|Vines]]*** (**1 pts**) — _Call up vines that grab passers-through_.<br>15. ***[[SoC • Basic Spell - Waterbreath|Waterbreath]]*** (**1 pts**) — _Breathe underwater with ease_. <br>16. ***[[SoC • Basic Spell - Piercing Blade|Piercing Blade]]*** (**2 pts**) — _Enchant a weapon, it deals more damage_.<br>17. ***[[SoC • Basic Spell - Stormcaller|Stormcaller]]*** (**2 pts**) — _Conjure a type of weather when outdoors_.<br>18. ***[[SoC • Basic Spell - Unseen Strength|Unseen Strength]]*** (**2 pts**) — _Move small objects in your immediate area_.<br>19. ***[[SoC • Basic Spell - Vanish|Vanish]]*** (**2 pts**) — _Become invisible_.<br>20. ***[[SoC • Basic Spell - Angel's Ascent|Angel's Ascent]]*** (**3 pts**) — _Magically fly a target with your will_.
+1. ***[[SoC • Basic Spell - Arcane Lock|Arcane Lock]]*** (**1 pts**) — _A glyph used to permanently seal a door_.<br>2. ***[[SoC • Basic Spell - Darkvision|Darkvision]]*** (**1 pts**) — _See through darkness_.<br>3. ***[[SoC • Basic Spell - Dream Spike|Dream Spike]]*** (**1 pts**) — _Stun an intelligent foe_.<br>4. ***[[SoC • Basic Spell - Fireblast|Fireblast]]*** (**1 pts**) — _Explosive fire from the caster's hands_.<br>5. ***[[SoC • Basic Spell - Ghost Blade|Ghost Blade]]*** (**1 pts**) — _Spectral knifes launched against an enemy_.<br>6. ***[[SoC • Basic Spell - Healing Light|Healing Light]]*** (**1 pts**) — _Heal a Creature_.<br>7. ***[[SoC • Basic Spell - Invisible Wall|Invisible Wall]]*** (**1 pts**) — _A force field to keep the enemies at bay_.<br>8. ***[[SoC • Basic Spell - Mage's Armor|Mage's Armor]]*** (**1 pts**) — _Use your [[Arcane]] [[SoC • Discord Bot - Thread • SKILLS|Modifier]] to defend against an [[Attack, Defense and Combat Damage|Attack]]_.<br>9. ***[[SoC • Basic Spell - Minor Creation|Minor Creation]]*** (**1 pts**) — _Create a simple object_.<br>10. ***[[SoC • Basic Spell - Minor Metamorphosis|Minor Metamorphosis]]*** (**1 pts**) — _Target becomes a small creature_<br>11. ***[[SoC • Basic Spell - Sprint|Sprint]]*** (**1 pts**) — _Increase speed of a target_.<br>12. ***[[SoC • Basic Spell - Summon Vermin|Summon Vermin]]*** (**1 pts**) — _A small creature comes to your aide_.<br>13. ***[[SoC • Basic Spell - Summoner's Bane|Summoner's Bane]]*** (**1 pts**) — _Deal massive damages to a Summoned Creature_<br>14. ***[[SoC • Basic Spell - Vines|Vines]]*** (**1 pts**) — _Call up vines that grab passers-through_.<br>15. ***[[SoC • Basic Spell - Waterbreath|Waterbreath]]*** (**1 pts**) — _Breathe underwater with ease_. <br>16. ***[[SoC • Basic Spell - Piercing Blade|Piercing Blade]]*** (**2 pts**) — _Enchant a weapon, it deals more damage_.<br>17. ***[[SoC • Basic Spell - Stormcaller|Stormcaller]]*** (**2 pts**) — _Conjure a type of weather when outdoors_.<br>18. ***[[SoC • Basic Spell - Unseen Strength|Unseen Strength]]*** (**2 pts**) — _Move small objects in your immediate area_.<br>19. ***[[SoC • Basic Spell - Vanish|Vanish]]*** (**2 pts**) — _Become invisible_.<br>20. ***[[SoC • Basic Spell - Angel's Ascent|Angel's Ascent]]*** (**3 pts**) — _Magically fly a target with your will_.
 ### Spell's Effects
 - [[Basic Spells]]
 - [[SoC • Rule Card - Spellcasting]]
-- [[SoC • Rules - Custom Spells]]
+- [[SoC • Rules - Create a Custom Spell]]
 1. ***[[SoC • Spell Effect - Alter|Adapt]]*** — _Change a Creature's body_.
 2. ***[[SoC • Spell Effect - Area|Area]]*** — _Increase area of a spell_.
 3. ***[[SoC • Spell Effect - Banish|Banish]]*** — _Destroy summoned creatures with ease_.
@@ -152,21 +162,23 @@ _If you have a passion for staying alive, take some armor!_
 - [[Infernal Magic Table|Infernal Magic table]] (_print at least 2_)
 - [[Unstable Magic Table|Unstable Magic table]] (_print at least 2_)
 ### Zones
-- [[SoC • Zone - Plains]]
-- [[SoC • Zone - Forest]]
-- [[SoC • Zone - Swamp]]
-- [[SoC • Zone - Lava]]
-- [[SoC • Zone - Shallow Water]]
-- [[SoC • Zone - Deep Water]]
+- [[SoC • Zone - Plains|Plains]]
+- [[SoC • Zone - Forest|Forest]]
+- [[SoC • Zone - Swamp|Swamp]]
+- [[SoC • Zone - Lava|Lava]]
+- [[SoC • Zone - Shallow Water|Shallow Water]]
+- [[SoC • Zone - Deep Water|Deep Water]]
+- [[SoC • Zone - Stone Floor|Stone Floor]]
 ### Conditions
 - [[Bleeding]]
 - [[Slowed]]
 - [[Stunned]]
 - [[Drowning]]
 - [[Unconscious]]
-- [[SoC • Condition Card - Dying]]
-- [[SoC • Condition Card - Stable]]
-- [[SoC • Rule Card - Death Saving Throws]]
+- [[SoC • Condition Card - Dying|Dying]]
+- [[SoC • Condition Card - Stable|Stable]]
+- [[SoC • Condition Card - Flying|Flying]]
+- [[SoC • Condition Card - Invisible|Invisible]]
 ### Core Ability
 - [[SoC • Core Ability - Artificer|Artificer]]
 - [[SoC • Core Ability - Alchemist|Alchemist]]
@@ -237,7 +249,7 @@ _If you have a passion for staying alive, take some armor!_
 - [[SoC • Item - Castle|Castle]]
 - [[SoC • Item - Fortress|Fortress]]
 ### Companions
-- [[SoC • Rules - Companions Card]]
+- [[SoC • Rules - Companions]]
 - [[SoC • Rules - Companions vs. Summons]]
 - [[SoC • Optional Rules - Legion Commander]]
 ### Enemies
@@ -245,13 +257,18 @@ _If you have a passion for staying alive, take some armor!_
 - [[SoC • Enemy - Goblin|Goblin]]
 - [[SoC • Enemy - Dragon|Dragon]]
 ### Optional Rules
-- [[SoC • Optional Rule - Safe Place]]
-- [[SoC • Optional Rule - With What Forge]]
-- [[SoC • Optional Rule Card - Clear Commands]]
-- [[SoC • Optional Rule Card - Lost in Translation]]
-- [[SoC • Optional Rule - No Sleight of Hand]]
-- [[SoC • Optional Rule - Instant Speed]]
-- [[SoC • Optional Rule - Take a Risk]]
-- [[SoC • Optional Rule - 10 is All You Need]]
+- [[SoC • Optional Rule - Safe Place|Safe Place]] 
+- [[SoC • Optional Rule - With What Forge|With What Forge?]] 
+- [[SoC • Optional Rule Card - Clear Commands|Clear Commands]] 
+- [[SoC • Optional Rule Card - Lost in Translation|Lost in Translation]] 
+- [[SoC • Optional Rule - No Sleight of Hand|No Sleight of Hand]] 
+- [[SoC • Optional Rule - Instant Speed|Instant Speed]] 
+- [[SoC • Optional Rule - Take a Risk|Take a Risk]] 
+- [[SoC • Optional Rule - 10 is All You Need|10 is All You Need]] 
+- [[SoC • Optional Rule - Magic is the Price|Magic is the Price]] 
+- [[SoC • Optional Rule - Energy is the Price|Energy is the Price]] 
+- [[SoC • Optional Rule - Runes to Acquire|Runes to Acquire]] 
+- [[SoC • Optional Rule - Oops! All Runic Casters|Oops! All Runic Casters]] 
+- [[SoC • Optional Rule - Runes are a Go!|Runes are a Go!]] 
 ### Custom Stuff
 - [[SoC • Item - Orla's Teapot|Orla's Teapot]]

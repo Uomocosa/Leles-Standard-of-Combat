@@ -1,3 +1,7 @@
+---
+aliases:
+  - Swamp
+---
 %%
 - ***Image***:<br>![[Pasted image 20250531174904.png|222]]
 - ***Name***: Swamp 

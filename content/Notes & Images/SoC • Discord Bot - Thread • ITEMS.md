@@ -1,3 +1,7 @@
+---
+aliases:
+  - Items
+---
 # Items
 
 ![[SoC • Card - Rations.png]]

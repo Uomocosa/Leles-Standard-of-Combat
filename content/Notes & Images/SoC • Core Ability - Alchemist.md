@@ -12,14 +12,13 @@ aliases:
 - ***Alternative***:<br>![[Pasted image 20250530160805.png|222]]
 - ***Info***: Core Ability
 - ***Cost***: 7
-- ***Description***:<br>You receive a discount equal to your [[Intuition]] [[Skill Checks|Modifier]] on the cost to create [[Scrolls and Potions|Potions]]. However, any potion created using this way loses all magical properties and becomes plain water at the end of the day, and any effects they provided cease.<br>You can create any number of fully-discounted potions instead of [[Meditate and Train|Meditating or Training]] during a [[Rest and Recovery|a Night of Rest]], without rolling any [[Skill Checks|Skill Check]].
+- ***Description***:<br>After [[Rest and Recovery|a Night of Rest]], you gain a number of temporary Hero Points equal to your [[Intuition]] [[Skill Checks|modifier]]. These temporary Hero Points can only be spent to create [[Scrolls and Potions|Potions]].<br><br>You may forgo an Action to create a [[Scrolls and Potions|Potion]] using **only** these temporary Hero Points.<br><br>After [[Rest and Recovery|a Night of Rest]], any Potion created using one or more temporary Hero Points loses all magical properties and becomes plain water. Any effects granted by these Potions immediately end.
 - ***Flavor***: "_Some say it's a blessing, others a curse. But for a quick fix, there's nothing quite like it._"
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: green 
 - _**Prompt** [LMArena](https://beta.lmarena.ai/)_: I need a 2D epic fantasy illustration, in an epic graphic style with white and black color, and a clean white background. Show an human watching a flask. Add the words "Alchemist" under the image in a stylish font.
 %%
-
 
 ### Card
 
