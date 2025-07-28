@@ -1,8 +1,8 @@
 ---
 aliases:
   - New Campaign
-  - hero points
   - Start of a New Campaign
+  - Hero Points
 ---
 ![[SoC • Card - Start of a New Campaign.png|325]]
 

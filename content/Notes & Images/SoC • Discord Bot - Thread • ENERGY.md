@@ -12,7 +12,6 @@ Each Character starts with **2** **Energy Cards**.
 
 ![[SoC • Card - Energy Card.png|350]]
 
-----
 # Use your Energy
 
 

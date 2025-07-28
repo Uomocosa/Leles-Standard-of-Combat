@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[mass_invisibility.png|222]]
 - ***Info***: Spell 
 - ***Cost***: 3 
-- ***Description***:<br>All Creatures in your [[Combat Zones|Zone]] become **[[SoC • Condition Card - Invisible|Invisible]]** (_they cannot be seen and cannot be targeted by attacks or spells_) for **1 hour**.<br>The spell ends early for any Creature that makes an Attack or casts a Spell.<br>If a Creature attempts to resist this effect, you must succeed on an [[SoC • Rules - Opposing Rolls|opposing roll]]: _[[Nature]] **vs.** [[Will]]_ to apply the spell’s effect.
+- ***Description***:<br>All Creatures in your [[SoC • Discord Bot - Thread • ZONES|Zone]] become **[[SoC • Condition Card - Invisible|Invisible]]** (_they cannot be seen and cannot be targeted by attacks or spells_) for **1 hour**.<br>The spell ends early for any Creature that makes an Attack or casts a Spell.<br>If a Creature attempts to resist this effect, you must succeed on an [[SoC • Rules - Opposing Rolls|opposing roll]]: _[[Nature]] **vs.** [[Will]]_ to apply the spell’s effect.
 - ***Effects***: [[SoC • Spell Effect - Area|Area]], [[SoC • Spell Effect - Obscure|Obscure-2]]
 - ***Limitations***: 
 - ***Color***: black 

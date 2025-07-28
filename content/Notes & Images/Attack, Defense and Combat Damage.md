@@ -12,7 +12,7 @@ aliases:
   - Defensive Roll
 ---
 *Sustaining damage from hazards and attacks is part of any RPG. You’ll be hit by arrows, knock your head, sustain sword cuts, or drop items when exhausted*. 
-*However your [[Custom Equipment|gear]] can help you mitigate the damage you take, by shielding you and taking the damage in your place*.
+*However your [[SoC • Discord Bot - Thread • CUSTOM GEAR|gear]] can help you mitigate the damage you take, by shielding you and taking the damage in your place*.
 
 ----
 ### Attack and Defensive Roll

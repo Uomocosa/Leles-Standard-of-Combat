@@ -1,6 +1,12 @@
 ---
 aliases:
   - Custom Gear
+  - Custom Equipment
+  - Gear
+  - Gear Limitation
+  - Gear Defects
+  - Gear Defect
+cssclasses:
 ---
 ![[SoC • Card - Gear.png|350]]
 
@@ -21,7 +27,7 @@ aliases:
 5. ***[[SoC • Gear Defect - Heavy|Heavy]]*** — _A cumbersome piece of equipment that requires great mastery to wield effectively_.
 6. ***[[SoC • Gear Defect - Garish|Garish]]*** — _A garish and intimidating piece of gear that attracts unwanted attention, either provoking enemies or causing social discomfort_.
 
-# Cards
+# Gear Defects
 
 ![[SoC • Card - Breakable.png]]
 

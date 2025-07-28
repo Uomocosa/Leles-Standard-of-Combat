@@ -18,7 +18,7 @@ _Heavily inspired by [Crow and Skull](https://www.runehammer.online/crown-skull-
 3. ***[[SoC • Discord Bot - Thread • FLAWS|Choose Flaw(s)]]*** 
 4. ***[[SoC • Discord Bot - Thread • CORE ABILITIES|Choose Your Core Ability]]*** 
 5. ***[[Skill Checks|Add Points in Skills]]*** 
-6. ***[[Custom Equipment|Buy, Customize, or Scratch-Build Equipment and Items]]*** 
+6. ***[[SoC • Discord Bot - Thread • CUSTOM GEAR|Buy, Customize, or Scratch-Build Equipment and Items]]*** 
 7. ***[[SoC • Discord Bot - Thread • CUSTOM SPELLS|Buy, Customize, or Scratch-Build Spells]]*** 
 8. ***[[SoC • Discord Bot - Thread • COMPANIONS|Buy and Customize, or Scratch-Build a Companion]]*** 
 9. ***[[Lineage|Choose Your Lineage]]*** (*Ask you **GM** for the Campaign's Settings and Lineages*)

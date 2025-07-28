@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[unseen-strenght-edit.png|222]]
 - ***Info***: [[Basic Spells|Basic Spell]]  
 - ***Cost***: 2
-- ***Description***:<br>For **1 hour**, target Creature in your [[Combat Zones|Zone]] can choose to forgo an Action, or spend **1 [[SoC • Discord Bot - Thread • ENERGY]]**, to make their next [[Might]] [[Skill Checks|Skill Check]] at **Range** (_for each Zone between them and their target, they roll with an additional [[SoC • Rules - Advantage and Disadvantage|Disadvantage]]_).
+- ***Description***:<br>For **1 hour**, target Creature in your [[SoC • Discord Bot - Thread • ZONES|Zone]] can choose to forgo an Action, or spend **1 [[SoC • Discord Bot - Thread • ENERGY]]**, to make their next [[Might]] [[Skill Checks|Skill Check]] at **Range** (_for each Zone between them and their target, they roll with an additional [[SoC • Rules - Advantage and Disadvantage|Disadvantage]]_).
 - ***Effects***: [[SoC • Spell Effect - Psychokinesis|Psychokinesis-2]]
 - ***Limitations***: 
 - ***Color***: red 

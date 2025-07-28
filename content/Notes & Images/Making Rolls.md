@@ -27,7 +27,7 @@ In some cases, a difficulty penalty will make a success more difficult to obtain
 ----
 ### Rolling Damage/Effect
 You have successfully hit your enemy, now it's time to see how how much damage you have dealt.
-Each [[Custom Equipment|Weapon]] and [[SoC • Discord Bot - Thread • CUSTOM SPELLS|Spell]] has its custom damage, and this roll can use a wide variety of dices.
+Each [[SoC • Discord Bot - Thread • CUSTOM GEAR|Weapon]] and [[SoC • Discord Bot - Thread • CUSTOM SPELLS|Spell]] has its custom damage, and this roll can use a wide variety of dices.
 
 ----
 ### Yes/No Rolls

@@ -20,11 +20,12 @@ aliases:
 
 # Eating is not Optional
 
-![[SoC • Card - Remember to Eat Sweety.png|350]] 
+![[SoC • Card - Remember to Eat Sweety.png|350]]
+
 # Training
 You can increase your Health by [[Meditate and Train|Training]].
 
-![[SoC • Card - Meditate an[[SoC • Discord Bot - Thread • HEALTH]]g|350]]
+![[SoC • Card - Meditate and Train.png|350]]
 
 # Death
 If you lose all your [[Health]] you start [[Dying and Stable|Dying]]. Depending on the situation, your Allies could have a few [[Phases of Combat|Rounds]] to help you, until you [[Death|Die]].

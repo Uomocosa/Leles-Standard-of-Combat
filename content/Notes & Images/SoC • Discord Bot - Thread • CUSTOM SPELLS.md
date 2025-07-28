@@ -1,13 +1,6 @@
 ---
 aliases:
   - Custom Spells
-  - Custom Spell Effects
-  - Custom Spell Limitations
-  - Effect
-  - Limitation
-  - Spell Effect
-  - Spell Limitation
-  - Spell Spells
 ---
 ![[SoC • Card - Custom Spells.png|350]]
 

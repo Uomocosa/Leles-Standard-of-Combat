@@ -1,6 +1,7 @@
 ---
 aliases:
   - Zones
+  - Zone
 ---
 ![[SoC • Card - Zone Cards.png|350]]
 
@@ -17,3 +18,5 @@ aliases:
 ![[SoC • Card - Shallow Water.png]]
 
 ![[SoC • Card - Deep Water.png]]
+
+![[SoC • Card - Stone Floor.png]]
