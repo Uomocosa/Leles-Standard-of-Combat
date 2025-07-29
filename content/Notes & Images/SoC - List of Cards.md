@@ -15,7 +15,7 @@ aliases:
 - [[Forging]] (_1 card per player_) 
 - [[Intimidation]] (_1 card per player_) 
 - [[Medicine]] (_1 card per player_) 
-- [[SoC • Rest and Recovery - A Night of Rest|A Night of Rest]] (_1 cards per player_) 
+- [[SoC • Rules - A Night of Rest|A Night of Rest]] (_1 cards per player_) 
 - [[SoC • Rest and Recovery - Short Rest|Short Rest]] (_1 cards per player_) 
 ### Rule Cards (print 1 each)
 - [[SoC • Rules - Start of a New Campaign|Start of a New Campaign]] 
@@ -24,15 +24,15 @@ aliases:
 - [[SoC • Rules - Temporary Health and Energy|Temporary Health and Energy]] 
 - [[SoC • Condition Card - Dying|Dying]]
 - [[SoC • Condition Card - Stable|Stable]]
-- [[Dying and Stable|Death Saving Throw]]
-- [[Death]]
-- [[Skill Checks]] 
+- [[SoC • Discord Bot - Thread • HEALTH|Death Saving Throw]]
+- [[SoC • Rules - Death]]
+- [[SoC • Rules - Skill Checks]] 
 - [[SoC • Rules - Advantage and Disadvantage|Advantage and Disadvantage]] 
 - [[SoC • Rules - Opposing Rolls|Opposing Rolls]] 
 - [[Meditate and Train]] 
 - [[Heal and Repair]] 
 - [[SoC • Rules - Remember to Eat Sweety|Remember to Eat, Sweety]] 
-- [[SoC • Rest and Recovery - A Night of Rest|A Night of Rest]] 
+- [[SoC • Rules - A Night of Rest|A Night of Rest]] 
 - [[SoC • Rest and Recovery - Short Rest|Short Rest]] 
 - [[SoC • Introduction - Character Creation|Character Creation]] 
 - [[SoC • Rules - Flaws|Flaws]]
@@ -43,7 +43,7 @@ aliases:
 - [[SoC • Rules - Turn and Round|Turn and Round]] 
 - [[SoC • Rules - Surprise Round|Surprise Round]] 
 - [[SoC • Rules - Melee and Ranged Attacks|Melee and Ranged Attacks]]
-- [[Prepare to Act]]
+- [[SoC • Rules - Prepare to Act]]
 - [[Reactions]]
 - [[SoC • Rules - Attack and Defensive Roll|Attack and Defensive Roll]] 
 - [[SoC • Introduction - Gear|Gear]] 
@@ -53,7 +53,7 @@ aliases:
 - [[SoC • Rules - Create a Custom Spell|Create a Custom Spell]] 
 - [[SoC • Rules - Scrolls|Scrolls]] 
 - [[SoC • Rules - Potions|Potions]] 
-- [[Death]] 
+- [[SoC • Rules - Death]] 
 - [[SoC • Optional Rules - Legion Commander|Legion Commander]] 
 ### Skills
 **[[Agility]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Might]]** — Modifier: \_\_\_\_\_\_\_ <br><br>**[[Arcane]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Faith]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Nature]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Will]]** — Modifier: \_\_\_\_\_\_\_ <br><br>**[[Deception]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Forging]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Intimidation]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Intuition]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Lore]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Medicine]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Perception]]** — Modifier: \_\_\_\_\_\_\_<br>**[[Performance]]** — Modifier: \_\_\_\_\_\_\_  <br>**[[Persuasion]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Sleight of Hand]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Stealth]]** — Modifier: \_\_\_\_\_\_\_
@@ -137,7 +137,7 @@ aliases:
 3. ***[[SoC • Spell Limitation - Cannot be Targeted|Cannot be targeted]]*** — _Spell always flies wild_.
 4. ***[[SoC • Spell Limitation - Elemental Anchor|Elemental anchor]]*** — _This spell can only be conjured via a particular element_.
 5. ***[[SoC • Spell Limitation - Eldrich Bond|Eldrich bond]]*** — _You and the target of the spell become temporarily connected_.
-6. ***[[SoC • Spell Limitation - Exhausting|Exhausting]]*** — _No magic can be used in the **following [[Phases of Combat|round]]** after cast_.
+6. ***[[SoC • Spell Limitation - Exhausting|Exhausting]]*** — _No magic can be used in the **following [[SoC • Discord Bot - Thread • COMBAT|round]]** after cast_.
 7. ***[[SoC • Spell Limitation - Cost Material to Cast|Cost material to cast]]*** — _When cast, one item in your inventory is [[Destroyed Gear|destroyed]]_.
 8. ***[[SoC • Spell Limitation - Druidic|Druidic]]*** — _Cannot be cast if the caster wears or is touching any metal_.
 9. ***[[SoC • Spell Limitation - Debilitating|Debilitating]]*** — _After this spell is cast, you can only make one action on your next turn_.
@@ -171,6 +171,7 @@ aliases:
 - [[SoC • Zone - Stone Floor|Stone Floor]]
 ### Conditions
 - [[Bleeding]]
+- [[SoC • Condition Card - Scared|Scared]]
 - [[Slowed]]
 - [[Stunned]]
 - [[Drowning]]
@@ -270,5 +271,6 @@ aliases:
 - [[SoC • Optional Rule - Runes to Acquire|Runes to Acquire]] 
 - [[SoC • Optional Rule - Oops! All Runic Casters|Oops! All Runic Casters]] 
 - [[SoC • Optional Rule - Runes are a Go!|Runes are a Go!]] 
+- [[SoC • Optional Rule - Its Nerf or Nothing|Its Nerf or Nothing]] 
 ### Custom Stuff
 - [[SoC • Item - Orla's Teapot|Orla's Teapot]]

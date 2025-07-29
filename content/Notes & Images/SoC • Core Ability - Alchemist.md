@@ -12,7 +12,7 @@ aliases:
 - ***Alternative***:<br>![[Pasted image 20250530160805.png|222]]
 - ***Info***: Core Ability
 - ***Cost***: 7
-- ***Description***:<br>After [[Rest and Recovery|a Night of Rest]], you gain a number of temporary Hero Points equal to your [[Intuition]] [[Skill Checks|modifier]]. These temporary Hero Points can only be spent to create [[Scrolls and Potions|Potions]].<br><br>You may forgo an Action to create a [[Scrolls and Potions|Potion]] using **only** these temporary Hero Points.<br><br>After [[Rest and Recovery|a Night of Rest]], any Potion created using one or more temporary Hero Points loses all magical properties and becomes plain water. Any effects granted by these Potions immediately end.
+- ***Description***:<br>After [[Rest and Recovery|a Night of Rest]], you gain a number of temporary Hero Points equal to your [[Intuition]] [[SoC • Rules - Skill Checks|modifier]]. These temporary Hero Points can only be spent to create [[Scrolls and Potions|Potions]].<br><br>You may [[SoC • Rules - Forgo an Action|Forgo an Action]] to create a [[Scrolls and Potions|Potion]] using **only** these temporary Hero Points.<br><br>After [[Rest and Recovery|a Night of Rest]], any Potion created using one or more temporary Hero Points loses all magical properties and becomes plain water. Any effects granted by these Potions immediately end.
 - ***Flavor***: "_Some say it's a blessing, others a curse. But for a quick fix, there's nothing quite like it._"
 - ***Effects***: 
 - ***Limitations***: 

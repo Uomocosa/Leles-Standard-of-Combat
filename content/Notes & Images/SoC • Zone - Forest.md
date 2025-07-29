@@ -11,7 +11,7 @@ aliases:
 - ***Name***: Forest 
 - ***Nameplate***: Forest 
 - ***Type***: Zone 
-- ***Description***:<br>_A perfect spot for bushes and ambushes!_<br>All Creatures in this Zone gain [[SoC • Rules - Advantage and Disadvantage|Advantage]] in [[Stealth]] [[Skill Checks|Checks]], and [[SoC • Rules - Advantage and Disadvantage|Disadvantage]] in all [[Perception]] [[Skill Checks|Checks]] made to see in **other** Zones.
+- ***Description***:<br>_A perfect spot for bushes and ambushes!_<br>All Creatures in this Zone gain [[SoC • Rules - Advantage and Disadvantage|Advantage]] in [[Stealth]] [[SoC • Rules - Skill Checks|Checks]], and [[SoC • Rules - Advantage and Disadvantage|Disadvantage]] in all [[Perception]] [[SoC • Rules - Skill Checks|Checks]] made to see in **other** Zones.
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: green 

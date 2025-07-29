@@ -1,6 +1,9 @@
 ---
 aliases:
   - Custom Spells
+  - Spell
+  - Spells
+  - Custom Spell
 ---
 ![[SoC • Card - Custom Spells.png|350]]
 
@@ -67,7 +70,7 @@ So we can create a spell like so:
 3. ***[[SoC • Spell Limitation - Cannot be Targeted|Cannot be targeted]]*** — _Spell always flies wild_.
 4. ***[[SoC • Spell Limitation - Elemental Anchor|Elemental anchor]]*** — _This spell can only be conjured via a particular element_.
 5. ***[[SoC • Spell Limitation - Eldrich Bond|Eldrich bond]]*** — _You and the target of the spell become temporarily connected_.
-6. ***[[SoC • Spell Limitation - Exhausting|Exhausting]]*** — _No magic can be used in the **following [[Phases of Combat|round]]** after cast_.
+6. ***[[SoC • Spell Limitation - Exhausting|Exhausting]]*** — _No magic can be used in the **following [[SoC • Discord Bot - Thread • COMBAT|round]]** after cast_.
 7. ***[[SoC • Spell Limitation - Cost Material to Cast|Cost material to cast]]*** — _When cast, one item in your inventory is [[Destroyed Gear|destroyed]]_.
 8. ***[[SoC • Spell Limitation - Druidic|Druidic]]*** — _Cannot be cast if the caster wears or is touching any metal_.
 9. ***[[SoC • Spell Limitation - Debilitating|Debilitating]]*** — _After this spell is cast, you can only make one action on your next turn_.

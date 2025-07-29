@@ -1,6 +1,17 @@
 ---
 aliases:
   - Basic Equipment
+  - Armaments
+  - Armors
+  - Weapon
+  - Armor
+  - Weapons
+  - Equipment
+  - Ranged Weapon
+  - Melee Weapon
+cssclasses:
+  - seamless-embed
+  - no-embed-headers
 ---
 # Weapons
 

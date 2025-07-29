@@ -1,1 +1,1 @@
-<br>**Breakable X** — Whenever you make a [[Skill Checks|Skill Check]] using this, if the **d20** result is **X or less**, it becomes [[Damaged Gear|Damaged]].
+<br>**Breakable X** — Whenever you make a [[SoC • Rules - Skill Checks|Skill Check]] using this, if the **d20** result is **X or less**, it becomes [[Damaged Gear|Damaged]].

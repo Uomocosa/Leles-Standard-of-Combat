@@ -5,6 +5,11 @@ aliases:
   - Health Cards
   - Temporary Health
   - Temporary Health Cards
+  - Dying
+  - Death Saving Throw
+  - Stable
+  - failed death saving throw mark
+  - succesful death saving throw marks
 ---
 # Health
 
@@ -28,7 +33,7 @@ You can increase your Health by [[Meditate and Train|Training]].
 ![[SoC • Card - Meditate and Train.png|350]]
 
 # Death
-If you lose all your [[Health]] you start [[Dying and Stable|Dying]]. Depending on the situation, your Allies could have a few [[Phases of Combat|Rounds]] to help you, until you [[Death|Die]].
+If you lose all your **Health** you start **Dying**. Depending on the situation, your Allies could have a few [[SoC • Discord Bot - Thread • COMBAT|Rounds]] to help you, until you **Die**.
 
 ![[SoC • Card - Dying.png|350]]
 

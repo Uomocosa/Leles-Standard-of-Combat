@@ -1,1 +1,1 @@
-<br>**Complex** — An extremely advanced piece of Equipment, that can only be repaired by magic or master artisans. Whenever you make a [[Forging]] [[Skill Checks|Skill Check]] to [[Heal and Repair|Repair]] it, do it with [[SoC • Rules - Advantage and Disadvantage|Disadvantage]].
+<br>**Complex** — An extremely advanced piece of Equipment, that can only be repaired by magic or master artisans. Whenever you make a [[Forging]] [[SoC • Rules - Skill Checks|Skill Check]] to [[Heal and Repair|Repair]] it, do it with [[SoC • Rules - Advantage and Disadvantage|Disadvantage]].

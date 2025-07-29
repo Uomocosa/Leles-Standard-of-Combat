@@ -5,12 +5,12 @@ aliases:
 ### Flat Roll
 To test simple, unmodified luck, the ***GM*** may call for a ‘flat’ roll.
 This simple roll is made on a `d20`, rolling at or below the target or opposing roll to succeed. 
-The most common **flat roll** is a [[Dying and Stable|Death Saving Throw]], _while you are on the verge between life and death you can only hope in a miracle. Or the help of your Allies_.
+The most common **flat roll** is a [[SoC • Discord Bot - Thread • HEALTH|Death Saving Throw]], _while you are on the verge between life and death you can only hope in a miracle. Or the help of your Allies_.
 
 ----
 ### Skill Roll or Skill Checks
-Often during play, you will announce “*I will make an [[Agility]] [[Skill Checks|Check]] to leap over this creek!*” or some equivalent. 
-Roll a **d20** and add that [[Skill Checks|Skill]]’s [[SoC • Discord Bot - Thread • SKILLS|Modifier]]. 
+Often during play, you will announce “*I will make an [[Agility]] [[SoC • Rules - Skill Checks|Check]] to leap over this creek!*” or some equivalent. 
+Roll a **d20** and add that [[SoC • Rules - Skill Checks|Skill]]’s [[SoC • Discord Bot - Thread • SKILLS|Modifier]]. 
 In some cases, a difficulty penalty will make a success more difficult to obtain. In other cases however you could also get a bonus. Most of these bonus or malus are represented by an [[SoC • Rules - Advantage and Disadvantage|Advantage]] or [[SoC • Rules - Advantage and Disadvantage|Disadvantage]] on the roll.
 
 ![[SoC • Card - Skill Checks.png|325]]

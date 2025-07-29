@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[Pasted image 20250726114359.png|222]]
 - ***Info***: [[Basic Spells|Basic Spell]]  
 - ***Cost***: 1 
-- ***Description***:<br>Succeed in an [[SoC • Rules - Opposing Rolls|opposing roll]] _[[Faith]] vs. [[Will]]_ against a target Creature in your [[SoC • Discord Bot - Thread • ZONES|Zone]], to read its thoughts for **1 hour**.<br>Every [[Phases of Combat|Round]] repeat the same [[SoC • Rules - Opposing Rolls|opposing roll]], if you lose the spell ends.
+- ***Description***:<br>Succeed in an [[SoC • Rules - Opposing Rolls|opposing roll]] _[[Faith]] vs. [[Will]]_ against a target Creature in your [[SoC • Discord Bot - Thread • ZONES|Zone]], to read its thoughts for **1 hour**.<br>Every [[SoC • Discord Bot - Thread • COMBAT|Round]] repeat the same [[SoC • Rules - Opposing Rolls|opposing roll]], if you lose the spell ends.
 - ***Effects***: [[SoC • Spell Effect - Telepathy|Telepathy]]
 - ***Limitations***:
 - ***Color***: black 

@@ -1,1 +1,1 @@
-<br>_Generic Action_ — During your **[[Phases of Combat|Turn]]** you can [[Forgo an Action]] to perform this instead.
+<br>_Generic Action_ — During your **[[SoC • Discord Bot - Thread • COMBAT|Turn]]** you can [[SoC • Rules - Forgo an Action|Forgo an Action]] to perform this instead.

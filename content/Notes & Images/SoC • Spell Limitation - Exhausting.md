@@ -7,7 +7,7 @@ aliases:
 - ***Nameplate***: Limitation - Exhausting
 - ***Type***: Spell Limitation
 - ***Cost***:  
-- ***Description***:<br>After you cast this spell, you cannot cast any other, until the end of the **following [[Phases of Combat|Round]]**.
+- ***Description***:<br>After you cast this spell, you cannot cast any other, until the end of the **following [[SoC • Discord Bot - Thread • COMBAT|Round]]**.
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: black 

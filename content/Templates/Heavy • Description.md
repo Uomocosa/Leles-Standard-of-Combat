@@ -1,1 +1,1 @@
-<br>***Heavy*** — For each [[Skill Checks]] you've already made this turn with **Heavy Equipment**: get an _additional_ [[SoC • Rules - Advantage and Disadvantage|Disadvantage]], on [[Skill Checks|Skill Checks]] made with this Equipment.
+<br>***Heavy*** — For each [[SoC • Rules - Skill Checks]] you've already made this turn with **Heavy Equipment**: get an _additional_ [[SoC • Rules - Advantage and Disadvantage|Disadvantage]], on [[SoC • Rules - Skill Checks|SoC • Rules - Skill Checks]] made with this Equipment.

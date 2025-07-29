@@ -1,1 +1,1 @@
-**[[Stunned]]** (_loose one or more [[Prepare to Act|Actions]]_)
+**[[Stunned]]** (_loose one or more [[SoC • Rules - Prepare to Act|Actions]]_)

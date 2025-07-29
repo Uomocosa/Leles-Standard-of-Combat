@@ -7,7 +7,7 @@ aliases:
 - ***Nameplate***: Limitation - Debilitating
 - ***Type***: Spell Limitation
 - ***Cost***:  
-- ***Description***:<br>After you cast this Spell you are [[Stunned]] for **1 [[Phases of Combat|Round]]** (_next [[Phases of Combat|Turn]] [[Prepare to Act|prepare]] 1 less Action_).
+- ***Description***:<br>After you cast this Spell you are [[Stunned]] for **1 [[SoC • Discord Bot - Thread • COMBAT|Round]]** (_next [[SoC • Discord Bot - Thread • COMBAT|Turn]] [[SoC • Rules - Prepare to Act|prepare]] 1 less Action_).
 - ***Flavor***: “Gods! My limbs are all but numb!”
 - ***Effects***: 
 - ***Limitations***: 

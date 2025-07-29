@@ -40,4 +40,4 @@ _Heavily inspired by [Crow and Skull](https://www.runehammer.online/crown-skull-
 ----
 ### Crown and Skull Homage
 - [Crown and Skull - Official Site](https://www.runehammer.online/crown-skull-rpg) 
-- [Crown and Skull - Official (Free) Rules](https://uomocosa.github.io/Crown-and-Skull-Obsidian-Quartz-Publish) #TODO 
+- [Crown and Skull - Original (Free) Rules](https://uomocosa.github.io/Crown-and-Skull-Obsidian-Quartz-Publish) #TODO 

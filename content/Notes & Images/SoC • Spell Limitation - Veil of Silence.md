@@ -7,7 +7,7 @@ aliases:
 - ***Nameplate***: Limitation - Veil of Silence
 - ***Type***: Spell Limitation
 - ***Cost***: 
-- ***Description***:<br>You lose the ability speak for **2** [[Phases of Combat|rounds]]. You cannot cast spells, unless they are [[SoC • Spell Effect - Hidden|Hidden]] Spells.
+- ***Description***:<br>You lose the ability speak for **2** [[SoC • Discord Bot - Thread • COMBAT|rounds]]. You cannot cast spells, unless they are [[SoC • Spell Effect - Hidden|Hidden]] Spells.
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: artifact 

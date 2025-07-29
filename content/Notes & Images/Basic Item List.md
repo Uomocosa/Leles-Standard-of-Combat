@@ -20,12 +20,12 @@ aliases:
 | ***[[SoC • Item - Flint and Steel\|Flint and Steel]]***     | _Camp with comfort and cozy fire_.                                                                                           | **1 pts** |
 | ***[[SoC • Item - Scribe's Kit\|Scribe's Kit]]***           | _Parchment book, charcoal sticks_.                                                                                           | **1 pts** |
 | ***[[SoC • Item - Craftsman's Tools\|Craftsman's Tools]]*** | _Hammer, spanner, and bits for simple work_.                                                                                 | **1 pts** |
-| ***[[SoC • Item - Bandage Kit\|Bandage Kit]]***             | _3 counts, grants **[[SoC • Rules - Advantage and Disadvantage\|Advantage]]** to a [[Medicine\|Medicine (Heal)]] [[Skill Checks\|Check]]_. | **1 pts** |
+| ***[[SoC • Item - Bandage Kit\|Bandage Kit]]***             | _3 counts, grants **[[SoC • Rules - Advantage and Disadvantage\|Advantage]]** to a [[Medicine\|Medicine (Heal)]] [[SoC • Rules - Skill Checks\|Check]]_. | **1 pts** |
 | ***[[SoC • Item - Oil Flasks\|Oil Flask]]***                | _3 flasks of Flammable liquid, glass phial_.                                                                                 | **1 pts** |
 | ***[[SoC • Item - Rope\|Rope]]***                           | _5 meters of length, breaks on a [[The Extremes\|critical failure]] usage_.                                                  | **1 pts** |
 | ***[[SoC • Item - Iron Chain\|Iron Chain]]***               | _1 meter of length, all but unbreakable_.                                                                                    | **1 pts** |
 | ***[[SoC • Item - Snare Kit\|Snare Kit]]***                 | _For catching small animals_.                                                                                                | **1 pts** |
-| ***[[SoC • Item - Bear Trap\|Bear Trap]]***                 | _[[Skill Checks\|DC]] **17** ([[Might]]) to escape_                                                                          | **1 pts** |
+| ***[[SoC • Item - Bear Trap\|Bear Trap]]***                 | _[[SoC • Rules - Skill Checks\|DC]] **17** ([[Might]]) to escape_                                                                          | **1 pts** |
 | ***[[SoC • Item - Caltrops\|Caltrops]]***                   | _Scatter in a Zone, inflicts **1d4** to Creatures that Move over them_.                                                      | **1 pts** |
 | ***[[SoC • Item - Blessed Water\|Blessed Water]]***         | _3 uses, anathema to pure evil or the undead_.                                                                               | **1 pts** |
 

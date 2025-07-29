@@ -4,7 +4,7 @@ aliases:
 ---
 %%
 - ***Type***: Optional Rule
-- ***Description***:<br>_Optional Rule_ — Your **GM** will decide if they want to add this rule to the game.<br><br>Remove the [[Sleight of Hand]] [[Skill Checks|Skill]], use [[Agility]] or [[Stealth]] instead.
+- ***Description***:<br>_Optional Rule_ — Your **GM** will decide if they want to add this rule to the game.<br><br>Remove the [[Sleight of Hand]] [[SoC • Rules - Skill Checks|Skill]], use [[Agility]] or [[Stealth]] instead.
 - ***Flavor***: 
 - ***Rarity***: common
 - ***Color***: artifact, black, blue

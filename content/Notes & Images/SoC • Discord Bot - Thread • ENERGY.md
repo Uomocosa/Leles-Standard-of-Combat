@@ -6,7 +6,6 @@ aliases:
   - Temporary Energy
 ---
 # Energy
-Each Character starts with **2** **Energy Cards**.
 
 ![[SoC • Card - Health and Energy.png|350]]
 

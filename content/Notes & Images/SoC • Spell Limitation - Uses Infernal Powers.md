@@ -7,7 +7,7 @@ aliases:
 - ***Nameplate***: Limitation - Uses Infernal Powers
 - ***Type***: Spell Limitation
 - ***Cost***:  
-- ***Description***:<br>You wield a spell ripped from the grasp of a divine being, a dangerous bargain that stirs ancient conflicts. When cast, a [[Faith]] [[Skill Checks|check]] (DC 15) is required to hold back the infernal tide. If failed, roll on the [[Infernal Magic Table|Infernal Magic table]]. 
+- ***Description***:<br>You wield a spell ripped from the grasp of a divine being, a dangerous bargain that stirs ancient conflicts. When cast, a [[Faith]] [[SoC • Rules - Skill Checks|check]] (DC 15) is required to hold back the infernal tide. If failed, roll on the [[Infernal Magic Table|Infernal Magic table]]. 
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: red 

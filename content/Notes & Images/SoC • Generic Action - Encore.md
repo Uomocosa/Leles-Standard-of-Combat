@@ -9,7 +9,7 @@ aliases:
 - ***Nameplate***: Generic Action
 - ***Type***: Generic Action
 - ***Cost***: X 
-- ***Description***:<br>_Generic Action_ — During your **[[Phases of Combat|Turn]]** you can [[Forgo an Action]] to perform this instead.<br>Choose one Action that you've already taken this **[[Phases of Combat|Round]]**, take it again. You have to pay its cost as normal, if any.
+- ***Description***:<br>_Generic Action_ — During your **[[SoC • Discord Bot - Thread • COMBAT|Turn]]** you can [[SoC • Rules - Forgo an Action]] to perform this instead.<br>Choose one Action that you've already taken this **[[SoC • Discord Bot - Thread • COMBAT|Round]]**, take it again. You have to pay its cost as normal, if any.
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: multicolor 

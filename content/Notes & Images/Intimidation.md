@@ -1,7 +1,7 @@
 %%
 - ***Image***:<br>![[Intimidation (Image).png|222]]
 - ***Info***: Skill
-- ***Description***:<br>_The **Intimidation** skill represents a character's ability to influence others through overt threats, displays of aggression, or by projecting an aura of danger and dominance. It relies on instilling fear and or discomfort to compel targets to act against their will or to reveal information._<br><br>If a Creature refuses to talk, try **Intimidating** it.<br><br>You can [[Forgo an Action]] and try to **Intimidate** all creature in your Zone, that can see or hear you. Each Creature affected makes an [[SoC • Rules - Opposing Rolls|opposing roll]] on [[Will]] against your [[Intimidation]] [[Skill Checks]], those that fail are [[Scared]] of you for **1 [[Phases of Combat|Turn]]** (_must flee if in the same Zone_).
+- ***Description***:<br>_The **Intimidation** skill represents a character's ability to influence others through overt threats, displays of aggression, or by projecting an aura of danger and dominance. It relies on instilling fear and or discomfort to compel targets to act against their will or to reveal information._<br><br>If a Creature refuses to talk, try **Intimidating** it.<br><br>You can [[SoC • Rules - Forgo an Action|Forgo an Action]] and try to **Intimidate** all creature in your Zone, that can see or hear you. Each Creature affected makes an [[SoC • Rules - Opposing Rolls|opposing roll]] on [[Will]] against your [[Intimidation]] [[SoC • Rules - Skill Checks]], those that fail are [[SoC • Condition Card - Scared]] of you for **1 [[SoC • Discord Bot - Thread • COMBAT|Turn]]** (_must flee if in the same Zone_).
 - ***Flavor***: 
 - ***Color***: red 
 - ***Rarity***: common

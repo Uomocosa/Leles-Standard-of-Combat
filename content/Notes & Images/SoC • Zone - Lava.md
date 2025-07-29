@@ -7,7 +7,7 @@ aliases:
 - ***Name***: Lava 
 - ***Nameplate***: Lava 
 - ***Type***: Zone 
-- ***Description***:<br>_Careful its HOT!_<br>A Creature that enters this Zone suffers **4d6 fire damages**.<br>At the **end of each [[Phases of Combat|Round]]**, each Creature in this Zone suffers **4d6 fire damages**.
+- ***Description***:<br>_Careful its HOT!_<br>A Creature that enters this Zone suffers **4d6 fire damages**.<br>At the **end of each [[SoC • Discord Bot - Thread • COMBAT|Round]]**, each Creature in this Zone suffers **4d6 fire damages**.
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: red 
