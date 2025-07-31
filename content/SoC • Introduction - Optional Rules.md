@@ -10,7 +10,4 @@ aliases:
 - ***Color***: artifact, white
 %%
 
-
-### Card
-
 ![[SoC • Card - Optional Rules.png|325]]

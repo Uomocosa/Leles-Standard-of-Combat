@@ -10,6 +10,4 @@ aliases:
 - ***Color***: artifact, blue 
 %%
 
-### Card
-
 ![[SoC • Card - Instant Speed.png|325]]

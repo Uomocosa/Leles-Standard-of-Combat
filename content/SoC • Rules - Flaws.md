@@ -10,6 +10,4 @@ aliases:
 - ***Color***: artifact, black 
 %%
 
-### Card
-
 ![[SoC • Card - Flaws.png|325]]

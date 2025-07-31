@@ -10,6 +10,4 @@ aliases:
 - ***Color***: artifact 
 %%
 
-### Card
-
 ![[SoC • Card - Mining Kit.png|650]]

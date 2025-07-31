@@ -11,6 +11,4 @@ aliases:
 - ***Color***: red 
 %%
 
-### Card
-
 ![[SoC • Card - Flint and Steel.png|650]]

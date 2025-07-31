@@ -13,6 +13,4 @@ aliases:
 - ***Image Filter***: 
 %%
 
-### Card
-
 ![[SoC • Card - Its Nerf or Nothing.png|325]]

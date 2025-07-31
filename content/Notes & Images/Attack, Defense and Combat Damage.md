@@ -12,7 +12,7 @@ aliases:
   - Defensive Roll
 ---
 *Sustaining damage from hazards and attacks is part of any RPG. You’ll be hit by arrows, knock your head, sustain sword cuts, or drop items when exhausted*. 
-*However your [[SoC • Discord Bot - Thread • CUSTOM GEAR|gear]] can help you mitigate the damage you take, by shielding you and taking the damage in your place*.
+*However your [[SoC • Rules Chapter - CUSTOM GEAR|gear]] can help you mitigate the damage you take, by shielding you and taking the damage in your place*.
 
 ----
 ### Attack and Defensive Roll
@@ -33,4 +33,4 @@ The most common way to deal damage is to throw a single [[damage dices|damage di
 ----
 ### Taking Damage
 If you are successfully hit, you need to take damage.
-[[Discard Pile|Discard]] from your [[State Deck]] (to your [[Discard Pile]]) a number of [[SoC • Discord Bot - Thread • HEALTH|Health Cards]] equal to the damage received.
+[[SoC • Rules - Discard Pile|Discard]] from your [[Character Deck]] (to your [[SoC • Rules - Discard Pile]]) a number of [[SoC • Rules Chapter - HEALTH|Health Cards]] equal to the damage received.

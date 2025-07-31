@@ -10,6 +10,4 @@ aliases:
 - ***Color***: artifact 
 %%
 
-### Card
-
 ![[SoC • Card - Iron Chain.png|650]]

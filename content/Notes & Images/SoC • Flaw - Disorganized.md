@@ -12,6 +12,4 @@ aliases:
 - ***Color***: green
 %%
 
-### Card
-
 ![[SoC • Card - Disorganized.png|650]]

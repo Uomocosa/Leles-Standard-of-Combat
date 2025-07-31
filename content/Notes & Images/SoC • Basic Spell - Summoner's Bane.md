@@ -16,6 +16,4 @@ aliases:
 - _**Prompt** [LMArena](https://beta.lmarena.ai/)_: I need a 2D epic fantasy illustration, in an epic graphic style with white and black color, and a clean white background. A scene depicting a **summoned entity—perhaps a spectral warrior, a fiery elemental, or an arcane construct—being overwhelmed by brilliant, holy energy**. The creature's form is breaking apart, dissolving into motes of pure light, as if being unmade by the radiant force. Emphasize the 'bane' aspect by showing the creature's struggle and the destructive power of the light. The environment around them is illuminated by the intense, purifying glow.. Add the words "Summoner's Bane" under the image in a stylish font.
 %%
 
-### Card
-
 ![[SoC • Card - Summoners Bane.png|650]]

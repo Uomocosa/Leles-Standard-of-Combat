@@ -10,6 +10,4 @@ aliases:
 - ***Color***: artifact, blue 
 %%
 
-### Card
-
 ![[SoC • Card - Turn and Round.png|325]]

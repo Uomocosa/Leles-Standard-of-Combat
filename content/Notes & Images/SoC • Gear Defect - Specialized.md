@@ -14,6 +14,4 @@ aliases:
 - ***Image Filter***: gear_defect
 %%
 
-### Card
-
 ![[SoC • Card - Specialized.png|650]]

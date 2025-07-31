@@ -14,6 +14,4 @@ aliases:
 - ***Image Filter***: spell_limitation
 %%
 
-### Card
-
 ![[SoC • Card - Temporal Lock.png|650]]

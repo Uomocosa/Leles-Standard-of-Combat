@@ -11,6 +11,4 @@ aliases:
 - _**Prompt** [LMArena](https://beta.lmarena.ai/)_: I need a 2D epic fantasy illustration, in an epic graphic style with white and black color, and a clean white background. 2 dive helms, speargun, fins, marker buoy. Add the words "Diving Gear" under the image in a stylish font.
 %%
 
-### Card
-
 ![[SoC • Card - Diving Gear.png|650]]

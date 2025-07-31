@@ -8,6 +8,4 @@
 -  _**Prompt** [LMArena](https://beta.lmarena.ai/)_: I need a 2D epic fantasy illustration, in an epic graphic style with white and black color, and lean line art, and a clean white background. It represents the skill Stealth, draw a man lurking in the shadows. Add the words "Stealth" under the image in a stylish font.
 %%
 
-### Card
-
 ![[SoC • Card - Stealth.png|650]]

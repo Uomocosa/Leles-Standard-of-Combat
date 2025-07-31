@@ -9,23 +9,23 @@ _Heavily inspired by [Crow and Skull](https://www.runehammer.online/crown-skull-
 
 ----
 ### Character Creation
-***Each Character and [[SoC • Discord Bot - Thread • COMPANIONS|Companion]] starts with the following Cards***:
+***Each Character and [[SoC • Rules Chapter - COMPANIONS|Companion]] starts with the following Cards***:
 - **1 [[SoC • Card - Character Details|Character Details]] Card**.
-- **5 [[SoC • Discord Bot - Thread • HEALTH|Health Cards]] and 3 [[SoC • Discord Bot - Thread • ENERGY|Energy Cards]]**.
+- **5 [[SoC • Rules Chapter - HEALTH|Health Cards]] and 3 [[SoC • Rules Chapter - ENERGY|Energy Cards]]**.
 - **2 copies of each Generic Action Cards** (_[[SoC • Generic Action - Movement or Skill|Movement or Skill]] and [[SoC • Generic Action - Encore|Encore]]_).
 - **1 set of [[SoC • Item - Rations|Rations]]** (_they should last you for a **week**_).
 
-***[[SoC • Discord Bot - Thread • NEW CAMPAIGN|New Campaign]]*** — All Characters start (_usually_) with **20 hero points** to spend on their build. <br>Remember that each of the following step is **OPTIONAL**, you can also create a blank character with **20 points** yet-to-spend.
-1. ***[[SoC • Discord Bot - Thread • FLAWS|Choose Flaw(s)]]*** 
-2. ***[[SoC • Discord Bot - Thread • CORE ABILITIES|Choose Your Core Ability]]*** 
-3. ***[[SoC • Discord Bot - Thread • SKILLS|Add Points in Skills]]*** 
-4. ***[[SoC • Discord Bot - Thread • BASIC EQUIPMENT|Buy Basic Equipment, to survive in battle]]*** 
-5. ***[[SoC • Discord Bot - Thread • BASIC SPELLS|Learn Basic Spells]]*** 
-6. ***[[SoC • Discord Bot - Thread • ITEMS|Buy common Items, including Rations to not starve to death]]*** 
-7. ***[[SoC • Discord Bot - Thread • CUSTOM SPELLS|Create and Customize Spells]]*** 
-8. ***[[SoC • Discord Bot - Thread • CUSTOM GEAR|Customize your Equipment and Gear]]***
-9. ***[[SoC • Discord Bot - Thread • COMPANIONS|Buy and Customize, or Scratch-Build a Companion]]*** 
-10. ***[[SoC • Discord Bot - Thread • LINEAGES|Choose Your Lineage]]*** (*Ask you **GM** for the Campaign's Settings and Lineages*)
+***[[SoC • Rules Chapter - NEW CAMPAIGN|New Campaign]]*** — All Characters start (_usually_) with **20 hero points** to spend on their build. <br>Remember that each of the following step is **OPTIONAL**, you can also create a blank character with **20 points** yet-to-spend.
+1. ***[[SoC • Rules Chapter - FLAWS|Choose Flaw(s)]]*** 
+2. ***[[SoC • Rules Chapter - CORE ABILITIES|Choose Your Core Ability]]*** 
+3. ***[[SoC • Rules Chapter - SKILLS|Add Points in Skills]]*** 
+4. ***[[SoC • Rules Chapter - BASIC EQUIPMENT|Buy Basic Equipment, to survive in battle]]*** 
+5. ***[[SoC • Rules Chapter - BASIC SPELLS|Learn Basic Spells]]*** 
+6. ***[[SoC • Rules Chapter - ITEMS|Buy common Items, including Rations to not starve to death]]*** 
+7. ***[[SoC • Rules Chapter - CUSTOM SPELLS|Create and Customize Spells]]*** 
+8. ***[[SoC • Rules Chapter - CUSTOM GEAR|Customize your Equipment and Gear]]***
+9. ***[[SoC • Rules Chapter - COMPANIONS|Buy and Customize, or Scratch-Build a Companion]]*** 
+10. ***[[SoC • Rules Chapter - LINEAGES|Choose Your Lineage]]*** (*Ask you **GM** for the Campaign's Settings and Lineages*)
 ----
 ### Making of This Project, Useful Files
 - [[SoC - List of Cards|All Cards]] 

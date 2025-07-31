@@ -14,6 +14,4 @@ aliases:
 - ***Image Filter***: spell_limitation
 %%
 
-### Card
-
 ![[SoC • Card - Symbiotic.png|650]]

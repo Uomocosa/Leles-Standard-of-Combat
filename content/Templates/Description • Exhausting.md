@@ -1,1 +1,1 @@
-<br>_[[SoC • Spell Limitation - Exhausting|Exhausting]]_ — No magic can be used untill the end of the **following [[SoC • Discord Bot - Thread • COMBAT|round]]** after cast.<br>
+<br>_[[SoC • Spell Limitation - Exhausting|Exhausting]]_ — No magic can be used untill the end of the **following [[SoC • Rules Chapter - COMBAT|round]]** after cast.<br>

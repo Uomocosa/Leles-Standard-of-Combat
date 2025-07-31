@@ -14,6 +14,4 @@ aliases:
 - ***Color***: artifact 
 %%
 
-### Card
-
 ![[SoC • Card - Cannot be Customized.png|650]]

@@ -15,6 +15,4 @@ aliases: Savior
 - _**Prompt** [LMArena](https://beta.lmarena.ai/)_: 
 %%
 
-### Card
-
 ![[SoC • Card - Savior.png|650]]

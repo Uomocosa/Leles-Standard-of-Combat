@@ -10,6 +10,4 @@ aliases:
 - ***Color***: artifact 
 %%
 
-### Card
-
 ![[SoC • Card - Rope.png|650]]

@@ -15,7 +15,4 @@ aliases:
 - ***Image Filter***: spell_effect
 %%
 
-
-### Card
-
 ![[SoC • Card - Lasting.png|650]]

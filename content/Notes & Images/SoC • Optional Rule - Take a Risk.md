@@ -13,6 +13,4 @@ aliases:
 - ***Image Filter***: 
 %%
 
-### Card
-
 ![[SoC • Card - Take a Risk.png|325]]

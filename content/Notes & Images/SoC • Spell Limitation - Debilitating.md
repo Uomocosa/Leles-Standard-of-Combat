@@ -7,15 +7,12 @@ aliases:
 - ***Nameplate***: Limitation - Debilitating
 - ***Type***: Spell Limitation
 - ***Cost***:  
-- ***Description***:<br>After you cast this Spell you are [[Stunned]] for **1 [[SoC • Discord Bot - Thread • COMBAT|Round]]** (_next [[SoC • Discord Bot - Thread • COMBAT|Turn]] [[SoC • Rules - Prepare to Act|prepare]] 1 less Action_).
+- ***Description***:<br>After you cast this Spell you are [[Stunned]] for **1 [[SoC • Rules Chapter - COMBAT|Round]]** (_next [[SoC • Rules Chapter - COMBAT|Turn]] [[SoC • Rules - Prepare to Act|prepare]] 1 less Action_).
 - ***Flavor***: “Gods! My limbs are all but numb!”
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: black 
 - ***Image Filter***: spell_limitation
 %%
-
-
-### Card
 
 ![[SoC • Card - Debilitating.png|650]]

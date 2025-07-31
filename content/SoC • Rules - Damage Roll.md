@@ -10,6 +10,4 @@ aliases:
 - ***Color***: artifact, red 
 %%
 
-### Card
-
 ![[SoC • Card - Damage Roll.png|325]]

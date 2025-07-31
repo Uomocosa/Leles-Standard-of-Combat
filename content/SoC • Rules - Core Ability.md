@@ -10,6 +10,4 @@ aliases:
 - ***Color***: artifact, multicolor
 %%
 
-### Card
-
 ![[SoC • Card - Core Ability.png|325]]

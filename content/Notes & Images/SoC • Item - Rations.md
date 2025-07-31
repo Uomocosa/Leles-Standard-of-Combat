@@ -12,6 +12,4 @@ Counts —
 - ***Color***: white 
 %%
 
-### Card
-
 ![[SoC • Card - Rations.png|650]]

@@ -13,7 +13,4 @@ aliases:
 - _**Prompt** [LMArena](https://beta.lmarena.ai/)_: I need a 2D epic fantasy illustration, in an epic graphic style with white and black color, and a clean white background. It represents the flaw Crazy, with the following effect: 'When faced with a difficult choice, your GM will ask you to choose randomly'. Add the words "Crazy" under the image in a stylish font.
 %%
 
-
-### Card
-
 ![[SoC • Card - Crazy.png|650]]

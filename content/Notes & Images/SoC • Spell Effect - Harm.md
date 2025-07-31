@@ -18,6 +18,4 @@ aliases:
 - ***Image Filter***: spell_effect
 %%
 
-### Card
-
 ![[SoC • Card - Harm.png|650]]

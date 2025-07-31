@@ -7,7 +7,7 @@ aliases:
 - ***Name***: Lava 
 - ***Nameplate***: Lava 
 - ***Type***: Zone 
-- ***Description***:<br>_Careful its HOT!_<br>A Creature that enters this Zone suffers **4d6 fire damages**.<br>At the **end of each [[SoC • Discord Bot - Thread • COMBAT|Round]]**, each Creature in this Zone suffers **4d6 fire damages**.
+- ***Description***:<br>_Careful its HOT!_<br>A Creature that enters this Zone suffers **4d6 fire damages**.<br>At the **end of each [[SoC • Rules Chapter - COMBAT|Round]]**, each Creature in this Zone suffers **4d6 fire damages**.
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: red 
@@ -15,7 +15,5 @@ aliases:
 - ***Image Filter***: fullart
 - _**Prompt** [LMArena](https://beta.lmarena.ai/)_: I need a 2D epic fantasy illustration, in an epic graphic style. Part of a swamp from directly above.
 %%
-
-### Card
 
 ![[SoC • Card - Lava.png|650]]

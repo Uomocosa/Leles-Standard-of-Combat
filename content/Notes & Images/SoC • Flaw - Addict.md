@@ -13,6 +13,4 @@ aliases:
 - _**Prompt** [ChatGPT](https://chatgpt.com/?model=auto)_: I need a 2D minimalistic fantasy illustration illustration, in a minimal graphic style with white and black color, and a clean white background. You have a specific vice you cannot deny. If you can’t get your fix, the GM will ask for a [[Attack, Defense and Combat Damage|Damage Roll]] in some form. Add the words "***Addict***" under the image in a stylish font.
 %%
 
-### Card
-
 ![[SoC • Card - Addict.png|650]]

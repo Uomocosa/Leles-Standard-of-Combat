@@ -1,1 +1,1 @@
-<br>_[[SoC • Spell Limitation - Veil of Silence|Veil of silence]]_ — You lose the ability speak for **2** [[SoC • Discord Bot - Thread • COMBAT|rounds]]. You cannot cast spells as long as they require verbal components.<br>
+<br>_[[SoC • Spell Limitation - Veil of Silence|Veil of silence]]_ — You lose the ability speak for **2** [[SoC • Rules Chapter - COMBAT|rounds]]. You cannot cast spells as long as they require verbal components.<br>

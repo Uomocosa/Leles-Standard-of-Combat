@@ -14,6 +14,4 @@ aliases:
 - ***Image Filter***: 
 %%
 
-### Card
-
 ![[SoC • Card - With What Forge.png|325]]

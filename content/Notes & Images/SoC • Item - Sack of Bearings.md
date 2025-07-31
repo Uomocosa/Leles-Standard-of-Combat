@@ -10,6 +10,4 @@ aliases:
 - ***Color***: artifact 
 %%
 
-### Card
-
 ![[SoC • Card - Sack of Bearings.png|650]]

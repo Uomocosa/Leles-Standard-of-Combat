@@ -2,7 +2,7 @@
 aliases:
   - Preconstruted Characters
 ---
-_**Blain**_ — A construct forged by a legendary blacksmith and enchanted by one of the continent's most powerful magicians. Its sole purpose is to protect its charge at all costs.<br>_The protected individual could be another player, a key NPC, or a [[SoC • Discord Bot - Thread • COMPANIONS|Companion]]_
+_**Blain**_ — A construct forged by a legendary blacksmith and enchanted by one of the continent's most powerful magicians. Its sole purpose is to protect its charge at all costs.<br>_The protected individual could be another player, a key NPC, or a [[SoC • Rules Chapter - COMPANIONS|Companion]]_
 - _Start by printing these **[[SoC • Preconstruted Characters • Blain|Cards]]**_.
 
 ----

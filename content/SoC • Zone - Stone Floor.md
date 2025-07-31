@@ -16,6 +16,4 @@ aliases:
 - _**Prompt** [LMArena](https://beta.lmarena.ai/)_: I need a 2D epic fantasy illustration, in an epic graphic style. Part of a Stone Floor from directly above.
 %%
 
-### Card
-
 ![[SoC • Card - Stone Floor.png|650]]

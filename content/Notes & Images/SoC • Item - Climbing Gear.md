@@ -10,6 +10,4 @@ aliases:
 - ***Color***: artifact, red
 %%
 
-### Card
-
 ![[SoC • Card - Climbing Gear.png|650]]

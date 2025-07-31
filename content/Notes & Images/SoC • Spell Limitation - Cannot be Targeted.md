@@ -15,7 +15,4 @@ aliases:
 - ***Image Filter***: spell_limitation
 %%
 
-
-### Card
-
 ![[SoC • Card - Cannot be Targeted.png|650]]

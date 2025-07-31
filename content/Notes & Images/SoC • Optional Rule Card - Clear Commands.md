@@ -13,6 +13,4 @@ aliases:
 - ***Image Filter***: 
 %%
 
-### Card
-
 ![[SoC • Card - Clear Commands.png|325]]

@@ -1,0 +1,1 @@
+**[[SoC • Condition Card - Drowning|Drown]]** (_at the end of this round lose **1 [[SoC • Rules Chapter - HEALTH|Health]]** and **1 [[SoC • Rules Chapter - ENERGY|Energy]]**, next round prepare **1 less [[SoC • Rules Chapter - COMBAT|Action]]**_)

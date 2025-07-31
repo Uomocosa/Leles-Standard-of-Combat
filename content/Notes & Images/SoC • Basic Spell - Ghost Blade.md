@@ -13,6 +13,4 @@ aliases:
 - ***Rarity***: common
 %%
 
-### Card
-
 ![[SoC • Card - Ghost Blade.png|650]]

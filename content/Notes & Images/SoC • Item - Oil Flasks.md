@@ -11,6 +11,4 @@ aliases:
 - _**Prompt** [LMArena](https://beta.lmarena.ai/)_: I need a 2D epic fantasy illustration, in an epic graphic style with white and black color, and a clean white background. Show three oil flasks. Add the words "Oil Flasks" under the image in a stylish font.
 %%
 
-### Card
-
 ![[SoC • Card - Oil Flasks.png|650]]

@@ -5,7 +5,7 @@ aliases:
 
 %%
 - ***Type***: Optional Rule
-- ***Description***:<br>_Optional Rule_ — Your **GM** will decide if they want to add this rule to the game.<br><br>All Characters gain the ability of [[SoC • Core Ability - Runic Caster|Runic Casters]] to Create and cast spells on the fly, using their **Runes** (_each Rune is a **Spell Effect**_). And cannot Create new Spells in other way.<br>To gain a **Rune** players can spend **3 pts** and choose one [[SoC • Discord Bot - Thread • CUSTOM SPELLS|Spell Effect]] to inscribe.<br>Remove [[SoC • Discord Bot - Thread • CUSTOM SPELLS|Spell Limitations]] and the "[[SoC • Core Ability - Runic Caster|Runic Caster]]" [[SoC • Rules - Core Ability|Core Ability]].<br>The "[[SoC • Spell Effect - Passive|Passive]]" [[SoC • Discord Bot - Thread • CUSTOM SPELLS|Effect]] cannot become a **Rune**, to make a Spell that cost **2 [[SoC • Discord Bot - Thread • ENERGY]] or less** into a Passive, a Character needs to pay **3 pts**.<br>The "[[SoC • Spell Effect - Lasting|Lasting]]" [[SoC • Discord Bot - Thread • CUSTOM SPELLS|Effect]] cannot become a **Rune**, to make a Spell that cost **1 [[SoC • Discord Bot - Thread • ENERGY]]** into a Lasting Spell, a Character needs to pay **1 pt**.
+- ***Description***:<br>_Optional Rule_ — Your **GM** will decide if they want to add this rule to the game.<br><br>All Characters gain the ability of [[SoC • Core Ability - Runic Caster|Runic Casters]] to Create and cast spells on the fly, using their **Runes** (_each Rune is a **Spell Effect**_). And cannot Create new Spells in other way.<br>To gain a **Rune** players can spend **3 pts** and choose one [[SoC • Rules Chapter - CUSTOM SPELLS|Spell Effect]] to inscribe.<br>Remove [[SoC • Rules Chapter - CUSTOM SPELLS|Spell Limitations]] and the "[[SoC • Core Ability - Runic Caster|Runic Caster]]" [[SoC • Rules - Core Ability|Core Ability]].<br>The "[[SoC • Spell Effect - Passive|Passive]]" [[SoC • Rules Chapter - CUSTOM SPELLS|Effect]] cannot become a **Rune**, to make a Spell that cost **2 [[SoC • Rules Chapter - ENERGY|Energy]] or less** into a Passive, a Character needs to pay **3 pts**.<br>The "[[SoC • Spell Effect - Lasting|Lasting]]" [[SoC • Rules Chapter - CUSTOM SPELLS|Effect]] cannot become a **Rune**, to make a Spell that cost **1 [[SoC • Rules Chapter - ENERGY|Energy]]** into a Lasting Spell, a Character needs to pay **1 pt**.
 - ***Flavor***: 
 - ***Rarity***: rare
 - ***Color***: artifact, multicolor 
@@ -13,7 +13,5 @@ aliases:
 - ***Background Color***: 
 - ***Image Filter***: 
 %%
-
-### Card
 
 ![[SoC • Card - Oops All Runic Casters.png|325]]

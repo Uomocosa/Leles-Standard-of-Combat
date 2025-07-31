@@ -14,7 +14,4 @@ aliases:
 - ***Image Filter***: spell_limitation
 %%
 
-
-### Card
-
 ![[SoC • Card - Only Works Outdoors.png|650]]

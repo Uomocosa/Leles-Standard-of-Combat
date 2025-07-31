@@ -2,15 +2,12 @@
 aliases:
   - Mast Ship
 ---
+%%
 - ***Image***:<br>![[SoC • Item - Mast Ship (Image).png|222]]
 - ***Info***: Large Item 
 - ***Cost***: 35 
 - ***Description***:<br>Crew of 3 required, 2 masts, huge hold.
 - ***Color***: Artifact 
-----
-- ***Card***:<br>![[SoC • Card - Mast Ship.png|550]]
-
-
-### Card
+%%
 
 ![[SoC • Card - Mast Ship.png|650]]

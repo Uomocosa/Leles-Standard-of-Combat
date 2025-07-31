@@ -10,6 +10,4 @@ aliases:
 - ***Color***: artifact, multicolor
 %%
 
-### Card
-
 ![[SoC • Card - Zone Cards.png|325]]

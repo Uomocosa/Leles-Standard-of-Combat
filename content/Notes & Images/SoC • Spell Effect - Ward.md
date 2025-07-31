@@ -10,15 +10,12 @@ aliases:
 - ***Image***:<br>![[Pasted image 20250102221632.png|100]]
 - ***Info***: Spell Effect - Ward 
 - ***Cost***: X 
-- ***Description***:<br>_Examples of Warding Effects_:<br>• ***1 pt*** | Succeed in an [[SoC • Rules - Opposing Rolls|opposing roll]]: _[[Arcane]], [[Faith]] or [[Nature]] **vs.** [[Will]]_ (_Choose which [[SoC • Discord Bot - Thread • SKILLS|Skills]] to use when you add this effect_) against target Creature in your Zone, for **1 hour** the next time that Creature would **magically move** (_like with [[SoC • Spell Effect - Transport|Transportation]] [[SoC • Discord Bot - Thread • CUSTOM SPELLS|Spells]]_) instead it does not.<br>• ***1 pts*** | For **1 hour** Creatures cannot **magically move** in your same Zone, if they try they instead end their movement in nearby Zone.<br>• ***3 pts*** | For **1 hour** any Creatures that tries to [[SoC • Generic Action - Movement or Skill|Move]] (_in any way_) in the same Zone as you has to succeed in an [[SoC • Rules - Opposing Rolls|opposing roll]]: _[[Will]]_ **vs.** _[[Arcane]], [[Faith]] or [[Nature]]_ (_Choose which [[SoC • Discord Bot - Thread • SKILLS|Skills]] to use when you add this effect_) to do so, if they fail they end their movement in nearby Zone.
+- ***Description***:<br>_Examples of Warding Effects_:<br>• ***1 pt*** | Succeed in an [[SoC • Rules - Opposing Rolls|Opposing Roll]]: _[[Arcane]], [[Faith]] or [[Nature]] **vs.** [[Will]]_ (_Choose which [[SoC • Rules Chapter - SKILLS|Skills]] to use when you add this effect_) against target Creature in your Zone, for **1 hour** the next time that Creature would **magically move** (_like with [[SoC • Spell Effect - Transport|Transportation]] [[SoC • Rules Chapter - CUSTOM SPELLS|Spells]]_) instead it does not.<br>• ***1 pts*** | For **1 hour** Creatures cannot **magically move** in your same Zone, if they try they instead end their movement in nearby Zone.<br>• ***3 pts*** | For **1 hour** any Creatures that tries to [[SoC • Generic Action - Movement or Skill|Move]] (_in any way_) in the same Zone as you has to succeed in an [[SoC • Rules - Opposing Rolls|Opposing Roll]]: _[[Will]]_ **vs.** _[[Arcane]], [[Faith]] or [[Nature]]_ (_Choose which [[SoC • Rules Chapter - SKILLS|Skills]] to use when you add this effect_) to do so, if they fail they end their movement in nearby Zone.
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: white 
 - ***Rarity***: common
 - ***Image Filter***: spell_effect
 %%
-
-
-### Card
 
 ![[SoC • Card - Ward.png|650]]

@@ -13,6 +13,4 @@ aliases:
 - ***Image Filter***: 
 %%
 
-### Card
-
 ![[SoC • Card - Legion Commander.png|325]]

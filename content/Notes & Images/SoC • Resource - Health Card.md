@@ -4,7 +4,4 @@
 - ***Color***: health 
 %%
 
-
-### Card
-
 ![[SoC • Card - Health Card.png|325]]

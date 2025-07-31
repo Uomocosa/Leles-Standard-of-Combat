@@ -5,10 +5,10 @@ aliases:
 %%
 - ***Image***:<br>![[SoC • Generic Card - Character Details (Image).png|50]]
 - ***Nameplate***: Name: ____________________________
-- ***Name***: Skill Modifiers
-- ***Type***: Character Details
+- ***Name***: Character Details
+- ***Type***: Skill Modifiers
 - ***Cost***: 
-- ***Description***:<br>**[[Agility]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Might]]** — Modifier: \_\_\_\_\_\_\_ <br><br>**[[Arcane]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Faith]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Nature]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Will]]** — Modifier: \_\_\_\_\_\_\_ <br><br>**[[Deception]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Forging]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Intimidation]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Intuition]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Lore]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Medicine]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Perception]]** — Modifier: \_\_\_\_\_\_\_<br>**[[Performance]]** — Modifier: \_\_\_\_\_\_\_  <br>**[[Persuasion]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Sleight of Hand]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Stealth]]** — Modifier: \_\_\_\_\_\_\_
+- ***Description***:<br>**[[Agility]]** — Modifier: **+** . . . . . <br>**[[Might]]** — Modifier: **+** . . . . . <br><br>**[[Arcane]]** — Modifier: **+** . . . . . <br>**[[Faith]]** — Modifier: **+** . . . . . <br>**[[Nature]]** — Modifier: **+** . . . . .<br>**[[Will]]** — Modifier: **+** . . . . .<br><br>**[[Deception]]** — Modifier: **+** . . . . . <br>**[[Forging]]** — Modifier: **+** . . . . . <br>**[[Intimidation]]** — Modifier: **+** . . . . . <br>**[[Intuition]]** — Modifier: **+** . . . . . <br>**[[Lore]]** — Modifier: **+** . . . . . <br>**[[Medicine]]** — Modifier: **+** . . . . . <br>**[[Perception]]** — Modifier: **+** . . . . . <br>**[[Performance]]** — Modifier: **+** . . . . . <br>**[[Persuasion]]** — Modifier: **+** . . . . . <br>**[[Sleight of Hand]]** — Modifier: **+** . . . . . <br>**[[Stealth]]** — Modifier: **+** . . . . . 
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: white 
@@ -30,6 +30,4 @@ Sleight of Hand
 Stealth
 %%
 
-### Card
-
-![[SoC • Card - Skill Modifiers.png|650]]
+![[SoC • Card - Character Details.png|650]]

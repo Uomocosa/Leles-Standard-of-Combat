@@ -10,15 +10,12 @@ aliases:
 - ***Image***:<br>![[Pasted image 20250102221525.png|100]]
 - ***Info***: Spell Effect - Psychokinesis 
 - ***Cost***: X 
-- ***Description***:<br>_Use [[Might]] at a distance_.<br>_Examples of Psychokinesis Effects_:<br>• ***2 pt*** | For **1 hour**, target Creature in your [[SoC • Discord Bot - Thread • ZONES|Zone]] can forgo an Action or spend **1 [[SoC • Discord Bot - Thread • ENERGY]]** to make their next [[Might]] [[SoC • Rules - Skill Checks|Skill Check]] at **Range** (_for each Zone between them and their target, they roll with an additional [[SoC • Rules - Advantage and Disadvantage|Disadvantage]]_).<br>• ***5 pt*** | For **1 hour**, target Creature in your [[SoC • Discord Bot - Thread • ZONES|Zone]] can make [[Might]] [[SoC • Rules - Skill Checks|SoC • Rules - Skill Checks]] at **Range**.
+- ***Description***:<br>_Use [[Might]] at a distance_.<br>_Examples of Psychokinesis Effects_:<br>• ***2 pt*** | For **1 hour**, target Creature in your [[SoC • Rules Chapter - ZONES|Zone]] can forgo an Action or spend **1 [[SoC • Rules Chapter - ENERGY|Energy]]** to make their next [[Might]] [[SoC • Rules Chapter - SKILLS|Skill Check]] at **Range** (_for each Zone between them and their target, they roll with an additional [[SoC • Rules - Advantage and Disadvantage|Disadvantage]]_).<br>• ***5 pt*** | For **1 hour**, target Creature in your [[SoC • Rules Chapter - ZONES|Zone]] can make [[Might]] [[SoC • Rules Chapter - SKILLS|Skill Checks]] at **Range**.
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: red 
 - ***Rarity***: common
 - ***Image Filter***: spell_effect
 %%
-
-
-### Card
 
 ![[SoC • Card - Psychokinesis.png|650]]

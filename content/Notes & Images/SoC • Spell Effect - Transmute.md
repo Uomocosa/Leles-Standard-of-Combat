@@ -18,7 +18,4 @@ aliases:
 - ***Image Filter***: spell_effect
 %%
 
-
-### Card
-
 ![[SoC • Card - Transmute.png|650]]

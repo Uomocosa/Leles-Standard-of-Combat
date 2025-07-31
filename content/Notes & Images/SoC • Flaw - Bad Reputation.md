@@ -12,6 +12,4 @@ aliases:
 - ***Color***: black 
 %%
 
-### Card
-
 ![[SoC • Card - Bad Reputation.png|650]]

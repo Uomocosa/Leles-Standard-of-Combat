@@ -1,1 +1,1 @@
-<br>_[[SoC • Spell Limitation - Linked to Physical Object|Linked to physical object]]_ — The spell manifests with or through an object. If that object is [[Destroyed Gear|destroyed]] or stolen, the spell is lost.<br>
+<br>_[[SoC • Spell Limitation - Linked to Physical Object|Linked to physical object]]_ — The spell manifests with or through an object. If that object is [[SoC • Rules - Destroyed Gear|destroyed]] or stolen, the spell is lost.<br>

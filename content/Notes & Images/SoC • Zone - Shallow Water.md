@@ -17,6 +17,4 @@ aliases:
 - _**Prompt** [LMArena](https://beta.lmarena.ai/)_: I need a 2D epic fantasy illustration, in an epic graphic style. Deep Water seen from directly above.
 %%
 
-### Card
-
 ![[SoC • Card - Shallow Water.png|650]]

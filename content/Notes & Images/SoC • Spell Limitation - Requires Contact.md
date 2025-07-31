@@ -14,8 +14,4 @@ aliases:
 - ***Color***: artifact 
 %%
 
-
-
-### Card
-
 ![[SoC • Card - Requires Contact.png|650]]

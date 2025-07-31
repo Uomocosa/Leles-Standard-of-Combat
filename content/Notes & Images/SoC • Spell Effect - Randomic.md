@@ -14,6 +14,4 @@ aliases:
 - ***Image Filter***: spell_effect
 %%
 
-### Card
-
 ![[SoC • Card - Randomic.png|650]]

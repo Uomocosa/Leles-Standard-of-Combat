@@ -14,6 +14,4 @@ aliases:
 - _**Prompt** [LMArena](https://beta.lmarena.ai/)_: I need a 2D epic fantasy illustration, in an epic graphic style with white and black color, and a clean white background. It represents the a Human Skull with its mouth open with the head slightly tilted back. The skull seems to be watching slightly above.
 %%
 
-### Card
-
 ![[SoC • Card - Closer to Death.png|325]]

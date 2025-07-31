@@ -13,6 +13,4 @@ aliases:
 - ***Image Filter***: 
 %%
 
-### Card
-
 ![[SoC • Card - Safe Place.png|325]]

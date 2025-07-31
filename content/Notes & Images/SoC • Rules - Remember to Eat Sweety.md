@@ -13,3 +13,5 @@ aliases:
 ### Card
 
 ![[SoC • Card - Remember to Eat Sweety.png|325]]
+
+![[SoC • Card - Remember to Eat Sweety.png|325]]

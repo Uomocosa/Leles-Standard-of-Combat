@@ -8,6 +8,4 @@
 -  _**Prompt** [LMArena](https://beta.lmarena.ai/)_: I need a 2D epic fantasy illustration, in an epic graphic style with white and black color, and lean line art, and a clean white background. It represents the skill Might, draw a human with a muscular body holding a boulder over his head. Add the words "Might" under the image in a stylish font.
 %%
 
-### Card
-
 ![[SoC • Card - Might.png|650]]

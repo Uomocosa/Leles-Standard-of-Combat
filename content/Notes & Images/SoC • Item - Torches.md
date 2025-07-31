@@ -11,6 +11,4 @@ aliases:
 - _**Prompt** [LMArena](https://beta.lmarena.ai/)_: I need a 2D epic fantasy illustration, in an epic graphic style with white and black color, and a clean white background. Show five torches. Add the words "Torches" under the image in a stylish font.
 %%
 
-### Card
-
 ![[SoC • Card - Torches.png|650]]

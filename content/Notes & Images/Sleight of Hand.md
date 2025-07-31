@@ -9,6 +9,4 @@
 -  _**Prompt** [LMArena](https://beta.lmarena.ai/)_: I need a 2D epic fantasy illustration, in an epic graphic style with white and black color, and lean line art, and a clean white background. It represents the skill Sleight of Hand, draw a human trying to steal from the pocket of an elf, the elf should be distracted while reading something on a wall. Add the words "Sleight of Hand" under the image in a stylish font. 
 %%
 
-### Card
-
 ![[SoC • Card - Sleight of Hand.png|650]]

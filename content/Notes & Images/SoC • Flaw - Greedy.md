@@ -12,6 +12,4 @@ aliases:
 - ***Color***: red 
 %%
 
-### Card
-
 ![[SoC • Card - Greedy.png|650]]

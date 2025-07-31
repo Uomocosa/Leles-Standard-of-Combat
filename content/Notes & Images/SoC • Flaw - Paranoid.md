@@ -12,6 +12,4 @@ aliases:
 - ***Color***: blue 
 %%
 
-### Card
-
 ![[SoC • Card - Paranoid.png|650]]

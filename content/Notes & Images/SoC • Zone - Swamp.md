@@ -16,6 +16,4 @@ aliases:
 - _**Prompt** [LMArena](https://beta.lmarena.ai/)_: I need a 2D epic fantasy illustration, in an epic graphic style. Part of a swamp from directly above.
 %%
 
-### Card
-
 ![[SoC • Card - Swamp.png|650]]

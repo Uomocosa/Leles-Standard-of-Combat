@@ -8,6 +8,4 @@
 -  _**Prompt** [LMArena](https://beta.lmarena.ai/)_: I need a 2D epic fantasy illustration, in an epic graphic style with white and black color, and lean line art, and a clean white background. It represents the skill Persuasion, draw a human and an elf shaking hands. Add the words "Persuasion" under the image in a stylish font.
 %%
 
-### Card
-
 ![[SoC • Card - Persuasion.png|650]]

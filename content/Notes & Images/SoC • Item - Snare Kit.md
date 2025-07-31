@@ -12,3 +12,5 @@ aliases:
 ### Card
 
 ![[SoC • Card - Snare Kit.png|650]]
+
+![[SoC • Card - Snare Kit.png|650]]

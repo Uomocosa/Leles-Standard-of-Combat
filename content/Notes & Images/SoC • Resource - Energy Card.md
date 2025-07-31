@@ -9,7 +9,4 @@ aliases: []
 - ***Color***: energy 
 %%
 
-
-### Card
-
 ![[SoC • Card - Energy Card.png|325]]

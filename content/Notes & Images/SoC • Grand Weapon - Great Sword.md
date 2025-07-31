@@ -13,6 +13,4 @@ aliases:
 - _**Prompt** [LMArena](https://beta.lmarena.ai/)_: I need a 2D epic fantasy illustration, in a minimal graphic style with white and black color, and a clean white background. It represents the equipment: Heavy Weapon - Great Sword. Add the words "Great Sword" under the image in a stylish font, they must be big enough and clearly visible. 
 %%
 
-### Card
-
 ![[SoC • Card - Great Sword.png|650]]

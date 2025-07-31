@@ -8,6 +8,4 @@
 -  _**Prompt** [LMArena](https://beta.lmarena.ai/)_: I need a 2D epic fantasy illustration, in an epic graphic style with white and black color, and lean line art, and a clean white background. It represents the skill Agility, draw a human jumping while doing a back-flip. Add the words "Agility" under the image in a stylish font.
 %%
 
-### Card
-
 ![[SoC • Card - Agility.png|650]]

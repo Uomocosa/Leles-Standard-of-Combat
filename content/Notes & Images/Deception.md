@@ -8,6 +8,4 @@
 -  _**Prompt** [LMArena](https://beta.lmarena.ai/)_: I need a 2D epic fantasy illustration, in an epic graphic style with white and black color, and lean line art, and a clean white background. It represents the skill Deception, draw part of a human face with a hand near its mouth whispering to another in its ear, the second human should be quite shocked. Add the words "Deception" under the image in a stylish font.
 %%
 
-### Card
-
 ![[SoC • Card - Deception.png|650]]

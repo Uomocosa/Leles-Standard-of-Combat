@@ -10,6 +10,4 @@ aliases:
 - ***Color***: blue 
 %%
 
-### Card
-
 ![[SoC • Card - Scribes Kit.png|650]]

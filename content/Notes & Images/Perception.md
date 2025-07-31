@@ -9,6 +9,4 @@
 -  _**Prompt** [LMArena](https://beta.lmarena.ai/)_: I need a 2D epic fantasy illustration, in an epic graphic style with white and black color, and lean line art, and a clean white background. It represents the skill Perception, as the subject draw a human walking away from the camera, surrounded by other humans as in a busy merchant street, the human turns its head to see behind him looking at us. Add the words "Perception" under the image in a stylish font.
 %%
 
-### Card
-
 ![[SoC • Card - Perception.png|650]]

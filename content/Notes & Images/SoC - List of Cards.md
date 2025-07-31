@@ -4,12 +4,12 @@ aliases:
   - All Cards
 ---
 ### Generic Cards
-- [[SoC • Discord Bot - Thread • SKILLS|Character Details]] (_1 card per player_) 
+- [[SoC • Card - Character Details|Character Details]] (_1 card per player_) 
 - [[SoC • Generic Action - Movement or Skill|Movement or Skill]] (_2 cards per player_) 
 - [[SoC • Generic Action - Encore|Encore]] (_1 cards per player_) 
 - [[SoC • Generic Card - Closer to Death|Closer to Death]] (_2 per player, held by the GM_)
-- [[SoC • Resource - Health Card|Health Card]] (_the more the merrier, at least 15 per player_) 
-- [[SoC • Resource - Energy Card|Energy Card]] (_the more the merrier at least 7 per player_)
+- [[SoC • Resource - Health Card|Health Card]] (_the more the merrier, at least 10 per player_) 
+- [[SoC • Resource - Energy Card|Energy Card]] (_the more the merrier at least 6 per player_)
 - [[SoC • Resource - Temporary Health Card|Temporary Health]] (_2 cards per player_) 
 - [[SoC • Resource - Temporary Energy Card|Temporary Energy]] (_1 card per player_) 
 - [[Forging]] (_1 card per player_) 
@@ -20,16 +20,22 @@ aliases:
 ### Rule Cards (print 1 each)
 - [[SoC • Rules - Start of a New Campaign|Start of a New Campaign]] 
 - [[SoC • Introduction - Spend your Points|Spend your Points]] 
+- [[SoC • Rules - Your Deck, Your Character|Your Deck, Your Character]] 
+- [[SoC • Rules - Discard Pile|Discard Pile]] 
+- [[SoC • Rules - Destroyed Gear|Destroyed Gear]] 
+- [[SoC • Rules - Returning a Card to Your GM|Returning a Card to Your GM]] 
 - [[SoC • Rules - Health and Energy|Health and Energy]] 
 - [[SoC • Rules - Temporary Health and Energy|Temporary Health and Energy]] 
 - [[SoC • Condition Card - Dying|Dying]]
 - [[SoC • Condition Card - Stable|Stable]]
-- [[SoC • Discord Bot - Thread • HEALTH|Death Saving Throw]]
-- [[SoC • Rules - Death]]
-- [[SoC • Rules - Skill Checks]] 
+- [[SoC • Rule Card - Death Saving Throws|Death Saving Throws]] 
+- [[SoC • Rules - Death|Death]]
+- [[SoC • Rules - Skill Checks|Skill Checks]] 
 - [[SoC • Rules - Advantage and Disadvantage|Advantage and Disadvantage]] 
 - [[SoC • Rules - Opposing Rolls|Opposing Rolls]] 
-- [[Meditate and Train]] 
+- [[SoC • Rules - Critical Success and Failure|Critical Success and Failure]]
+- [[SoC • Rules - Inspiration|Inspiration]]
+- [[SoC • Rules - Meditate and Train|Meditate and Train]] 
 - [[Heal and Repair]] 
 - [[SoC • Rules - Remember to Eat Sweety|Remember to Eat, Sweety]] 
 - [[SoC • Rules - A Night of Rest|A Night of Rest]] 
@@ -43,27 +49,26 @@ aliases:
 - [[SoC • Rules - Turn and Round|Turn and Round]] 
 - [[SoC • Rules - Surprise Round|Surprise Round]] 
 - [[SoC • Rules - Melee and Ranged Attacks|Melee and Ranged Attacks]]
-- [[SoC • Rules - Prepare to Act]]
+- [[SoC • Rules - Prepare to Act|Prepare to Act]]
 - [[Reactions]]
 - [[SoC • Rules - Attack and Defensive Roll|Attack and Defensive Roll]] 
 - [[SoC • Introduction - Gear|Gear]] 
-- [[Basic Spells]] 
-- [[SoC • Rule Card - Spellcasting|Spellcasting]] 
-- [[SoC • Introduction - Custom Spells|Custom Spells]] 
-- [[SoC • Rules - Create a Custom Spell|Create a Custom Spell]] 
-- [[SoC • Rules - Scrolls|Scrolls]] 
-- [[SoC • Rules - Potions|Potions]] 
-- [[SoC • Rules - Death]] 
-- [[SoC • Optional Rules - Legion Commander|Legion Commander]] 
-### Skills
-**[[Agility]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Might]]** — Modifier: \_\_\_\_\_\_\_ <br><br>**[[Arcane]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Faith]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Nature]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Will]]** — Modifier: \_\_\_\_\_\_\_ <br><br>**[[Deception]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Forging]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Intimidation]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Intuition]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Lore]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Medicine]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Perception]]** — Modifier: \_\_\_\_\_\_\_<br>**[[Performance]]** — Modifier: \_\_\_\_\_\_\_  <br>**[[Persuasion]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Sleight of Hand]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Stealth]]** — Modifier: \_\_\_\_\_\_\_
-### Equipment
 - [[SoC • Rules - Craft New Equipment|Craft]] 
 - [[SoC • Rules - Upgrading a Piece of Equipment|Upgrade]] 
 - [[SoC • Rules - 1 Point Upgrade|1 Point Upgrade]] 
 - [[SoC • Rules - 2 Points Upgrade|2 Points Upgrade]] 
 - [[SoC • Rules - Forging your Gear|Forging your Gear]] 
 - [[SoC • Optional Rule - With What Forge|With What Forge?]] 
+- [[SoC • Rule Card - Basic Spells|Basic Spell]] 
+- [[SoC • Rule Card - Spellcasting|Spellcasting]] 
+- [[SoC • Introduction - Custom Spells|Custom Spells]] 
+- [[SoC • Rules - Create a Custom Spell|Create a Custom Spell]] 
+- [[SoC • Rules - Scrolls|Scrolls]] 
+- [[SoC • Rules - Potions|Potions]] 
+- [[SoC • Rules - Death|Death]] 
+- [[SoC • Optional Rules - Legion Commander|Legion Commander]] 
+### Skills
+**[[Agility]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Might]]** — Modifier: \_\_\_\_\_\_\_ <br><br>**[[Arcane]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Faith]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Nature]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Will]]** — Modifier: \_\_\_\_\_\_\_ <br><br>**[[Deception]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Forging]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Intimidation]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Intuition]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Lore]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Medicine]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Perception]]** — Modifier: \_\_\_\_\_\_\_<br>**[[Performance]]** — Modifier: \_\_\_\_\_\_\_  <br>**[[Persuasion]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Sleight of Hand]]** — Modifier: \_\_\_\_\_\_\_ <br>**[[Stealth]]** — Modifier: \_\_\_\_\_\_\_
 ### Gear Defects Lists
 1. ***[[SoC • Gear Defect - Breakable|Breakable]]*** — _A fragile piece of equipment that can easily break under pressure, especially when things go wrong_.
 2. ***[[SoC • Gear Defect - Sought After|Sought after]]*** — _An item with a dark allure, attracting the attention of dangerous individuals with questionable intentions_.
@@ -98,11 +103,11 @@ aliases:
 - ***[[SoC • Standard Shield - Steel Shield|Steel Shield]]***
 - ***[[SoC • Grand Shield - Tower Shield|Tower Shield]]***
 ### Basic Spells
-1. ***[[SoC • Basic Spell - Arcane Lock|Arcane Lock]]*** (**1 pts**) — _A glyph used to permanently seal a door_.<br>2. ***[[SoC • Basic Spell - Darkvision|Darkvision]]*** (**1 pts**) — _See through darkness_.<br>3. ***[[SoC • Basic Spell - Dream Spike|Dream Spike]]*** (**1 pts**) — _Stun an intelligent foe_.<br>4. ***[[SoC • Basic Spell - Fireblast|Fireblast]]*** (**1 pts**) — _Explosive fire from the caster's hands_.<br>5. ***[[SoC • Basic Spell - Ghost Blade|Ghost Blade]]*** (**1 pts**) — _Spectral knifes launched against an enemy_.<br>6. ***[[SoC • Basic Spell - Healing Light|Healing Light]]*** (**1 pts**) — _Heal a Creature_.<br>7. ***[[SoC • Basic Spell - Invisible Wall|Invisible Wall]]*** (**1 pts**) — _A force field to keep the enemies at bay_.<br>8. ***[[SoC • Basic Spell - Mage's Armor|Mage's Armor]]*** (**1 pts**) — _Use your [[Arcane]] [[SoC • Discord Bot - Thread • SKILLS|Modifier]] to defend against an [[Attack, Defense and Combat Damage|Attack]]_.<br>9. ***[[SoC • Basic Spell - Minor Creation|Minor Creation]]*** (**1 pts**) — _Create a simple object_.<br>10. ***[[SoC • Basic Spell - Minor Metamorphosis|Minor Metamorphosis]]*** (**1 pts**) — _Target becomes a small creature_<br>11. ***[[SoC • Basic Spell - Sprint|Sprint]]*** (**1 pts**) — _Increase speed of a target_.<br>12. ***[[SoC • Basic Spell - Summon Vermin|Summon Vermin]]*** (**1 pts**) — _A small creature comes to your aide_.<br>13. ***[[SoC • Basic Spell - Summoner's Bane|Summoner's Bane]]*** (**1 pts**) — _Deal massive damages to a Summoned Creature_<br>14. ***[[SoC • Basic Spell - Vines|Vines]]*** (**1 pts**) — _Call up vines that grab passers-through_.<br>15. ***[[SoC • Basic Spell - Waterbreath|Waterbreath]]*** (**1 pts**) — _Breathe underwater with ease_. <br>16. ***[[SoC • Basic Spell - Piercing Blade|Piercing Blade]]*** (**2 pts**) — _Enchant a weapon, it deals more damage_.<br>17. ***[[SoC • Basic Spell - Stormcaller|Stormcaller]]*** (**2 pts**) — _Conjure a type of weather when outdoors_.<br>18. ***[[SoC • Basic Spell - Unseen Strength|Unseen Strength]]*** (**2 pts**) — _Move small objects in your immediate area_.<br>19. ***[[SoC • Basic Spell - Vanish|Vanish]]*** (**2 pts**) — _Become invisible_.<br>20. ***[[SoC • Basic Spell - Angel's Ascent|Angel's Ascent]]*** (**3 pts**) — _Magically fly a target with your will_.
+1. ***[[SoC • Basic Spell - Arcane Lock|Arcane Lock]]*** (**1 pts**) — _A glyph used to permanently seal a door_.<br>2. ***[[SoC • Basic Spell - Darkvision|Darkvision]]*** (**1 pts**) — _See through darkness_.<br>3. ***[[SoC • Basic Spell - Dream Spike|Dream Spike]]*** (**1 pts**) — _Stun an intelligent foe_.<br>4. ***[[SoC • Basic Spell - Fireblast|Fireblast]]*** (**1 pts**) — _Explosive fire from the caster's hands_.<br>5. ***[[SoC • Basic Spell - Ghost Blade|Ghost Blade]]*** (**1 pts**) — _Spectral knifes launched against an enemy_.<br>6. ***[[SoC • Basic Spell - Healing Light|Healing Light]]*** (**1 pts**) — _Heal a Creature_.<br>7. ***[[SoC • Basic Spell - Invisible Wall|Invisible Wall]]*** (**1 pts**) — _A force field to keep the enemies at bay_.<br>8. ***[[SoC • Basic Spell - Mage's Armor|Mage's Armor]]*** (**1 pts**) — _Use your [[Arcane]] [[SoC • Rules Chapter - SKILLS|Modifier]] to defend against an [[Attack, Defense and Combat Damage|Attack]]_.<br>9. ***[[SoC • Basic Spell - Minor Creation|Minor Creation]]*** (**1 pts**) — _Create a simple object_.<br>10. ***[[SoC • Basic Spell - Minor Metamorphosis|Minor Metamorphosis]]*** (**1 pts**) — _Target becomes a small creature_<br>11. ***[[SoC • Basic Spell - Sprint|Sprint]]*** (**1 pts**) — _Increase speed of a target_.<br>12. ***[[SoC • Basic Spell - Summon Vermin|Summon Vermin]]*** (**1 pts**) — _A small creature comes to your aide_.<br>13. ***[[SoC • Basic Spell - Summoner's Bane|Summoner's Bane]]*** (**1 pts**) — _Deal massive damages to a Summoned Creature_<br>14. ***[[SoC • Basic Spell - Vines|Vines]]*** (**1 pts**) — _Call up vines that grab passers-through_.<br>15. ***[[SoC • Basic Spell - Waterbreath|Waterbreath]]*** (**1 pts**) — _Breathe underwater with ease_. <br>16. ***[[SoC • Basic Spell - Piercing Blade|Piercing Blade]]*** (**2 pts**) — _Enchant a weapon, it deals more damage_.<br>17. ***[[SoC • Basic Spell - Stormcaller|Stormcaller]]*** (**2 pts**) — _Conjure a type of weather when outdoors_.<br>18. ***[[SoC • Basic Spell - Unseen Strength|Unseen Strength]]*** (**2 pts**) — _Move small objects in your immediate area_.<br>19. ***[[SoC • Basic Spell - Vanish|Vanish]]*** (**2 pts**) — _Become invisible_.<br>20. ***[[SoC • Basic Spell - Angel's Ascent|Angel's Ascent]]*** (**3 pts**) — _Magically fly a target with your will_.
 ### Spell's Effects
-- [[Basic Spells]]
-- [[SoC • Rule Card - Spellcasting]]
-- [[SoC • Rules - Create a Custom Spell]]
+- [[SoC • Rule Card - Basic Spells|Basic Spells]]
+- [[SoC • Rule Card - Spellcasting|Spellcasting]]
+- [[SoC • Rules - Create a Custom Spell|Create a Custom Spell]]
 1. ***[[SoC • Spell Effect - Alter|Adapt]]*** — _Change a Creature's body_.
 2. ***[[SoC • Spell Effect - Area|Area]]*** — _Increase area of a spell_.
 3. ***[[SoC • Spell Effect - Banish|Banish]]*** — _Destroy summoned creatures with ease_.
@@ -137,8 +142,8 @@ aliases:
 3. ***[[SoC • Spell Limitation - Cannot be Targeted|Cannot be targeted]]*** — _Spell always flies wild_.
 4. ***[[SoC • Spell Limitation - Elemental Anchor|Elemental anchor]]*** — _This spell can only be conjured via a particular element_.
 5. ***[[SoC • Spell Limitation - Eldrich Bond|Eldrich bond]]*** — _You and the target of the spell become temporarily connected_.
-6. ***[[SoC • Spell Limitation - Exhausting|Exhausting]]*** — _No magic can be used in the **following [[SoC • Discord Bot - Thread • COMBAT|round]]** after cast_.
-7. ***[[SoC • Spell Limitation - Cost Material to Cast|Cost material to cast]]*** — _When cast, one item in your inventory is [[Destroyed Gear|destroyed]]_.
+6. ***[[SoC • Spell Limitation - Exhausting|Exhausting]]*** — _No magic can be used in the **following [[SoC • Rules Chapter - COMBAT|round]]** after cast_.
+7. ***[[SoC • Spell Limitation - Cost Material to Cast|Cost material to cast]]*** — _When cast, one item in your inventory is [[SoC • Rules - Destroyed Gear|destroyed]]_.
 8. ***[[SoC • Spell Limitation - Druidic|Druidic]]*** — _Cannot be cast if the caster wears or is touching any metal_.
 9. ***[[SoC • Spell Limitation - Debilitating|Debilitating]]*** — _After this spell is cast, you can only make one action on your next turn_.
 10. ***[[SoC • Spell Limitation - Linked to Physical Object|Linked to physical object]]*** — _The spell manifests with or through an object_.
@@ -169,17 +174,6 @@ aliases:
 - [[SoC • Zone - Shallow Water|Shallow Water]]
 - [[SoC • Zone - Deep Water|Deep Water]]
 - [[SoC • Zone - Stone Floor|Stone Floor]]
-### Conditions
-- [[Bleeding]]
-- [[SoC • Condition Card - Scared|Scared]]
-- [[Slowed]]
-- [[Stunned]]
-- [[Drowning]]
-- [[Unconscious]]
-- [[SoC • Condition Card - Dying|Dying]]
-- [[SoC • Condition Card - Stable|Stable]]
-- [[SoC • Condition Card - Flying|Flying]]
-- [[SoC • Condition Card - Invisible|Invisible]]
 ### Core Ability
 - [[SoC • Core Ability - Artificer|Artificer]]
 - [[SoC • Core Ability - Alchemist|Alchemist]]
@@ -250,13 +244,21 @@ aliases:
 - [[SoC • Item - Castle|Castle]]
 - [[SoC • Item - Fortress|Fortress]]
 ### Companions
-- [[SoC • Rules - Companions]]
-- [[SoC • Rules - Companions vs. Summons]]
-- [[SoC • Optional Rules - Legion Commander]]
-### Enemies
-- [[SoC • Enemy - Spooky Scary Skeleton|Skeleton]]
-- [[SoC • Enemy - Goblin|Goblin]]
-- [[SoC • Enemy - Dragon|Dragon]]
+- [[SoC • Rules - Companions|Companions]]
+- [[SoC • Rules - Companions vs. Summons|Companions vs. Summons]]
+- [[SoC • Optional Rules - Legion Commander|Legion Commander]]
+### Conditions
+- [[SoC • Condition Card - Bleeding|Bleeding]]
+- [[SoC • Condition Card - Blinded|Blinded]]
+- [[SoC • Condition Card - Scared|Scared]]
+- [[Slowed]]
+- [[Stunned]]
+- [[SoC • Condition Card - Drowning|Drowning]]
+- [[SoC • Condition Card - Flying|Flying]]
+- [[SoC • Condition Card - Invisible|Invisible]]
+- [[Unconscious]]
+- [[SoC • Condition Card - Dying|Dying]]
+- [[SoC • Condition Card - Stable|Stable]]
 ### Optional Rules
 - [[SoC • Optional Rule - Safe Place|Safe Place]] 
 - [[SoC • Optional Rule - With What Forge|With What Forge?]] 
@@ -272,5 +274,9 @@ aliases:
 - [[SoC • Optional Rule - Oops! All Runic Casters|Oops! All Runic Casters]] 
 - [[SoC • Optional Rule - Runes are a Go!|Runes are a Go!]] 
 - [[SoC • Optional Rule - Its Nerf or Nothing|Its Nerf or Nothing]] 
+- [[SoC • Optional Rule - Spellcasting Bonus|Spellcasting Bonus]]
 ### Custom Stuff
-- [[SoC • Item - Orla's Teapot|Orla's Teapot]]
+- [[SoC • Legendary Item - Orla's Teapot|Orla's Teapot]]
+- [[SoC • Enemy - Goblin|Goblin]]
+- [[SoC • Enemy - Spooky Scary Skeleton|Skeleton]]
+- [[SoC • Enemy - Dragon|Dragon]]

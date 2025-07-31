@@ -1,6 +1,6 @@
 *The reason i stole from CROWN and SKULL is essentially the system below*. 
 
-[[SoC • Discord Bot - Thread • NEW CAMPAIGN]] are used to ‘buy’ every detail. In this pages you’ll find everything you need to build a fully custom character. If you have an idea that isn’t listed, just work with your GM to add new bits.
+[[SoC • Rules Chapter - NEW CAMPAIGN|Hero Points]] are used to ‘buy’ every detail. In this pages you’ll find everything you need to build a fully custom character. If you have an idea that isn’t listed, just work with your GM to add new bits.
 
 Create your custom character following the steps below. 
 

@@ -8,7 +8,4 @@ aliases:
 - ***Color***: temporary health 
 %%
 
-
-### Card
-
 ![[SoC • Card - Temporary Health Card.png|325]]
