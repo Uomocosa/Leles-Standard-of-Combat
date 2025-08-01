@@ -10,8 +10,4 @@ aliases:
 - ***Color***: black 
 %%
 
-### Card
-
-![[SoC • Card - Death.png|325]]
-
 ![[SoC • Card - Death.png|325]]

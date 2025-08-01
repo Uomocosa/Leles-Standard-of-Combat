@@ -13,8 +13,9 @@ cssclasses:
   - seamless-embed
 ---
 # Attack and Defensive Roll
-
 ![[SoC • Rules - Attack and Defensive Roll|Attack and Defensive Roll]]
+
+![[SoC • Rules - Melee and Ranged Attacks|Melee and Ranged Attacks]]
 
 ![[SoC • Rules - Damage Roll|Damage Roll]]
 

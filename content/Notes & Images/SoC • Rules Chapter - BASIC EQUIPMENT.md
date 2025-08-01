@@ -12,6 +12,8 @@ aliases:
 cssclasses:
   - seamless-embed
 ---
+# Basic Equipment
+![[Damaged Gear|Damaged]]
 # Weapons
 ![[SoC • Basic Weapon - Dagger|Dagger]]
 

@@ -32,7 +32,7 @@ cssclasses:
 
 ![[SoC • Optional Rule - Oops! All Runic Casters|Oops! All Runic Casters]]
 
-![[SoC • Optional Rule - Runes are a Go!|Runes are a Go!]]
+![[SoC • Optional Rule - Rune Wars|Rune Wars]]
 
 ![[SoC • Optional Rule - Its Nerf or Nothing|Its Nerf or Nothing]]
 

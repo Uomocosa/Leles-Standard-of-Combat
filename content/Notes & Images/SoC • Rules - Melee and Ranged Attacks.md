@@ -14,6 +14,4 @@ aliases:
 - ***Color***: artifact 
 %%
 
-### Card
-
 ![[SoC • Card - Melee and Ranged Attacks.png|325]]

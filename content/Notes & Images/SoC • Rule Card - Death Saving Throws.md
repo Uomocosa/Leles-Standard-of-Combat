@@ -10,8 +10,4 @@ aliases:
 - ***Rarity***: common
 %%
 
-### Card
-
-![[SoC • Card - Death Saving Throws.png|325]]
-
 ![[SoC • Card - Death Saving Throws.png|325]]

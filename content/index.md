@@ -28,7 +28,6 @@ _Heavily inspired by [Crow and Skull](https://www.runehammer.online/crown-skull-
 10. ***[[SoC • Rules Chapter - LINEAGES|Choose Your Lineage]]*** (*Ask you **GM** for the Campaign's Settings and Lineages*)
 ----
 ### Making of This Project, Useful Files
-- [[SoC - List of Cards|All Cards]] 
 - [[SoC - Cards to Print|Cards to print]] 
 - [[TO PHISICALLY PRINT]]
 - [[Soc - AI Prompts Examples|AI Prompts]] 

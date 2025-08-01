@@ -10,8 +10,4 @@ aliases:
 - ***Rarity***: common
 %%
 
-### Card
-
-![[SoC • Card - Dying.png|325]]
-
 ![[SoC • Card - Dying.png|325]]

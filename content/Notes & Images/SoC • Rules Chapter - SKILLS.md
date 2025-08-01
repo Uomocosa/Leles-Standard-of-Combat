@@ -32,6 +32,7 @@ Mark your Skill's Modifier in your [[SoC • Card - Character Details|Character 
 
 ![[SoC • Rules - Critical Success and Failure]]
 
+![[SoC • Rules - Inspiration|Inspiration]]
 # Cards
 
 ![[Agility]]
