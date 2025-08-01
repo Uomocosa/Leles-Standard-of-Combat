@@ -36,7 +36,7 @@ _Heavily inspired by [Crow and Skull](https://www.runehammer.online/crown-skull-
 - [[Equipment Properties]] 
 - [[Copy and Paste Checks]] 
 - [[SoC - Ideas to Implement|Ideas to Implement]] 
-
+- [[Rules (SoC)]]
 ----
 ### Crown and Skull Homage
 - [Crown and Skull - Official Site](https://www.runehammer.online/crown-skull-rpg) 

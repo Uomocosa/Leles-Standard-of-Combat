@@ -4,13 +4,13 @@ aliases:
 cssclasses:
   - seamless-embed
 ---
+# Character Creation
 ![[SoC • Introduction - Character Creation|Character Creation]]
 
 
 # Cards
 
 ![[SoC • Card - Character Details|Character Details]]
-
 
 ![[SoC • Resource - Health Card]]
 
