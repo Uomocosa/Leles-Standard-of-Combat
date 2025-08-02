@@ -22,4 +22,5 @@ cssclasses:
 
 ![[Unconscious]]
 
+![[SoC • Condition Card - Dying|Dying]]
 ![[SoC • Condition Card - Stable|Stable]]

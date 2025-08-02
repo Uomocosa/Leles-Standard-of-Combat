@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[SoC • Core Ability - Master of the Forge (Image).png|222]]
 - ***Info***: Core Ability
 - ***Cost***: 7
-- ***Description***:<br>When you make a [[Forging]] [[SoC • Rules Chapter - SKILLS|Skill Check]], roll with [[SoC • Rules - Advantage and Disadvantage|Advantage]].<br>While working on a piece of [[SoC • Rules Chapter - CUSTOM GEAR|Gear]], you can add **an additional [[SoC • Rules - 1 Point Upgrade|1 Point Upgrade]] for free**.<br>_(You still need to succeed on the [[Forging]] [[SoC • Rules Chapter - SKILLS|Skill Check]] as usual, and you must know at least one [[SoC • Rules Chapter - CUSTOM SPELLS|Spell]] that costs **1 pt** and has a **1 hour duration**, in order to imbue it into the Gear.)_
+- ***Description***:<br>When you make a [[Forging]] [[SoC • Rules Chapter - SKILLS|Skill Check]], roll with [[SoC • Rules - Advantage and Disadvantage|Advantage]].<br><br>While working on a piece of [[SoC • Rules Chapter - CUSTOM GEAR|Gear]], you can add **an additional [[SoC • Rules - 1 Point Upgrade|1 Point Upgrade]] for free**.<br>_(You still need to succeed on the [[Forging]] [[SoC • Rules Chapter - SKILLS|Skill Check]] as usual.)_
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: artifact 

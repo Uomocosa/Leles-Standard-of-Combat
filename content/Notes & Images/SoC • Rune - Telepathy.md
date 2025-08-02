@@ -3,13 +3,16 @@ aliases:
   - Telepathy
   - Telepathy-2
   - Telepathy-3
+  - Telepathy-4
+  - Telepathy-5
 ---
+%%
 - ***Image***:<br>![[Pasted image 20250102220606.png|100]]
 - ***Info***: Rune - Telepathy 
-- ***Cost***: 3 
-- ***Description***:<br>Choose [[Arcane]], [[Faith]] or [[Nature]] when you add this Effect. You try to read the mind of target creature, roll the choosen [[Skill Check]] against a [[Skills|DC]] that is equal to **15 + the [[Will]] [[Skills|Modifier]] of that creature**, otherwise you can use this effect to send a message to a willing creature, or excange a few word telepathically, if used like this, it does not require a [[Skill Check]].<br>If you stack this effect you can reduce the [[Skills|DC (Difficulty Class)]] by **5**. 
-- ***Effects***: 
-- ***Limitations***: 
+- ***Description***:<br>_Connect two minds_.<br>**Num. of Telepathy Runes** | Example of Effect:<br>• **1** | Target a Creature in your Zone, for **1 hour** you two can talk telepathically, you understand each other intentions even if you don't speak any common languages.<br>• **2** | Target a Creature in your Zone. Succeed in an [[SoC • Rules - Opposing Rolls|Opposing Roll]]: _[[SoC • Rule - Anima|Anima]]_ **vs.** _[[Will]]_ to read its thoughts for **1 hour**. Every **[[SoC • Rules Chapter - COMBAT|Round]]** repeat the same [[SoC • Rules - Opposing Rolls|Opposing Roll]], if you lose the spell ends.<br>• **3** | Target a Creature in your Zone. Succeed in an [[SoC • Rules - Opposing Rolls|Opposing Roll]]: _[[SoC • Rule - Anima|Anima]]_ **vs.** _[[Will]]_ to read its thoughts for **1 hour**. You roll with [[SoC • Rules - Advantage and Disadvantage|Advantage]]. Every **[[SoC • Rules Chapter - COMBAT|Round]]** repeat the same [[SoC • Rules - Opposing Rolls|Opposing Roll]], if you lose it the spell ends.
 - ***Color***: blue 
-----
-- ***Card***:<br>![[SoC • Card - Telepathy.png|550]]
+- ***Rarity***: common
+- ***Image Filter***: spell_effect
+%%
+
+![[SoC • Card - Telepathy.png|650]]

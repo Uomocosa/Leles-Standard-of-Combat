@@ -2,13 +2,19 @@
 aliases:
   - Duration
   - Duration-2
+  - Duration-3
+  - Duration-4
+  - Duration-5
 ---
+%%
 - ***Image***:<br>![[Pasted image 20250102221205.png|100]]
 - ***Info***: Rune - Duration 
-- ***Cost***: 3 
-- ***Description***:<br>The spell lasts **1 hour**, or **double** its normal duration, whichever is higher.<br>You can add this effect only once more, if you do the spell lasts for **8 hours**.
+- ***Description***:<br>**Num. of Duration Runes** | Example of Effect:<br>• **1** | _Delay_ — As you cast this Spell, choose another Spell you know and pay its **Energy** cost. Then, choose a **specific time within 1 hour**. The chosen Spell is cast at the chosen time. If the chosen Spell requires a target and you don't choose one (or cannot) as you cast this spell, the chosen spell will target a random valid target when it's cast. <br>• **2** | _From Dawn to Dusk_ — All effect of the Spell that would last for **1 hour**, instead last for **1 day**.
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 
-----
-- ***Card***:<br>![[SoC • Card - Duration.png|550]]
+- ***Rarity***: common
+- ***Image Filter***: spell_effect
+%%
+
+![[SoC • Card - Duration.png|650]]

@@ -3,13 +3,18 @@ aliases:
   - Create
   - Create-2
   - Create-3
+  - Create-4
+  - Create-5
 ---
+%%
 - ***Image***:<br>![[Pasted image 20250102220752.png|100]]
 - ***Info***: Rune - Create 
-- ***Cost***: 3 
-- ***Description***:<br>Create a single-use object imbued with a spell you know, that has at most **2 effects**. The copied spell will ignore [[SoC • Rune - Recast|Recast]] and [[SoC • Rune - Lasting|Lasting]] Effects.<br>If you stack this effect you can imbue a spell with up to **4 effects**, and again to imbue a spell with up to **6 effects**. 
+- ***Description***:<br>Create a normal object, or imbued it with a spell you know. You can also create Walls, you can place them in-between two Zones or divide a single Zone in two, with the wall in the middle<br>**Num. of Create Runes** | Example of Effect:<br>• **1** | Create a magical (_non-solid_) wall for **1 hour**. Each creature that voluntarily traverses the wall suffers the Spell Effects, no [[SoC • Rules - Opposing Rolls|Opposing Roll]] needed.<br>• **1** | Create a physical wall for **1 hour**, it has **5** [[SoC • Rules Chapter - HEALTH|Health]].<br>• **5** | Create a physical wall for **1 hour**, it has **50** [[SoC • Rules Chapter - HEALTH|Health]].<br>• **X** | Create a normal object, that costs no more than **X pt**, it lasts **1 hour**.<br>• **X** | Create a single-use magical object imbued with a spell you know that costs no more than **X pt**, it lasts **1 hour**, it follows the same rules as a [[SoC • Rules Chapter - SCROLLS AND POTIONS|Scroll]].
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: artifact 
-----
-- ***Card***:<br>![[SoC • Card - Create.png|550]]
+- ***Rarity***: common
+- ***Image Filter***: spell_effect
+%%
+
+![[SoC • Card - Create.png|650]]

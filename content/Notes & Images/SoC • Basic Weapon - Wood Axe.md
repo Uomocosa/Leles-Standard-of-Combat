@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[SoC • Basic Weapon - Wood Axe (Image).png|222]]
 - ***Info***: Basic Weapon
 - ***Cost***: 1 
-- ***Description***:<br>**Damage** — **1d4** force damages<br>**Breakable 5**.<br>**Simple** — An extremely basic piece of Equipment, that can be repaired by anyone. Whenever you make a [[Forging]] [[SoC • Rules Chapter - SKILLS|Skill Check]] to [[Heal and Repair|Repair]] it, do it with [[SoC • Rules - Advantage and Disadvantage|Advantage]].<br><br>You can use [[Might]] instead of [[Agility]] to [[Thrown • Description|Throw]] this Weapon.
+- ***Description***:<br>**Damage** — **1d4** force damages<br>**Breakable 5**.<br>**Simple** — This piece of Equipment can be repaired by anyone. When you make a [[Forging]] [[SoC • Rules Chapter - SKILLS|Skill Check]] to [[Heal and Repair|repair]] it, you do so with **[[SoC • Rules - Advantage and Disadvantage|Advantage]]**.<br><br>You can use [[Might]] instead of [[Agility]] to [[Thrown • Description|Throw]] this Weapon.
 - ***Color***: Artifact, green
 - ***Nameplate Color***: artifact 
 - ***Background Color***: artifact 

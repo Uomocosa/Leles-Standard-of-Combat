@@ -3,13 +3,18 @@ aliases:
   - Mend
   - Mend-2
   - Mend-3
+  - Mend-4
+  - Mend-5
 ---
+%%
 - ***Image***:<br>![[Pasted image 20250102221958.png|100]]
 - ***Info***: Rune - Mend 
-- ***Cost***: 3 
-- ***Description***:<br>[[Healing and Repair|Repair]] a weapon, item, or piece of armor, it regains **1** of its [[Type of Cards|Health Cards]].
+- ***Description***:<br>_Examples of Mending Effects_:<br>• **1** | Repair a **Basic** piece of Equipment.<br>• **1** | Choose a **Basic** piece of Equipment in your Zone, for **1 hour**, the next time  it would get Damaged, instead it does not.<br>• **2** | Repair **up to a Standard** piece of Equipment.<br>• **2** | Choose **up to a  Standard** piece of Equipment in your Zone, for **1 hour**, the next time  it would get Damaged, instead it does not.<br>• **3** | Repair **up to a Grand** piece of Equipment.<br>• **3** | Choose **up to a Grand** piece of Equipment in your Zone, for **1 hour**, the next time  it would get Damaged, instead it does not.
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: white 
-----
-- ***Card***:<br>![[SoC • Card - Mend.png|550]]
+- ***Rarity***: common
+- ***Image Filter***: spell_effect
+%%
+
+![[SoC • Card - Mend.png|650]]

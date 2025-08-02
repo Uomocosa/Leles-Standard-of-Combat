@@ -1,7 +1,7 @@
 %%
 - ***Image***:<br>![[Perception (Image).png|222]]
 - ***Info***: Skill
-- ***Description***:<br>_The **Perception** skill represents a character's ability to keenly observe their surroundings, notice subtle details, and interpret sensory information. It encompasses sight, hearing, smell, touch, and even unusual senses if applicable, allowing a character to pick up on things that others might miss._<br><br>Use your **Perception** to:<br>• Uncover hidden truth in a room.<br>• Notice a group of Enemies trying to ambush you.<br>• Use your **Perception** to see a Creature trying to be [[Stealth|Stealthy]].<br>• ... 
+- ***Description***:<br>_The **Perception** skill represents a character's ability to keenly observe their surroundings, notice subtle details, and interpret sensory information. It encompasses sight, hearing, smell, touch, and even unusual senses if applicable, allowing a character to pick up on things that others might miss._<br><br>Use your **Perception** to:<br>• Uncover hidden truth in a room.<br>• Notice a group of Enemies trying to ambush you.<br>• Use your **Perception** to see a Creature trying to be [[Stealth|Stealthy]].
 
 - ***Flavor***: 
 - ***Color***: green 

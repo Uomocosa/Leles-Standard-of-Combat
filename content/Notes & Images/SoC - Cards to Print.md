@@ -4,4 +4,3 @@ aliases:
 cssclasses:
   - seamless-embed
 ---
-[[Damaged Gear|Damaged]]

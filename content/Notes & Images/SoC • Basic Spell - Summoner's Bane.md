@@ -6,9 +6,8 @@ aliases:
 - ***Image***:<br>![[summoner's-bane-edited.png|222]]
 - ***Info***: Basic Spell  
 - ***Cost***: 1 
-- ***Description***:<br>Deal **1d12 radiant damages** to target **[[SoC • Spell Effect - Summon|Summoned]]** Creature in your Zone.
-- ***Effects***: [[SoC • Spell Effect - Banish|Banish]]
-- ***Limitations***: 
+- ***Description***:<br>Deal **1d12 radiant damages** to target **[[SoC • Rune - Summon|Summoned]]** Creature in your Zone.
+- ***Flavor***: Created from the Rune — [[SoC • Rune - Banish|Banish]]
 - ***Color***: white 
 - ***Rarity***: common
 - ***Image Filter***: 

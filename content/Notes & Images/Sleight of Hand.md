@@ -2,7 +2,7 @@
 %%
 - ***Image***:<br>![[Pasted image 20250527194104.png|222]]
 - ***Info***: Skill
-- ***Description***:<br>_The **Sleight of Hand** skill represents a character's dexterity, precision, and agility when performing intricate actions with their hands, especially those requiring subtlety, speed, and misdirection. It's all about making quick, unnoticeable movements to manipulate small objects, conceal items, or perform tricks._<br><br>Make sure to have a good hand-eye coordination to:<br>• Pick locks.<br>• Grab an Enemy's weapon before him.<br>• ...
+- ***Description***:<br>_The **Sleight of Hand** skill represents a character's dexterity, precision, and agility when performing intricate actions with their hands, especially those requiring subtlety, speed, and misdirection. It's all about making quick, unnoticeable movements to manipulate small objects, conceal items, or perform tricks._<br><br>Make sure to have a good hand-eye coordination to:<br>• Pick locks.<br>• Grab an Item on the ground before all others.
 - ***Flavor***: 
 - ***Color***: black 
 - ***Rarity***: common 

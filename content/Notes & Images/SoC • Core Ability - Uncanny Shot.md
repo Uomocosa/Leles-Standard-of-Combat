@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[SoC • Core Ability - Uncanny Shot (Image).png|222]]
 - ***Info***: Core Ability
 - ***Cost***: 7
-- ***Description***:<br>Whenever you damage a Creature with a [[SoC • Rules Chapter - BASIC EQUIPMENT|Ranged Weapon]], you can cast a [[SoC • Rules Chapter - CUSTOM SPELLS|Spell]] that costs **2 pts or less**, targeting that Creature, as part of the same Action. (_You still pay the Spell's [[SoC • Rules Chapter - ENERGY|Energy]] cost_)
+- ***Description***:<br>Whenever you damage a Creature with a **[[SoC • Rules Chapter - BASIC EQUIPMENT|Ranged Weapon]]**, you can cast a [[SoC • Rules Chapter - CUSTOM SPELLS|Spell]] that costs **2 [[SoC • Rules Chapter - NEW CAMPAIGN|Hero Points]] or less**, targeting that Creature, as part of the same Action. (_You still pay the Spell's [[SoC • Rules Chapter - ENERGY|Energy]] cost_)
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: green 

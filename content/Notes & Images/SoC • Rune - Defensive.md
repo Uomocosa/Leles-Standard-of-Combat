@@ -1,0 +1,20 @@
+---
+aliases:
+  - Defensive
+  - Defensive-2
+  - Defensive-3
+  - Defensive-4
+  - Defensive-5
+---
+%%
+- ***Image***:<br>![[Pasted image 20250102221848.png|100]]
+- ***Info***: Rune - Defensive 
+- ***Description***:<br>**Num. of Defensive Runes** | Example of Effect:<br>• **1** | For **1 hour**, the next attack that you receive deals **1** less damage.<br>• **5** | For **1 hour**, the next **5** attacks that you receive deal **1** less damages.<br>• **5** | For **1 hour**, the next attack that you receive deals **5** less damages.<br>• **X** | For **1 hour**, the next **X** times you would make an [[SoC • Rules - Opposing Rolls|Opposing Roll]] as the **Defender** that isn't a **[[Will]] [[SoC • Rules Chapter - SKILLS|Skill Check]]**, you may instead use [[Arcane]], [[Faith]], or [[Nature]] for that roll. (_choose the [[SoC • Rules Chapter - SKILLS|Skill]] to use when you add this Effect_)
+- ***Effects***: 
+- ***Limitations***: 
+- ***Color***: blue 
+- ***Rarity***: common
+- ***Image Filter***: spell_effect
+%%
+
+![[SoC • Card - Defensive.png|650]]

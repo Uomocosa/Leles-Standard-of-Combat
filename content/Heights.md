@@ -1,0 +1,5 @@
+Small (_As big as a half a human at most_)
+Medium (_As big as a human at most_)
+Big (_As big as a wagon_)
+Massive (_As big as a house at most_)
+Colossal (_As big as a castle at most_)

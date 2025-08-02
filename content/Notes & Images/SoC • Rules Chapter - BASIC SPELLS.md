@@ -5,19 +5,23 @@ cssclasses:
   - seamless-embed
 ---
 # Basic Spells
+![[SoC • Rule Card - Learning Basic Spells|Basic Spells]]
+
 ![[SoC • Rule Card - Spellcasting|Spellcasting]]
 
-![[SoC • Rule Card - Basic Spells|Basic Spells]]
+![[SoC • Rules - Meditate and Train|Meditate and Train]]
+
+![[SoC • Rule - Anima]]
+
+![[SoC • Rule - Lasting Spells|Lasting]]
+
+![[SoC • Rule - Passive Ability|Passive]]
 
 # Cards
-
-![[SoC • Basic Spell - Arcane Lock|Arcane Lock]]
 
 ![[SoC • Basic Spell - Darkvision|Darkvision]]
 
 ![[SoC • Basic Spell - Dream Spike|Dream Spike]]
-
-![[SoC • Basic Spell - Fireblast|Fireblast]]
 
 ![[SoC • Basic Spell - Ghost Blade|Ghost Blade]]
 
@@ -26,6 +30,8 @@ cssclasses:
 ![[SoC • Basic Spell - Invisible Wall|Invisible Wall]]
 
 ![[SoC • Basic Spell - Mage's Armor|Mage's Armor]]
+
+![[SoC • Basic Spell - Mage's Lock|Arcane Lock]]
 
 ![[SoC • Basic Spell - Minor Creation|Minor Creation]]
 
@@ -40,6 +46,8 @@ cssclasses:
 ![[SoC • Basic Spell - Vines|Vines]]
 
 ![[SoC • Basic Spell - Waterbreath|Waterbreath]]
+
+![[SoC • Basic Spell - Whisper of Restoration|Fireblast]]
 
 ![[SoC • Basic Spell - Piercing Blade|Piercing Blade]]
 

@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[SoC • Flaw - Ascetic (Image).png|222]]
 - ***Info***: Flaw
 - ***Cost***:
-- ***Description***:<br>_You frown on possessions_.<br>Your [[Inventory]] can never exceed **10** items (between [[SoC • Rules Chapter - CUSTOM GEAR|custom gear]], [[SoC • Rules Chapter - BASIC EQUIPMENT|equipment]] and [[Basic Item List|items]]). 
+- ***Description***:<br>_You frown on possessions_.<br>Your [[Inventory]] can never exceed **10** items (between [[SoC • Rules Chapter - CUSTOM GEAR|custom gear]], [[SoC • Rules Chapter - BASIC EQUIPMENT|equipment]] and [[SoC • Rules Chapter - ITEMS|items]]). 
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: white 

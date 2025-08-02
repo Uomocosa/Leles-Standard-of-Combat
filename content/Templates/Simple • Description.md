@@ -1,1 +1,1 @@
-<br>**Simple** — An extremely basic piece of Equipment, that can be repaired by anyone. Whenever you make a [[Forging]] [[SoC • Rules Chapter - SKILLS|Skill Check]] to [[Heal and Repair|Repair]] it, do it with [[SoC • Rules - Advantage and Disadvantage|Advantage]].
+<br>**Simple** — This piece of Equipment can be repaired by anyone. When you make a [[Forging]] [[SoC • Rules Chapter - SKILLS|Skill Check]] to [[Heal and Repair|repair]] it, you do so with **[[SoC • Rules - Advantage and Disadvantage|Advantage]]**.

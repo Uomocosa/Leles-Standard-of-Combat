@@ -14,6 +14,7 @@ _Heavily inspired by [Crow and Skull](https://www.runehammer.online/crown-skull-
 - **5 [[SoC • Rules Chapter - HEALTH|Health Cards]] and 3 [[SoC • Rules Chapter - ENERGY|Energy Cards]]**.
 - **2 copies of each Generic Action Cards** (_[[SoC • Generic Action - Movement or Skill|Movement or Skill]] and [[SoC • Generic Action - Encore|Encore]]_).
 - **1 set of [[SoC • Item - Rations|Rations]]** (_they should last you for a **week**_).
+- Choose and learn **1 [[SoC • Rules Chapter - RUNES|Rune]]** of your choice.
 
 ***[[SoC • Rules Chapter - NEW CAMPAIGN|New Campaign]]*** — All Characters start (_usually_) with **20 hero points** to spend on their build. <br>Remember that each of the following step is **OPTIONAL**, you can also create a blank character with **20 points** yet-to-spend.
 1. ***[[SoC • Rules Chapter - FLAWS|Choose Flaw(s)]]*** 
@@ -31,11 +32,12 @@ _Heavily inspired by [Crow and Skull](https://www.runehammer.online/crown-skull-
 - [[SoC - Cards to Print|Cards to print]] 
 - [[TO PHISICALLY PRINT]]
 - [[Soc - AI Prompts Examples|AI Prompts]] 
-- [[Runes]] 
+- [[Rune Site Generator]] 
 - [[Equipment Properties]] 
 - [[Copy and Paste Checks]] 
 - [[SoC - Ideas to Implement|Ideas to Implement]] 
 - [[Rules (SoC)]]
+- [[Old and Removed Stuff]]
 ----
 ### Crown and Skull Homage
 - [Crown and Skull - Official Site](https://www.runehammer.online/crown-skull-rpg) 

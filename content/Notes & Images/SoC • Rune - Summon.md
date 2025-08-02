@@ -3,13 +3,20 @@ aliases:
   - Summon
   - Summon-2
   - Summon-3
+  - Summon-4
+  - Summon-5
+  - Summoned
+  - Animated
 ---
-- ***Image***:<br>![[Pasted image 20250102221251.png|100]]
+%%
+- ***Image***:<br>![[Pasted image 20250102221143.png|100]]
 - ***Info***: Rune - Summon 
-- ***Cost***: 3 
-- ***Description***:<br>**Summon** **1d6** "minion" creatures or constructs with **1** [[Enemy Primer|HP]], and **6** [[Armor Class (AC)|AC]] each can try to attack with a Bite — **d20-2** (**1 damage**).<br>All **Summoned creature** follows these rules:<br>• _You need to first summon them, usually by casting a spell. After summoning you also need to forgo one of your action to **command** them_.<br>• _A summoned creature can perform only **1** action per [[Phases of Combat|round]]_.<br>• _Most summoned creatures do not have any kind of [[Skills|Skill]]_.<br>• _They can easily be [[SoC • Rune - Banish|Banished]] or [[SoC • Rune - Dispel|Dispelled]]_.<br>• _They dont require any food to be kept alive, and usually cannot go against your orders_.<br>• _Unless you increase its [[SoC • Rune - Duration|Duration]], a summoned creature only persist 1 [[Phases of Combat|round]]_.
+- ***Description***:<br>**Summon** a Creature/s or **Animate** an object/s. Both counts as **Summoned Creatures** and can easily be [[SoC • Rune - Banish|Banished]].<br>Once Summoned, they stay still, awaiting your Commands. They cannot disobey.<br>**Num. of Summoning Runes** | Example of Effect:<br>• **1** ​​​​​| Small Creature/Object. It has **1 [[SoC • Rules Chapter - HEALTH|Health]]**, it can attack dealing **1 force damage**, and has **1 [[SoC • Rules Chapter - SKILLS|Skill]] of your choice of at +3**<br>• **3** | Up to Medium-size Creature/Object. It has **5** [[SoC • Rules Chapter - HEALTH|Health]], it can attack dealing **1 force damage**, and has **2 [[SoC • Rules Chapter - SKILLS|Skills]] of your choice of at +4**.<br>• **5** | Up to Grand-sized Creature/Object. It has **15** [[SoC • Rules Chapter - HEALTH|Health]], it can attack dealing **1 force damage**, and has of your choice of **3 [[SoC • Rules Chapter - SKILLS|Skills]] of your choice of at +5**.<br>• **5** | Small Creature/Object. It has **1** [[SoC • Rules Chapter - HEALTH|Health]],  it can attack dealing **1 force damage**, and has **1 [[SoC • Rules Chapter - SKILLS|Skills]] of your choice of at +5**, it can cast a **1 or** **2 pts cost [[SoC • Rules Chapter - CUSTOM SPELLS|Spell]]** you know **3** times.
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: black 
-----
-- ***Card***:<br>![[SoC • Card - Summon.png|550]]
+- ***Rarity***: common
+- ***Image Filter***: spell_effect
+%%
+
+![[SoC • Card - Summon.png|650]]

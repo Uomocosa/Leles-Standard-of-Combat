@@ -61,6 +61,6 @@ cssclasses:
 
 ![[SoC • Spell Limitation - Veil of Silence|Veil of silence]]
 
-![[Unstable Magic Table]]
+![[Notes & Images/Unstable Magic Table]]
 
 ![[Infernal Magic Table]]

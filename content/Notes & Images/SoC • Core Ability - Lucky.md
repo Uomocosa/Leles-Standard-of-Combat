@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[SoC • Core Ability - Lucky (Image).png|222]]
 - ***Info***: Core Ability
 - ***Cost***: 7
-- ***Description***:<br>_You have inexplicable luck that seems to kick in at just the right moment_.<br>Whenever you or another Creature you can see, makes a [[SoC • Rules Chapter - SKILLS|Skill Check]] you can roll an additional **d20**. You can choose to use this effect after you roll the die, but before the outcome is determined. From all the **d20**s rolled for this check, choose one of them to be the result.<br>You can use this effect once per [[Rest and Recovery|night of rest]], after that to use it again you need to pay **1 [[SoC • Rules Chapter - NEW CAMPAIGN|Hero Point]]**.
+- ***Description***:<br>_You have inexplicable luck that seems to kick in at just the right moment_.<br>Whenever a Creature in your **[[SoC • Rules Chapter - ZONES|Zone]]**, that you can see, makes a **[[SoC • Rules Chapter - SKILLS|Skill Check]]** you can **roll an additional d20**. You can choose to use this effect after you roll the die, but before the outcome is determined. From all the **d20**s rolled for this check, **choose one of them to be the result**.<br>You can use this effect **once per [[SoC • Rules - A Night of Rest|Night of Rest]]**, after that to use it again you need to pay **1 [[SoC • Rules Chapter - NEW CAMPAIGN|Hero Point]]**.
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: artifact 

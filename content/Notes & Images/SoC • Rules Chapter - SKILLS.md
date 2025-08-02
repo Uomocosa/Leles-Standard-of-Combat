@@ -23,8 +23,12 @@ Increase your' Skills Mastery by [[SoC • Rules - Meditate and Train|Meditating
 Mark your Skill's Modifier in your [[SoC • Card - Character Details|Character Details]] Card:
 
 ![[SoC • Card - Character Details|Character Details]]
+
+![[SoC • Rules - Acquiring Runes|Acquiring Runes]]
 # Skill Checks
 ![[SoC • Rules - Skill Checks|Skill Checks]]
+
+![[SoC • Rules - Difficulty Class]]
 
 ![[SoC • Rules - Opposing Rolls|Opposing Rolls]]
 

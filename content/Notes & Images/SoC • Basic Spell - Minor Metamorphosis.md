@@ -6,9 +6,8 @@ aliases:
 - ***Image***:<br>![[minor-metaphormosis-edited.png|222]]
 - ***Info***: Basic Spell  
 - ***Cost***: 1
-- ***Description***:<br>Choose target Creature in your Zone.It gets **1 [[SoC • Rules Chapter - HEALTH|Temporary Health]]**, and it becomes an animal of a small size or less (_like a rat or a robin_), that you clearly know and have seen.<br>Each object it carries gets melded in the transformation and re-appears when it ends, or it simply falls to the ground, your choice.<br>The spell lasts up to **1 hour**, but it ends early the moment you have no [[SoC • Rules Chapter - HEALTH|Temporary Health]] remaining.<br>While in this form the target's [[Might]] and [[Agility]] [[SoC • Rules Chapter - SKILLS|Modifiers]] become **+0**.<br>If the target tries to resist, succeed in an [[SoC • Rules - Opposing Rolls|Opposing Roll]]: _[[Faith]] **vs.** [[Will]]_ to apply the spell's effects, **your roll with [[SoC • Rules - Advantage and Disadvantage|Disadvantage]]**. At the end of **[[SoC • Rules Chapter - COMBAT|Round]]** succeed in the same Opposing Roll, otherwise the spell ends.
-- ***Effects***: [[SoC • Spell Effect - Shapechange|Shapechange]]
-- ***Limitations***: 
+- ***Description***:<br>Choose target Creature in your Zone.It gets **1 [[SoC • Rules Chapter - HEALTH|Temporary Health]]**, and it becomes an animal of a small size or less (_like a rat or a robin_), that you clearly know and have seen.<br>Each object it carries gets melded in the transformation and re-appears when it ends, or it simply falls to the ground, **your choice**.<br>The spell lasts up to **1 hour**, but it ends early the moment you have no [[SoC • Rules Chapter - HEALTH|Temporary Health]] remaining.<br>While in this form the target's [[Might]] and [[Agility]] [[SoC • Rules Chapter - SKILLS|Modifiers]] become **+0**.<br>If the target tries to resist, succeed in an [[SoC • Rules - Opposing Rolls|Opposing Roll]]: _[[SoC • Rule - Anima|Anima]] **vs.** [[Will]]_ to apply the spell's effects, **your roll with [[SoC • Rules - Advantage and Disadvantage|Disadvantage]]**. At the end of **[[SoC • Rules Chapter - COMBAT|Round]]** succeed in the same Opposing Roll, otherwise the spell ends.
+- ***Flavor***: Created from the Rune — [[SoC • Rune - Shapechange|Shapechange]]
 - ***Color***: green 
 - ***Rarity***: common 
 - ***Image Filter***:  

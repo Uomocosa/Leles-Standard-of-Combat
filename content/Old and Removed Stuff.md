@@ -1,0 +1,1 @@
+- [[SoC • Basic Spell - Fireblast (Removed)]]

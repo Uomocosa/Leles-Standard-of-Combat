@@ -1,11 +1,16 @@
 ---
 aliases:
   - Items
+  - Item
+  - Large Item
+  - Large Items
 cssclasses:
   - seamless-embed
 ---
 # Items
+![[SoC • Rules - Items]]
 
+# Cards
 ![[SoC • Item - Rations|Rations]]
 
 ![[SoC • Item - Torches|Torches]]

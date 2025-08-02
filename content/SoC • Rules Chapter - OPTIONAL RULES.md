@@ -28,12 +28,6 @@ cssclasses:
 
 ![[SoC • Optional Rule - Energy is the Price]]
 
-![[SoC • Optional Rule - Runes to Acquire|Runes to Acquire]]
-
-![[SoC • Optional Rule - Oops! All Runic Casters|Oops! All Runic Casters]]
-
-![[SoC • Optional Rule - Rune Wars|Rune Wars]]
-
 ![[SoC • Optional Rule - Its Nerf or Nothing|Its Nerf or Nothing]]
 
-![[SoC • Optional Rule - Spellcasting Bonus|Spellcasting Bonus]]
+![[SoC • Optional Rule - Rule of Cool]]
