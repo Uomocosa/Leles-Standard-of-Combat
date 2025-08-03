@@ -30,6 +30,11 @@ TO DELETE
 9. ***[[SoC • Rules Chapter - COMPANIONS|Buy and Customize, or Scratch-Build a Companion]]*** 
 10. ***[[SoC • Rules Chapter - LINEAGES|Choose Your Lineage]]*** (*Ask you **GM** for the Campaign's Settings and Lineages*)
 ----
+### Crown and Skull Homage
+- [Crown and Skull - Official Site](https://www.runehammer.online/crown-skull-rpg) 
+- [Crown and Skull - Original (Free) Rules](https://uomocosa.github.io/Crown-and-Skull-Obsidian-Quartz-Publish) #TODO 
+
+%% 
 ### Making of This Project, Useful Files
 - [[SoC - Cards to Print|Cards to print]] 
 - [[TO PHISICALLY PRINT]]
@@ -40,7 +45,4 @@ TO DELETE
 - [[SoC - Ideas to Implement|Ideas to Implement]] 
 - [[Rules (SoC)]]
 - [[Old and Removed Stuff]]
-----
-### Crown and Skull Homage
-- [Crown and Skull - Official Site](https://www.runehammer.online/crown-skull-rpg) 
-- [Crown and Skull - Original (Free) Rules](https://uomocosa.github.io/Crown-and-Skull-Obsidian-Quartz-Publish) #TODO 
+%%
