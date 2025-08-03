@@ -19,7 +19,6 @@ cssclasses:
 ![[SoC • Rules - Acquiring Runes|Acquiring Runes]]
 
 # Example — Creating a Brand New Spell
-
 Let's look at our [[SoC • Rules Chapter - RUNES|Runes]], and decide which one we want to use.
 Let's start with a **Rune of [[SoC • Rune - Telepathy|Telepathy]]**:
 ![[SoC • Rune - Telepathy|Telepathy]]

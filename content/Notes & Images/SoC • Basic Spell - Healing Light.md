@@ -9,7 +9,7 @@ aliases:
 - ***Image***:<br>![[Pasted image 20250603155900.png|222]]
 - ***Info***: [[SoC • Rule Card - Learning Basic Spells|Basic Spell]]  
 - ***Cost***: 1 
-- ***Description***:<br>Target creature in your Zone gets [[Heal and Repair|Regains]] **1d4 [[SoC • Rules Chapter - HEALTH|Health]]**.
+- ***Description***:<br>Target creature in your Zone [[Heal and Repair|Regains]] **1d4 [[SoC • Rules Chapter - HEALTH|Health]]**.
 - ***Flavor***: Created from the Rune — [[SoC • Rune - Restore|Restore]]
 - ***Color***: white 
 - ***Prompt***: I need a prompt, not an image, that I can use to create one. It represents the spell "Healing Light", with this effect: Target creature in your Zone gets [[Heal and Repair|Healed]] by **1d4 damages**.

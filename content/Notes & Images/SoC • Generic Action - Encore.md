@@ -9,7 +9,7 @@ aliases:
 - ***Nameplate***: Generic Action
 - ***Type***: Generic Action
 - ***Cost***: X 
-- ***Description***:<br>_Generic Action_ — During your **[[SoC • Rules Chapter - COMBAT|Turn]]** you can [[SoC • Rules - Forgo an Action|Forgo an Action]] to perform this instead.<br><br>Choose one Action that you've already taken this **[[SoC • Rules Chapter - COMBAT|Round]]**, take it again. You have to pay its cost as normal, if any.
+- ***Description***:<br>_Generic Action_ — At any moment you can **[[SoC • Rules - Forgo an Action|Forgo an Action]]** to perform this instead, without spending any extra [[SoC • Rules Chapter - ENERGY|Energy]].<br><br>Choose one Action that you've already taken this **[[SoC • Rules Chapter - COMBAT|Round]]**, take it again. You have to pay its cost as normal, if any.
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: multicolor 

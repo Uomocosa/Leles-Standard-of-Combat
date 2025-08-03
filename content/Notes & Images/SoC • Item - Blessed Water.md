@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[SoC • Item - Blessed Water (Image).png|222]]
 - ***Info***: Item
 - ***Cost***: 1 
-- ***Description***:<br>Throw against a **[[SoC • Rune - Summon|Summoned]] Creature** or **Undead** to inflict **1d6 damages**, each.<br>_Counts_ — ☐ ☐ ☐ ☐ ☐ ☐ ☐
+- ***Description***:<br>Throw against a **[[SoC • Rune - Summon|Summoned]] Creature** or **Undead** to inflict **1d6 damages**, each.<br>_Counts_ — ☐ ☐ ☐ ☐ ☐
 - ***Color***: white 
 %%
 

@@ -23,9 +23,9 @@ aliases:
 - ***Idea #4*** — Should I introduce a new [[SoC • Rules Chapter - SKILLS|Skill]] like **Evasion** and/or **Fortitude**, to reduce the power of [[Might]] and [[Agility]]?<br>This skill will be used to avoid most damages.
 ----
 ##### Spells
-- A [[SoC • Rune - Silent|Silent]] and [[SoC • Rune - Still|Still]] spell cannot be reacted to.
-- ***[[Passive]] Spells***: how would one work? How can you create one.<br>Example: Your fists deal **1d6**, so the effects needed would be just: **Passive**, **Powerfull**.
-- You NEED a way to get back some spell from you [[SoC • Rules - Discard Pile]].<br>For example each spell could have a **cooldown** of **1d6 rounds**.<br>Or better you can always discard others spells to get one back from your discard pile. The spells discarded this way need to have a total cost equal or greater than the spell you cast again.<br>[[SoC • Rune - Recast|Recast]] needs to be removed.
+- A **Silent** and **Still** spell cannot be Reacted to.
+- ***Passive Spells***: how would one work? How can you create one.<br>Example: Your fists deal **1d6**, so the effects needed would be just: **Passive**, **Powerful**.
+- You NEED a way to get back some spell from you [[SoC • Rules - Discard Pile]].<br>For example each spell could have a **cooldown** of **1d6 rounds**.<br>Or better you can always discard others spells to get one back from your discard pile. The spells discarded this way need to have a total cost equal or greater than the spell you cast again.<br>**Recast** needs to be removed.
 - Bring basic-spell damage to **1**.
 ##### Gear
 - You need to do an overhaul of the damage.<br>The weapons are too strong, especially at the start.

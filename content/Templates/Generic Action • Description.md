@@ -1,1 +1,1 @@
-_Generic Action_ — During your **[[SoC • Rules Chapter - COMBAT|Turn]]** you can [[SoC • Rules - Forgo an Action|Forgo an Action]] to perform this instead.<br><br>
+_Generic Action_ — At any moment you can **[[SoC • Rules - Forgo an Action|Forgo an Action]]** to perform this instead, without spending any extra [[SoC • Rules Chapter - ENERGY|Energy]].<br><br>

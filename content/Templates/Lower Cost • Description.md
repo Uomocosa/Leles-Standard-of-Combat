@@ -1,0 +1,1 @@
+<br>_Lower Cost_ — This CARD_TYPE costs **X [[SoC • Rules Chapter - NEW CAMPAIGN|Hero Points]]**.<br>

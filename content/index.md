@@ -1,6 +1,8 @@
 # Lele's Standard of Combat
 _Heavily inspired by [Crow and Skull](https://www.runehammer.online/crown-skull-rpg), [Dungeons and Dragons](https://5e.tools/), and [Magic: The Gathering](https://scryfall.com/)_.
 
+TO DELETE
+
 > ***COMPLETE RULESET***:
 > If you have time or you have been chosen as the **GM**, take a look at the [[Rules]] for this game.
 
@@ -14,7 +16,7 @@ _Heavily inspired by [Crow and Skull](https://www.runehammer.online/crown-skull-
 - **5 [[SoC • Rules Chapter - HEALTH|Health Cards]] and 3 [[SoC • Rules Chapter - ENERGY|Energy Cards]]**.
 - **2 copies of each Generic Action Cards** (_[[SoC • Generic Action - Movement or Skill|Movement or Skill]] and [[SoC • Generic Action - Encore|Encore]]_).
 - **1 set of [[SoC • Item - Rations|Rations]]** (_they should last you for a **week**_).
-- Choose and learn **1 [[SoC • Rules Chapter - RUNES|Rune]]** of your choice.
+- Learn **1 [[SoC • Rules Chapter - RUNES|Rune]] of your choice**.
 
 ***[[SoC • Rules Chapter - NEW CAMPAIGN|New Campaign]]*** — All Characters start (_usually_) with **20 hero points** to spend on their build. <br>Remember that each of the following step is **OPTIONAL**, you can also create a blank character with **20 points** yet-to-spend.
 1. ***[[SoC • Rules Chapter - FLAWS|Choose Flaw(s)]]*** 

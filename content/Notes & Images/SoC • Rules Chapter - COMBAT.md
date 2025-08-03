@@ -25,5 +25,5 @@ cssclasses:
 ![[SoC • Rules - Turn and Round|Turn and Round]]
 
 
-![[SoC • Rules - Combat|Combat]]
+![[SoC • Rules - Combat Phases|Combat]]
 ![[SoC • Rules - Surprise Round|Surprise Round]]

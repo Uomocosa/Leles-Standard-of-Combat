@@ -14,7 +14,6 @@ cssclasses:
 
 # Use your Energy
 
-
 ![[SoC • Rules - Prepare to Act|Prepare to Act]]
 
 ![[Reactions]]

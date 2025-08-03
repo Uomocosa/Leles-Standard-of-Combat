@@ -51,7 +51,6 @@ cssclasses:
 
 # Large Items
 
-![[SoC • Item - Horse|Horse]]
 ![[SoC • Item - Cart|Cart]]
 
 ![[SoC • Item - Wagon|Wagon]]
