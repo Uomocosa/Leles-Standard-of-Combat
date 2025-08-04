@@ -11,7 +11,7 @@
 - [[SoC • Rules Chapter - BASIC EQUIPMENT|Basic Equipment]] 
 - [[SoC • Rules Chapter - BASIC SPELLS|Basic Spells]] 
 - [[SoC • Rules Chapter - ITEMS|Items]] 
-- [[SoC • Rules Chapter - CUSTOM SPELLS|Custom Spells]]  
+- [[SoC • Rules Chapter - SPELLS|Custom Spells]]  
 - [[SoC • Rules Chapter - RUNES|Spell Effects]] 
 - [[SoC • Rules Chapter - SPELL LIMITATIONS|Spell Limitations]] 
 - [[SoC • Rules Chapter - SCROLLS AND POTIONS|Scrolls and Potions]] 

@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[Pasted image 20250603172344.png|222]]
 - ***Info***: [[SoC • Rule Card - Learning Basic Spells|Basic Spell]]  
 - ***Cost***: 1
-- ***Description***:<br>A target creature's body changes and gills appear on its neck, allowing him to breath underwater. The spell lasts for **1 hour**.<br>If the target tries to resist, succeed in an [[SoC • Rules - Opposing Rolls|Opposing Roll]]: _[[SoC • Rule - Anima|Anima]] **vs.** [[Will]]_ to apply the spell's effects. At the end of **[[SoC • Rules Chapter - COMBAT|Round]]** succeed in the same Opposing Roll, otherwise the spell ends.
+- ***Description***:<br>**[[SoC • Rules Chapter - ENERGY|Energy Cost]]** — **1**<br>A target creature's body changes and gills appear on its neck, allowing him to breath underwater. The spell lasts for **1 hour**.<br>If the target tries to resist, succeed in an [[SoC • Rules - Opposing Rolls|Opposing Roll]]: _[[SoC • Rule - Anima|Anima]] **vs.** [[Will]]_ to apply the spell's effects. At the end of **[[SoC • Rules Chapter - COMBAT|Round]]** succeed in the same Opposing Roll, otherwise the spell ends.
 - ***Flavor***: Created from the Rune — [[SoC • Rune - Alter|Adapt]]
 - ***Color***: blue 
 - ***Prompt***: I need a prompt, not an image, that I can use to create one. It represents the spell "Waterbreath", with this effect: A target creature's body changes and gills appear on its neck, allowing him to breath underwater. The spell lasts for **1 hour**.<br>If the target tries to resist, succeed in an [[SoC • Rules - Opposing Rolls|Opposing Roll]]: _[[Nature]] **vs.** [[Will]]_ to apply the spell's effects. At the end of **[[SoC • Rules Chapter - COMBAT|Round]]** succeed in the same Opposing Roll, otherwise the spell ends.

@@ -5,8 +5,8 @@ aliases:
 %%
 - ***Name***: Spellcasting
 - ***Type***: Rules
-- ***Description***:<br>To cast a Spell you need to **discard a total amount of [[SoC • Rules Chapter - ENERGY|Energy]] equal to its [[SoC • Rules Chapter - NEW CAMPAIGN|Hero Points]] cost**. You do not [[SoC • Rules - Discard Pile|Discard]] Spells, only the Energy used to cast them, so if you have enough Energy you can cast the same Spell multiple times.<br><br>To increase your [[SoC • Rules Chapter - ENERGY|Energy]] you can **[[SoC • Rules - Meditate and Train|Meditate]]**, most commonly as part of [[Rest and Recovery|a Night of Rest]].
-- ***Flavor***: Basic Spells provide an Example on how you create new [[SoC • Rules Chapter - CUSTOM SPELLS|Spells]] using your Runes. Every Basic Spell has at the end the Rune/s that where used to create it.
+- ***Description***:<br>The simplest way to Cast a [[SoC • Rules Chapter - SPELLS|Spell]] is to Learn a [[SoC • Rules Chapter - BASIC SPELLS|Basic Spell]] by spending **[[SoC • Rules Chapter - NEW CAMPAIGN|Hero Points]]**.<br>As an [[SoC • Rules Chapter - COMBAT|Action]], you may also Modify a **[[SoC • Rules Chapter - BASIC SPELLS|Basic Spell]]** or create an entirely new **[[SoC • Rules Chapter - SPELLS|Spell]]** using your **[[SoC • Rules Chapter - RUNES|Runes]]**, and Cast it.<br><br>To Cast a [[SoC • Rules Chapter - SPELLS|Spell]], you must [[SoC • Rules - Discard Pile|Discard]] (_or “pay”_) an amount of **[[SoC • Rules Chapter - ENERGY|Energy Cards]]** equal to the number of Runes used in that Spell.
+- ***Flavor***: _Basic Spells provide an Example on how you create new [[SoC • Rules Chapter - SPELLS|Spells]] using your Runes. Every Basic Spell has at the end the Rune/s that where used to create it_.
 - ***Rarity***: common
 - ***Color***: artifact, blue
 - ***Nameplate Color***: 

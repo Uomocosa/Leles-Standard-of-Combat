@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[SoC • Basic Spell - Invisible Wall (Image).png|222]]
 - ***Info***: [[SoC • Rule Card - Learning Basic Spells|Basic Spell]] 
 - ***Cost***: 1 
-- ***Description***:<br>Choose an intersection between **two [[SoC • Rules Chapter - ZONES|Zones]]**, or separate a single **[[SoC • Rules Chapter - ZONES|Zone]]** in two. Create an invisible Wall with **2 HP**.<br>If you choose to set the Wall inside of a **[[SoC • Rules Chapter - ZONES|Zone]]**, the **GM** will tell beforehand which Creatures are inside your new **[[SoC • Rules Chapter - ZONES|Zone]]**, and which other Creatures will be on the other side.
+- ***Description***:<br>**[[SoC • Rules Chapter - ENERGY|Energy Cost]]** — **1**<br>Choose an intersection between **two [[SoC • Rules Chapter - ZONES|Zones]]**, or separate a single **[[SoC • Rules Chapter - ZONES|Zone]]** in two. Create an invisible Wall with **2 HP**.<br>If you choose to set the Wall inside of a **[[SoC • Rules Chapter - ZONES|Zone]]**, the **GM** will tell beforehand which Creatures are inside your new **[[SoC • Rules Chapter - ZONES|Zone]]**, and which other Creatures will be on the other side.
 - ***Flavor***: Created from the Rune — [[SoC • Rune - Create|Create]]
 - ***Color***: artifact 
 - _**Prompt** [ChatGPT](https://chatgpt.com/?model=auto)_: I need a 2D minimalistic fantasy illustration, in a minimal graphic style with white and black color, and a clean white background. It represents the spell ***Invisible Wall***, with the following effect: A **50cm** wide force field with **15** [[Enemy Primer|HP]]. Add the words "***Invisible Wall***" under the image in a stylish font, they must be clearly visible.

@@ -1,10 +1,6 @@
 ---
 aliases:
   - Transmute
-  - Transmute-2
-  - Transmute-3
-  - Transmute-4
-  - Transmute-5
 ---
 %%
 - ***Image***:<br>![[Pasted image 20250102221939.png|100]]

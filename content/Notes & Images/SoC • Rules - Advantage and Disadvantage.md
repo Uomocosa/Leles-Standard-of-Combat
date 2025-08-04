@@ -3,6 +3,8 @@ aliases:
   - Advantage
   - Disadvantage
   - Advantage and Disadvantage
+  - Advantages
+  - Disadvantages
 ---
 %%
 - ***Type***: Rules

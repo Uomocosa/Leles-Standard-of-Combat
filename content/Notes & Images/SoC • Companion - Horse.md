@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[SoC • Item - Horse (Image).png|222]]
 - ***Info***: Companion 
 - ***Cost***: 2
-- ***Description***:<br>**[[SoC • Rules Chapter - HEALTH|Health]]**  — **6**<br>**[[SoC • Rules Chapter - ENERGY|Energy]]** — **3**<br>**[[SoC • Rules Chapter - SKILLS|Skills]]** — **+0** to all Skills.<br>**[[SoC • Rules Chapter - RUNES|Known Runes]]** — _[[SoC • Rune - Haste|Haste]]_.<br><br>Transports up to 2 Medium-sized Creatures.
+- ***Description***:<br>**[[SoC • Rules Chapter - HEALTH|Health]]**  — **6**<br>**[[SoC • Rules Chapter - ENERGY|Energy]]** — **3**<br>**[[SoC • Rules Chapter - SKILLS|Skills]]** — **+0** to all Skills.<br>**[[SoC • Rules Chapter - RUNES|Known Runes]]** — _[[SoC • Rune - Haste|Haste]]_.<br><br>It can transports up to 2 Medium-sized Creatures.<br>It cannot cast Spells.
 - ***Color***: white 
 - ***Rarity***: common
 %%

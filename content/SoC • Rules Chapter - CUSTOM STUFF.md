@@ -10,6 +10,8 @@ Maybe the Custom Stuff are the friends we made along the way... (_see [[SoC • 
 
 ![[SoC • Spell - Mass Invisibility|Mass Invisibility]]
 
+![[SoC • Spell - Angel's Ascent|Angel's Ascent]]
+
 ![[SoC • Companion - Horse|Horse]]
 
 ![[SoC • Companion - Furia, Horse of the West|Furia, Horse of the West]]

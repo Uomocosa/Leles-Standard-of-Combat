@@ -1,10 +1,6 @@
 ---
 aliases:
   - Obscure
-  - Obscure-2
-  - Obscure-3
-  - Obscure-4
-  - Obscure-5
 ---
 %%
 - ***Image***:<br>![[Pasted image 20250102221352.png|100]]

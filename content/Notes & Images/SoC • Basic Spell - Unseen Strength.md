@@ -5,8 +5,8 @@ aliases:
 %%
 - ***Image***:<br>![[unseen-strenght-edit.png|222]]
 - ***Info***: [[SoC • Rule Card - Learning Basic Spells|Basic Spell]]  
-- ***Cost***: 2
-- ***Description***:<br>For **1 hour**, target Creature in your [[SoC • Rules Chapter - ZONES|Zone]] can choose to [[SoC • Rules - Forgo an Action|Forgo an Action]], or spend **1 [[SoC • Rules Chapter - ENERGY|Energy]]**, to make their next [[Might]] [[SoC • Rules Chapter - SKILLS|Skill Check]] at **Range**. (_for each Zone between them and their target, they roll with an additional [[SoC • Rules - Advantage and Disadvantage|Disadvantage]]_)
+- ***Cost***: 1
+- ***Description***:<br>**[[SoC • Rules Chapter - ENERGY|Energy Cost]]** — **2**<br>For **1 hour**, target Creature in your [[SoC • Rules Chapter - ZONES|Zone]] can choose to [[SoC • Rules - Forgo an Action|Forgo an Action]], or spend **1 [[SoC • Rules Chapter - ENERGY|Energy]]**, to make their next [[Might]] [[SoC • Rules Chapter - SKILLS|Skill Check]] at **Range**. (_for each Zone between them and their target, they roll with an additional [[SoC • Rules - Advantage and Disadvantage|Disadvantage]]_)
 - ***Flavor***: Created from the Runes — [[SoC • Rune - Psychokinesis|Psychokinesis]], [[SoC • Rune - Psychokinesis|Psychokinesis]]
 - ***Color***: red 
 - ***Prompt***: Help me come up with a prompt, not an image, for the spell: "Unseen Strength", with this effect: For **1 hour** target Creatures in your Zone, can perform [[Might]] [[SoC • Rules Chapter - SKILLS|Skill Checks]] at **Range** (_for each Zone between you and your target, roll with an additional [[SoC • Rules - Advantage and Disadvantage|Disadvantage]]_). I want the prompt to respect a creature guiding its weapon from a distance against another's creature. the other creature defends with its weapon

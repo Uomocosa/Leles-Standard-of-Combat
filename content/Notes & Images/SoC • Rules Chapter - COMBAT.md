@@ -27,3 +27,5 @@ cssclasses:
 
 ![[SoC • Rules - Combat Phases|Combat]]
 ![[SoC • Rules - Surprise Round|Surprise Round]]
+
+![[SoC • Rules - Helping Others|Helping Others]]

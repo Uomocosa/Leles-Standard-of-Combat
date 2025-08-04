@@ -7,7 +7,7 @@ aliases:
 - ***Image***:<br>![[Pasted image 20250801160321.png|222]]
 - ***Info***: [[SoC • Rule Card - Learning Basic Spells|Basic Spell]] 
 - ***Cost***: 1 
-- ***Description***:<br>A glyph used to magically seal a door or wall, it last **1 hour**. It also gains a magical shield giving it **5 additional [[SoC • Rules Chapter - HEALTH|Health]]**.
+- ***Description***:<br>**[[SoC • Rules Chapter - ENERGY|Energy Cost]]** — **1**<br>A glyph used to magically seal a door or wall, it last **1 hour**. It also gains a magical shield giving it **5 additional [[SoC • Rules Chapter - HEALTH|Health]]**.
 - ***Flavor***: Created from the Rune — [[SoC • Rune - Ward|Ward]]
 - ***Limitations***:
 - ***Color***: artifact 

@@ -13,9 +13,9 @@ cssclasses:
 
 ![[SoC • Rule - Anima]]
 
-![[SoC • Rule - Lasting Spells|Lasting]]
-
 ![[SoC • Rule - Passive Ability|Passive]]
+
+![[SoC • Rules - Basic Spell Table]]
 
 # Cards
 
@@ -57,4 +57,4 @@ cssclasses:
 
 ![[SoC • Basic Spell - Vanish|Vanish]]
 
-![[SoC • Basic Spell - Angel's Ascent|Angel's Ascent]]
+![[SoC • Spell - Angel's Ascent|Angel's Ascent]]

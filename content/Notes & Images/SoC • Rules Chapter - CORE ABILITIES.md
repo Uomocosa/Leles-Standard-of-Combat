@@ -22,7 +22,7 @@ cssclasses:
 
 ![[SoC • Core Ability - Go Unnoticed|Go Unnoticed]]
 
-![[SoC • Core Ability - Hero|Hero]]
+![[SoC • Core Ability - Vessel|Hero]]
 
 ![[SoC • Core Ability - Lucky|Lucky]]
 
@@ -30,7 +30,7 @@ cssclasses:
 
 ![[SoC • Core Ability - Paragon of Faith|Paragon of Faith]]
 
-![[SoC • Core Ability - Runic Caster|Runic Caster]]
+![[SoC • Core Ability - Runic Hoarder|Runic Caster]]
 
 ![[SoC • Core Ability - Spellsinger|Spellsinger]]
 

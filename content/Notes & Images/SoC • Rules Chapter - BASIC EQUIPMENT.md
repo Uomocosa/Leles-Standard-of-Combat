@@ -58,7 +58,7 @@ cssclasses:
 
 ![[SoC • Grand Armor - Chain Mail]]
 
-![[SoC • Basic Shield - Wood Shield]]
+![[SoC • Basic Shield - Wooden Shield]]
 
 ![[SoC • Standard Shield - Steel Shield]]
 

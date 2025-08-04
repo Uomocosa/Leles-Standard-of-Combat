@@ -5,9 +5,9 @@ aliases:
 %%
 - ***Nameplate***: Custom Spells
 - ***Type***: Rules
-- ***Description***:<br>When Creating or Modifying a Custom Spell:<br>• Spend **1 [[SoC • Rules Chapter - NEW CAMPAIGN|Hero Point]]** and choose one of your **[[SoC • Rules Chapter - RUNES|Runes]]**. Either add the Rune's Effect to the spell or enhance a previously added Effect.<br>• Each time you do this, the **Spell’s Cost** increases by **1** (_meaning it will require 1 additional [[SoC • Rules Chapter - ENERGY|Energy]] to cast_).<br>• When a spell reaches a **Cost of 5**, you can no longer add more [[SoC • Rules Chapter - RUNES|Runes]]. _More powerful spells do exist, but they can only be crafted by truly exceptional magicians._<br>• The process requires requires **1 hour of experimentation**, and you also need Succeed on an [[SoC • Rule - Anima|Anima]] [[SoC • Rules Chapter - SKILLS|Skill Check]] with a **[[SoC • Rules Chapter - SKILLS|DC]] of 10 + 3× the spell’s cost**. (_Don't worry too much. If you fail, you won't consume any [[SoC • Rules Chapter - NEW CAMPAIGN|Hero Points]]_)
-- ***Flavor***: 
-- ***Rarity***: uncommon
+- ***Description***:<br>To Create or Modify a Spell:<br>• Choose one or more of your [[SoC • Rules Chapter - RUNES|Runes]]—you may select the same Rune multiple times. Add each selected Rune’s effect to the Spell.<br>• A Spell can contain a maximum of **5 Runes**.<br>• Pay **1 [[SoC • Rules Chapter - ENERGY|Energy]]** for each Rune used in the Spell.
+- ***Flavor***: _While more powerful spells exist, they can only be crafted by truly exceptional magicians._
+- ***Rarity***: common
 - ***Color***: artifact, blue 
 - ***Nameplate Color***: 
 - ***Background Color***: 

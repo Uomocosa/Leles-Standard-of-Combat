@@ -31,3 +31,7 @@ cssclasses:
 ![[SoC • Optional Rule - Its Nerf or Nothing|Its Nerf or Nothing]]
 
 ![[SoC • Optional Rule - Rule of Cool]]
+
+![[SoC • Optional Rule - Rituals|Rituals]]
+
+![[SoC • Optional Rule - Spell Overloading|Spell Overloading]]

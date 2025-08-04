@@ -5,8 +5,8 @@ aliases:
 %%
 - ***Image***:<br>![[SoC • Core Ability - Brutal Fighter (Image).png|222]]
 - ***Info***: Core Ability
-- ***Cost***: 7
-- ***Description***:<br>Learn the "**[[SoC • Rune - Harm|Harm]]**" [[SoC • Rules Chapter - RUNES|Rune]], if you already know it, instead Learn **1 [[SoC • Rules Chapter - RUNES|Rune]] of your choice**. <br><br>_You have been trained as a soldier who knows how to hit hard_.<br>When attacking with a [[SoC • Rules Chapter - BASIC EQUIPMENT|Two-Handed Weapon]], deal an additional **1d6 force damages**.
+- ***Cost***: 5
+- ***Description***:<br>Learn the "**[[SoC • Rune - Harm|Harm]]**" [[SoC • Rules Chapter - RUNES|Rune]], if you already know it, instead Learn **1 [[SoC • Rules Chapter - RUNES|Rune]] of your choice**. (_Once learned, a Rune can be reused any number of times._)<br><br>_You have been trained as a soldier who knows how to hit hard_.<br>When attacking with a [[SoC • Rules Chapter - BASIC EQUIPMENT|Two-Handed Weapon]], deal an additional **1d6 force damages**.
 - ***Effects***: 
 - ***Limitations***: 
 - ***Rarity***: rare 

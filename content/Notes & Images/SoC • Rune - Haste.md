@@ -1,10 +1,6 @@
 ---
 aliases:
   - Haste
-  - Haste-2
-  - Haste-3
-  - Haste-4
-  - Haste-5
 ---
 %%
 - ***Image***:<br>![[Pasted image 20250102222008.png|100]]

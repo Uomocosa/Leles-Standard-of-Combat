@@ -1,10 +1,6 @@
 ---
 aliases:
   - Mend
-  - Mend-2
-  - Mend-3
-  - Mend-4
-  - Mend-5
 ---
 %%
 - ***Image***:<br>![[Pasted image 20250102221958.png|100]]

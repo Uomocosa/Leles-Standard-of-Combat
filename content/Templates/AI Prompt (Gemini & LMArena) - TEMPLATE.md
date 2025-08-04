@@ -1,0 +1,2 @@
+- _**Prompt** [Gemini](https://gemini.google.com/app)_: MAKE THIS AI PROMPT BETTER: I need a 2D epic fantasy illustration, in an epic graphic style with white and black color, and a clean white background. Add the words "SAME_NAME_HERE" under the image in a stylish font. DO NOT CREATE AN IMAGE. 
+- _**Prompt** [LMArena](https://beta.lmarena.ai/)_: 

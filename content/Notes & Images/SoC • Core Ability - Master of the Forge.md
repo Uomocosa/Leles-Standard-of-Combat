@@ -5,8 +5,8 @@ aliases:
 %%
 - ***Image***:<br>![[SoC • Core Ability - Master of the Forge (Image).png|222]]
 - ***Info***: Core Ability
-- ***Cost***: 7
-- ***Description***:<br>When you make a **[[Forging]]** [[SoC • Rules Chapter - SKILLS|Skill Check]], roll with [[SoC • Rules - Advantage and Disadvantage|Advantage]].<br><br>While working on a piece of [[SoC • Rules Chapter - CUSTOM GEAR|Gear]], you can add **an additional [[SoC • Rules - 1 Point Upgrade|1 Point Upgrade]] for free**.<br>_(You still need to succeed on the [[Forging]] [[SoC • Rules Chapter - SKILLS|Skill Check]] as usual.)_
+- ***Cost***: 5
+- ***Description***:<br>When you make a **[[Forging]]** [[SoC • Rules Chapter - SKILLS|Skill Check]], roll with [[SoC • Rules - Advantage and Disadvantage|Advantage]].<br><br>While working on a piece of [[SoC • Rules Chapter - CUSTOM GEAR|Gear]], you can **[[SoC • Rules - Upgrading a Piece of Equipment|Upgrade]] it** by Infusing it with **an additiona Rune for free**.<br>_(You still need to succeed on the [[Forging]] [[SoC • Rules Chapter - SKILLS|Skill Check]] as usual.)_
 - ***Effects***: 
 - ***Limitations***: 
 - ***Rarity***: rare 

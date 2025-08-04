@@ -22,7 +22,7 @@ These are the same [[SoC • Rules Chapter - SKILLS|Skills]] of a Character, sim
 ***TACTICS***:<br>On the enemy turn as a **GM** you need to decide how it will act, ***what tactics, special attacks, special effects an enemy or group of enemies might have***.
 _Is it a simple enemy with few brain cells, then it will try to attack the closest character, no special attacks or tactics, they have just a simple attack like: Sword — **d20+2** (**1d4**)_.<br>If you are undecided what to do, or want to leave it to fate, roll a **d20** for each of their actions.
 _For more intelligent enemies they might try to attack the backline, once they understand that the enemy in front of them is closer to a wall than a threat_.
-_What about a final boss? You can come up with a special attack just for him, take 1,2,...10 random [[SoC • Rules Chapter - CUSTOM SPELLS|Custom Spell Effects]], meld them together and describe its attack/s, also does it draws its power from [[Nature]], or maybe is an ancient evil priest with a lot of [[Faith]] in his God._
+_What about a final boss? You can come up with a special attack just for him, take 1,2,...10 random [[SoC • Rules Chapter - SPELLS|Custom Spell Effects]], meld them together and describe its attack/s, also does it draws its power from [[Nature]], or maybe is an ancient evil priest with a lot of [[Faith]] in his God._
 
 ----
 ### Some Enemies

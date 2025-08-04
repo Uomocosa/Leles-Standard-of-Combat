@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[SoC • Basic Armor - Leather Armor (Image).png|222]]
 - ***Info***: Basic Armor
 - ***Cost***: 1 
-- ***Description***:<br>[[SoC • Rules - Discard Pile|Discard]]: Prevent **3** damages. The Armor gets [[Damaged Gear|Damaged]].
+- ***Description***:<br>[[SoC • Rules - Discard Pile|Discard]]: Prevent **2** damages. The Armor gets [[Damaged Gear|Damaged]].
 - ***Color***: artifact 
 - ***Nameplate Color***: artifact 
 - ***Background Color***: artifact 

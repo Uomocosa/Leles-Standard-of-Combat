@@ -13,7 +13,7 @@ This will get you started playing instantly without learning the point-build sys
 
 ----
 ### For Experienced Players: Custom Built Characters
- For more fielded RPG veterans, I have stolen from *CROWN and SKULL*, a robust, in depth point buy creation system. This super-flexible method lets you create everything using hero point costs and discounts... even [[SoC • Rules Chapter - CUSTOM SPELLS|Spells]], [[SoC • Rules Chapter - CUSTOM GEAR|Equipment]], and [[SoC • Rules Chapter - COMPANIONS]].
+ For more fielded RPG veterans, I have stolen from *CROWN and SKULL*, a robust, in depth point buy creation system. This super-flexible method lets you create everything using hero point costs and discounts... even [[SoC • Rules Chapter - SPELLS|Spells]], [[SoC • Rules Chapter - CUSTOM GEAR|Equipment]], and [[SoC • Rules Chapter - COMPANIONS]].
 
 ----
 # 

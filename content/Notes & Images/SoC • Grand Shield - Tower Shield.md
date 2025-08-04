@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[SoC • Grand Shield - Tower Shield (Image).png|222]]
 - ***Info***: Grand Shield
 - ***Cost***: 3 
-- ***Description***:<br>[[SoC • Rules - Discard Pile|Discard]]: Prevent **7** damages. The Shield gets [[Damaged Gear|Damaged]].
+- ***Description***:<br>Reduce all **force** damage taken by **1**.<br>[[SoC • Rules - Discard Pile|Discard]]: Prevent **2** damages. The Shield gets [[Damaged Gear|Damaged]].
 - ***Color***: artifact, white
 - ***Nameplate Color***: artifact 
 - ***Background Color***: artifact 

@@ -21,7 +21,7 @@ cssclasses:
 
 ![[SoC • Rune - Defensive|Defensive]]
 
-![[SoC • Rune - Duration|Duration]]
+![[SoC • Rune - Time|Duration]]
 
 ![[SoC • Rune - Dispel|Dispel]]
 
@@ -31,7 +31,7 @@ cssclasses:
 
 ![[SoC • Rune - Haste|Haste]]
 
-![[SoC • Rune - Untraceable|Hidden]]
+![[SoC • Rune - Untraceable|Untraceable]]
 
 ![[SoC • Rune - Mend|Mend]]
 
@@ -57,7 +57,7 @@ cssclasses:
 
 ![[SoC • Rune - Transmute|Transmute]]
 
-![[SoC • Rune - Transport|Transport]]
+![[SoC • Rune - Space|Transport]]
 
 ![[SoC • Rune - Ward|Ward]]
 

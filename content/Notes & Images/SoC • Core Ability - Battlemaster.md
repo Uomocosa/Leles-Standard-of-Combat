@@ -5,8 +5,8 @@ aliases:
 %%
 - ***Image***:<br>![[SoC • Core Ability - Battlemaster (Image).png|222]]
 - ***Info***: Core Ability
-- ***Cost***: 7
-- ***Description***:<br>Learn the "**[[SoC • Rune - Psychokinesis|Psychokinesis]]**" [[SoC • Rules Chapter - RUNES|Rune]], if you already know it, instead Learn **1 [[SoC • Rules Chapter - RUNES|Rune]] of your choice**. <br><br>You can Re-roll any **[[SoC • Rules Chapter - SKILLS|Skill Check]]** you make for Attacking with a Weapon.<br>You can use this Effect **once per [[Rest and Recovery|Night of Rest]]**, after that to use it again you need to pay **1 [[SoC • Rules Chapter - ENERGY|Energy]]**.
+- ***Cost***: 5
+- ***Description***:<br>Learn the "**[[SoC • Rune - Psychokinesis|Psychokinesis]]**" [[SoC • Rules Chapter - RUNES|Rune]], if you already know it, instead Learn **1 [[SoC • Rules Chapter - RUNES|Rune]] of your choice**. (_Once learned, a Rune can be reused any number of times._)<br><br>You can Re-roll any **[[SoC • Rules Chapter - SKILLS|Skill Check]]** you make for Attacking with a Weapon.<br>You can use this Effect **once per [[Rest and Recovery|Night of Rest]]**, after that to use it again you need to pay **1 [[SoC • Rules Chapter - ENERGY|Energy]]**.
 - ***Effects***: 
 - ***Limitations***: 
 - ***Rarity***: rare 

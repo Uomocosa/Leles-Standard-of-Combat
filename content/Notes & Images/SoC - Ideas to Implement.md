@@ -30,14 +30,14 @@ aliases:
 ##### Gear
 - You need to do an overhaul of the damage.<br>The weapons are too strong, especially at the start.
 - Need to change how weapon effects and limitations work.<br>Each category of gear, must have a base that is not just different stat, for example:<br>==I like these :)==
-	- [[SoC - 1 Point Gear|1 Point Gear]]:<br>_Weapons_ — **1** damage.<br>***Concealed*** — This weapon can be easly hidden on yourself, if an enemy hasn't noticed it yet, you can use [[Deception]] or [[Stealth]] to make an [[Attack, Defense and Combat Damage|Attack Roll]] and add that [[SoC • Rules Chapter - SKILLS|Skill Modifier]] to the [[Attack, Defense and Combat Damage|Damage]]. After you make an attack this way, every enemy that can see you is aware of your trickery, you cannot attack them this way, with this or any other **Concealed** weapon you have.<br>_Armors_ — None.
-	- [[SoC - 3 Point Gear|3 Point Gear]]:<br>_Weapons_ — **1d4** damage.<br>You can use [[Agility]] or [[Might]] to make an [[Attack, Defense and Combat Damage|Attack Roll]].<br>_Armors_ — **+1 AC**.
-	- [[SoC - 6 Point Gear|6 Point Gear]]:<br>_Weapons_ — **1d8** damage.<br>You need to use [[Might]] to make an [[Attack, Defense and Combat Damage|Attack Roll]]<br>When you roll an **8** with these weapon's [[damage dices|damage die]], the target is also [[Stun|Stunned]].<br>Requires **12** or more points in [[Might]].<br>_Armors_ — **+3 AC**.<br>Requires **12** or more points in [[Might]].<br>You have [[SoC • Rules - Advantage and Disadvantage|Disadvantage]] on [[Stealth]] [[SoC • Rules Chapter - SKILLS|checks]].
+	- **1 Point Gear**:<br>_Weapons_ — **1** damage.<br>***Concealed*** — This weapon can be easly hidden on yourself, if an enemy hasn't noticed it yet, you can use [[Deception]] or [[Stealth]] to make an [[Attack, Defense and Combat Damage|Attack Roll]] and add that [[SoC • Rules Chapter - SKILLS|Skill Modifier]] to the [[Attack, Defense and Combat Damage|Damage]]. After you make an attack this way, every enemy that can see you is aware of your trickery, you cannot attack them this way, with this or any other **Concealed** weapon you have.<br>_Armors_ — None.
+	- **3 Points Gear**:<br>_Weapons_ — **1d4** damage.<br>You can use [[Agility]] or [[Might]] to make an [[Attack, Defense and Combat Damage|Attack Roll]].<br>_Armors_ — **+1 AC**.
+	- **6 Points Gear**:<br>_Weapons_ — **1d8** damage.<br>You need to use [[Might]] to make an [[Attack, Defense and Combat Damage|Attack Roll]]<br>When you roll an **8** with these weapon's [[damage dices|damage die]], the target is also [[Stun|Stunned]].<br>Requires **12** or more points in [[Might]].<br>_Armors_ — **+3 AC**.<br>Requires **12** or more points in [[Might]].<br>You have [[SoC • Rules - Advantage and Disadvantage|Disadvantage]] on [[Stealth]] [[SoC • Rules Chapter - SKILLS|checks]].
 - Need to change how weapon effects and limitations work.<br>Each category of gear, must have a base that is not just different stat, for example:<br>==I dont like these :(==
-	- [[SoC - 1 Point Gear|1 Point Gear]]:<br>_Weapons_ — ***Concealed***. **1** damage.<br>_Armors_ — None.
-	- [[SoC - 2 Point Gear|2 Point Gear]]:<br>_Weapons_ — **1d4** damage.<br>_Armors_ — None.
-	- [[SoC - 3 Point Gear|3 Point Gear]] — Wapons: **1** damage, Armor: None.<br>_Weapons_ — **1d6** damage.<br>Requires **3** points in [[Might]].<br>_Armors_ — **+1 AC**.
-	- [[SoC - 5 Point Gear|5 Point Gear]] _Weapons_ — **1d8** damage.<br>If your weapon deals **8** or more damage [[Stun]].<br>Requires 9 or more points in [[Might]].<br>_Armors_ — **+2 AC**.<br>Requires **3** or more points in [[Might]].
+	- **1 Point Gear**:<br>_Weapons_ — ***Concealed***. **1** damage.<br>_Armors_ — None.
+	- **2 Points Gear**:<br>_Weapons_ — **1d4** damage.<br>_Armors_ — None.
+	- **3 Points Gear**: — Weapons: **1** damage, Armor: None.<br>_Weapons_ — **1d6** damage.<br>Requires **3** points in [[Might]].<br>_Armors_ — **+1 AC**.
+	- **5 Points Gear**: _Weapons_ — **1d8** damage.<br>If your weapon deals **8** or more damage [[Stun]].<br>Requires 9 or more points in [[Might]].<br>_Armors_ — **+2 AC**.<br>Requires **3** or more points in [[Might]].
 - Damage dealt and health are not equally scaling! (_I don't know if I like it_) 
 ----
 ##### Health

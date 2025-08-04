@@ -5,8 +5,8 @@ aliases:
 %%
 - ***Image***:<br>![[mass_invisibility.png|222]]
 - ***Info***: Spell 
-- ***Cost***: 3 
-- ***Description***:<br>All Creatures in your [[SoC • Rules Chapter - ZONES|Zone]] become **[[SoC • Condition Card - Invisible|Invisible]]** (_they cannot be seen and cannot be targeted by attacks or spells_) for **1 hour**.<br>The spell ends early for any Creature that makes an Attack or casts a Spell.<br>If a Creature attempts to resist this effect, you must succeed on an [[SoC • Rules - Opposing Rolls|Opposing Roll]]: _[[SoC • Rule - Anima|Anima]] **vs.** [[Will]]_ to apply the spell’s effect.
+- ***Cost***: 
+- ***Description***:<br>**[[SoC • Rules Chapter - ENERGY|Energy Cost]]** — **3**<br>All Creatures in your [[SoC • Rules Chapter - ZONES|Zone]] become **[[SoC • Condition Card - Invisible|Invisible]]** (_they cannot be seen and cannot be targeted by attacks or spells_) for **1 hour**.<br>The spell ends early for any Creature that makes an Attack or casts a Spell.<br>If a Creature attempts to resist this effect, you must succeed on an [[SoC • Rules - Opposing Rolls|Opposing Roll]]: _[[SoC • Rule - Anima|Anima]] **vs.** [[Will]]_ to apply the spell’s effect.
 - ***Flavor***: Runes — [[SoC • Rune - Area|Area]], [[SoC • Rune - Obscure|Obscure]], [[SoC • Rune - Obscure|Obscure]]
 - ***Color***: black 
 - ***Rarity***: common

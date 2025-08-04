@@ -18,6 +18,7 @@ aliases:
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: multicolor 
+- _**Prompt** [LMArena](https://beta.lmarena.ai/)_: I need a 2D epic fantasy illustration, in an epic graphic style with white and black color, and a clean white background. Add the words "SAME NAME HERE" under the image in a stylish font.
 %%
 
 ![[SoC • Card - Movement or Skill.png|650]]

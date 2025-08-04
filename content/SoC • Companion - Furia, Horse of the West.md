@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[Pasted image 20250803152812.png|222]]
 - ***Info***: Companion 
 - ***Cost***: 7
-- ***Description***:<br>**[[SoC • Rules Chapter - HEALTH|Health]]**  — **6**<br>**[[SoC • Rules Chapter - ENERGY|Energy]]** — **3**<br>**[[SoC • Rules Chapter - SKILLS|Skills]]** — **+0** to all Skills.<br>**[[SoC • Rules Chapter - RUNES|Known Runes]]** — _[[SoC • Rune - Haste|Haste]]_.<br>_[[SoC • Rule - Passive Ability|Passive Ability]] ([[SoC • Rune - Haste|Haste]], [[SoC • Rune - Haste|Haste]])_ — It can [[SoC • Rules - Forgo an Action|Forgo two Actions]] to perform up to **4 [[SoC • Generic Action - Movement or Skill|Movements]]**.<br><br>Transports up to 2 Medium-sized Creatures.
+- ***Description***:<br>**[[SoC • Rules Chapter - HEALTH|Health]]**  — **6**<br>**[[SoC • Rules Chapter - ENERGY|Energy]]** — **3**<br>**[[SoC • Rules Chapter - SKILLS|Skills]]** — **+0** to all Skills.<br>**[[SoC • Rules Chapter - RUNES|Known Runes]]** — _[[SoC • Rune - Haste|Haste]]_.<br>_[[SoC • Rule - Passive Ability|Passive Ability]] ([[SoC • Rune - Haste|Haste]], [[SoC • Rune - Haste|Haste]])_ — It can [[SoC • Rules - Forgo an Action|Forgo two Actions]] to perform up to **4 [[SoC • Generic Action - Movement or Skill|Movements]]**.<br><br>It can transports up to 2 Medium-sized Creatures.<br>It cannot cast Spells.
 - ***Flavor***:
 - ***Color***: red 
 - ***Rarity***: uncommon
