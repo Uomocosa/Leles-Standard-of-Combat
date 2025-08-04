@@ -19,6 +19,8 @@ cssclasses:
 
 # Cards
 
+![[SoC • Basic Spell - Blink|Blink]]
+
 ![[SoC • Basic Spell - Darkvision|Darkvision]]
 
 ![[SoC • Basic Spell - Dream Spike|Dream Spike]]

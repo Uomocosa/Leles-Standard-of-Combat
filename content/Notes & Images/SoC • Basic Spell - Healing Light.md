@@ -3,8 +3,8 @@ aliases:
   - Healing Light
 ---
 %%
-- **Image***:<br>![[Pasted image 20250804175427.png|222]]
-- ***Info***: [[SoC • Rule Card - Learning Basic Spells|Basic Spell]]  
+- ***Image***:<br>![[Pasted image 20250804175427.png|222]]
+- ***Info***: [[SoC • Rule Card - Learning Basic Spells|Basic Spell]]
 - ***Cost***: 1 
 - ***Description***:<br>**[[SoC • Rules Chapter - ENERGY|Energy Cost]]** — **1**<br>Target creature in your Zone [[Heal and Repair|Regains]] **1d4 [[SoC • Rules Chapter - HEALTH|Health]]**.
 - ***Flavor***: Created from the Rune — [[SoC • Rune - Restore|Restore]]
@@ -16,4 +16,4 @@ aliases:
 - ***Alt***:<br>![[Pasted image 20250804175459.png|222]]
 %%
 
-![[SoC • Card - Healing Light.png|325]]
+![[SoC • Card - Healing Light.png|650]]

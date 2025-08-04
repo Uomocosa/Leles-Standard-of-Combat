@@ -43,7 +43,7 @@ TO DELETE
 - [[Equipment Properties]] 
 - [[Copy and Paste Checks]] 
 - [[SoC - Ideas to Implement|Ideas to Implement]] 
-- [[Rules (SoC)]]
+- [[Rules (SoC - Runic Casters)]]
 - [[Old and Removed Stuff]]
 - [[SoC - Logo.png]]
 - [[SoC - Logo (colored).png]]
