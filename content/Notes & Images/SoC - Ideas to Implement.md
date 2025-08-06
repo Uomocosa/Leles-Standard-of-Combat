@@ -10,10 +10,10 @@ aliases:
 - ***Average Starting [[SoC • Rules Chapter - HEALTH|Health]]***: Considering an average of **6 pts** spent in [[SoC • Rules Chapter - SKILLS|Skills]], a player starts with **9 HP** and **2 Energy**.<br>He/She can choose to take **1 Energy**, instead of **2 HP** so it you could also go to: **3 HP, 5 Energy**.
 - ***[[SoC • Rules Chapter - SKILLS|Skills]]***: **1 pts** ⇒ **+1 Modifier**.
 - ***Spells***: ***1 ~ 5 pts***
-- ***Weapons***/***Armors***: Light: **1 pts**, Heavy: **3 pts**.<br>_Light Weapons_ deal: **1d4** damages, while _Heavy Wepons_ deal **1d6** damages.<br>Their damage can be increased by **1** [[damage dices|damage die]] by paying **2 pts** via **Enchant — Damage**.<br>While you [[Attack, Defense and Combat Damage|Attack]] with a weapon if the result of the **d20** (taken before adding any modifier) is **1 ~ 5**, after the Attack the weapon becomes [[Damaged Gear|Damaged]], and needs to be [[Heal and Repair|Repaired]], until then it will only deal **1** damage, and looses all abilities.
+- ***Weapons***/***Armors***: Light: **1 pts**, Heavy: **3 pts**.<br>_Light Weapons_ deal: **1d4** damages, while _Heavy Wepons_ deal **1d6** damages.<br>Their damage can be increased by **1** [[damage dices|damage die]] by paying **2 pts** via **Enchant — Damage**.<br>While you [[SoC • Rules Chapter - COMBAT|Attack]] with a weapon if the result of the **d20** (taken before adding any modifier) is **1 ~ 5**, after the Attack the weapon becomes [[Damaged Gear|Damaged]], and needs to be [[Heal and Repair|Repaired]], until then it will only deal **1** damage, and looses all abilities.
 - ***Items***: **1 ~ 100 pts**.
 - _Should I add Fortitude and/or Evade?_.
-- _To [[Attack, Defense and Combat Damage|Defend]] against a melee attack, you make a [[Might]] or [[Agility]] [[SoC • Rules Chapter - SKILLS|Skills]], you use your **lowest one**_.<br>_To [[Attack, Defense and Combat Damage|Defend]] against a ranged attack, you make an [[Agility]] [[SoC • Rules Chapter - SKILLS|Skills]].
+- _To [[SoC • Rules Chapter - COMBAT|Defend]] against a melee attack, you make a [[Might]] or [[Agility]] [[SoC • Rules Chapter - SKILLS|Skills]], you use your **lowest one**_.<br>_To [[SoC • Rules Chapter - COMBAT|Defend]] against a ranged attack, you make an [[Agility]] [[SoC • Rules Chapter - SKILLS|Skills]].
 ----
 ##### Armor
 - The armor needs to be discarded in some way.
@@ -30,14 +30,14 @@ aliases:
 ##### Gear
 - You need to do an overhaul of the damage.<br>The weapons are too strong, especially at the start.
 - Need to change how weapon effects and limitations work.<br>Each category of gear, must have a base that is not just different stat, for example:<br>==I like these :)==
-	- **1 Point Gear**:<br>_Weapons_ — **1** damage.<br>***Concealed*** — This weapon can be easly hidden on yourself, if an enemy hasn't noticed it yet, you can use [[Deception]] or [[Stealth]] to make an [[Attack, Defense and Combat Damage|Attack Roll]] and add that [[SoC • Rules Chapter - SKILLS|Skill Modifier]] to the [[Attack, Defense and Combat Damage|Damage]]. After you make an attack this way, every enemy that can see you is aware of your trickery, you cannot attack them this way, with this or any other **Concealed** weapon you have.<br>_Armors_ — None.
-	- **3 Points Gear**:<br>_Weapons_ — **1d4** damage.<br>You can use [[Agility]] or [[Might]] to make an [[Attack, Defense and Combat Damage|Attack Roll]].<br>_Armors_ — **+1 AC**.
-	- **6 Points Gear**:<br>_Weapons_ — **1d8** damage.<br>You need to use [[Might]] to make an [[Attack, Defense and Combat Damage|Attack Roll]]<br>When you roll an **8** with these weapon's [[damage dices|damage die]], the target is also [[Stun|Stunned]].<br>Requires **12** or more points in [[Might]].<br>_Armors_ — **+3 AC**.<br>Requires **12** or more points in [[Might]].<br>You have [[SoC • Rules - Advantage and Disadvantage|Disadvantage]] on [[Stealth]] [[SoC • Rules Chapter - SKILLS|checks]].
+	- **1 Point Gear**:<br>_Weapons_ — **1** damage.<br>***Concealed*** — This weapon can be easly hidden on yourself, if an enemy hasn't noticed it yet, you can use [[Deception]] or [[Stealth]] to make an [[SoC • Rules Chapter - COMBAT|Attack Roll]] and add that [[SoC • Rules Chapter - SKILLS|Skill Modifier]] to the [[SoC • Rules Chapter - COMBAT|Damage]]. After you make an attack this way, every enemy that can see you is aware of your trickery, you cannot attack them this way, with this or any other **Concealed** weapon you have.<br>_Armors_ — None.
+	- **3 Points Gear**:<br>_Weapons_ — **1d4** damage.<br>You can use [[Agility]] or [[Might]] to make an [[SoC • Rules Chapter - COMBAT|Attack Roll]].<br>_Armors_ — **+1 AC**.
+	- **6 Points Gear**:<br>_Weapons_ — **1d8** damage.<br>You need to use [[Might]] to make an [[SoC • Rules Chapter - COMBAT|Attack Roll]]<br>When you roll an **8** with these weapon's [[damage dices|damage die]], the target is also [[Stunned|Stunned]].<br>Requires **12** or more points in [[Might]].<br>_Armors_ — **+3 AC**.<br>Requires **12** or more points in [[Might]].<br>You have [[SoC • Rules - Advantage and Disadvantage|Disadvantage]] on [[Stealth]] [[SoC • Rules Chapter - SKILLS|checks]].
 - Need to change how weapon effects and limitations work.<br>Each category of gear, must have a base that is not just different stat, for example:<br>==I dont like these :(==
 	- **1 Point Gear**:<br>_Weapons_ — ***Concealed***. **1** damage.<br>_Armors_ — None.
 	- **2 Points Gear**:<br>_Weapons_ — **1d4** damage.<br>_Armors_ — None.
 	- **3 Points Gear**: — Weapons: **1** damage, Armor: None.<br>_Weapons_ — **1d6** damage.<br>Requires **3** points in [[Might]].<br>_Armors_ — **+1 AC**.
-	- **5 Points Gear**: _Weapons_ — **1d8** damage.<br>If your weapon deals **8** or more damage [[Stun]].<br>Requires 9 or more points in [[Might]].<br>_Armors_ — **+2 AC**.<br>Requires **3** or more points in [[Might]].
+	- **5 Points Gear**: _Weapons_ — **1d8** damage.<br>If your weapon deals **8** or more damage [[Stunned]].<br>Requires 9 or more points in [[Might]].<br>_Armors_ — **+2 AC**.<br>Requires **3** or more points in [[Might]].
 - Damage dealt and health are not equally scaling! (_I don't know if I like it_) 
 ----
 ##### Health
@@ -49,7 +49,7 @@ aliases:
 - *(Optional Rule) — Choose how your Armor falls*:<br>When you get hit, you can choose to loose one of your armor-tokens to avoid discarding one of your [[Type of Cards|Health Cards]]. This will in fact reduce your **AC** by **1**.<br>==_This rules needs to be reviewed_==:
 	- You will always choose to loose health first.
 	- Each armor-token is equal to **+1 AC** or **3 Health**, meaning that [[Heal and Repair|Repairing]] armor is **MUCH** better than [[Heal and Repair|Healing]] (an Health card is at most **3** Health)
-- *(Optional Rule) — Falling Armor*:<br>When you get hit, if you receive **3** or more [[Attack, Defense and Combat Damage|Damage]], you'll also loose **1** armor-token.<br>==_Not so much fun :(_==
+- *(Optional Rule) — Falling Armor*:<br>When you get hit, if you receive **3** or more [[SoC • Rules Chapter - COMBAT|Damage]], you'll also loose **1** armor-token.<br>==_Not so much fun :(_==
 - *(Optional Rule) — Falling Armor*:<br>When an enemy attacks you and [[SoC • Rules - Critical Success and Failure|Crits]], it does not deal **double damage**, instead you'll receive the normal damage to your [[SoC • Rules Chapter - HEALTH|Health]], and you'll also loose **3** armor-tokens.<br>==_Not so much fun :(_==
 - *(Optional Rule) — Falling Armor*:<br>When an enemy attacks you and one of its damage dieces is maximized, you loose **1** armor-token.<br>==_Not so much fun :(_==
 ----
@@ -58,7 +58,7 @@ aliases:
 - *(Optional Rule) — Roll for Initiative*:<br>Another way to decide the turn of combat, is to roll a [[SoC • Rules Chapter - SKILLS|Skill Check]], usually on [[Agility]].
 ----
 ##### Stamina
-- *(Optional Rule) — Stamina*:<br>There is no longer a concept of [[SoC • Rules Chapter - HEALTH|Health]], instead each player has **Stamina**.<br>Every [[SoC • Rules Chapter - COMBAT|Action]] has a stamina cost, [[Attack, Defense and Combat Damage|Damage]] you receive is subctrated from your **Stamina**.<br>If you have $0$ **Stamina** and you receive damage your become [[SoC • Rules Chapter - HEALTH|Health]], similar rules apply.
+- *(Optional Rule) — Stamina*:<br>There is no longer a concept of [[SoC • Rules Chapter - HEALTH|Health]], instead each player has **Stamina**.<br>Every [[SoC • Rules Chapter - COMBAT|Action]] has a stamina cost, [[SoC • Rules Chapter - COMBAT|Damage]] you receive is subctrated from your **Stamina**.<br>If you have $0$ **Stamina** and you receive damage your become [[SoC • Rules Chapter - HEALTH|Health]], similar rules apply.
 - *(Optional Rule) — Stamina and Initiative*:<br>Your party can expend a total of $5$ **Stamina** before combat to go first.
 -----
 - Change Additional Health description. Non è facile da capire che puoi comprare solo 2,3 di vita pagando 5.

@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[Pasted image 20250603152255.png|222]]
 - ***Info***: [[SoC • Rule Card - Learning Basic Spells|Basic Spell]] 
 - ***Cost***: 1 
-- ***Description***:<br>**[[SoC • Rules Chapter - ENERGY|Energy Cost]]** — **1**<br>Choose a target Creature in your **[[SoC • Rules Chapter - ZONES|Zone]]**. For **1 hour**, it can see through **Darkness** as clearly as in daylight.
+- ***Description***:<br>**[[SoC • Rules Chapter - ENERGY|Energy Cost]]** — **1**<br>Choose a target Creature **in your [[SoC • Rules Chapter - ZONES|Zone]]**. For **1 hour**, it can see through **Darkness** as clearly as in daylight.
 - ***Flavor***: Created from the Rune — [[SoC • Rune - Sensory|Sensory]]
 - ***Limitations***:
 - ***Color***: green 

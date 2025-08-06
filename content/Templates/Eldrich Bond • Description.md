@@ -1,0 +1,1 @@
+<br>_[[SoC • Spell Limitation - Eldrich Bond|Eldrich Bond]]_ — This spell links the target's life to yours, for **1 [[SoC • Rules Chapter - COMBAT|round]]** you also receive all the damage he takes.<br>If the target is yourself, then you receive double the damage for **1** [[SoC • Rules Chapter - COMBAT|round]].<br>

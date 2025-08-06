@@ -10,6 +10,10 @@ aliases:
   - Stable
   - failed death saving throw mark
   - succesful death saving throw marks
+  - a Night of Rest
+  - Short Rest
+  - Resting
+  - Rest
 cssclasses:
   - seamless-embed
 ---
@@ -31,6 +35,8 @@ cssclasses:
 You can increase your Health by [[SoC • Rules - Meditate and Train|Training]].
 
 ![[SoC • Rules - Meditate and Train|Meditate and Train]]
+
+![[SoC • Rules - What doesn't Kill You|What doesn't Kill You]]
 # Death
 If you lose all your **Health** you start **Dying**. Depending on the situation, your Allies could have a few [[SoC • Rules Chapter - COMBAT|Rounds]] to help you, until you **Die**.
 

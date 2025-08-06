@@ -7,7 +7,7 @@ aliases:
 - ***Nameplate***: Limitation - Veil of Silence
 - ***Type***: Spell Limitation
 - ***Cost***: 
-- ***Description***:<br>You lose the ability speak for **2** [[SoC • Rules Chapter - COMBAT|rounds]]. You cannot cast spells, unless they are [[SoC • Rune - Untraceable|Untraceable]] Spells.
+- ***Description***:<br>You lose the ability speak for **2** [[SoC • Rules Chapter - COMBAT|rounds]]. You cannot cast spells, unless they are [[SoC • Rune - Obscure|Subtle Spells]].
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: artifact 

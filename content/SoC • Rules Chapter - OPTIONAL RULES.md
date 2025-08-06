@@ -35,3 +35,17 @@ cssclasses:
 ![[SoC • Optional Rule - Rituals|Rituals]]
 
 ![[SoC • Optional Rule - Spell Overloading|Spell Overloading]]
+
+![[SoC • Optional Rule - Specific Actions|Specific Actions]]
+
+![[SoC • Optional Rule - Desperate Action|Desperate Action]]
+
+![[SoC • Optional Rule - Low Magic Settings|Low Magic Settings]]
+
+![[SoC • Optional Rule - Overgeared (Fixed)|Overgeared]]
+
+![[SoC • Optional Rule - Overgeared (Skillful)|Overgeared]]
+
+![[SoC • Optional Rule - Overgeared (of Runes and Gear)|Overgeared]]
+
+![[SoC • Optional Rule - Retroactive Advantage|Retroactive Advantage]]

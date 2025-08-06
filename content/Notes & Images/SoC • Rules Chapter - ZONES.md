@@ -8,6 +8,8 @@ cssclasses:
 # Zones
 ![[SoC • Introduction - Zone Cards|Zone Cards]]
 
+![[SoC • Rules - Sizes|Sizes]]
+
 # Zone Cards
 
 ![[SoC • Zone - Plains|Plains]]

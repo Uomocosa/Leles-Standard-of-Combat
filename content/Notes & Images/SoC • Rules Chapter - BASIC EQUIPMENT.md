@@ -9,11 +9,16 @@ aliases:
   - Equipment
   - Ranged Weapon
   - Melee Weapon
+  - Shield
+  - Shields
 cssclasses:
   - seamless-embed
 ---
 # Basic Equipment
 ![[Damaged Gear|Damaged]]
+
+![[SoC • Weapon - White Weapon|White Weapon]]
+
 # Weapons
 ![[SoC • Basic Weapon - Dagger|Dagger]]
 

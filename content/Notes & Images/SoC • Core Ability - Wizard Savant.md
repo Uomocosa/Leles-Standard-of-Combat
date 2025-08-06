@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[SoC • Core Ability - Wizard Savant (Image).png|222]]
 - ***Info***: Core Ability
 - ***Cost***: 5
-- ***Description***:<br>_You don’t just cast spells, you are a conduit of incredible power._ <br>Learn **2 [[SoC • Rules Chapter - RUNES|Runes]] of your choice**. (_Once learned, a Rune can be reused any number of times._)<br><br>Whenever you cast a [[SoC • Rules Chapter - SPELLS|Spell]], roll a **d100** and add your [[SoC • Rule - Anima|Anima]] [[SoC • Rules Chapter - SKILLS|Modifier]]. <br>On a result of **75 or higher**, all dice-based effects of the spell are **maximized** (_any dice rolled by the spell are treated as if they rolled their maximum value, these are **NOT** counted as [[SoC • Rules - Critical Success and Failure|Critical Successes]]_).
+- ***Description***:<br>_You don’t just cast spells, you are a conduit of incredible power._ <br>Learn **1 [[SoC • Rules Chapter - RUNES|Rune]] of your choice**. (_Once learned, a Rune can be reused any number of times._)<br><br>Whenever you cast a [[SoC • Rules Chapter - SPELLS|Spell]], roll a **d100** and add your [[SoC • Rule - Anima|Anima]] [[SoC • Rules Chapter - SKILLS|Modifier]]. <br>On a result of **75 or higher**, for **1 [[SoC • Rules Chapter - COMBAT|Round]]**, any time the Spell would require a [[SoC • Rules Chapter - SKILLS|Skill Check]], automatically get the **maximum value** for that Roll. (_these are **NOT** counted as [[SoC • Rules - Critical Success and Failure|Critical Successes]]_).
 - ***Flavor***: 
 - ***Rarity***: rare 
 - ***Color***: blue 

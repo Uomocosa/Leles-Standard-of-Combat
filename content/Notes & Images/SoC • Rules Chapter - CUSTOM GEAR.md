@@ -18,4 +18,3 @@ cssclasses:
 ![[SoC • Rules - Upgrading a Piece of Equipment|Upgrading a Piece of Equipment]]
 
 ![[Damaged Gear]]
-![[SoC • Optional Rule - With What Forge|With What Forge?]]

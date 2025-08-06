@@ -1,0 +1,1 @@
+<br>_[[SoC • Spell Limitation - Cannot be Customized|Cannot be customized]]_ — This spell is minimalistic, only available in its first-learned form, never to be changed.<br>

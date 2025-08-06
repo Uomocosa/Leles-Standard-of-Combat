@@ -9,6 +9,16 @@ aliases:
   - Actions
   - Action
   - Prepared Action
+  - Attack Roll
+  - Damage Roll
+  - Taking Damge
+  - Aimed Attack
+  - Precise Attack
+  - Damage
+  - Attack
+  - Defend
+  - Defense
+  - Defensive Roll
 cssclasses:
   - seamless-embed
 ---
@@ -21,11 +31,12 @@ cssclasses:
 
 ![[SoC • Rules - Critical Success and Failure|Critical Success]]
 
-
 ![[SoC • Rules - Turn and Round|Turn and Round]]
 
+![[Reactions]]
 
 ![[SoC • Rules - Combat Phases|Combat]]
+
 ![[SoC • Rules - Surprise Round|Surprise Round]]
 
 ![[SoC • Rules - Helping Others|Helping Others]]

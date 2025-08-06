@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[Pasted image 20250804113829 - Edited.png|222]]
 - ***Info***: Core Ability
 - ***Cost***: 3
-- ***Description***:<br>_Lower Cost_ — This Core Ability costs **3 [[SoC • Rules Chapter - NEW CAMPAIGN|Hero Points]]**.<br><br>Learn **1 [[SoC • Rules Chapter - RUNES|Rune]] of your choice**. (_Once learned, a Rune can be reused any number of times._)<br><br>**You can Create a [[SoC • Rules Chapter - SPELLS|Spell]] using up to 3 [[SoC • Rules Chapter - RUNES|Runes]]**, and spend **5 [[SoC • Rules Chapter - NEW CAMPAIGN|Hero Points]]** to turn it into a **Passive Ability**. (_Instead of only using up to **2 Runes**_)
+- ***Description***:<br>_Lower Cost_ — This Core Ability costs **3 [[SoC • Rules Chapter - NEW CAMPAIGN|Hero Points]]**.<br><br>**You can Create a [[SoC • Rules Chapter - SPELLS|Spell]] using 3 [[SoC • Rules Chapter - RUNES|Runes]]**, and spend **7 [[SoC • Rules Chapter - NEW CAMPAIGN|Hero Points]]** to turn it into a **Passive Ability**. (_You can still create a Passive Ability using only **2 Runes** and only paying **5 Hero Points** as normal_.)
 - ***Flavor***: _Experimental, could be overpowered, seems fun!_
 - ***Rarity***: rare 
 - ***Color***: white 
@@ -25,8 +25,6 @@ aliases:
 - ***Alt***:<br>![[Pasted image 20250804114431.png|222]]
 - ***Alt***:<br>![[Pasted image 20250804114625.png|222]]
 - ***Alt***:<br>![[Pasted image 20250804114856.png|222]]
-- ***Alt***:<br>
-- ***Alt***:<br>
 %%
 
 ![[SoC • Card - Vessel.png|650]]

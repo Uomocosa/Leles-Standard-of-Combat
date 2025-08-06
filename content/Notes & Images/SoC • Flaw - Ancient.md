@@ -5,7 +5,7 @@ aliases: Ancient
 - ***Image***:<br>![[SoC • Flaw - Ancient (Image).png|222]]
 - ***Info***: Flaw
 - ***Cost***:
-- ***Description***:<br>_You are old!_<br>Choose two [[SoC • Rules Chapter - SKILLS|Skills]] between [[Might]], [[Agility]], [[Intimidation]], [[Stealth]], and [[Sleight of Hand]], you cannot put points in them. 
+- ***Description***:<br>_You are old!_<br>Choose **2 [[SoC • Rules Chapter - SKILLS|Skills]]** between: **[[Might]]**, **[[Agility]]**, **[[Intimidation]]**, **[[Stealth]]**, and **[[Sleight of Hand]]**.<br>You cannot put points in the chosen Skills. 
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: artifact 

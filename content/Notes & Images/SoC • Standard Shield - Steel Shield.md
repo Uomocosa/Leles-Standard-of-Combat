@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[SoC • Standard Shield - Steel Shield (Image).png|222]]
 - ***Info***: Standard Shield
 - ***Cost***: 2
-- ***Description***:<br>[[SoC • Rules - Discard Pile|Discard]]: Prevent **5** damages. The Shield gets [[Damaged Gear|Damaged]].
+- ***Description***:<br>Whenever you would take damage, you may **reduce it by 5**. If you do this Shield gets **[[Damaged Gear|Damaged]]**. (_It loses all Effects until [[Heal and Repair|Repaired]]._)
 - ***Color***: artifact 
 - ***Nameplate Color***: artifact 
 - ***Background Color***: artifact 

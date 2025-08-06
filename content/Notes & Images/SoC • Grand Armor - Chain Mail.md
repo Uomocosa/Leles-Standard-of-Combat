@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[SoC • Grand Armor - Chain Mail (Image).png|222]]
 - ***Info***: Grand Armor
 - ***Cost***: 3 
-- ***Description***:<br>Reduce all **force** damage taken by **1**.<br>[[SoC • Rules - Discard Pile|Discard]]: Prevent **2** damages. The Armor gets [[Damaged Gear|Damaged]].
+- ***Description***:<br>Reduce all **force damage** taken by **1**.<br>Whenever you would take damage, you may **reduce it by 2**. If you do this Armor gets **[[Damaged Gear|Damaged]]**. (_It loses all Effects until [[Heal and Repair|Repaired]]._)
 - ***Color***: artifact, red 
 - ***Nameplate Color***: artifact 
 - ***Background Color***: artifact 

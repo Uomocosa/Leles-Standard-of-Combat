@@ -9,7 +9,7 @@ aliases:
 - ***Image***:<br>![[Pasted image 20250804103129.png|222]]
 - ***Info***: Basic Shield
 - ***Cost***: 1 
-- ***Description***:<br>[[SoC • Rules - Discard Pile|Discard]]: Prevent **2** damages. The Shield gets [[Damaged Gear|Damaged]].
+- ***Description***:<br>Whenever you would take damage, you may **reduce it by 2**. If you do this Shield gets **[[Damaged Gear|Damaged]]**. (_It loses all Effects until [[Heal and Repair|Repaired]]._)
 - ***Color***: artifact, green 
 - ***Nameplate Color***: artifact 
 - ***Background Color***: artifact 

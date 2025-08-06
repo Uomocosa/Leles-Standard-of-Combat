@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[Pasted image 20250804093102.png|222]]
 - ***Info***: Core Ability
 - ***Cost***: 5
-- ***Description***:<br>Learn **3 [[SoC • Rules Chapter - RUNES|Runes]] of your choice**. (_Once learned, a Rune can be reused any number of times._)<br><br>***Runic Lexicon*** — Every time you reach **+5** in a **[[SoC • Rules Chapter - SKILLS|Skill]]**, Learn **2 additional [[SoC • Rules Chapter - RUNES|Rune]] of your choice**. (_Instead of only **1**_)
+- ***Description***:<br>Learn **2 [[SoC • Rules Chapter - RUNES|Runes]] of your choice**. (_Once learned, a Rune can be reused any number of times._)<br><br>***Runic Lexicon*** — Every time you reach **+5** in a **[[SoC • Rules Chapter - SKILLS|Skill]]**, Learn **2 additional [[SoC • Rules Chapter - RUNES|Rune]] of your choice**. (_Instead of only **1**_)
 - ***Flavor***: 
 - ***Effects***: 
 - ***Limitations***: 

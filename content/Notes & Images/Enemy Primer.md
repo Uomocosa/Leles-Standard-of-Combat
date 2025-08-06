@@ -14,7 +14,7 @@ While for more complex enemies you can just create a new character using an appr
 _As a **GM** you don't need to have everything written down, and your party does not know what you have or haven't prepared beforehand, be confident. Improvisation is your friend. Be kind and just, let your party have a good time_. 
 
 ---
-***[[SoC • Rules Chapter - HEALTH|HEALTH]]***:<br>It can be a simple pool of hit points. At 0 hit points, the foe is killed.<br>Or it can be divided in 2 pools: one for enemy health and armor health.<br>How you want to mark the enemy **HP** grossly depend how many [[Attack, Defense and Combat Damage#Aimed or Precise Attacks|Precise Attacks]] your party tries to do. 
+***[[SoC • Rules Chapter - HEALTH|HEALTH]]***:<br>It can be a simple pool of hit points. At 0 hit points, the foe is killed.<br>Or it can be divided in 2 pools: one for enemy health and armor health.<br>How you want to mark the enemy **HP** grossly depend how many [[SoC • Rules Chapter - COMBAT#Aimed or Precise Attacks|Precise Attacks]] your party tries to do. 
 
 ***[[SoC • Rules Chapter - SKILLS|SKILLS]]***:
 These are the same [[SoC • Rules Chapter - SKILLS|Skills]] of a Character, simple enemies are *Unskilled* — **-2** to all Skills. While bosses might be more skillful like: *Noble* — Deception **+5**, Lore **+5**, Persuasion **+3**, Will **+5**.<br>==If a skill modifier is not specified it is just **+0**==.

@@ -20,6 +20,8 @@ Increase your' Skills Mastery by [[SoC • Rules - Meditate and Train|Meditating
 
 ![[SoC • Rules - Meditate and Train|Meditate and Train]]
 
+![[SoC • Rules - What doesn't Kill You|What doesn't Kill You]]
+
 Mark your Skill's Modifier in your [[SoC • Card - Character Details|Character Details]] Card:
 
 ![[SoC • Card - Character Details|Character Details]]

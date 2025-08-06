@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[SoC • Standard Weapon - Studded Mace (Image).png|222]]
 - ***Info***: Standard Weapon
 - ***Cost***: 2
-- ***Description***:<br>**Damage** — **1d4** force damages<br>**Breakable 3**.<br>**Crippling** — You can choose to roll an [[Attack, Defense and Combat Damage|Attack]] made with this Weapon at [[SoC • Rules - Advantage and Disadvantage|Disadvantage]], if you hit, the [[Attack, Defense and Combat Damage|Defender]] is [[Stunned]] (_losses one or more Actions_) for **1 [[SoC • Rules Chapter - COMBAT|Round]]**.
+- ***Description***:<br>**Damage** — **1d4** force damages<br>**Breakable 3**.<br>**Crippling** — You may Roll this [[SoC • Rules Chapter - COMBAT|Weapon's Attacks]] with **2 additional [[SoC • Rules - Advantage and Disadvantage|Disadvantages]]**. On a hit, the [[SoC • Rules Chapter - COMBAT|Defender]] becomes **[[Stunned]] until your next [[SoC • Rules Chapter - COMBAT|Round]]**. (_They lose an Action._)
 - ***Color***: artifact 
 - ***Nameplate Color***: artifact 
 - ***Background Color***: artifact 

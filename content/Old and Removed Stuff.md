@@ -1,1 +1,2 @@
 - [[SoC • Basic Spell - Fireblast (Removed)]]
+- [[SoC • Rune - Untraceable (Removed)]]

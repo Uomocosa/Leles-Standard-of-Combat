@@ -1,0 +1,1 @@
+<br>_[[SoC • Spell Limitation - Sacrificial Rite|Sacrificial rite]]_ — This spell can only be cast after offering a living creature as a sacrifice.<br>

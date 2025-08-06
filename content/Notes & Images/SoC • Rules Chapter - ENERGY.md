@@ -4,6 +4,7 @@ aliases:
   - Energy Cards
   - Energy Card
   - Temporary Energy
+  - Energy Cost
 cssclasses:
   - seamless-embed
 ---
@@ -22,7 +23,7 @@ cssclasses:
 
 # Regaining Energy
 
-The only way to regain the Energy you have [[SoC • Rules - Discard Pile|Discarded]] is to [[Rest and Recovery|Rest]].
+The only way to regain the Energy you have [[SoC • Rules - Discard Pile|Discarded]] is to [[SoC • Rules Chapter - HEALTH|Rest]].
 
 ![[SoC • Rules - A Night of Rest|A Night of Rest]]
 
@@ -32,8 +33,10 @@ You can increase your Energy by [[SoC • Rules - Meditate and Train|Meditating]
 
 ![[SoC • Rules - Meditate and Train|Meditate and Train]]
 
+![[SoC • Rules - What doesn't Kill You|What doesn't Kill You]]
+
 # Temporary Energy
-Although rare, some sources like [[Rest and Recovery|a Night of Absolute Rest]] will give you some **Temporary Energy**.
+Although rare, some sources like [[SoC • Rules Chapter - HEALTH|a Night of Absolute Rest]] will give you some **Temporary Energy**.
 
 ![[SoC • Rules - Temporary Health and Energy|Temporary Health and Energy]]
 

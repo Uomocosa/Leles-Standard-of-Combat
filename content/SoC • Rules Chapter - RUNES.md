@@ -10,6 +10,8 @@ cssclasses:
 # Runes
 ![[SoC • Rules - Runes|Runes]]
 ![[SoC • Rules - Acquiring Runes|Acquiring Runes]]
+
+There are quite a few Rune, feel free to read all of them, ask your **GM** for suggestions, depending on the Character you want to build. _Or pick them at random, that works too!_
 # Cards 
 ![[SoC • Rune - Alter|Alter]]
 
@@ -19,7 +21,7 @@ cssclasses:
 
 ![[SoC • Rune - Create|Create]]
 
-![[SoC • Rune - Defensive|Defensive]]
+![[SoC • Rune - Protection|Defensive]]
 
 ![[SoC • Rune - Time|Duration]]
 
@@ -30,8 +32,6 @@ cssclasses:
 ![[SoC • Rune - Harm|Harm]]
 
 ![[SoC • Rune - Haste|Haste]]
-
-![[SoC • Rune - Untraceable|Untraceable]]
 
 ![[SoC • Rune - Mend|Mend]]
 

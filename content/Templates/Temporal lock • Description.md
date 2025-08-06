@@ -1,0 +1,1 @@
+<br>_[[SoC • Spell Limitation - Temporal Lock|Temporal lock]]_ — This spell can only be cast at a specific time of day (e.g., dawn, noon, midnight). Attempts to cast it outside this window fail.<br>

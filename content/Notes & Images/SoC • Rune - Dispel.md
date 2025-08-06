@@ -6,12 +6,12 @@ aliases:
 %%
 - ***Image***:<br>![[Pasted image 20250102221803.png|100]]
 - ***Info***: Rune - Dispel 
-- ***Description***:<br>**You can only Cast this Rune alone**, you cannot add other Runes Effects to this one. <br>As you cast this Rune/Spell, pay **X additional [[SoC • Rules Chapter - ENERGY|Energy]]**. Choose one:<br>• Target a Creature in your Zone. If that creature has a Spell Effect active on itself with cost **equal or less than X**, that Effect ends.<br>• Target a Spell Effect in your Zone, it it costs **equal or less than X**, that Spell ends.<br>You can also try to **Dispel** a Spell as it is being casted, to do so you need to cast a **Dispel Spell** as a **[[Reactions|Reaction]]** (_by paying **1 additional [[SoC • Rules Chapter - ENERGY|Energy]]**_).<br>Since you cannot React to another Creature's Reaction you cannot [[SoC • Rune - Dispel|Dispel]] a **Spell** being casted as a [[Reactions|Reaction]], you can however [[SoC • Rune - Dispel|Dispel]] its effect, once Casted.
+- ***Description***:<br>**You cannot add more than 1 Dispel Rune, to a Spell**.<br>As you Cast a Spell using the Dispel Rune, pay **X additional [[SoC • Rules Chapter - ENERGY|Energy]]**. Choose one:<br>• Choose a target **in your [[SoC • Rules Chapter - ZONES|Zone]]**. If it has any active Effects on itself, of Spells combined from **X Runes or less**, those Spells Effects end.<br>• Target a Spell Effect **in your [[SoC • Rules Chapter - ZONES|Zone]]**. If it originated from a Spell made with **X Runes or fewer**, it ends.<br><br>You can also try to **Dispel** as a **[[Reactions|Reaction]]** to counter a Spell being Cast. (_by paying **1 additional [[SoC • Rules Chapter - ENERGY|Energy]]**_). <br>Since you cannot React to another Creature's Reaction you cannot [[SoC • Rune - Dispel|Dispel]] a **Spell** being casted as a [[Reactions|Reaction]], you can however [[SoC • Rune - Dispel|Dispel]] its Effect, after they take effect. 
 - ***Effects***: 
 - ***Limitations***: 
 - ***Color***: blue 
-- ***Rarity***: common
-- ***Image Filter***: spell_effect
+- ***Rarity***: common 
+- ***Image Filter***: spell_effect 
 %%
 
 ![[SoC • Card - Dispel.png|650]]

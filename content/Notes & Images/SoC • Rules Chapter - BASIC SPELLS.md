@@ -11,6 +11,8 @@ cssclasses:
 
 ![[SoC • Rules - Meditate and Train|Meditate and Train]]
 
+![[SoC • Rules - What doesn't Kill You|What doesn't Kill You]]
+
 ![[SoC • Rule - Anima]]
 
 ![[SoC • Rule - Passive Ability|Passive]]
@@ -58,5 +60,3 @@ cssclasses:
 ![[SoC • Basic Spell - Unseen Strength|Unseen Strength]]
 
 ![[SoC • Basic Spell - Vanish|Vanish]]
-
-![[SoC • Spell - Angel's Ascent|Angel's Ascent]]

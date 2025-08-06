@@ -38,7 +38,6 @@ TO DELETE
 ### Making of This Project, Useful Files
 - [[SoC - Cards to Print|Cards to print]] 
 - [[TO PHISICALLY PRINT]]
-- [[Soc - AI Prompts Examples|AI Prompts]] 
 - [[Rune Site Generator]] 
 - [[Equipment Properties]] 
 - [[Copy and Paste Checks]] 
@@ -47,4 +46,6 @@ TO DELETE
 - [[Old and Removed Stuff]]
 - [[SoC - Logo.png]]
 - [[SoC - Logo (colored).png]]
+- [[SoC • Card - Character Details (Alternatives)]]
+- (_[[Python - Advantage Average|How I've come up with these numbers]]_)
 %%

@@ -1,1 +1,1 @@
-<br>**Chivalry 1d6** — While mounted this weapon deals **1d6** damages.
+<br>**Chivalry** — While on a mount Roll this Weapon's Attacks with **[[SoC • Rules - Advantage and Disadvantage|Advantage]]**.

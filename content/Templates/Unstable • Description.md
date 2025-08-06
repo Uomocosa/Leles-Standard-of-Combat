@@ -1,0 +1,1 @@
+<br>_[[SoC • Spell Limitation - Unstable|Unstable]]_ — A wobbly, barely-contained magic. When cast, roll an [[Arcane]] [[SoC • Rules Chapter - SKILLS|check]] against a [[SoC • Rules Chapter - SKILLS|DC]] of **15** to maintain control. If failed, roll on the [[Notes & Images/Unstable Magic Table|Unstable Magic Table]].<br>

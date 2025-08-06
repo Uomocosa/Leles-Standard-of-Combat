@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[Standard Weapon - Pick Hammer (IMage).png|222]]
 - ***Info***: Standard Weapon
 - ***Cost***: 2 
-- ***Description***:<br>**Damage** — **1d4** force damages<br>**Breakable 3**.<br>**Slowing** — You can choose to roll an [[Attack, Defense and Combat Damage|Attack]] made with this Weapon at [[SoC • Rules - Advantage and Disadvantage|Disadvantage]], if you hit, the [[Attack, Defense and Combat Damage|Defender]] is [[Slowed]] (_[[SoC • Generic Action - Movement or Skill|Moving]] becomes more strenuous_) for **2 [[SoC • Rules Chapter - COMBAT|Round]]**.
+- ***Description***:<br>**Damage** — **1d4** force damages<br>**Breakable 3**.<br>**Slowing** — You may Roll this [[SoC • Rules Chapter - COMBAT|Weapon's Attacks]] with **an additional [[SoC • Rules - Advantage and Disadvantage|Disadvantage]]**. On a hit, the [[SoC • Rules Chapter - COMBAT|Defender]] becomes **[[Slowed]] until your next [[SoC • Rules Chapter - COMBAT|Round]]**. (_[[SoC • Generic Action - Movement or Skill|Moving]] becomes more strenuous._)
 - ***Color***: artifact, green
 - ***Nameplate Color***: artifact 
 - ***Background Color***: artifact 
