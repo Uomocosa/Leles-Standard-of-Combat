@@ -17,4 +17,6 @@ cssclasses:
 
 ![[SoC • Rules - Upgrading a Piece of Equipment|Upgrading a Piece of Equipment]]
 
+![[SoC • Rules - Together We Craft|Together We Craft]]
+
 ![[Damaged Gear]]

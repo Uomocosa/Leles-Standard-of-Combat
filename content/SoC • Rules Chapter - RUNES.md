@@ -23,8 +23,6 @@ There are quite a few Rune, feel free to read all of them, ask your **GM** for s
 
 ![[SoC • Rune - Protection|Defensive]]
 
-![[SoC • Rune - Time|Duration]]
-
 ![[SoC • Rune - Dispel|Dispel]]
 
 ![[SoC • Rune - Dominate|Dominate]]
@@ -51,13 +49,15 @@ There are quite a few Rune, feel free to read all of them, ask your **GM** for s
 
 ![[SoC • Rune - Shapechange|Shapechange]]
 
+![[SoC • Rune - Space|Transport]]
+
 ![[SoC • Rune - Summon|Summon]]
 
 ![[SoC • Rune - Telepathy|Telepathy]]
 
-![[SoC • Rune - Transmute|Transmute]]
+![[SoC • Rune - Time|Duration]]
 
-![[SoC • Rune - Space|Transport]]
+![[SoC • Rune - Transmute|Transmute]]
 
 ![[SoC • Rune - Ward|Ward]]
 

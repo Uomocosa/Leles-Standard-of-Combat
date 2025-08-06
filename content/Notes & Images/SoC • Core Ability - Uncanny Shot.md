@@ -6,7 +6,7 @@ aliases:
 - ***Image***:<br>![[SoC • Core Ability - Uncanny Shot (Image).png|222]]
 - ***Info***: Core Ability
 - ***Cost***: 5
-- ***Description***:<br>Learn **1 [[SoC • Rules Chapter - RUNES|Rune]] of your choice**. (_Once learned, a Rune can be reused any number of times._)<br><br>Whenever you damage a Creature with a **[[SoC • Rules Chapter - BASIC EQUIPMENT|Ranged Weapon]]**, you can cast a [[SoC • Rules Chapter - SPELLS|Spell]] that costs **2 [[SoC • Rules Chapter - NEW CAMPAIGN|Hero Points]] or less**, targeting that Creature, as part of the same Action. (_You still pay the Spell's [[SoC • Rules Chapter - ENERGY|Energy]] cost_)
+- ***Description***:<br>Learn **1 [[SoC • Rules Chapter - RUNES|Rune]] of your choice**. (_Once learned, a Rune can be reused any number of times._)<br><br>Whenever you damage a Creature with a **[[SoC • Rules Chapter - BASIC EQUIPMENT|Ranged Weapon]]**, you can cast a [[SoC • Rules Chapter - SPELLS|Spell]] that combines **up to 2 [[SoC • Rules Chapter - RUNES|Runes]]**, targeting that Creature, as part of the same Action. (_You still pay the Spell's [[SoC • Rules Chapter - ENERGY|Energy]] cost_)
 - ***Effects***: 
 - ***Limitations***: 
 - ***Rarity***: rare 
