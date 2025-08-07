@@ -2,6 +2,16 @@
 aliases:
   - Preconstruted Characters
 ---
+# Session 3
+***[[SoC • Preconstruted Characters - Danica|Danica]]*** — _A one metal-harmed lady, the only disciple of the famous Blacksmith "Fabbro". She does not know that she is also her daughter!_
+***[[SoC • Preconstruted Characters - Jago|Jago]]*** — _Skillful rogue, Killer of Fabbro. (Danica is yet unaware.)_
+***[[SoC • Preconstruted Characters - Umpa|Umpa]]*** — _Crazy child, who likes to sing about his caregiver heroic action, or misactions. Adopted by Jago after the latter killed Umpa's old Boss._
+# Session 2
+***[[SoC • Preconstruted Characters - Danica|Danica]]*** — _A one metal-harmed lady, the only disciple of the famous Blacksmith "Fabbro". She does not know that she is also her daughter!_
+***[[SoC • Preconstruted Characters - Jago|Jago]]*** — _Skillful rogue, Killer of Fabbro. (Danica is yet unaware.)_
+***[[SoC • Preconstruted Characters - Umpa|Umpa]]*** — _Crazy child, who likes to sing about his caregiver heroic action, or misactions. Adopted by Jago after the latter killed Umpa's old Boss._
+
+# From other TTRPG
 _**Blain**_ — A construct forged by a legendary blacksmith and enchanted by one of the continent's most powerful magicians. Its sole purpose is to protect its charge at all costs.<br>_The protected individual could be another player, a key NPC, or a [[SoC • Rules Chapter - COMPANIONS|Companion]]_
 - _Start by printing these **[[SoC • Preconstruted Characters • Blain|Cards]]**_.
 

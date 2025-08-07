@@ -8,6 +8,6 @@
 
 ![[SoC • Card - Character Details (v3).png|650]]
 
-%% [[SoC • Card - Character Details (v3-edited).xcf]] %%
+[[SoC • Card - Character Details (v3-edited).xcf]]
 
-![[SoC • Card - Character Details.png|325]]
+

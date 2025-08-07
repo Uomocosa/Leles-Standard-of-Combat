@@ -17,6 +17,8 @@ cssclasses:
 
 ![[SoC • Rule - Passive Ability|Passive]]
 
+![[SoC • Rule - Once a Basic Spell is Useless|Once a Basic Spell is Useless]]
+
 ![[SoC • Rules - Basic Spell Table]]
 
 # Cards
