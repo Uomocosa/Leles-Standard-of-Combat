@@ -12,5 +12,4 @@ aliases:
 - _**Prompt** [LMArena](https://beta.lmarena.ai/)_: I need a 2D epic fantasy illustration, in an epic graphic style with white and black color, and a clean white background A human with an halo and another human. The two humans have their mind connected by ephemeral connection. Add the words "Sanctified Insight" under the image in a stylish font.
 %%
 
-
 ![[SoC • Card - Sanctified Insight.png|650]]

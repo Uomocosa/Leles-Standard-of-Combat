@@ -49,3 +49,8 @@ cssclasses:
 ![[SoC • Optional Rule - Overgeared (of Runes and Gear)|Overgeared]]
 
 ![[SoC • Optional Rule - Retroactive Advantage|Retroactive Advantage]]
+
+![[SoC • Optional Rule - Simplest Passive Ability|Simplest Passive Ability]]
+
+![[SoC • Suggestion - Tactical Nuke|Tactical Nuke]]
+
