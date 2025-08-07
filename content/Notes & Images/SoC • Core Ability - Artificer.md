@@ -5,9 +5,9 @@ aliases:
 %%
 - ***Image***:<br>![[Pasted image 20250804110000 - Edited.png|222]]
 - ***Info***: Core Ability
-- ***Cost***: 5
-- ***Description***:<br>_The rhythm of hammer and heat echoes in your spells_.<br>You can gain this [[SoC • Rules - Core Ability|Core Ability]] only if you Learned the [[SoC • Rune - Create|"Create" Rune]].<br><br>[[SoC • Rune - Create|Create]] [[SoC • Rules Chapter - SPELLS|Spells]] (_Spells that use the [[SoC • Rune - Create|"Create" Rune]]_) cost **1 less [[SoC • Rules Chapter - ENERGY|Energy]] to cast**. (_This Effect **cannot** reduce a spell’s Energy Cost to less than **1**._)<br><br>Include your [[Forging]] [[SoC • Rules Chapter - SKILLS|Modifier]] when calculating your [[SoC • Rule - Anima|Anima]] [[SoC • Rules Chapter - SKILLS|Modifier]].
-- ***Effects***: 
+- ***Cost***: 7
+- ***Description***:<br>_The rhythm of hammer and heat echoes in your spells_.<br>_Higher Cost_ — This Core Ability costs **7 [[SoC • Rules Chapter - NEW CAMPAIGN|Hero Points]]**.<br>Learn the "**[[SoC • Rune - Create|Create]]**" [[SoC • Rules Chapter - RUNES|Rune]], if you already know it, instead Learn **1 [[SoC • Rules Chapter - RUNES|Rune]] of your choice**. (_Once learned, a Rune can be reused any number of times._)<br><br>[[SoC • Rune - Create|Create]] [[SoC • Rules Chapter - SPELLS|Spells]] (_Spells that use the [[SoC • Rune - Create|"Create" Rune]]_) cost **1 less [[SoC • Rules Chapter - ENERGY|Energy]] to cast**. (_This Effect **cannot** reduce a spell’s Energy Cost to less than **1**._)<br><br>Include your [[Forging]] [[SoC • Rules Chapter - SKILLS|Modifier]] when calculating your [[SoC • Rule - Anima|Anima]] [[SoC • Rules Chapter - SKILLS|Modifier]].
+- ***Flavor***:
 - ***Limitations***: 
 - ***Rarity***: rare 
 - ***Color***: artifact 

@@ -12,8 +12,6 @@ cssclasses:
 
 ![[SoC • Rules - Create a Custom Spell|Create a Custom Spell]]
 
-![[SoC • Rules - Together We Craft|Help to Customize a Spell]]
-
 ![[SoC • Rules - Acquiring Runes|Acquiring Runes]]
 
 # Example — Creating a Brand New Spell

@@ -16,4 +16,4 @@ _Store one of your spell away, for later use, or gift the power of spellcasting 
 
 ![[SoC • Rules - Potions|Potions]]
 
-![[SoC • Optional Rule - Magic is the Price|Magic is the Price]]
+![[SoC • Rules - Together We Craft|Help to Customize a Spell]]

@@ -6,6 +6,7 @@ cssclasses:
 ---
 # Custom Stuff
 Maybe the Custom Stuff are the friends we made along the way... (_see [[SoC • Rules Chapter - COMPANIONS|Companions]] Chapter_)
+
 ![[SoC • Spell - Sanctified Insight|Sanctified Insight]]
 
 ![[SoC • Spell - Mass Invisibility|Mass Invisibility]]
